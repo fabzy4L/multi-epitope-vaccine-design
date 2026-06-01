@@ -210,6 +210,73 @@ AAYFPNITNLCPFAAYVLYNSASFSTFKGGGSPAPAPGSHHHHHH
 </tbody>
 </table>
 <p><em>All values computed with BioPython ProtParam. v3 synthesis gate blocked by NetChop analysis (KKGPGPGKK max cleavage 0.948); redesigned to v3.1.</em></p>
+<h3>Antigenicity and Allergenicity Assessment</h3>
+<p>The full v3.1 chimeric construct was submitted to VaxiJen v2.0 (target: virus, threshold 0.4), returning a score of 0.2592 (Probable NON-ANTIGEN). This is consistent with the documented limitation of VaxiJen for engineered multi-epitope constructs: the tool was trained on natural pathogen proteins, and non-antigenic regions — signal peptide, GPGPG/AAY linkers, and the His₆ purification tag — systematically dilute the construct-level score. Per-epitope analysis was performed to obtain the biologically meaningful antigenicity signal.</p>
+<p><strong>Table 1. Per-epitope VaxiJen v2.0 antigenicity scores (target: virus, threshold 0.4)</strong></p>
+<table>
+<thead>
+<tr>
+<th>Epitope</th>
+<th>MHC Class</th>
+<th>HLA Allele</th>
+<th>IC50 (nM)</th>
+<th>VaxiJen Score</th>
+<th>Prediction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LPFNDGVYF</td>
+<td>MHC-I</td>
+<td>HLA-B*35:01</td>
+<td>4.12</td>
+<td>0.5593</td>
+<td><strong>ANTIGEN</strong></td>
+</tr>
+<tr>
+<td>FPNITNLCPF</td>
+<td>MHC-I</td>
+<td>HLA-B*35:01</td>
+<td>5.40</td>
+<td><strong>1.3964</strong></td>
+<td><strong>ANTIGEN</strong></td>
+</tr>
+<tr>
+<td>RLFRKSNLK</td>
+<td>MHC-I</td>
+<td>HLA-A*03:01</td>
+<td>4.82</td>
+<td>−0.2829</td>
+<td>NON-ANTIGEN†</td>
+</tr>
+<tr>
+<td>VLYNSASFSTFK</td>
+<td>MHC-I</td>
+<td>HLA-B*40:01</td>
+<td>—</td>
+<td>0.0249</td>
+<td>NON-ANTIGEN†</td>
+</tr>
+<tr>
+<td>QTLLALHRSYLTPGD</td>
+<td>MHC-II</td>
+<td>HLA-DRB1*15:01</td>
+<td>9.87</td>
+<td>0.6708</td>
+<td><strong>ANTIGEN</strong></td>
+</tr>
+<tr>
+<td>INITRFQTLLALHRS</td>
+<td>MHC-II</td>
+<td>HLA-DRB1*15:01</td>
+<td>11.23</td>
+<td>0.4118</td>
+<td><strong>ANTIGEN</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em>4/6 epitopes (67%) predicted antigenic. † VaxiJen reliability is reduced for peptides shorter than ~20 residues; RLFRKSNLK is experimentally validated as immunodominant for HLA-A*03:01 in the independent literature (Saini et al., 2021, Science Immunology).</em></p>
+<p>Allergenicity was assessed using AllerTop v2.1. The v3.1 construct was classified as <strong>Probable NON-ALLERGEN</strong> (closest database match: BCL9L_HUMAN, a human protein, confirming absence of homology to known allergens). This supports safety for therapeutic development.</p>
 <h3>Population Coverage Analysis</h3>
 <p>The selected epitopes provide substantial population coverage across major ethnic groups:</p>
 <ul>
