@@ -143,23 +143,40 @@ def synthesis_cleared(vaxijen: dict, allergop: dict) -> bool:
     return vaxijen["predicted_antigen"] and not allergop["is_allergen"]
 
 
-def generate_report(vaxijen_score: float, allergop_result: str) -> dict:
+def generate_report(vaxijen_score: float, allergop_result: str,
+                    epitope_scores: dict = None) -> dict:
     vj = assess_vaxijen(vaxijen_score)
     at = assess_allergop(allergop_result)
     cleared = synthesis_cleared(vj, at)
 
+    epitope_analysis = {}
+    if epitope_scores:
+        for seq, score in epitope_scores.items():
+            label = EPITOPES.get(seq, "")
+            epitope_analysis[seq] = {
+                "score":             round(score, 4),
+                "predicted_antigen": score >= VAXIJEN_THRESHOLD,
+                "verdict":           "ANTIGEN" if score >= VAXIJEN_THRESHOLD else "NON-ANTIGEN",
+                "label":             label,
+            }
+
+    n_antigenic = sum(1 for e in epitope_analysis.values() if e["predicted_antigen"])
+    n_total     = len(epitope_analysis)
+
     report = {
-        "construct_id":  "v3_1_single_kk",
+        "construct_id":    "v3_1_single_kk",
         "sequence_length": len(V3_1_SEQUENCE),
-        "vaxijen": vj,
-        "allergop": at,
+        "vaxijen":         vj,
+        "allergop":        at,
+        "epitope_vaxijen": epitope_analysis,
         "overall": {
-            "cleared":      cleared,
-            "gate":         "CLEARED" if cleared else "REVIEW_REQUIRED",
+            "cleared":            cleared,
+            "gate":               "CLEARED" if cleared else "REVIEW_REQUIRED",
+            "epitopes_antigenic": f"{n_antigenic}/{n_total}" if n_total else "not run",
             "summary": (
-                f"VaxiJen {vj['verdict']} (score {vj['score']}) — "
-                f"AllerTop {at['prediction']} — "
-                f"Gate {'CLEARED' if cleared else 'BLOCKED'}"
+                f"VaxiJen construct {vj['score']} | "
+                f"Epitopes {n_antigenic}/{n_total} antigenic | "
+                f"AllerTop {at['prediction']}"
             ),
         },
     }
@@ -171,8 +188,17 @@ def generate_report(vaxijen_score: float, allergop_result: str) -> dict:
     print("\n" + "=" * 60)
     print("PHASE 9C — ANTIGENICITY REPORT")
     print("=" * 60)
-    print(f"\nVaxiJen score:   {vj['score']}  ({vj['verdict']})")
+    print(f"\nVaxiJen (full construct): {vj['score']}  ({vj['verdict']})")
     print(f"  {vj['interpretation']}")
+
+    if epitope_analysis:
+        print(f"\nVaxiJen per-epitope ({n_antigenic}/{n_total} predicted antigenic):")
+        print(f"  {'Epitope':<20} {'Score':>8}  {'Verdict':<14}  Allele / IC50")
+        print(f"  {'-'*20}  {'-'*7}  {'-'*14}  {'-'*30}")
+        for seq, data in epitope_analysis.items():
+            mark = "+" if data["predicted_antigen"] else "-"
+            print(f"  {seq:<20} {data['score']:>8.4f}  {mark} {data['verdict']:<12}  {data['label']}")
+
     print(f"\nAllerTop:        {at['prediction']}  ({at['verdict']})")
     print(f"  {at['interpretation']}")
     print(f"\nOverall gate:    {report['overall']['gate']}")
@@ -216,26 +242,34 @@ def main():
         description="Record VaxiJen + AllerTop results for v3.1 vaccine construct"
     )
     parser.add_argument("--vaxijen",  type=float, metavar="SCORE",
-                        help="VaxiJen antigenicity score (e.g. 0.5476)")
+                        help="VaxiJen antigenicity score for full construct")
     parser.add_argument("--allergop", type=str,   metavar="RESULT",
                         help="AllerTop result: ALLERGEN or NON-ALLERGEN")
+    parser.add_argument("--epitope_scores", type=str, metavar="SEQ:SCORE,...",
+                        help="Comma-separated per-epitope VaxiJen scores, e.g. "
+                             "RLFRKSNLK:-0.2829,LPFNDGVYF:0.5593")
     args = parser.parse_args()
 
-    if args.vaxijen is None and args.allergop is None:
+    if args.vaxijen is None and args.allergop is None and args.epitope_scores is None:
         print_instructions()
         _print_epitope_fastas()
         return
 
     if args.vaxijen is None or args.allergop is None:
         print("Error: provide both --vaxijen and --allergop together.")
-        print("Run without arguments to see submission instructions.")
         sys.exit(1)
 
     if args.allergop.upper() not in ("ALLERGEN", "NON-ALLERGEN"):
         print("Error: --allergop must be ALLERGEN or NON-ALLERGEN")
         sys.exit(1)
 
-    generate_report(args.vaxijen, args.allergop)
+    epitope_scores = {}
+    if args.epitope_scores:
+        for pair in args.epitope_scores.split(","):
+            seq, score = pair.strip().split(":")
+            epitope_scores[seq.strip()] = float(score.strip())
+
+    generate_report(args.vaxijen, args.allergop, epitope_scores)
 
 
 if __name__ == "__main__":

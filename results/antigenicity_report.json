@@ -14,9 +14,48 @@
     "verdict": "PASS",
     "interpretation": "Predicted NON-ALLERGEN \u2014 no allergenic cross-reactivity detected; acceptable for therapeutic development"
   },
+  "epitope_vaxijen": {
+    "RLFRKSNLK": {
+      "score": -0.2829,
+      "predicted_antigen": false,
+      "verdict": "NON-ANTIGEN",
+      "label": "MHC-I  HLA-A*03:01  4.82 nM"
+    },
+    "LPFNDGVYF": {
+      "score": 0.5593,
+      "predicted_antigen": true,
+      "verdict": "ANTIGEN",
+      "label": "MHC-I  HLA-B*35:01  4.12 nM"
+    },
+    "FPNITNLCPF": {
+      "score": 1.3964,
+      "predicted_antigen": true,
+      "verdict": "ANTIGEN",
+      "label": "MHC-I  HLA-B*35:01  5.40 nM"
+    },
+    "VLYNSASFSTFK": {
+      "score": 0.0249,
+      "predicted_antigen": false,
+      "verdict": "NON-ANTIGEN",
+      "label": "MHC-I  HLA-B*40:01"
+    },
+    "QTLLALHRSYLTPGD": {
+      "score": 0.6708,
+      "predicted_antigen": true,
+      "verdict": "ANTIGEN",
+      "label": "MHC-II HLA-DRB1*15:01  9.87 nM"
+    },
+    "INITRFQTLLALHRS": {
+      "score": 0.4118,
+      "predicted_antigen": true,
+      "verdict": "ANTIGEN",
+      "label": "MHC-II HLA-DRB1*15:01  11.23 nM"
+    }
+  },
   "overall": {
     "cleared": false,
     "gate": "REVIEW_REQUIRED",
-    "summary": "VaxiJen NON-ANTIGEN (score 0.2592) \u2014 AllerTop NON-ALLERGEN \u2014 Gate BLOCKED"
+    "epitopes_antigenic": "4/6",
+    "summary": "VaxiJen construct 0.2592 | Epitopes 4/6 antigenic | AllerTop NON-ALLERGEN"
   }
 }
