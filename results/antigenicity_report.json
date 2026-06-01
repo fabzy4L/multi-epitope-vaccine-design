@@ -1,0 +1,22 @@
+{
+  "construct_id": "v3_1_single_kk",
+  "sequence_length": 142,
+  "vaxijen": {
+    "score": 0.2592,
+    "threshold": 0.4,
+    "predicted_antigen": false,
+    "verdict": "NON-ANTIGEN",
+    "interpretation": "Score 0.2592 < 0.4 threshold \u2014 weak antigenicity predicted; consider adjuvant optimization"
+  },
+  "allergop": {
+    "prediction": "NON-ALLERGEN",
+    "is_allergen": false,
+    "verdict": "PASS",
+    "interpretation": "Predicted NON-ALLERGEN \u2014 no allergenic cross-reactivity detected; acceptable for therapeutic development"
+  },
+  "overall": {
+    "cleared": false,
+    "gate": "REVIEW_REQUIRED",
+    "summary": "VaxiJen NON-ANTIGEN (score 0.2592) \u2014 AllerTop NON-ALLERGEN \u2014 Gate BLOCKED"
+  }
+}
