@@ -2,9 +2,7 @@
 
 **A comprehensive computational pipeline that processed 44,359 binding predictions to identify 74 high-affinity epitopes for next-generation vaccine design**
 
-*By Fabian Alvarez-Primo, PhD*  
-*Materials Science & Biomedical Engineering, UTEP*  
-*Operations Manager II (L5), Amazon*
+*By Fabian Alvarez-Primo, PhD*
 
 ---
 
@@ -260,7 +258,7 @@ The future of vaccine development lies not in replacing experimental validation,
 
 ## About the Author
 
-**Fabian Alvarez-Primo, PhD** is a Materials Science and Biomedical Engineering researcher with extensive experience in computational biology and bioinformatics. Currently serving as Operations Manager II (L5) at Amazon, Dr. Alvarez-Primo has a proven track record of applying advanced analytical methods to complex biological problems. His previous work includes clinical laboratory management under CLIA/COLA certification and pioneering applications of AI to scientific research.
+**Fabian Alvarez-Primo, PhD** has extensive experience in applying advanced computational methods to complex scientific problems, with a proven track record in clinical laboratory management under CLIA/COLA certification and pioneering applications of AI to research workflows.
 
 ## Repository and Code Availability
 
