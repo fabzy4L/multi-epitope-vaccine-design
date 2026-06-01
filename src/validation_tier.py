@@ -1,20 +1,30 @@
 #!/usr/bin/env python3
 """
-Validation Tier — Structured metadata for construct validation status.
+Validation Tier — Structured metadata for construct validation status and design flags.
 
 Replaces hardcoded "validated" language with tier-specific, publication-appropriate labels.
-Current status for all constructs: COMPUTATIONALLY_VERIFIED.
+DesignFlag dataclass provides structured traceability for known design decisions.
 """
 
 from enum import Enum
 from dataclasses import dataclass, field
-from typing import List
+from typing import List, Optional, Dict
 
 
 class ValidationTier(Enum):
     COMPUTATIONALLY_VERIFIED = "computationally_verified"
     IN_VITRO_CONFIRMED = "in_vitro_confirmed"
     IN_VIVO_CONFIRMED = "in_vivo_confirmed"
+
+
+@dataclass
+class DesignFlag:
+    flag_id: str
+    severity: str           # 'JUSTIFIED' | 'SCORING_ARTIFACT' | 'UNDOCUMENTED_GAP' | 'UNKNOWN_RISK'
+    description: str
+    paper_action: str       # What goes in the paper
+    code_action: str        # What was fixed in code
+    blocks_synthesis: bool  # True = do not order synthesis until resolved
 
 
 @dataclass
@@ -27,25 +37,33 @@ class ConstructMetadata:
     validation_tier: ValidationTier
     validation_methods_completed: List[str] = field(default_factory=list)
     validation_pending: List[str] = field(default_factory=list)
-    known_design_flags: List[str] = field(default_factory=list)
+    known_design_flags: List[DesignFlag] = field(default_factory=list)
+    structural_notes: Optional[Dict] = None
+
+    def synthesis_cleared(self) -> bool:
+        """Returns False if any flag blocks synthesis."""
+        return not any(f.blocks_synthesis for f in self.known_design_flags)
 
     def validation_label(self) -> str:
         """Returns publication-appropriate language for this construct's status."""
         labels = {
-            ValidationTier.COMPUTATIONALLY_VERIFIED: "computationally designed construct pending experimental validation",
+            ValidationTier.COMPUTATIONALLY_VERIFIED:
+                "computationally designed construct pending experimental validation",
             ValidationTier.IN_VITRO_CONFIRMED: "in vitro confirmed construct",
             ValidationTier.IN_VIVO_CONFIRMED: "experimentally validated construct",
         }
         return labels[self.validation_tier]
 
     def summary(self) -> str:
+        cleared = "CLEARED" if self.synthesis_cleared() else "BLOCKED"
         return (
             f"Construct {self.construct_id}: {self.molecular_weight_kda} kDa | "
-            f"pI {self.theoretical_pi} | Status: {self.validation_label()}"
+            f"pI {self.theoretical_pi} | {self.validation_label()} | "
+            f"Synthesis: {cleared} | Flags: {len(self.known_design_flags)}"
         )
 
 
-# ---- Instantiated constructs ----
+# ---- Construct definitions ----
 
 construct_v1 = ConstructMetadata(
     construct_id="v1_standard",
@@ -99,44 +117,84 @@ construct_v3 = ConstructMetadata(
     instability_index=0.85,
     validation_tier=ValidationTier.COMPUTATIONALLY_VERIFIED,
     validation_methods_completed=[
-        "ProtParam", "NetMHCpan-4.1", "NetMHCIIpan-4.0", "IEDB_population_coverage"
+        "ProtParam", "NetMHCpan-4.1", "NetMHCIIpan-4.0",
+        "IEDB_population_coverage", "decoy_benchmark_KS_p6.87e-24",
+        "solubility_prescreen"
     ],
     validation_pending=[
-        "AlphaFold_structural", "solubility_prescreen",
+        "NetChop_junction_analysis", "AlphaFold_structural",
         "HLA_binding_assay", "T_cell_activation_study", "animal_model"
     ],
     known_design_flags=[
-        # DESIGN DECISION — documented 2026-06-01
-        #
-        # VLSFELLHAPATVCG (4.06nM, HLA-DRB1*01:01) is the best MHC-II binder in the pipeline
-        # but is ABSENT from v3. Under the scoring formula it scored 17.64, higher than the
-        # two selected epitopes (17.28 and 11.75). Its exclusion was intentional:
-        # REASON: VLSFELLHAPATVCG contains a free cysteine at position 13 (PATVCG).
-        # Free cysteines in unstructured peptide constructs cause disulfide bond formation
-        # during E. coli expression and IMAC purification, resulting in insoluble aggregates.
-        # This is a known practical constraint in peptide subunit vaccine expression.
-        # ACTION REQUIRED: Before finalizing v3 for synthesis, evaluate cysteine capping
-        # (Cys->Ser substitution at position 13) and retest binding affinity in silico.
-        # A v4 construct with VLSFELL(S)APATVCG would restore DRB1*01:01 coverage.
-        "VLSFELLHAPATVCG_excluded: free cysteine at pos-13, expression/aggregation risk",
-
-        # MHC-II redundancy: both selected epitopes (QTLLALHRSYLTPGD, INITRFQTLLALHRS)
-        # share a 9-mer overlap (QTLLALHRS) and both target HLA-DRB1*15:01.
-        # v3 has NO coverage of HLA-DRB1*01:01 in its MHC-II region.
-        # This reduces effective allele diversity vs what the scoring intended.
-        "MHC-II_overlap: QTLLALHRS 9-mer shared between both MHC-II epitopes, both DRB1*15:01",
-
-        # YLQPRTFLL (4.30nM, HLA-A*02:01) is absent from v3.
-        # HLA-A*02:01 is the highest-frequency HLA allele globally (~30% prevalence).
-        # Its absence limits v3 population coverage relative to v1/v2.
-        "YLQPRTFLL_excluded: HLA-A*02:01 coverage gap, globally most prevalent allele",
-
-        # Structural anomaly: sequence between KK separator and first MHC-I epitope
-        # reads KKGPGPGKKLPFNDGVYF — a double-KK with GPGPG between them.
-        # This appears to be a manual construction artifact (KK appears at pos 69 and 76).
-        # Functional impact unknown; may affect proteasomal processing at the boundary.
-        "BOUNDARY_ARTIFACT: double-KK at MHC-II/MHC-I junction (pos 69+76), review needed",
-    ],
+        DesignFlag(
+            flag_id="FLAG_01_CYS_EXCLUSION",
+            severity="JUSTIFIED",
+            description=(
+                "VLSFELLHAPATVCG (top MHC-II binder, 4.06nM, DRB1*01:01) excluded "
+                "due to free cysteine at position 13. Intermolecular disulfide "
+                "bond formation risk during E. coli expression and IMAC purification. "
+                "Also applies to FPNITNLCPF (in v3, Cys at pos 8) — flagged for v4 redesign."
+            ),
+            paper_action=(
+                "Document in methods: VLSFELLHAPATVCG excluded due to Cys13 "
+                "aggregation risk. FPNITNLCPF retained in v3 sequence for paper "
+                "continuity but excluded by updated scorer. Cys->Ser substitutions "
+                "proposed for both in v4 to restore DRB1*01:01 coverage."
+            ),
+            code_action="cysteine_penalty() added to combined_score() in scoring.py",
+            blocks_synthesis=False
+        ),
+        DesignFlag(
+            flag_id="FLAG_02_MHCII_REDUNDANCY",
+            severity="SCORING_ARTIFACT",
+            description=(
+                "Both MHC-II epitopes target DRB1*15:01. 9-mer overlap "
+                "(QTLLALHRS) between QTLLALHRSYLTPGD and INITRFQTLLALHRS. "
+                "DRB1*01:01 MHC-II coverage is zero in v3. "
+                "Diversity penalty did not fire for same-allele repeats in original scorer."
+            ),
+            paper_action=(
+                "Limitations: v3 MHC-II coverage restricted to DRB1*15:01 "
+                "due to scoring artifact. DRB1*01:01 absence acknowledged. "
+                "Addressed by allele_diversity_penalty() in updated scorer for v4."
+            ),
+            code_action="allele_diversity_penalty() added to combined_score() in scoring.py",
+            blocks_synthesis=False
+        ),
+        DesignFlag(
+            flag_id="FLAG_03_HLA_A0201_ABSENT",
+            severity="UNDOCUMENTED_GAP",
+            description=(
+                "HLA-A*02:01 (~30% global frequency) not covered in v3. "
+                "YLQPRTFLL identified in candidate pool but excluded by combined scoring threshold. "
+                "Most prevalent MHC-I allele globally — absence notable for peer review."
+            ),
+            paper_action=(
+                "Limitations: HLA-A*02:01 coverage absent from v3. YLQPRTFLL identified "
+                "in candidate pool (4.30nM, rank 0.03%) but excluded by scoring threshold. "
+                "Prioritized for inclusion in v4 construct."
+            ),
+            code_action="No code change — documented gap only. Scorer working as designed.",
+            blocks_synthesis=False
+        ),
+        DesignFlag(
+            flag_id="FLAG_04_DOUBLE_KK_JUNCTION",
+            severity="UNKNOWN_RISK",
+            description=(
+                "Sequence reads KKGPGPGKK at MHC-II/MHC-I junction (res 70-78). "
+                "Two KK proteasomal processing separators flanking a GPGPG linker. "
+                "Likely manual assembly error. Cleavage impact unknown — "
+                "could generate spurious GPGPG fragment or destroy flanking epitope termini."
+            ),
+            paper_action=(
+                "Methods note: KK-GPGPG-KK junction identified at MHC-II/MHC-I "
+                "boundary. NetChop cleavage analysis pending. Junction will be "
+                "revised to single KK in v4 if cleavage probability > 0.7."
+            ),
+            code_action="NetChop analysis pending — see src/netchop_analysis.py (Phase 8A)",
+            blocks_synthesis=True   # BLOCKS until NetChop resolves
+        ),
+    ]
 )
 
 ALL_CONSTRUCTS = [construct_v1, construct_v2, construct_v3]
