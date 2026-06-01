@@ -1,0 +1,18 @@
+{
+  "construct": "v3_1_single_kk",
+  "simulation": "C-ImmSim",
+  "peak_IgM": 1536.2443,
+  "peak_IgG": 3351.5944,
+  "day_peak_IgG": 69.0,
+  "peak_TH": 115.6384,
+  "peak_TC": 66.5948,
+  "peak_IFNg": 278.585,
+  "peak_IL2": 103.1786,
+  "peak_IL12": 34.7728,
+  "injection_days": [
+    1,
+    28,
+    56
+  ],
+  "total_duration": 360.0
+}

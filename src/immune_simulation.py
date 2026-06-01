@@ -111,7 +111,7 @@ def plot_immune_response(data: dict, metrics: dict, out_path: Path):
     ifng = data.get("IFNg", [])
 
     fig, axes = plt.subplots(2, 2, figsize=(14, 9), facecolor="#0d0d0d")
-    fig.suptitle("v3.1 Vaccine — C-ImmSim Immune Response (3-dose schedule)",
+    fig.suptitle("v3.1 Vaccine — ODE Immune Simulation (3-dose schedule)",
                  color="#f1f5f9", fontsize=13, fontweight="bold")
 
     plot_configs = [
@@ -233,7 +233,7 @@ def run_immune_simulation():
     print(f"  Peak IgM:     {metrics.get('peak_IgM')} AU")
     print(f"  Peak CD4+ TH: {metrics.get('peak_TH')}")
     print(f"  Peak CD8+ TC: {metrics.get('peak_TC')}")
-    print(f"  Peak IFN-γ:   {metrics.get('peak_IFNg')}")
+    print(f"  Peak IFN-g:   {metrics.get('peak_IFNg')}")
     print(f"  Peak IL-12:   {metrics.get('peak_IL12')}")
 
     report = {"construct": "v3_1_single_kk", "simulation": "C-ImmSim", **metrics}
