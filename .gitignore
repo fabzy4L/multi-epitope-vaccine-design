@@ -89,6 +89,7 @@ structures/large/
 
 # Large computational run outputs — store externally or in LFS
 results/RFDiffusion/*.result/
+results/docking/_tmp/
 
 # PyMOL session files
 *.pse
