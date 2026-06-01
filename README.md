@@ -24,6 +24,14 @@ This repository contains a complete computational pipeline for designing multi-e
 - **3 optimized vaccine constructs** designed (12.7-18.8 kDa)
 - **Publication-ready methodology** with comprehensive documentation
 
+### 📊 Key Visualizations
+
+![Statistical Overview](results/figures/statistical_overview.png)
+*Comprehensive statistical analysis of 44,359 binding predictions*
+
+![Binding Affinities](results/figures/binding_affinities.png)
+*Top epitope candidates with sub-10nM binding affinities*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -45,13 +53,29 @@ pip install -r requirements.txt
 ### Basic Usage
 ```python
 # Run complete pipeline
-python src/run_pipeline.py
+python run_pipeline.py
 
 # Individual components
 python src/epitope_prediction/create_epitope_files.py
 python src/statistical_analysis/iedb_results_analyzer.py
 python src/construct_design/vaccine_constructor.py
 ```
+
+## 📊 Pipeline Architecture
+
+![Pipeline Architecture](results/figures/pipeline_architecture.png)
+*Complete computational workflow from SARS-CoV-2 S1 protein to validated vaccine constructs*
+
+## 📰 Featured Article
+
+📖 **[Revolutionizing Vaccine Design: An AI-Powered Approach to Multi-Epitope SARS-CoV-2 Vaccine Development](ARTICLE_Multi_Epitope_Vaccine_Design.md)**
+
+A comprehensive technical article covering:
+- Systematic methodology and innovation
+- Statistical analysis of 44,359 binding predictions  
+- Sub-5nM epitope discoveries and validation
+- Collaborative AI framework pioneering
+- Implications for pandemic preparedness
 
 ## 📊 Pipeline Architecture
 
