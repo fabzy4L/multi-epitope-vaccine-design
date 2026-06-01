@@ -1,0 +1,5 @@
+>S1_MHC1_2708
+CVNLTTRTQLPP
+# Position: 2-13
+# Length: 12 amino acids
+# Type: MHC-I

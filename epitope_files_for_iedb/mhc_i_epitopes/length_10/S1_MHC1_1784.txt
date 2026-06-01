@@ -1,0 +1,5 @@
+>S1_MHC1_1784
+DSKVGGNYNY
+# Position: 429-438
+# Length: 10 amino acids
+# Type: MHC-I

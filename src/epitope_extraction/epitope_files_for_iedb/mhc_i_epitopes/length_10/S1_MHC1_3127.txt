@@ -1,0 +1,5 @@
+>S1_MHC1_3127
+ILPVSMTKTS
+# Position: 726-735
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3380
+VASQSIIAYTMS
+# Position: 674-685
+# Length: 12 amino acids
+# Type: MHC-I

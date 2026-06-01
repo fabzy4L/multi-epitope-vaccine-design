@@ -1,0 +1,5 @@
+>S1_MHC1_1598
+SGWTAGAAAY
+# Position: 243-252
+# Length: 10 amino acids
+# Type: MHC-I

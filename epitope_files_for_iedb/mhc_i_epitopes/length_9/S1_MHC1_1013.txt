@@ -1,0 +1,5 @@
+>S1_MHC1_1013
+ASVYAWNRK
+# Position: 335-343
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1033
+LYNSASFST
+# Position: 355-363
+# Length: 9 amino acids
+# Type: MHC-I

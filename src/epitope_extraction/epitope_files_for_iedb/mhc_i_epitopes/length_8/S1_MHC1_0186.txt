@@ -1,0 +1,5 @@
+>S1_MHC1_0186
+FKNLREFV
+# Position: 186-193
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1566
+EPLVDLPIGI
+# Position: 211-220
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1579
+KCYGVSPTK
+# Position: 378-386
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0906
+FNGIGVTQ
+# Position: 906-913
+# Length: 8 amino acids
+# Type: MHC-I

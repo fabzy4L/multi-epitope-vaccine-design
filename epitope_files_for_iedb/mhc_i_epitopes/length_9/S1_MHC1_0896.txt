@@ -1,0 +1,5 @@
+>S1_MHC1_0896
+IGINITRFQ
+# Position: 218-226
+# Length: 9 amino acids
+# Type: MHC-I

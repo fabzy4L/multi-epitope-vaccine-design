@@ -1,0 +1,5 @@
+>S1_MHC1_1562
+FSALEPLVDL
+# Position: 207-216
+# Length: 10 amino acids
+# Type: MHC-I

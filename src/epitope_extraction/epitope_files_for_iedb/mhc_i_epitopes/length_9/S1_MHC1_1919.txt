@@ -1,0 +1,5 @@
+>S1_MHC1_1919
+FTISVTTEI
+# Position: 718-726
+# Length: 9 amino acids
+# Type: MHC-I

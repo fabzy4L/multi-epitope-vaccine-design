@@ -1,0 +1,5 @@
+>S1_MHC1_4966
+FEYVSQPFLMDL
+# Position: 168-179
+# Length: 12 amino acids
+# Type: MHC-I

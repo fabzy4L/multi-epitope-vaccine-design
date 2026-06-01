@@ -1,0 +1,5 @@
+>S1_MHC1_1853
+GAEHVNNSY
+# Position: 652-660
+# Length: 9 amino acids
+# Type: MHC-I

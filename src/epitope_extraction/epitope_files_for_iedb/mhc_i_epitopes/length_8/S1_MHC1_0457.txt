@@ -1,0 +1,5 @@
+>S1_MHC1_0457
+RKSNLKPF
+# Position: 457-464
+# Length: 8 amino acids
+# Type: MHC-I

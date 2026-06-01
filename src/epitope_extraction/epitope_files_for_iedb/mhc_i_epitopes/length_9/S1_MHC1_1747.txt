@@ -1,0 +1,5 @@
+>S1_MHC1_1747
+LKGTGVLTE
+# Position: 546-554
+# Length: 9 amino acids
+# Type: MHC-I

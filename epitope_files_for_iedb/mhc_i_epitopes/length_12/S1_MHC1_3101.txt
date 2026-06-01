@@ -1,0 +1,5 @@
+>S1_MHC1_3101
+RQIAPGQTGKIA
+# Position: 395-406
+# Length: 12 amino acids
+# Type: MHC-I

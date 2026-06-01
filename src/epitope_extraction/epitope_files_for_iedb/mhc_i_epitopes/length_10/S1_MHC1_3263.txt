@@ -1,0 +1,5 @@
+>S1_MHC1_3263
+PPLLTDEMIA
+# Position: 862-871
+# Length: 10 amino acids
+# Type: MHC-I

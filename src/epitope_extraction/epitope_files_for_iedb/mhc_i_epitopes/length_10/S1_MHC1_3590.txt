@@ -1,0 +1,5 @@
+>S1_MHC1_3590
+VAKNLNESLI
+# Position: 1189-1198
+# Length: 10 amino acids
+# Type: MHC-I

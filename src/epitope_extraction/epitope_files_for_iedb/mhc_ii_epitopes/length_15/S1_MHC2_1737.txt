@@ -1,0 +1,5 @@
+>S1_MHC2_1737
+LIRAAEIRASANLAA
+# Position: 1012-1026
+# Length: 15 amino acids
+# Type: MHC-II

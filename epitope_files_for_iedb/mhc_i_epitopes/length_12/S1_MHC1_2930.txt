@@ -1,0 +1,5 @@
+>S1_MHC1_2930
+RFQTLLALHRSY
+# Position: 224-235
+# Length: 12 amino acids
+# Type: MHC-I

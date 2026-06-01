@@ -1,0 +1,5 @@
+>S1_MHC1_0040
+DKVFRSSV
+# Position: 40-47
+# Length: 8 amino acids
+# Type: MHC-I

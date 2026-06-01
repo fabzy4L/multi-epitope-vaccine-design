@@ -1,0 +1,5 @@
+>S1_MHC1_3741
+LGVYYHKNNKS
+# Position: 141-151
+# Length: 11 amino acids
+# Type: MHC-I

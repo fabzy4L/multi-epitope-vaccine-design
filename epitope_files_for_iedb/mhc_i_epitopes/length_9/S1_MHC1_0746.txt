@@ -1,0 +1,5 @@
+>S1_MHC1_0746
+NPVLPFNDG
+# Position: 68-76
+# Length: 9 amino acids
+# Type: MHC-I

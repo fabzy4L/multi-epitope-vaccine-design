@@ -1,0 +1,5 @@
+>S1_MHC1_5200
+IRGDEVRQIAPG
+# Position: 402-413
+# Length: 12 amino acids
+# Type: MHC-I

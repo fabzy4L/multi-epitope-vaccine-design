@@ -1,0 +1,5 @@
+>S1_MHC1_3207
+LPDPSKPSKR
+# Position: 806-815
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2201
+RLQSLQTYV
+# Position: 1000-1008
+# Length: 9 amino acids
+# Type: MHC-I

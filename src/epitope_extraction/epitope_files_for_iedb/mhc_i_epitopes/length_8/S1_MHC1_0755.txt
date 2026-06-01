@@ -1,0 +1,5 @@
+>S1_MHC1_0755
+QYGSFCTQ
+# Position: 755-762
+# Length: 8 amino acids
+# Type: MHC-I

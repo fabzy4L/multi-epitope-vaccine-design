@@ -1,0 +1,5 @@
+>S1_MHC1_1373
+SQPFLMDLE
+# Position: 172-180
+# Length: 9 amino acids
+# Type: MHC-I

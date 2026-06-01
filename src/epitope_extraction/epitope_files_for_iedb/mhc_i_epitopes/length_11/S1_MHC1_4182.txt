@@ -1,0 +1,5 @@
+>S1_MHC1_4182
+LEILDITPCSF
+# Position: 582-592
+# Length: 11 amino acids
+# Type: MHC-I

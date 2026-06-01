@@ -1,0 +1,5 @@
+>S1_MHC1_0409
+NYKLPDDF
+# Position: 409-416
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1481
+NENGTITDA
+# Position: 280-288
+# Length: 9 amino acids
+# Type: MHC-I

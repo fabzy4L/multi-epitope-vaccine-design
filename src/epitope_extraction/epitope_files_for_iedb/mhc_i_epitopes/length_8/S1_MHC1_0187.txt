@@ -1,0 +1,5 @@
+>S1_MHC1_0187
+KNLREFVF
+# Position: 187-194
+# Length: 8 amino acids
+# Type: MHC-I

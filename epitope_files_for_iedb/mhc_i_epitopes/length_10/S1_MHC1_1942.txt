@@ -1,0 +1,5 @@
+>S1_MHC1_1942
+PGTNTSNQVA
+# Position: 587-596
+# Length: 10 amino acids
+# Type: MHC-I

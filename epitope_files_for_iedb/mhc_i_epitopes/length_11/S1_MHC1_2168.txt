@@ -1,0 +1,5 @@
+>S1_MHC1_2168
+KSWMESEFRVY
+# Position: 137-147
+# Length: 11 amino acids
+# Type: MHC-I

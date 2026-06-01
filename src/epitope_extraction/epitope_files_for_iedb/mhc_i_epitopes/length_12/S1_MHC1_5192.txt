@@ -1,0 +1,5 @@
+>S1_MHC1_5192
+NVYADSFVIRGD
+# Position: 394-405
+# Length: 12 amino acids
+# Type: MHC-I

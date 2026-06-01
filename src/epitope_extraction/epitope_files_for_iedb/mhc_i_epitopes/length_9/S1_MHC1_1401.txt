@@ -1,0 +1,5 @@
+>S1_MHC1_1401
+YFKIYSKHT
+# Position: 200-208
+# Length: 9 amino acids
+# Type: MHC-I

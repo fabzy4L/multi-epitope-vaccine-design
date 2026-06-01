@@ -1,0 +1,5 @@
+>S1_MHC1_1282
+NPVLPFNDG
+# Position: 81-89
+# Length: 9 amino acids
+# Type: MHC-I

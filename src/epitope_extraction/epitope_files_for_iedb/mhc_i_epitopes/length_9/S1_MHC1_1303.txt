@@ -1,0 +1,5 @@
+>S1_MHC1_1303
+RGWIFGTTL
+# Position: 102-110
+# Length: 9 amino acids
+# Type: MHC-I

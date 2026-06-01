@@ -1,0 +1,5 @@
+>S1_MHC1_5671
+YTSALLAGTITS
+# Position: 873-884
+# Length: 12 amino acids
+# Type: MHC-I

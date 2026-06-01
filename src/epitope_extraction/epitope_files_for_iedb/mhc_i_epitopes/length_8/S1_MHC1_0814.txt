@@ -1,0 +1,5 @@
+>S1_MHC1_0814
+KRSFIEDL
+# Position: 814-821
+# Length: 8 amino acids
+# Type: MHC-I

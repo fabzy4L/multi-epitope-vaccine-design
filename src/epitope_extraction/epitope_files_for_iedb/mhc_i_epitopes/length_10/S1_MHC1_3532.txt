@@ -1,0 +1,5 @@
+>S1_MHC1_3532
+GIVNNTVYDP
+# Position: 1131-1140
+# Length: 10 amino acids
+# Type: MHC-I

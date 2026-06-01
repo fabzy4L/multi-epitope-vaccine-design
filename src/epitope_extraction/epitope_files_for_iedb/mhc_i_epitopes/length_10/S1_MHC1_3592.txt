@@ -1,0 +1,5 @@
+>S1_MHC1_3592
+KNLNESLIDL
+# Position: 1191-1200
+# Length: 10 amino acids
+# Type: MHC-I

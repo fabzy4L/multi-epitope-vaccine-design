@@ -1,0 +1,5 @@
+>S1_MHC1_3000
+TVEKGIYQTSNF
+# Position: 294-305
+# Length: 12 amino acids
+# Type: MHC-I

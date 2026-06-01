@@ -1,0 +1,5 @@
+>S1_MHC1_3821
+SALEPLVDLPI
+# Position: 221-231
+# Length: 11 amino acids
+# Type: MHC-I

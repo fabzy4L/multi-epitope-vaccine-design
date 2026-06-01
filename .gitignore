@@ -1,0 +1,140 @@
+# Multi-Epitope Vaccine Design Pipeline
+# Git Ignore File
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Large data files
+*.fasta.gz
+*.csv.gz
+*.tar.gz
+*.zip
+large_datasets/
+temp_data/
+
+# Results that shouldn't be tracked
+results/temp/
+results/*/temp/
+temp_results/
+scratch/
+debug_output/
+
+# IEDB submission files (if they contain sensitive data)
+# Uncomment if needed:
+# iedb_submissions/
+# batch_files/
+
+# Molecular structure files (large)
+*.pdb
+*.cif
+*.mmtf
+structures/large/
+
+# PyMOL session files
+*.pse
+*.pse.gz
+
+# Configuration files with sensitive data
+config_local.yaml
+secrets.yaml
+*.key
+*.pem
+
+# Log files
+*.log
+logs/
+*.out
+*.err
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package managers
+node_modules/
+package-lock.json
+yarn.lock
+
+# Documentation build
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Profiling data
+.prof
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json

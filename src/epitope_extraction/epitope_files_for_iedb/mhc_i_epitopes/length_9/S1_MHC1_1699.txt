@@ -1,0 +1,5 @@
+>S1_MHC1_1699
+QPTNGVGYQ
+# Position: 498-506
+# Length: 9 amino acids
+# Type: MHC-I

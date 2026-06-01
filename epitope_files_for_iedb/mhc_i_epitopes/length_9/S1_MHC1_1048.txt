@@ -1,0 +1,5 @@
+>S1_MHC1_1048
+SPTKLNDLC
+# Position: 370-378
+# Length: 9 amino acids
+# Type: MHC-I

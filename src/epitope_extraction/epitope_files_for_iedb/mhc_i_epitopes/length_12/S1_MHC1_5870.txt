@@ -1,0 +1,5 @@
+>S1_MHC1_5870
+EKNFTTAPAICH
+# Position: 1072-1083
+# Length: 12 amino acids
+# Type: MHC-I

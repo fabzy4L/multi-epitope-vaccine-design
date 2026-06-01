@@ -1,0 +1,5 @@
+>S1_MHC1_0464
+FERDISTE
+# Position: 464-471
+# Length: 8 amino acids
+# Type: MHC-I

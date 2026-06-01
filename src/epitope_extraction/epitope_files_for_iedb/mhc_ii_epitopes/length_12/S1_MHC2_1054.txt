@@ -1,0 +1,5 @@
+>S1_MHC2_1054
+YSSANNCTFEYV
+# Position: 160-171
+# Length: 12 amino acids
+# Type: MHC-II

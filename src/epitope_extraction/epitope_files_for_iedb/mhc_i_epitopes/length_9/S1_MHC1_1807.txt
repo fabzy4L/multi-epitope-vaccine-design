@@ -1,0 +1,5 @@
+>S1_MHC1_1807
+NQVAVLYQD
+# Position: 606-614
+# Length: 9 amino acids
+# Type: MHC-I

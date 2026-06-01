@@ -1,0 +1,5 @@
+>S1_MHC1_4318
+FTISVTTEILP
+# Position: 718-728
+# Length: 11 amino acids
+# Type: MHC-I

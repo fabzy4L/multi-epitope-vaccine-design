@@ -1,0 +1,5 @@
+>S1_MHC1_3770
+YVSQPFLMDLE
+# Position: 170-180
+# Length: 11 amino acids
+# Type: MHC-I

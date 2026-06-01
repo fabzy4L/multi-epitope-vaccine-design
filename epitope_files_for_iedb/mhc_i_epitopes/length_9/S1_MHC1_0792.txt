@@ -1,0 +1,5 @@
+>S1_MHC1_0792
+VIKVCEFQF
+# Position: 114-122
+# Length: 9 amino acids
+# Type: MHC-I

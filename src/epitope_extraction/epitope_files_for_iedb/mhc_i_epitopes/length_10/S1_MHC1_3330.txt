@@ -1,0 +1,5 @@
+>S1_MHC1_3330
+SAIGKIQDSL
+# Position: 929-938
+# Length: 10 amino acids
+# Type: MHC-I

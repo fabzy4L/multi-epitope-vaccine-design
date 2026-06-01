@@ -1,0 +1,5 @@
+>S1_MHC1_0519
+NLVKNKCV
+# Position: 519-526
+# Length: 8 amino acids
+# Type: MHC-I

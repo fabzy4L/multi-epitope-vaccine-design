@@ -1,0 +1,5 @@
+>S1_MHC2_1256
+ALTGIAVEQDKN
+# Position: 766-777
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_5827
+MSECVLGQSKRV
+# Position: 1029-1040
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4952
+ESEFRFYSSANN
+# Position: 154-165
+# Length: 12 amino acids
+# Type: MHC-I

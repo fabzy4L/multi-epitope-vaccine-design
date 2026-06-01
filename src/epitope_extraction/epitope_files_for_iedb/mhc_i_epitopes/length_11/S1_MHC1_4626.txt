@@ -1,0 +1,5 @@
+>S1_MHC1_4626
+ATKMSECVLGQ
+# Position: 1026-1036
+# Length: 11 amino acids
+# Type: MHC-I

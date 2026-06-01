@@ -1,0 +1,5 @@
+>S1_MHC1_0432
+CVIAWNSN
+# Position: 432-439
+# Length: 8 amino acids
+# Type: MHC-I

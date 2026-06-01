@@ -1,0 +1,5 @@
+>S1_MHC1_0191
+EFVFKNID
+# Position: 191-198
+# Length: 8 amino acids
+# Type: MHC-I

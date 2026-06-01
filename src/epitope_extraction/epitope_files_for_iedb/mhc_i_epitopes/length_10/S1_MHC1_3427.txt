@@ -1,0 +1,5 @@
+>S1_MHC1_3427
+ATKMSECVLG
+# Position: 1026-1035
+# Length: 10 amino acids
+# Type: MHC-I

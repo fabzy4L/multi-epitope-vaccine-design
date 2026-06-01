@@ -1,0 +1,5 @@
+>S1_MHC1_3288
+VSVITPGTNTSN
+# Position: 582-593
+# Length: 12 amino acids
+# Type: MHC-I

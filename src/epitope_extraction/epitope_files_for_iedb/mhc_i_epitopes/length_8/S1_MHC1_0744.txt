@@ -1,0 +1,5 @@
+>S1_MHC1_0744
+GDSTECSN
+# Position: 744-751
+# Length: 8 amino acids
+# Type: MHC-I

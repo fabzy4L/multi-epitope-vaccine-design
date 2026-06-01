@@ -1,0 +1,5 @@
+>S1_MHC1_3819
+GFSALEPLVDL
+# Position: 219-229
+# Length: 11 amino acids
+# Type: MHC-I

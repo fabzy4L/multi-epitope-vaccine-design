@@ -1,0 +1,5 @@
+>S1_MHC1_4757
+KNHTSPDVDLG
+# Position: 1157-1167
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3201
+FNFSQILPDP
+# Position: 800-809
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1136
+EIYQAGSTP
+# Position: 458-466
+# Length: 9 amino acids
+# Type: MHC-I

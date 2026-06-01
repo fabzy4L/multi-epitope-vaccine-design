@@ -1,0 +1,5 @@
+>S1_MHC1_5666
+EMIAQYTSALLA
+# Position: 868-879
+# Length: 12 amino acids
+# Type: MHC-I

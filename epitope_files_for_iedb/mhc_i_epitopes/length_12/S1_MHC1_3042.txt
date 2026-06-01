@@ -1,0 +1,5 @@
+>S1_MHC1_3042
+SVYAWNRKRISN
+# Position: 336-347
+# Length: 12 amino acids
+# Type: MHC-I

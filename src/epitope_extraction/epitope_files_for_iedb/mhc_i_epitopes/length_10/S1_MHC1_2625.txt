@@ -1,0 +1,5 @@
+>S1_MHC1_2625
+EPLVDLPIGI
+# Position: 224-233
+# Length: 10 amino acids
+# Type: MHC-I

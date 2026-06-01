@@ -1,0 +1,5 @@
+>S1_MHC1_3076
+QTQTNSPRRA
+# Position: 675-684
+# Length: 10 amino acids
+# Type: MHC-I

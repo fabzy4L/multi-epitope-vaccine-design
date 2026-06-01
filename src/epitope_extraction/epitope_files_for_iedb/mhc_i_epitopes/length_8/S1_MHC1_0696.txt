@@ -1,0 +1,5 @@
+>S1_MHC1_0696
+TMSLGAEN
+# Position: 696-703
+# Length: 8 amino acids
+# Type: MHC-I

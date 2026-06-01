@@ -1,0 +1,5 @@
+>S1_MHC1_5220
+NYKLPDDFTGCV
+# Position: 422-433
+# Length: 12 amino acids
+# Type: MHC-I

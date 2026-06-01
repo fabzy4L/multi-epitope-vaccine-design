@@ -1,0 +1,5 @@
+>S1_MHC1_2017
+SFIEDLLFN
+# Position: 816-824
+# Length: 9 amino acids
+# Type: MHC-I

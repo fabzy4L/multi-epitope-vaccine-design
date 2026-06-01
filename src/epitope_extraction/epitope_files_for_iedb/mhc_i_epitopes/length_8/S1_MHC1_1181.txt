@@ -1,0 +1,5 @@
+>S1_MHC1_1181
+KEIDRLNE
+# Position: 1181-1188
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3201
+YRVVVLSFELLH
+# Position: 495-506
+# Length: 12 amino acids
+# Type: MHC-I

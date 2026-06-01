@@ -1,0 +1,5 @@
+>S1_MHC2_1874
+LPIGINITRFQTLLALHR
+# Position: 229-246
+# Length: 18 amino acids
+# Type: MHC-II

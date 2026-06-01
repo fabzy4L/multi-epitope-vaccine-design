@@ -1,0 +1,5 @@
+>S1_MHC1_0097
+LDSKTQSL
+# Position: 97-104
+# Length: 8 amino acids
+# Type: MHC-I

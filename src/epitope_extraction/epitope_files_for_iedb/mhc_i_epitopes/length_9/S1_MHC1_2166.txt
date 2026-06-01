@@ -1,0 +1,5 @@
+>S1_MHC1_2166
+QLSSNFGAI
+# Position: 965-973
+# Length: 9 amino acids
+# Type: MHC-I

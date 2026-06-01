@@ -1,0 +1,5 @@
+>S1_MHC1_3143
+NYLYRLFRKSNL
+# Position: 437-448
+# Length: 12 amino acids
+# Type: MHC-I

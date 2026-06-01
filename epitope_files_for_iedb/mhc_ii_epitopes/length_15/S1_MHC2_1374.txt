@@ -1,0 +1,5 @@
+>S1_MHC2_1374
+KSNLKPFERDISTEI
+# Position: 445-459
+# Length: 15 amino acids
+# Type: MHC-II

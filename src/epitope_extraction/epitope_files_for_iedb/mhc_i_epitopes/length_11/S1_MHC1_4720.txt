@@ -1,0 +1,5 @@
+>S1_MHC1_4720
+TFVSGNCDVVI
+# Position: 1120-1130
+# Length: 11 amino acids
+# Type: MHC-I

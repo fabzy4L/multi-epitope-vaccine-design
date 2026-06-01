@@ -1,0 +1,5 @@
+>S1_MHC1_5159
+CVADYSVLYNSA
+# Position: 361-372
+# Length: 12 amino acids
+# Type: MHC-I

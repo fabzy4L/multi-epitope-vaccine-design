@@ -1,0 +1,5 @@
+>S1_MHC1_0296
+LSETKCTL
+# Position: 296-303
+# Length: 8 amino acids
+# Type: MHC-I

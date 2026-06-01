@@ -1,0 +1,5 @@
+>S1_MHC1_0247
+AGAAAYYV
+# Position: 247-254
+# Length: 8 amino acids
+# Type: MHC-I

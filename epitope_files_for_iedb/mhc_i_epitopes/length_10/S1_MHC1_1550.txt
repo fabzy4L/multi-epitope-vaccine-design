@@ -1,0 +1,5 @@
+>S1_MHC1_1550
+TPINLVRDLP
+# Position: 195-204
+# Length: 10 amino acids
+# Type: MHC-I

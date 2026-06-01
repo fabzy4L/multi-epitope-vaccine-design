@@ -1,0 +1,5 @@
+>S1_MHC1_4210
+VLYQDVNCTEV
+# Position: 610-620
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0597
+VITPGTNT
+# Position: 597-604
+# Length: 8 amino acids
+# Type: MHC-I

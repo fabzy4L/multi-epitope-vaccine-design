@@ -1,0 +1,5 @@
+>S1_MHC1_0581
+TLEILDIT
+# Position: 581-588
+# Length: 8 amino acids
+# Type: MHC-I

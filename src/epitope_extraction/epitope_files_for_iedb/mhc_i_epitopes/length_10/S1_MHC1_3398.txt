@@ -1,0 +1,5 @@
+>S1_MHC1_3398
+ITGRLQSLQT
+# Position: 997-1006
+# Length: 10 amino acids
+# Type: MHC-I

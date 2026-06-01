@@ -1,0 +1,5 @@
+>S1_MHC1_3239
+GDCLGDIAAR
+# Position: 838-847
+# Length: 10 amino acids
+# Type: MHC-I

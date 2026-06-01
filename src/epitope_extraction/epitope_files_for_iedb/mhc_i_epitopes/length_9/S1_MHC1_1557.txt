@@ -1,0 +1,5 @@
+>S1_MHC1_1557
+KRISNCVAD
+# Position: 356-364
+# Length: 9 amino acids
+# Type: MHC-I

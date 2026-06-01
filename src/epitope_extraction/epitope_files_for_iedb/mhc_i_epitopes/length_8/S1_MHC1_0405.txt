@@ -1,0 +1,5 @@
+>S1_MHC1_0405
+DEVRQIAP
+# Position: 405-412
+# Length: 8 amino acids
+# Type: MHC-I

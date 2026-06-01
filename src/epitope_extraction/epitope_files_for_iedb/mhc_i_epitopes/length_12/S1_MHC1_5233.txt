@@ -1,0 +1,5 @@
+>S1_MHC1_5233
+AWNSNNLDSKVG
+# Position: 435-446
+# Length: 12 amino acids
+# Type: MHC-I

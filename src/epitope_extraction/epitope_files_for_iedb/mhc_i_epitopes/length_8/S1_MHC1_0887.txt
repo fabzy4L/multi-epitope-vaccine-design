@@ -1,0 +1,5 @@
+>S1_MHC1_0887
+TFGAGAAL
+# Position: 887-894
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1077
+TAPAICHD
+# Position: 1077-1084
+# Length: 8 amino acids
+# Type: MHC-I

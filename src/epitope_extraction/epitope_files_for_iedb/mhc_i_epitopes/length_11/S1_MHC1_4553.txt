@@ -1,0 +1,5 @@
+>S1_MHC1_4553
+NQNAQALNTLV
+# Position: 953-963
+# Length: 11 amino acids
+# Type: MHC-I

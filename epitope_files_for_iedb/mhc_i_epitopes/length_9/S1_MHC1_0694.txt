@@ -1,0 +1,5 @@
+>S1_MHC1_0694
+TNSFTRGVY
+# Position: 16-24
+# Length: 9 amino acids
+# Type: MHC-I

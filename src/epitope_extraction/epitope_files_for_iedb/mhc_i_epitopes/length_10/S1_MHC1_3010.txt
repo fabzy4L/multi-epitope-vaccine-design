@@ -1,0 +1,5 @@
+>S1_MHC1_3010
+AVLYQDVNCT
+# Position: 609-618
+# Length: 10 amino acids
+# Type: MHC-I

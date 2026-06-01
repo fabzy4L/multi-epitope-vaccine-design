@@ -1,0 +1,5 @@
+>S1_MHC1_5390
+FGGVSVITPGTN
+# Position: 592-603
+# Length: 12 amino acids
+# Type: MHC-I

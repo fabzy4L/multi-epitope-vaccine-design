@@ -1,0 +1,5 @@
+>S1_MHC1_4521
+KLIANQFNSAI
+# Position: 921-931
+# Length: 11 amino acids
+# Type: MHC-I

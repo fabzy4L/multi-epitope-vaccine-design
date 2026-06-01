@@ -1,0 +1,5 @@
+>S1_MHC1_0799
+GFNFSQIL
+# Position: 799-806
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1996
+EHVNNSYECD
+# Position: 641-650
+# Length: 10 amino acids
+# Type: MHC-I

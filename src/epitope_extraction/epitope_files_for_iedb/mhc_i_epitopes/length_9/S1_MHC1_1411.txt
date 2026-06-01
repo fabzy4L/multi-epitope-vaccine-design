@@ -1,0 +1,5 @@
+>S1_MHC1_1411
+INLVRDLPQ
+# Position: 210-218
+# Length: 9 amino acids
+# Type: MHC-I

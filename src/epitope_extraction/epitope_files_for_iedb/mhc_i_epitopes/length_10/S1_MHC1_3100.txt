@@ -1,0 +1,5 @@
+>S1_MHC1_3100
+LGAENSVAYS
+# Position: 699-708
+# Length: 10 amino acids
+# Type: MHC-I

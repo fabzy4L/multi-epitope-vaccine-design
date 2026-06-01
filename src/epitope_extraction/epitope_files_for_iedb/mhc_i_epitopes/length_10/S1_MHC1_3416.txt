@@ -1,0 +1,5 @@
+>S1_MHC1_3416
+AAEIRASANL
+# Position: 1015-1024
+# Length: 10 amino acids
+# Type: MHC-I

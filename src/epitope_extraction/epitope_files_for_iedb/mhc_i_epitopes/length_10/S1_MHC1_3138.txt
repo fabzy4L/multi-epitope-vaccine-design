@@ -1,0 +1,5 @@
+>S1_MHC1_3138
+DCTMYICGDS
+# Position: 737-746
+# Length: 10 amino acids
+# Type: MHC-I

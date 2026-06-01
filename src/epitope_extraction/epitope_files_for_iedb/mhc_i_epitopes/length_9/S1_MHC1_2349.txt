@@ -1,0 +1,5 @@
+>S1_MHC1_2349
+FKEELDKYF
+# Position: 1148-1156
+# Length: 9 amino acids
+# Type: MHC-I

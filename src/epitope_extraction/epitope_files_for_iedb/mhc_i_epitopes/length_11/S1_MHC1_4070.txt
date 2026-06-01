@@ -1,0 +1,5 @@
+>S1_MHC1_4070
+TEIYQAGSTPC
+# Position: 470-480
+# Length: 11 amino acids
+# Type: MHC-I

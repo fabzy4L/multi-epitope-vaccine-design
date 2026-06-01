@@ -1,0 +1,5 @@
+>S1_MHC1_2374
+KRISNCVADYS
+# Position: 343-353
+# Length: 11 amino acids
+# Type: MHC-I

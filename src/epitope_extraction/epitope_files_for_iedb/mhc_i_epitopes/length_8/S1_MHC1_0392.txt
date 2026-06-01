@@ -1,0 +1,5 @@
+>S1_MHC1_0392
+FTNVYADS
+# Position: 392-399
+# Length: 8 amino acids
+# Type: MHC-I

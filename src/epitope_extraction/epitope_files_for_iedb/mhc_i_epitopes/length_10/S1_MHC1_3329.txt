@@ -1,0 +1,5 @@
+>S1_MHC1_3329
+NSAIGKIQDS
+# Position: 928-937
+# Length: 10 amino acids
+# Type: MHC-I

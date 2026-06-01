@@ -1,0 +1,5 @@
+>S1_MHC1_2189
+VSQPFLMDLEG
+# Position: 158-168
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3760
+YSSANNCTFEY
+# Position: 160-170
+# Length: 11 amino acids
+# Type: MHC-I

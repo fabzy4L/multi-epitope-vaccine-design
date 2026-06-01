@@ -1,0 +1,5 @@
+>S1_MHC1_2531
+LSFELLHAPAT
+# Position: 500-510
+# Length: 11 amino acids
+# Type: MHC-I

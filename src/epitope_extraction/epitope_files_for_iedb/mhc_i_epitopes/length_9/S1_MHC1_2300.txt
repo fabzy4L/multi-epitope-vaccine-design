@@ -1,0 +1,5 @@
+>S1_MHC1_2300
+GTHWFVTQR
+# Position: 1099-1107
+# Length: 9 amino acids
+# Type: MHC-I

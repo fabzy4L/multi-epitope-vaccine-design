@@ -1,0 +1,5 @@
+>S1_MHC1_1355
+ESEFRFYSS
+# Position: 154-162
+# Length: 9 amino acids
+# Type: MHC-I

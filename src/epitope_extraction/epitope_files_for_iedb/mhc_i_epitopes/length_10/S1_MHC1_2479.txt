@@ -1,0 +1,5 @@
+>S1_MHC1_2479
+RFDNPVLPFN
+# Position: 78-87
+# Length: 10 amino acids
+# Type: MHC-I

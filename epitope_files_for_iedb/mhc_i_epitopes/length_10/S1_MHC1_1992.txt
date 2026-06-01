@@ -1,0 +1,5 @@
+>S1_MHC1_1992
+LIGAEHVNNS
+# Position: 637-646
+# Length: 10 amino acids
+# Type: MHC-I

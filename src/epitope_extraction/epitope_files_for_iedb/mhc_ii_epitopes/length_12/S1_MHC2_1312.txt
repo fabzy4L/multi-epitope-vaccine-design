@@ -1,0 +1,5 @@
+>S1_MHC2_1312
+IQDSLSSTASAL
+# Position: 934-945
+# Length: 12 amino acids
+# Type: MHC-II

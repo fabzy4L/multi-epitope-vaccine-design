@@ -1,0 +1,5 @@
+>S1_MHC1_2142
+TNVVIKVCEFQ
+# Position: 111-121
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3753
+MESEFRFYSSA
+# Position: 153-163
+# Length: 11 amino acids
+# Type: MHC-I

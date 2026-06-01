@@ -1,0 +1,5 @@
+>S1_MHC1_0673
+SYQTQTNS
+# Position: 673-680
+# Length: 8 amino acids
+# Type: MHC-I

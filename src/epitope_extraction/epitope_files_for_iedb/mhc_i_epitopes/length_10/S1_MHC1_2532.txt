@@ -1,0 +1,5 @@
+>S1_MHC1_2532
+CEFQFCNDPF
+# Position: 131-140
+# Length: 10 amino acids
+# Type: MHC-I

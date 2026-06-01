@@ -1,0 +1,5 @@
+>S1_MHC1_2193
+QIDRLITGR
+# Position: 992-1000
+# Length: 9 amino acids
+# Type: MHC-I

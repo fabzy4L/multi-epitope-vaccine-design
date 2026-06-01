@@ -1,0 +1,5 @@
+>S1_MHC1_2287
+KAHFPREGV
+# Position: 1086-1094
+# Length: 9 amino acids
+# Type: MHC-I

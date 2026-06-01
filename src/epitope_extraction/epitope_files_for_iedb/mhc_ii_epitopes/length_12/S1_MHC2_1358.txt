@@ -1,0 +1,5 @@
+>S1_MHC2_1358
+EKNFTTAPAICH
+# Position: 1072-1083
+# Length: 12 amino acids
+# Type: MHC-II

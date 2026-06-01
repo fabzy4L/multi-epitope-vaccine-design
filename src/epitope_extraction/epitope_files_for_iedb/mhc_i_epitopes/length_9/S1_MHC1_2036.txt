@@ -1,0 +1,5 @@
+>S1_MHC1_2036
+KQYGDCLGD
+# Position: 835-843
+# Length: 9 amino acids
+# Type: MHC-I

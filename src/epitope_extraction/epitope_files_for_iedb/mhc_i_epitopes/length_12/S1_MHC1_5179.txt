@@ -1,0 +1,5 @@
+>S1_MHC1_5179
+GVSPTKLNDLCF
+# Position: 381-392
+# Length: 12 amino acids
+# Type: MHC-I

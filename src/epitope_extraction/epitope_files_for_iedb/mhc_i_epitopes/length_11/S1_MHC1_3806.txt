@@ -1,0 +1,5 @@
+>S1_MHC1_3806
+KHTPINLVRDL
+# Position: 206-216
+# Length: 11 amino acids
+# Type: MHC-I

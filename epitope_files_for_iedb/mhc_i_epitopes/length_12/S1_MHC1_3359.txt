@@ -1,0 +1,5 @@
+>S1_MHC1_3359
+IGAGICASYQTQ
+# Position: 653-664
+# Length: 12 amino acids
+# Type: MHC-I

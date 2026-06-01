@@ -1,0 +1,5 @@
+>S1_MHC1_0801
+NFSQILPD
+# Position: 801-808
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5195
+ADSFVIRGDEVR
+# Position: 397-408
+# Length: 12 amino acids
+# Type: MHC-I

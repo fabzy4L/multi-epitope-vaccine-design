@@ -1,0 +1,5 @@
+>S1_MHC1_4362
+QLNRALTGIAV
+# Position: 762-772
+# Length: 11 amino acids
+# Type: MHC-I

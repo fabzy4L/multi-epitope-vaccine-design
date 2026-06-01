@@ -1,0 +1,5 @@
+>S1_MHC1_4887
+GVYFASTEKSNI
+# Position: 89-100
+# Length: 12 amino acids
+# Type: MHC-I

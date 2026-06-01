@@ -1,0 +1,5 @@
+>S1_MHC1_0978
+YQTSNFRVQ
+# Position: 300-308
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4055
+LFRKSNLKPFE
+# Position: 455-465
+# Length: 11 amino acids
+# Type: MHC-I

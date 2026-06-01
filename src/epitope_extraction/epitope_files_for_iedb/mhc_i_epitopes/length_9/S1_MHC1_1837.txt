@@ -1,0 +1,5 @@
+>S1_MHC1_1837
+YSTGSNVFQ
+# Position: 636-644
+# Length: 9 amino acids
+# Type: MHC-I

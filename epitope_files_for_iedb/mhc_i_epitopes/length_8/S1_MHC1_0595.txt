@@ -1,0 +1,5 @@
+>S1_MHC1_0595
+VAVLYQDV
+# Position: 595-602
+# Length: 8 amino acids
+# Type: MHC-I

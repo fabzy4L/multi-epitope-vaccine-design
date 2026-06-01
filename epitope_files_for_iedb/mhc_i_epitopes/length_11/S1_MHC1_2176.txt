@@ -1,0 +1,5 @@
+>S1_MHC1_2176
+RVYSSANNCTF
+# Position: 145-155
+# Length: 11 amino acids
+# Type: MHC-I

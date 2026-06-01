@@ -1,0 +1,5 @@
+>S1_MHC2_1389
+DLGDISGINASV
+# Position: 1165-1176
+# Length: 12 amino acids
+# Type: MHC-II

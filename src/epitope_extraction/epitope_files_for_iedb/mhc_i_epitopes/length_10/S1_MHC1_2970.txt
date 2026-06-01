@@ -1,0 +1,5 @@
+>S1_MHC1_2970
+IADTTDAVRD
+# Position: 569-578
+# Length: 10 amino acids
+# Type: MHC-I

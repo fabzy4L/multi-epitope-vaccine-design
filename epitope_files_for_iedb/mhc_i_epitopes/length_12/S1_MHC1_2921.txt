@@ -1,0 +1,5 @@
+>S1_MHC1_2921
+DLPIGINITRFQ
+# Position: 215-226
+# Length: 12 amino acids
+# Type: MHC-I

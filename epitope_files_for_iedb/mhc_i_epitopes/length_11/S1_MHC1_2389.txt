@@ -1,0 +1,5 @@
+>S1_MHC1_2389
+SASFSTFKCYG
+# Position: 358-368
+# Length: 11 amino acids
+# Type: MHC-I

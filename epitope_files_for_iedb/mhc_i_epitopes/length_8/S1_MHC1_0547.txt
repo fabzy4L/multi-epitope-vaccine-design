@@ -1,0 +1,5 @@
+>S1_MHC1_0547
+LPFQQFGR
+# Position: 547-554
+# Length: 8 amino acids
+# Type: MHC-I

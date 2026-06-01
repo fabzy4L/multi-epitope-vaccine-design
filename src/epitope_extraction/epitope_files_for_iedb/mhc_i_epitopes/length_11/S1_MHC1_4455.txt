@@ -1,0 +1,5 @@
+>S1_MHC1_4455
+FNGLTVLPPLL
+# Position: 855-865
+# Length: 11 amino acids
+# Type: MHC-I

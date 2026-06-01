@@ -1,0 +1,5 @@
+>S1_MHC1_5763
+QLSSNFGAISSV
+# Position: 965-976
+# Length: 12 amino acids
+# Type: MHC-I

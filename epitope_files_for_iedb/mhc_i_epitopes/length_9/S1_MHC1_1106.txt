@@ -1,0 +1,5 @@
+>S1_MHC1_1106
+LDSKVGGNY
+# Position: 428-436
+# Length: 9 amino acids
+# Type: MHC-I

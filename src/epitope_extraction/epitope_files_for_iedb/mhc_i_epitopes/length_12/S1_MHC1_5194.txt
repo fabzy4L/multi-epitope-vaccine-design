@@ -1,0 +1,5 @@
+>S1_MHC1_5194
+YADSFVIRGDEV
+# Position: 396-407
+# Length: 12 amino acids
+# Type: MHC-I

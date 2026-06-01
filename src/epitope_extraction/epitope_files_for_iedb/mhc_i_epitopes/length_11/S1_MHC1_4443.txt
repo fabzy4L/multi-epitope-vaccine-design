@@ -1,0 +1,5 @@
+>S1_MHC1_4443
+DIAARDLICAQ
+# Position: 843-853
+# Length: 11 amino acids
+# Type: MHC-I

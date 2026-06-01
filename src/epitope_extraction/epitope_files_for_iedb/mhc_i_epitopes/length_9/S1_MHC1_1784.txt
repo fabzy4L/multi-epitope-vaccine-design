@@ -1,0 +1,5 @@
+>S1_MHC1_1784
+EILDITPCS
+# Position: 583-591
+# Length: 9 amino acids
+# Type: MHC-I

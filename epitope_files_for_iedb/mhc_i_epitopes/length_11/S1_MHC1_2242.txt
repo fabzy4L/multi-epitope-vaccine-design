@@ -1,0 +1,5 @@
+>S1_MHC1_2242
+EPLVDLPIGIN
+# Position: 211-221
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2389
+EVAKNLNES
+# Position: 1188-1196
+# Length: 9 amino acids
+# Type: MHC-I

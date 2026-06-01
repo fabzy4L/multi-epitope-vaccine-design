@@ -1,0 +1,5 @@
+>S1_MHC1_1871
+ICASYQTQT
+# Position: 670-678
+# Length: 9 amino acids
+# Type: MHC-I

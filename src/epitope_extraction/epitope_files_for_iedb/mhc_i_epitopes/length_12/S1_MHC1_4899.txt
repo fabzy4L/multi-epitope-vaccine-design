@@ -1,0 +1,5 @@
+>S1_MHC1_4899
+IRGWIFGTTLDS
+# Position: 101-112
+# Length: 12 amino acids
+# Type: MHC-I

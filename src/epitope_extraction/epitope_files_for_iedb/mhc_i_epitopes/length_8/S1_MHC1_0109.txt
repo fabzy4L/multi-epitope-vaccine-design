@@ -1,0 +1,5 @@
+>S1_MHC1_0109
+TLDSKTQS
+# Position: 109-116
+# Length: 8 amino acids
+# Type: MHC-I

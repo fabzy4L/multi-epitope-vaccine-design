@@ -1,0 +1,5 @@
+>S1_MHC1_4346
+STECSNLLLQY
+# Position: 746-756
+# Length: 11 amino acids
+# Type: MHC-I

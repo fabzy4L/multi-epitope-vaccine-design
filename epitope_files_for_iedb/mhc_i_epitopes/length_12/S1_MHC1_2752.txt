@@ -1,0 +1,5 @@
+>S1_MHC1_2752
+FSNVTWFHAIHV
+# Position: 46-57
+# Length: 12 amino acids
+# Type: MHC-I

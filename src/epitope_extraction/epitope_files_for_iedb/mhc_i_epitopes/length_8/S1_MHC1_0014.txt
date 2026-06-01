@@ -1,0 +1,5 @@
+>S1_MHC1_0014
+QCVNLTTR
+# Position: 14-21
+# Length: 8 amino acids
+# Type: MHC-I

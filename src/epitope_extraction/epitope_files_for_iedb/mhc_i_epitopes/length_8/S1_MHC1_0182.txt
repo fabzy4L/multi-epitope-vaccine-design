@@ -1,0 +1,5 @@
+>S1_MHC1_0182
+KQGNFKNL
+# Position: 182-189
+# Length: 8 amino acids
+# Type: MHC-I

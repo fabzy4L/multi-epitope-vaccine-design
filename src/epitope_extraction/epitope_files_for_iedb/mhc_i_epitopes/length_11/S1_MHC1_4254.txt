@@ -1,0 +1,5 @@
+>S1_MHC1_4254
+EHVNNSYECDI
+# Position: 654-664
+# Length: 11 amino acids
+# Type: MHC-I

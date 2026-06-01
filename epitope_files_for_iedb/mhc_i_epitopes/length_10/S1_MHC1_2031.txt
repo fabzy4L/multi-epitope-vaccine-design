@@ -1,0 +1,5 @@
+>S1_MHC1_2031
+SQSIIAYTMS
+# Position: 676-685
+# Length: 10 amino acids
+# Type: MHC-I

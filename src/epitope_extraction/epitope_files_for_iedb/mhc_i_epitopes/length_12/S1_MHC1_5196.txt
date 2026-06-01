@@ -1,0 +1,5 @@
+>S1_MHC1_5196
+DSFVIRGDEVRQ
+# Position: 398-409
+# Length: 12 amino acids
+# Type: MHC-I

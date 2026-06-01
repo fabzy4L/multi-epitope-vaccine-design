@@ -1,0 +1,5 @@
+>S1_MHC1_2883
+GVEGFNCYFP
+# Position: 482-491
+# Length: 10 amino acids
+# Type: MHC-I

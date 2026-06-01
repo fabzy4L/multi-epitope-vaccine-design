@@ -1,0 +1,5 @@
+>S1_MHC1_5464
+IGAGICASYQTQ
+# Position: 666-677
+# Length: 12 amino acids
+# Type: MHC-I

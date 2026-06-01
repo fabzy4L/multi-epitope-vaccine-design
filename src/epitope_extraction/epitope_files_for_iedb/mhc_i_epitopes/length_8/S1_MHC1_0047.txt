@@ -1,0 +1,5 @@
+>S1_MHC1_0047
+VLHSTQDL
+# Position: 47-54
+# Length: 8 amino acids
+# Type: MHC-I

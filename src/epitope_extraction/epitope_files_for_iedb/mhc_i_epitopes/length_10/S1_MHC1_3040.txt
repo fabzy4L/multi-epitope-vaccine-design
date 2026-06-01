@@ -1,0 +1,5 @@
+>S1_MHC1_3040
+GSNVFQTRAG
+# Position: 639-648
+# Length: 10 amino acids
+# Type: MHC-I

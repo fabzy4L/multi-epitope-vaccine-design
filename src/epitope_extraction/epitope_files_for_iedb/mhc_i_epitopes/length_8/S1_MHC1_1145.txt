@@ -1,0 +1,5 @@
+>S1_MHC1_1145
+LDSFKEEL
+# Position: 1145-1152
+# Length: 8 amino acids
+# Type: MHC-I

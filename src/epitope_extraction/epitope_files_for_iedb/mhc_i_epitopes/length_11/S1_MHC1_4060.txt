@@ -1,0 +1,5 @@
+>S1_MHC1_4060
+NLKPFERDIST
+# Position: 460-470
+# Length: 11 amino acids
+# Type: MHC-I

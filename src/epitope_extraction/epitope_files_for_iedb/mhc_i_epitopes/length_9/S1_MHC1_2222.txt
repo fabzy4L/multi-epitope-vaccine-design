@@ -1,0 +1,5 @@
+>S1_MHC1_2222
+SANLAATKM
+# Position: 1021-1029
+# Length: 9 amino acids
+# Type: MHC-I

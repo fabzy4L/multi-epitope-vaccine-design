@@ -1,0 +1,5 @@
+>S1_MHC1_2724
+TESIVRFPNI
+# Position: 323-332
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5281
+VEGFNCYFPLQS
+# Position: 483-494
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0902
+MAYRFNGI
+# Position: 902-909
+# Length: 8 amino acids
+# Type: MHC-I

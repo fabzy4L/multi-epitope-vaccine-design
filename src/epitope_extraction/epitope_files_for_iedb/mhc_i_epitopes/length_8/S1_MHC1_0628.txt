@@ -1,0 +1,5 @@
+>S1_MHC1_0628
+QLTPTWRV
+# Position: 628-635
+# Length: 8 amino acids
+# Type: MHC-I

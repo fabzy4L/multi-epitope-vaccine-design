@@ -1,0 +1,5 @@
+>S1_MHC1_0350
+ADYSVLYN
+# Position: 350-357
+# Length: 8 amino acids
+# Type: MHC-I

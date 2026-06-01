@@ -1,0 +1,5 @@
+>S1_MHC1_4067
+DISTEIYQAGS
+# Position: 467-477
+# Length: 11 amino acids
+# Type: MHC-I

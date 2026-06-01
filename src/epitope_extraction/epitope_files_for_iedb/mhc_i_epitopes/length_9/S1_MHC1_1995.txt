@@ -1,0 +1,5 @@
+>S1_MHC1_1995
+IKDFGGFNF
+# Position: 794-802
+# Length: 9 amino acids
+# Type: MHC-I

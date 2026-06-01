@@ -1,0 +1,5 @@
+>S1_MHC1_3790
+REFVFKNIDGY
+# Position: 190-200
+# Length: 11 amino acids
+# Type: MHC-I

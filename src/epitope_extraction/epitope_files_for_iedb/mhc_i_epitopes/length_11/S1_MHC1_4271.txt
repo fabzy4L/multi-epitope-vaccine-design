@@ -1,0 +1,5 @@
+>S1_MHC1_4271
+CASYQTQTNSP
+# Position: 671-681
+# Length: 11 amino acids
+# Type: MHC-I

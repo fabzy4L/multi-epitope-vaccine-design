@@ -1,0 +1,5 @@
+>S1_MHC1_4537
+SLSSTASALGK
+# Position: 937-947
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3146
+DSTECSNLLL
+# Position: 745-754
+# Length: 10 amino acids
+# Type: MHC-I

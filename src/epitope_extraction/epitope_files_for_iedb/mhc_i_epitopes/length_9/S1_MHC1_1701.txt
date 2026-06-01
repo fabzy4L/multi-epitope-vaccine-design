@@ -1,0 +1,5 @@
+>S1_MHC1_1701
+TNGVGYQPY
+# Position: 500-508
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2073
+QYTSALLAG
+# Position: 872-880
+# Length: 9 amino acids
+# Type: MHC-I

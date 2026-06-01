@@ -1,0 +1,5 @@
+>S1_MHC1_3476
+FTTAPAICHD
+# Position: 1075-1084
+# Length: 10 amino acids
+# Type: MHC-I

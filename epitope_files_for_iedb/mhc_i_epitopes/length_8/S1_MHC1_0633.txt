@@ -1,0 +1,5 @@
+>S1_MHC1_0633
+RAGCLIGA
+# Position: 633-640
+# Length: 8 amino acids
+# Type: MHC-I

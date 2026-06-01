@@ -1,0 +1,5 @@
+>S1_MHC1_3277
+ALLAGTITSG
+# Position: 876-885
+# Length: 10 amino acids
+# Type: MHC-I

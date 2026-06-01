@@ -1,0 +1,5 @@
+>S1_MHC1_3222
+KSTNLVKNKCVN
+# Position: 516-527
+# Length: 12 amino acids
+# Type: MHC-I

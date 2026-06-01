@@ -1,0 +1,5 @@
+>S1_MHC1_0955
+NAQALNTL
+# Position: 955-962
+# Length: 8 amino acids
+# Type: MHC-I

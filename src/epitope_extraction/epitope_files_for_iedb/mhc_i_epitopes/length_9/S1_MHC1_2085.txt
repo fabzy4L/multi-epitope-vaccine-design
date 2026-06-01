@@ -1,0 +1,5 @@
+>S1_MHC1_2085
+SGWTFGAGA
+# Position: 884-892
+# Length: 9 amino acids
+# Type: MHC-I

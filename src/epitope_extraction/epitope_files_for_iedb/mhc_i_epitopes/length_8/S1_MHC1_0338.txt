@@ -1,0 +1,5 @@
+>S1_MHC1_0338
+FGEVFNAT
+# Position: 338-345
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2182
+LSRLDKVEA
+# Position: 981-989
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0700
+GAENSVAY
+# Position: 700-707
+# Length: 8 amino acids
+# Type: MHC-I

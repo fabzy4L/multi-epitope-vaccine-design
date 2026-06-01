@@ -1,0 +1,5 @@
+>S1_MHC1_2274
+KNFTTAPAI
+# Position: 1073-1081
+# Length: 9 amino acids
+# Type: MHC-I

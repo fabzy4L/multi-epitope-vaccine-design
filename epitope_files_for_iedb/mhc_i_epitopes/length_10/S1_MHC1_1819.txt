@@ -1,0 +1,5 @@
+>S1_MHC1_1819
+STPCNGVEGF
+# Position: 464-473
+# Length: 10 amino acids
+# Type: MHC-I

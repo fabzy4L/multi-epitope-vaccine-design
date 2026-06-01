@@ -1,0 +1,5 @@
+>S1_MHC1_2824
+YKLPDDFTGC
+# Position: 423-432
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1067
+YVPAQEKN
+# Position: 1067-1074
+# Length: 8 amino acids
+# Type: MHC-I

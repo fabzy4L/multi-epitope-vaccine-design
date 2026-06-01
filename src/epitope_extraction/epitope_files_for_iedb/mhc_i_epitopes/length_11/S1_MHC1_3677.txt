@@ -1,0 +1,5 @@
+>S1_MHC1_3677
+KRFDNPVLPFN
+# Position: 77-87
+# Length: 11 amino acids
+# Type: MHC-I

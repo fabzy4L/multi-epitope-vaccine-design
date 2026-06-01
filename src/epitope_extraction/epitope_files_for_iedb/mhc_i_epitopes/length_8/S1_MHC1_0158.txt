@@ -1,0 +1,5 @@
+>S1_MHC1_0158
+RFYSSANN
+# Position: 158-165
+# Length: 8 amino acids
+# Type: MHC-I

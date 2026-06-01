@@ -1,0 +1,5 @@
+>S1_MHC1_0002
+CVNLTTRT
+# Position: 2-9
+# Length: 8 amino acids
+# Type: MHC-I

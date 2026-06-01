@@ -1,0 +1,5 @@
+>S1_MHC1_1632
+GCVIAWNSN
+# Position: 431-439
+# Length: 9 amino acids
+# Type: MHC-I

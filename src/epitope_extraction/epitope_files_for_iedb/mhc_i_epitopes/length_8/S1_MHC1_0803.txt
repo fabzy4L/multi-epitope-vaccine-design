@@ -1,0 +1,5 @@
+>S1_MHC1_0803
+SQILPDPS
+# Position: 803-810
+# Length: 8 amino acids
+# Type: MHC-I

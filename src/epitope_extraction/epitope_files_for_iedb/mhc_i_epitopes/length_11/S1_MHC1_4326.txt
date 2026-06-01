@@ -1,0 +1,5 @@
+>S1_MHC1_4326
+ILPVSMTKTSV
+# Position: 726-736
+# Length: 11 amino acids
+# Type: MHC-I

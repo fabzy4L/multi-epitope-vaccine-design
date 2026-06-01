@@ -1,0 +1,5 @@
+>S1_MHC1_2570
+EYVSQPFLMD
+# Position: 169-178
+# Length: 10 amino acids
+# Type: MHC-I

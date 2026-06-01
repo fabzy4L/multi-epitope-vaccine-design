@@ -1,0 +1,5 @@
+>S1_MHC1_0742
+KRFDNPVLP
+# Position: 64-72
+# Length: 9 amino acids
+# Type: MHC-I

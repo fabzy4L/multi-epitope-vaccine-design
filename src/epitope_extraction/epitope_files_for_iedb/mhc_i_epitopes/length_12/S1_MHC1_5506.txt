@@ -1,0 +1,5 @@
+>S1_MHC1_5506
+SNNSIAIPTNFT
+# Position: 708-719
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0691
+PAYTNSFTR
+# Position: 13-21
+# Length: 9 amino acids
+# Type: MHC-I

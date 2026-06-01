@@ -1,0 +1,5 @@
+>S1_MHC1_2761
+NCVADYSVLY
+# Position: 360-369
+# Length: 10 amino acids
+# Type: MHC-I

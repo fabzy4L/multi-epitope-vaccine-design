@@ -1,0 +1,5 @@
+>S1_MHC1_0734
+TSVDCTMY
+# Position: 734-741
+# Length: 8 amino acids
+# Type: MHC-I

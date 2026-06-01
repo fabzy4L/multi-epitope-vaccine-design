@@ -1,0 +1,5 @@
+>S1_MHC1_3370
+NFGAISSVLN
+# Position: 969-978
+# Length: 10 amino acids
+# Type: MHC-I

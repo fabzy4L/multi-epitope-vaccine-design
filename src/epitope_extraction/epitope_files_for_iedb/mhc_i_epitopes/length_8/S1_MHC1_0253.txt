@@ -1,0 +1,5 @@
+>S1_MHC1_0253
+DSSSGWTA
+# Position: 253-260
+# Length: 8 amino acids
+# Type: MHC-I

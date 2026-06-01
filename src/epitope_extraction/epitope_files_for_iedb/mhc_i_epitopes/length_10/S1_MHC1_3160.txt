@@ -1,0 +1,5 @@
+>S1_MHC1_3160
+FCTQLNRALT
+# Position: 759-768
+# Length: 10 amino acids
+# Type: MHC-I

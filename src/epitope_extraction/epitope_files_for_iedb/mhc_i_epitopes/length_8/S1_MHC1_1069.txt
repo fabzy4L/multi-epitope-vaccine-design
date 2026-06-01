@@ -1,0 +1,5 @@
+>S1_MHC1_1069
+PAQEKNFT
+# Position: 1069-1076
+# Length: 8 amino acids
+# Type: MHC-I

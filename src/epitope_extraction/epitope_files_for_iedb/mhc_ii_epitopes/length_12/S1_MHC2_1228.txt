@@ -1,0 +1,5 @@
+>S1_MHC2_1228
+RRARSVASQSII
+# Position: 682-693
+# Length: 12 amino acids
+# Type: MHC-II

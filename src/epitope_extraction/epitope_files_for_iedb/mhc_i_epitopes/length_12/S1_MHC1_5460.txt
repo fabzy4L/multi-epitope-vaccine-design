@@ -1,0 +1,5 @@
+>S1_MHC1_5460
+CDIPIGAGICAS
+# Position: 662-673
+# Length: 12 amino acids
+# Type: MHC-I

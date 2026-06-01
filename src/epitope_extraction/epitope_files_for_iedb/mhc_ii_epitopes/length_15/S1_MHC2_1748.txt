@@ -1,0 +1,5 @@
+>S1_MHC2_1748
+KGYHLMSFPQSAPHG
+# Position: 1045-1059
+# Length: 15 amino acids
+# Type: MHC-II

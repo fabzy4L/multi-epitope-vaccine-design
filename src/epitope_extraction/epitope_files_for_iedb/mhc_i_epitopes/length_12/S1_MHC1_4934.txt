@@ -1,0 +1,5 @@
+>S1_MHC1_4934
+CNDPFLGVYYHK
+# Position: 136-147
+# Length: 12 amino acids
+# Type: MHC-I

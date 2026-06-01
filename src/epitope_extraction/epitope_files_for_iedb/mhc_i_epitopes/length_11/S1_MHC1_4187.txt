@@ -1,0 +1,5 @@
+>S1_MHC1_4187
+ITPCSFGGVSV
+# Position: 587-597
+# Length: 11 amino acids
+# Type: MHC-I

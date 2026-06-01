@@ -1,0 +1,5 @@
+>S1_MHC1_0385
+DSFVIRGD
+# Position: 385-392
+# Length: 8 amino acids
+# Type: MHC-I

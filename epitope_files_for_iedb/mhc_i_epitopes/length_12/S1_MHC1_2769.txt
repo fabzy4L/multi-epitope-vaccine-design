@@ -1,0 +1,5 @@
+>S1_MHC1_2769
+TKRFDNPVLPFN
+# Position: 63-74
+# Length: 12 amino acids
+# Type: MHC-I

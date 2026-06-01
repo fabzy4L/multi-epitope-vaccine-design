@@ -1,0 +1,5 @@
+>S1_MHC1_0716
+TNFTISVT
+# Position: 716-723
+# Length: 8 amino acids
+# Type: MHC-I

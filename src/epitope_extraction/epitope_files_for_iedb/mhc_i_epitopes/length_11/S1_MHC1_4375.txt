@@ -1,0 +1,5 @@
+>S1_MHC1_4375
+DKNTQEVFAQV
+# Position: 775-785
+# Length: 11 amino acids
+# Type: MHC-I

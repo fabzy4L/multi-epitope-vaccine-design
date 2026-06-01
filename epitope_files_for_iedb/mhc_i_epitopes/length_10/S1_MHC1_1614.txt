@@ -1,0 +1,5 @@
+>S1_MHC1_1614
+PRTFLLKYNE
+# Position: 259-268
+# Length: 10 amino acids
+# Type: MHC-I

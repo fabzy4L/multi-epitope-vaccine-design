@@ -1,0 +1,5 @@
+>S1_MHC1_1129
+VIGIVNNT
+# Position: 1129-1136
+# Length: 8 amino acids
+# Type: MHC-I

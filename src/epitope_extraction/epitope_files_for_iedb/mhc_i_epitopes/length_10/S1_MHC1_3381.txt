@@ -1,0 +1,5 @@
+>S1_MHC1_3381
+ILSRLDKVEA
+# Position: 980-989
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1300
+NIIRGWIFG
+# Position: 99-107
+# Length: 9 amino acids
+# Type: MHC-I

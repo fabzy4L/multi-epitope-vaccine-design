@@ -1,0 +1,5 @@
+>S1_MHC1_1620
+KYNENGTITD
+# Position: 265-274
+# Length: 10 amino acids
+# Type: MHC-I

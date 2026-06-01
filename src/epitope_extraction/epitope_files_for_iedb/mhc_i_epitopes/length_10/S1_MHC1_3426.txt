@@ -1,0 +1,5 @@
+>S1_MHC1_3426
+AATKMSECVL
+# Position: 1025-1034
+# Length: 10 amino acids
+# Type: MHC-I

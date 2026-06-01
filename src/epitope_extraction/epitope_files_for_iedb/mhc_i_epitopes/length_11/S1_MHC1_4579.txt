@@ -1,0 +1,5 @@
+>S1_MHC1_4579
+DILSRLDKVEA
+# Position: 979-989
+# Length: 11 amino acids
+# Type: MHC-I

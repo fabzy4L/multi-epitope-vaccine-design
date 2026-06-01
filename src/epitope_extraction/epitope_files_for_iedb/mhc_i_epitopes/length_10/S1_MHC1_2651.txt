@@ -1,0 +1,5 @@
+>S1_MHC1_2651
+TPGDSSSGWT
+# Position: 250-259
+# Length: 10 amino acids
+# Type: MHC-I

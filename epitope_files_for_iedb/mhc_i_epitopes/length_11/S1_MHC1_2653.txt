@@ -1,0 +1,5 @@
+>S1_MHC1_2653
+VYSTGSNVFQT
+# Position: 622-632
+# Length: 11 amino acids
+# Type: MHC-I

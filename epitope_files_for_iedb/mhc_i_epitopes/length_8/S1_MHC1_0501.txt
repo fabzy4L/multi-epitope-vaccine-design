@@ -1,0 +1,5 @@
+>S1_MHC1_0501
+SFELLHAP
+# Position: 501-508
+# Length: 8 amino acids
+# Type: MHC-I

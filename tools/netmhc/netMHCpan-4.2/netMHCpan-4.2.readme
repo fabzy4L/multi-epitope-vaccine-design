@@ -1,0 +1,136 @@
+
+
+   NetMHCpan 4.2              INSTALLATION INSTRUCTIONS
+
+
+   DESCRIPTION
+
+   The NetMHCpan 4.2 software predicts binding of peptides to any
+   known MHC molecule using artificial neural networks (ANNs). The
+   method is trained on a combination of more than 1,000,000 quantitative
+   Binding Affinity (BA) and Mass-Spectrometry Eluted Ligands (EL) peptides, 
+   and is further finetuned on a combination of >48,000 experimentally
+   verified epitopes from the IEDB and CEDAR databases. Predictions can be made
+   using the standard EL+BA method, and further, predictions from a method 
+   finetuned on either pathogen epitopes (IEDB) or neoepitopes (CEDAR) can be included. 
+   Aside from the wide set of MHC molecules covered in the tool, the user can obtain 
+   predictions to any custom MHC class I molecule by uploading a full length MHC 
+   protein sequence. Predictions can be made for peptides of any length, and, 
+   furthermore, peptide context information can also be included for the EL+BA prediction mode.
+
+   Version 4.2 is described in the following publication:
+
+   NetMHCpan-4.2: Improved prediction of CD8+ epitopes by use of transfer learning 
+   and structural features
+   Jonas Birkelund Nilsson, Jason Greenbaum, Bjoern Peters and Morten Nielsen
+   Frontiers in Immmunology, 07 August 2025, https://doi.org/10.3389/fimmu.2025.1616113
+
+   Earlier version: 4.1
+
+   NetMHCpan-4.1 and NetMHCIIpan-4.0: Improved predictions of MHC antigen
+   presentation by concurrent motif deconvolution and integration of MS
+   MHC eluted ligand data. 
+   Birkir Reynisson, Bruno Alvarez, Sinu Paul, Bjoern Peters and Morten Nielsen
+   Nucleic Acids Research, 02 July 2020, https://doi.org/10.1093/nar/gkaa379
+
+   Earlier version: 4.0:
+   
+   NetMHCpan-4.0: Improved Peptide-MHC Class I Interaction Predictions 
+   Integrating Eluted Ligand and Peptide Binding Affinity Data 
+
+   Vanessa Jurtz, Sinu Paul, Massimo Andreatta, Paolo Marcatili, Bjoern Peters, 
+   and Morten Nielsen
+   The Journal of Immunology (2017) ji1700893; DOI: 10.4049/jimmunol.1700893 
+   
+   The original paper:
+   NetMHCpan, a Method for Quantitative Predictions of Peptide Binding to Any
+   HLA-A and -B Locus Protein of Known Sequence.
+   Morten Nielsen et al.
+   PLoS ONE 2(8): e796. doi:10.1371/journal.pone.0000796, 2007.
+
+   More information about the method, including instructions, guidelines, and
+   output description can be found at:
+   
+        https://services.healthtech.dtu.dk/services/NetMHCpan-4.2/
+
+
+   DOWNLOAD
+
+   The netMHCpan 4.2 software package is a property of Department of 
+   Health Technology, Section of Bioinformatics The Technical University
+   of Denmark. It may be downloaded only by special agreement.
+   For academic users there is a download site at:
+
+        https://services.healthtech.dtu.dk/software.php
+
+   Other users are requested to contact health-software@dtu.dk.
+
+   PRE-INSTALLATION
+
+   netMHCpan 4.2 currently runs under Darwin (macOS), and Linux.
+   The package consists of two files:
+  
+      netMHCpan-4.2.readme         this file
+      netMHCpan-4.2.<unix>.tar.gz   compressed TAR archive
+
+   where 'unix' is the UNIX platform on which you are about to install. After
+   installation the software will occupy less than 45 MB of diskspace.
+
+   INSTALLATION
+
+   1. Uncompress and untar the package:
+
+      cat netMHCpan-4.2.<unix>.tar.gz | tar -xzvf -
+
+      This will produce a directory 'netMHCpan-4.2'.
+
+   2. In the 'netMHCpan-4.2' directory edit the script 'netMHCpan':
+   
+      a. At the top of the file  locate the part labelled  "GENERAL SETTINGS:
+         CUSTOMIZE TO YOUR SITE"  and set  the 'NMHOME' variable  to the full
+	     path to the 'netMHCpan-4.2' directory on your system;
+
+      b. Set TMPDIR to the full path to the temporary directory of you choice. It must
+         be user-writable. You may for example set it to $NMHOME/tmp (and create
+         the tmp folder in the netMHCpan-4.2 directory).
+
+   3. In the 'netMHCpan-4.2/test' directory test the software:
+
+      >../netMHCpan -p test.pep > test.pep.out
+      >../netMHCpan -p -context test.pep_context > test.pep_context.out
+      >../netMHCpan -pmhc test.pep_mhc > test.pep_mhc.out
+      >../netMHCpan -pmhc -context test.pep_context_mhc > test.pep_context_mhc.out
+      >../netMHCpan -p test.pep -BA > test.pep_wBA.out
+      >../netMHCpan test.fsa > test.fsa.out
+      >../netMHCpan -hlaseq B0702.fsa -p test.pep > test.pep_userMHC.out
+      >../netMHCpan -p test.pep -BA -xls -a HLA-A01:01,HLA-A02:01 -xlsfile NetMHCpan_out.xls
+
+      The resulting ".myout" files should not differ from the corresponding
+      ".out" files provided in the package other than in the directory names
+	  and small rounding errors.
+
+   4. Finish the installation:
+
+      a. Copy or link the 'netMHCpan' file to a directory in the users' path.
+
+      b. Copy the 'netMHCpan.1' file to a location  in your manual system. If
+         you need a compiled version try running:
+
+         man -d netMHCpan.1 | compress >netMHCpan.Z
+
+         or:
+
+         neqn netMHCpan.1 | tbl | nroff -man | col | compress >netMHCpan.Z
+
+   5. Enjoy ...
+
+
+   PROBLEMS
+
+   Contact health-software@dtu.dk in case of problems.
+   
+   Questions on the scientific aspects of the netMHCpan method should be sent
+   to Dr. Morten Nielsen, morni@dtu.dk.
+
+   DTU,  30 July 2025
+   M. Nielsen

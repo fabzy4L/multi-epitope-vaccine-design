@@ -1,0 +1,5 @@
+>S1_MHC1_5794
+LITGRLQSLQTY
+# Position: 996-1007
+# Length: 12 amino acids
+# Type: MHC-I

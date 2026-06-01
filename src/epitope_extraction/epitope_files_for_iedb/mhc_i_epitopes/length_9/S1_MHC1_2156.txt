@@ -1,0 +1,5 @@
+>S1_MHC1_2156
+NAQALNTLV
+# Position: 955-963
+# Length: 9 amino acids
+# Type: MHC-I

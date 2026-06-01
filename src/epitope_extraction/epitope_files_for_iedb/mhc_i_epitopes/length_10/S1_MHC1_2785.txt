@@ -1,0 +1,5 @@
+>S1_MHC1_2785
+PTKLNDLCFT
+# Position: 384-393
+# Length: 10 amino acids
+# Type: MHC-I

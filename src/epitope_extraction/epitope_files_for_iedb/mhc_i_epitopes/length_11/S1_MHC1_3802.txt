@@ -1,0 +1,5 @@
+>S1_MHC1_3802
+KIYSKHTPINL
+# Position: 202-212
+# Length: 11 amino acids
+# Type: MHC-I

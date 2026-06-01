@@ -1,0 +1,5 @@
+>S1_MHC2_1652
+GSFCTQLNRALTGIA
+# Position: 757-771
+# Length: 15 amino acids
+# Type: MHC-II

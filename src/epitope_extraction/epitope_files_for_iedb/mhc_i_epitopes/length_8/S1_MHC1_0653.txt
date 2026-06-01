@@ -1,0 +1,5 @@
+>S1_MHC1_0653
+AEHVNNSY
+# Position: 653-660
+# Length: 8 amino acids
+# Type: MHC-I

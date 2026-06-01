@@ -1,0 +1,18 @@
+============================================================
+  S1 Sequence Extraction Report
+============================================================
+  Input sequences     : 1
+  S1 candidates found : 1
+  Filter mode         : broad
+  S1 domain trim      : no (full spike)
+  Output file         : analysis\02_epitope_prediction\sars_cov2_spike_full.fasta
+------------------------------------------------------------
+  Sequence length — min : 1275 aa
+  Sequence length — max : 1275 aa
+  Sequence length — avg : 1275 aa
+------------------------------------------------------------
+  Headers of extracted sequences:
+
+    [1275 aa]  6XM4_1|Chains A,B,C|Spike glycoprotein|Severe acute respiratory syndrome coronavirus 2 (2697049)
+
+============================================================

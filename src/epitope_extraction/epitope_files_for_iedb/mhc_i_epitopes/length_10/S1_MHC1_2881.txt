@@ -1,0 +1,5 @@
+>S1_MHC1_2881
+CNGVEGFNCY
+# Position: 480-489
+# Length: 10 amino acids
+# Type: MHC-I

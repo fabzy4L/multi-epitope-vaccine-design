@@ -1,0 +1,5 @@
+>S1_MHC1_1431
+GVYFASTEKS
+# Position: 76-85
+# Length: 10 amino acids
+# Type: MHC-I

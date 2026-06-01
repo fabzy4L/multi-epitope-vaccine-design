@@ -1,0 +1,5 @@
+>S1_MHC1_0649
+CLIGAEHV
+# Position: 649-656
+# Length: 8 amino acids
+# Type: MHC-I

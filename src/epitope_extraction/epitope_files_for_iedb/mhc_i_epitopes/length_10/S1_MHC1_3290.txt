@@ -1,0 +1,5 @@
+>S1_MHC1_3290
+GAGAALQIPF
+# Position: 889-898
+# Length: 10 amino acids
+# Type: MHC-I

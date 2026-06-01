@@ -1,0 +1,5 @@
+>S1_MHC2_1280
+GDCLGDIAARDL
+# Position: 838-849
+# Length: 12 amino acids
+# Type: MHC-II

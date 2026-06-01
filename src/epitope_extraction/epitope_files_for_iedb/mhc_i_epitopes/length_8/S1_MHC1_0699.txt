@@ -1,0 +1,5 @@
+>S1_MHC1_0699
+LGAENSVA
+# Position: 699-706
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1432
+IGINITRFQ
+# Position: 231-239
+# Length: 9 amino acids
+# Type: MHC-I

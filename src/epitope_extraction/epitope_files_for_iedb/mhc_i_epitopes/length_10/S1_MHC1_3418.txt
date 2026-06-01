@@ -1,0 +1,5 @@
+>S1_MHC1_3418
+EIRASANLAA
+# Position: 1017-1026
+# Length: 10 amino acids
+# Type: MHC-I

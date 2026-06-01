@@ -1,0 +1,5 @@
+>S1_MHC1_4916
+LIVNNATNVVIK
+# Position: 118-129
+# Length: 12 amino acids
+# Type: MHC-I

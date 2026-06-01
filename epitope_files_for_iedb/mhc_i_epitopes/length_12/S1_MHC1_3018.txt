@@ -1,0 +1,5 @@
+>S1_MHC1_3018
+SIVRFPNITNLC
+# Position: 312-323
+# Length: 12 amino acids
+# Type: MHC-I

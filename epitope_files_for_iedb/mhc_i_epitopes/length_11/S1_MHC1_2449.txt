@@ -1,0 +1,5 @@
+>S1_MHC1_2449
+GCVIAWNSNNL
+# Position: 418-428
+# Length: 11 amino acids
+# Type: MHC-I

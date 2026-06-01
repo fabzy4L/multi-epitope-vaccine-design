@@ -1,0 +1,5 @@
+>S1_MHC1_3423
+ANLAATKMSE
+# Position: 1022-1031
+# Length: 10 amino acids
+# Type: MHC-I

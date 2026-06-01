@@ -1,0 +1,5 @@
+>S1_MHC1_1924
+TTEILPVSM
+# Position: 723-731
+# Length: 9 amino acids
+# Type: MHC-I

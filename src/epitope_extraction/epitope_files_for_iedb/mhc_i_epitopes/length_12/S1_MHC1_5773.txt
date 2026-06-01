@@ -1,0 +1,5 @@
+>S1_MHC1_5773
+SVLNDILSRLDK
+# Position: 975-986
+# Length: 12 amino acids
+# Type: MHC-I

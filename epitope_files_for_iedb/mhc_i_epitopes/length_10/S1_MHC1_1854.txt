@@ -1,0 +1,5 @@
+>S1_MHC1_1854
+VLSFELLHAP
+# Position: 499-508
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2802
+VIRGDEVRQI
+# Position: 401-410
+# Length: 10 amino acids
+# Type: MHC-I

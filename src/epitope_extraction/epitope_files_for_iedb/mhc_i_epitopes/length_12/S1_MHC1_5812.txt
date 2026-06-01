@@ -1,0 +1,5 @@
+>S1_MHC1_5812
+RAAEIRASANLA
+# Position: 1014-1025
+# Length: 12 amino acids
+# Type: MHC-I

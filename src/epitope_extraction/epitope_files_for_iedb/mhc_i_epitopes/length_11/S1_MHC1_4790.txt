@@ -1,0 +1,5 @@
+>S1_MHC1_4790
+AKNLNESLIDL
+# Position: 1190-1200
+# Length: 11 amino acids
+# Type: MHC-I

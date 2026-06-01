@@ -1,0 +1,5 @@
+>S1_MHC1_2521
+VNNATNVVIK
+# Position: 120-129
+# Length: 10 amino acids
+# Type: MHC-I

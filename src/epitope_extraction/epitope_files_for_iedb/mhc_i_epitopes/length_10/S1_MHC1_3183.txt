@@ -1,0 +1,5 @@
+>S1_MHC1_3183
+FAQVKQIYKT
+# Position: 782-791
+# Length: 10 amino acids
+# Type: MHC-I

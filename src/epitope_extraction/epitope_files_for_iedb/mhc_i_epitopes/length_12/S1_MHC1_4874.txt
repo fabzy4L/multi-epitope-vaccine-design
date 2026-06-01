@@ -1,0 +1,5 @@
+>S1_MHC1_4874
+TKRFDNPVLPFN
+# Position: 76-87
+# Length: 12 amino acids
+# Type: MHC-I

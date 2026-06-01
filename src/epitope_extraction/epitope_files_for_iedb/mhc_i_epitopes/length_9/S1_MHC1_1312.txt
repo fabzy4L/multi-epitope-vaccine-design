@@ -1,0 +1,5 @@
+>S1_MHC1_1312
+DSKTQSLLI
+# Position: 111-119
+# Length: 9 amino acids
+# Type: MHC-I

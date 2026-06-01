@@ -1,0 +1,5 @@
+>S1_MHC1_5043
+HRSYLTPGDSSS
+# Position: 245-256
+# Length: 12 amino acids
+# Type: MHC-I

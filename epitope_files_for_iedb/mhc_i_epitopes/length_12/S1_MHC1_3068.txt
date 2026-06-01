@@ -1,0 +1,5 @@
+>S1_MHC1_3068
+STFKCYGVSPTK
+# Position: 362-373
+# Length: 12 amino acids
+# Type: MHC-I

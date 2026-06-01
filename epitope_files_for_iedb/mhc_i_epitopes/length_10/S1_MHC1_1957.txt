@@ -1,0 +1,5 @@
+>S1_MHC1_1957
+VNCTEVPVAI
+# Position: 602-611
+# Length: 10 amino acids
+# Type: MHC-I

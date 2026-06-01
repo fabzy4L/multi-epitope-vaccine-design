@@ -1,0 +1,5 @@
+>S1_MHC1_1956
+QYGSFCTQL
+# Position: 755-763
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0022
+TQLPPAYT
+# Position: 22-29
+# Length: 8 amino acids
+# Type: MHC-I

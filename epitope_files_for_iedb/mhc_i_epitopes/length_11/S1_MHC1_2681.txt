@@ -1,0 +1,5 @@
+>S1_MHC1_2681
+DIPIGAGICAS
+# Position: 650-660
+# Length: 11 amino acids
+# Type: MHC-I

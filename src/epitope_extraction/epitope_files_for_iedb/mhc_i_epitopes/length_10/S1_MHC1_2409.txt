@@ -1,0 +1,5 @@
+>S1_MHC1_2409
+LPLVSSQCVN
+# Position: 8-17
+# Length: 10 amino acids
+# Type: MHC-I

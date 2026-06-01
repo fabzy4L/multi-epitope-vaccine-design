@@ -1,0 +1,5 @@
+>S1_MHC1_4294
+AYTMSLGAENS
+# Position: 694-704
+# Length: 11 amino acids
+# Type: MHC-I

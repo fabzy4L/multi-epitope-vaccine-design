@@ -1,0 +1,5 @@
+>S1_MHC1_1718
+TFKCYGVSPT
+# Position: 363-372
+# Length: 10 amino acids
+# Type: MHC-I

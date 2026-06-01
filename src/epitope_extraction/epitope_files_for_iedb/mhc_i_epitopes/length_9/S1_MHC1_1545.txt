@@ -1,0 +1,5 @@
+>S1_MHC1_1545
+ATRFASVYA
+# Position: 344-352
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3571
+SGINASVVNI
+# Position: 1170-1179
+# Length: 10 amino acids
+# Type: MHC-I

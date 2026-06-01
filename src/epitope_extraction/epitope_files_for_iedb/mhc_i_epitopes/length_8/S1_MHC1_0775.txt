@@ -1,0 +1,5 @@
+>S1_MHC1_0775
+DKNTQEVF
+# Position: 775-782
+# Length: 8 amino acids
+# Type: MHC-I

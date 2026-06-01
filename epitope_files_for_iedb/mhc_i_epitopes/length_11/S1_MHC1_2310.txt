@@ -1,0 +1,5 @@
+>S1_MHC1_2310
+ALDPLSETKCT
+# Position: 279-289
+# Length: 11 amino acids
+# Type: MHC-I

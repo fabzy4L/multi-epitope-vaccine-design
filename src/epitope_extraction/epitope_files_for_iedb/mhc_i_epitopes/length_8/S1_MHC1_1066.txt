@@ -1,0 +1,5 @@
+>S1_MHC1_1066
+TYVPAQEK
+# Position: 1066-1073
+# Length: 8 amino acids
+# Type: MHC-I

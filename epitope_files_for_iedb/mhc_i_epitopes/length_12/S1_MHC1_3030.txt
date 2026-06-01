@@ -1,0 +1,5 @@
+>S1_MHC1_3030
+PFGEVFNATRFA
+# Position: 324-335
+# Length: 12 amino acids
+# Type: MHC-I

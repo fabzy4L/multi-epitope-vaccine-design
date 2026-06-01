@@ -1,0 +1,5 @@
+>S1_MHC1_3069
+AGICASYQTQ
+# Position: 668-677
+# Length: 10 amino acids
+# Type: MHC-I

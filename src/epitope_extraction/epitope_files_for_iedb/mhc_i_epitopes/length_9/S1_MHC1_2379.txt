@@ -1,0 +1,5 @@
+>S1_MHC1_2379
+NIQKEIDRL
+# Position: 1178-1186
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5256
+KSNLKPFERDIS
+# Position: 458-469
+# Length: 12 amino acids
+# Type: MHC-I

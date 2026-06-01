@@ -1,0 +1,5 @@
+>S1_MHC1_1644
+TLKSFTVEKG
+# Position: 289-298
+# Length: 10 amino acids
+# Type: MHC-I

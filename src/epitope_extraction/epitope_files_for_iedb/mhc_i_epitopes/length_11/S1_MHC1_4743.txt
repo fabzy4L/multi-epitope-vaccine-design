@@ -1,0 +1,5 @@
+>S1_MHC1_4743
+PELDSFKEELD
+# Position: 1143-1153
+# Length: 11 amino acids
+# Type: MHC-I

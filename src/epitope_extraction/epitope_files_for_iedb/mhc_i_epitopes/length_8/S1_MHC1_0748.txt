@@ -1,0 +1,5 @@
+>S1_MHC1_0748
+ECSNLLLQ
+# Position: 748-755
+# Length: 8 amino acids
+# Type: MHC-I

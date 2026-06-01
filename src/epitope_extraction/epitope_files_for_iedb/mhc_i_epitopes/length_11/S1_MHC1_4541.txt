@@ -1,0 +1,5 @@
+>S1_MHC1_4541
+TASALGKLQDV
+# Position: 941-951
+# Length: 11 amino acids
+# Type: MHC-I

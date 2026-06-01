@@ -1,0 +1,5 @@
+>S1_MHC1_0343
+NATRFASV
+# Position: 343-350
+# Length: 8 amino acids
+# Type: MHC-I

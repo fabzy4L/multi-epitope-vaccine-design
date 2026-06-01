@@ -1,0 +1,5 @@
+>S1_MHC1_1712
+VVLSFELLH
+# Position: 511-519
+# Length: 9 amino acids
+# Type: MHC-I

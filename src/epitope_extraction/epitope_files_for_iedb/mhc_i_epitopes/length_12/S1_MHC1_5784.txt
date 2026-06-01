@@ -1,0 +1,5 @@
+>S1_MHC1_5784
+KVEAEVQIDRLI
+# Position: 986-997
+# Length: 12 amino acids
+# Type: MHC-I

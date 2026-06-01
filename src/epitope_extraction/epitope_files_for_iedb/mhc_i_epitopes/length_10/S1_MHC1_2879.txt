@@ -1,0 +1,5 @@
+>S1_MHC1_2879
+TPCNGVEGFN
+# Position: 478-487
+# Length: 10 amino acids
+# Type: MHC-I

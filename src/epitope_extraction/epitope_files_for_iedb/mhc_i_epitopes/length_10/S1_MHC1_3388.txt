@@ -1,0 +1,5 @@
+>S1_MHC1_3388
+VEAEVQIDRL
+# Position: 987-996
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2188
+YVSQPFLMDLE
+# Position: 157-167
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1154
+NLKPFERDISTE
+# Position: 460-471
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_3713
+KTQSLLIVNNA
+# Position: 113-123
+# Length: 11 amino acids
+# Type: MHC-I

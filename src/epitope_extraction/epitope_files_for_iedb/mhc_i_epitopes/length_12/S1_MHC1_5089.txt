@@ -1,0 +1,5 @@
+>S1_MHC1_5089
+CALDPLSETKCT
+# Position: 291-302
+# Length: 12 amino acids
+# Type: MHC-I

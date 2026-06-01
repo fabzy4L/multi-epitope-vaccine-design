@@ -1,0 +1,5 @@
+>S1_MHC1_2892
+GYFKIYSKHTPI
+# Position: 186-197
+# Length: 12 amino acids
+# Type: MHC-I

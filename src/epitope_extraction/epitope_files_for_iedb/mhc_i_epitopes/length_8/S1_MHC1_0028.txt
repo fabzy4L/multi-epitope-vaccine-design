@@ -1,0 +1,5 @@
+>S1_MHC1_0028
+YTNSFTRG
+# Position: 28-35
+# Length: 8 amino acids
+# Type: MHC-I

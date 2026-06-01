@@ -1,0 +1,5 @@
+>S1_MHC1_3112
+SIAIPTNFTI
+# Position: 711-720
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1506
+SFTVEKGIY
+# Position: 305-313
+# Length: 9 amino acids
+# Type: MHC-I

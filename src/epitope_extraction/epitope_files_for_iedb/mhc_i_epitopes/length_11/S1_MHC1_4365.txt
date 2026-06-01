@@ -1,0 +1,5 @@
+>S1_MHC1_4365
+RALTGIAVEQD
+# Position: 765-775
+# Length: 11 amino acids
+# Type: MHC-I

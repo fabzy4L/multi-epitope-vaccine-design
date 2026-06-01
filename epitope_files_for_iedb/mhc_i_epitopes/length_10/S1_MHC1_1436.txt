@@ -1,0 +1,5 @@
+>S1_MHC1_1436
+STEKSNIIRG
+# Position: 81-90
+# Length: 10 amino acids
+# Type: MHC-I

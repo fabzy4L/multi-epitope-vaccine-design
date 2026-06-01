@@ -1,0 +1,5 @@
+>S1_MHC2_1907
+RFPNITNLCPFGEVFNAT
+# Position: 328-345
+# Length: 18 amino acids
+# Type: MHC-II

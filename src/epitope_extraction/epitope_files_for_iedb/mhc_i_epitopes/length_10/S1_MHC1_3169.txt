@@ -1,0 +1,5 @@
+>S1_MHC1_3169
+TGIAVEQDKN
+# Position: 768-777
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4970
+SQPFLMDLEGKQ
+# Position: 172-183
+# Length: 12 amino acids
+# Type: MHC-I

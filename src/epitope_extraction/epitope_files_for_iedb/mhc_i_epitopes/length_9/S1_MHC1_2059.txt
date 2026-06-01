@@ -1,0 +1,5 @@
+>S1_MHC1_2059
+LTVLPPLLT
+# Position: 858-866
+# Length: 9 amino acids
+# Type: MHC-I

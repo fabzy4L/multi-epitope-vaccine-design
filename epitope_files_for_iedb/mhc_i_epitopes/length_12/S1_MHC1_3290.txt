@@ -1,0 +1,5 @@
+>S1_MHC1_3290
+VITPGTNTSNQV
+# Position: 584-595
+# Length: 12 amino acids
+# Type: MHC-I

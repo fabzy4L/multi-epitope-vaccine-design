@@ -1,0 +1,5 @@
+>S1_MHC2_1596
+LYRLFRKSNLKPFERDIS
+# Position: 439-456
+# Length: 18 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_5136
+FGEVFNATRFAS
+# Position: 338-349
+# Length: 12 amino acids
+# Type: MHC-I

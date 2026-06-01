@@ -1,0 +1,5 @@
+>S1_MHC1_5816
+IRASANLAATKM
+# Position: 1018-1029
+# Length: 12 amino acids
+# Type: MHC-I

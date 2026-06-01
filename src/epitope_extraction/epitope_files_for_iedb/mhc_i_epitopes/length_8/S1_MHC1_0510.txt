@@ -1,0 +1,5 @@
+>S1_MHC1_0510
+VVVLSFEL
+# Position: 510-517
+# Length: 8 amino acids
+# Type: MHC-I

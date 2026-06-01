@@ -1,0 +1,5 @@
+>S1_MHC2_1511
+NLCPFGEVFNATRFA
+# Position: 334-348
+# Length: 15 amino acids
+# Type: MHC-II

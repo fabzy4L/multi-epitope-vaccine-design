@@ -1,0 +1,5 @@
+>S1_MHC1_3578
+VNIQKEIDRL
+# Position: 1177-1186
+# Length: 10 amino acids
+# Type: MHC-I

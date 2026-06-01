@@ -1,0 +1,5 @@
+>S1_MHC1_1890
+GTGVLTESNK
+# Position: 535-544
+# Length: 10 amino acids
+# Type: MHC-I

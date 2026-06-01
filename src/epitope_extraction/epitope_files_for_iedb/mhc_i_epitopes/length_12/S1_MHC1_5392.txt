@@ -1,0 +1,5 @@
+>S1_MHC1_5392
+GVSVITPGTNTS
+# Position: 594-605
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3513
+PQIITTDNTF
+# Position: 1112-1121
+# Length: 10 amino acids
+# Type: MHC-I

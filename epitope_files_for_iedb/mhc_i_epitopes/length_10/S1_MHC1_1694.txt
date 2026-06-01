@@ -1,0 +1,5 @@
+>S1_MHC1_1694
+AWNRKRISNC
+# Position: 339-348
+# Length: 10 amino acids
+# Type: MHC-I

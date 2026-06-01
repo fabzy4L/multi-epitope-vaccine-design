@@ -1,0 +1,5 @@
+>S1_MHC1_2248
+YHLMSFPQS
+# Position: 1047-1055
+# Length: 9 amino acids
+# Type: MHC-I

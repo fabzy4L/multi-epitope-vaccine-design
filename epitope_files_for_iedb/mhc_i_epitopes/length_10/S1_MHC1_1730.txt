@@ -1,0 +1,5 @@
+>S1_MHC1_1730
+NDLCFTNVYA
+# Position: 375-384
+# Length: 10 amino acids
+# Type: MHC-I

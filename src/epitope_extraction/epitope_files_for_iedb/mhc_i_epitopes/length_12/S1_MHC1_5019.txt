@@ -1,0 +1,5 @@
+>S1_MHC1_5019
+SALEPLVDLPIG
+# Position: 221-232
+# Length: 12 amino acids
+# Type: MHC-I

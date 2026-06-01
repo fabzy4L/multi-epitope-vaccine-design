@@ -1,0 +1,5 @@
+>S1_MHC1_0577
+RDPQTLEI
+# Position: 577-584
+# Length: 8 amino acids
+# Type: MHC-I

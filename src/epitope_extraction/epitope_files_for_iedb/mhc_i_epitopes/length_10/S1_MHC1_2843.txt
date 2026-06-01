@@ -1,0 +1,5 @@
+>S1_MHC1_2843
+DSKVGGNYNY
+# Position: 442-451
+# Length: 10 amino acids
+# Type: MHC-I

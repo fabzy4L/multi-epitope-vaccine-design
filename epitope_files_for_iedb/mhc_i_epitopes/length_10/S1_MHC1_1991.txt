@@ -1,0 +1,5 @@
+>S1_MHC1_1991
+CLIGAEHVNN
+# Position: 636-645
+# Length: 10 amino acids
+# Type: MHC-I

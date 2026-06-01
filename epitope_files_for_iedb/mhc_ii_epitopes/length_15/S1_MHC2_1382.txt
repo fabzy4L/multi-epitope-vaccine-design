@@ -1,0 +1,5 @@
+>S1_MHC2_1382
+GVEGFNCYFPLQSYG
+# Position: 469-483
+# Length: 15 amino acids
+# Type: MHC-II

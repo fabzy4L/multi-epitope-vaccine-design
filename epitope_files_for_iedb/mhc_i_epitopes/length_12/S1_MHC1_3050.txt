@@ -1,0 +1,5 @@
+>S1_MHC1_3050
+RISNCVADYSVL
+# Position: 344-355
+# Length: 12 amino acids
+# Type: MHC-I

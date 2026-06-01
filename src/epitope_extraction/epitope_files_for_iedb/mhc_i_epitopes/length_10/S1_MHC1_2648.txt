@@ -1,0 +1,5 @@
+>S1_MHC1_2648
+SYLTPGDSSS
+# Position: 247-256
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2398
+YGVSPTKLNDL
+# Position: 367-377
+# Length: 11 amino acids
+# Type: MHC-I

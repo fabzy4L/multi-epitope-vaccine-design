@@ -1,0 +1,5 @@
+>S1_MHC1_0153
+CTFEYVSQ
+# Position: 153-160
+# Length: 8 amino acids
+# Type: MHC-I

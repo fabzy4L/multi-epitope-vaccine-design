@@ -1,0 +1,5 @@
+>S1_MHC1_3098
+MSLGAENSVA
+# Position: 697-706
+# Length: 10 amino acids
+# Type: MHC-I

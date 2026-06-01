@@ -1,0 +1,5 @@
+>S1_MHC1_3207
+SFELLHAPATVC
+# Position: 501-512
+# Length: 12 amino acids
+# Type: MHC-I

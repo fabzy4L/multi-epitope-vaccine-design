@@ -1,0 +1,5 @@
+>S1_MHC1_0930
+AIGKIQDS
+# Position: 930-937
+# Length: 8 amino acids
+# Type: MHC-I

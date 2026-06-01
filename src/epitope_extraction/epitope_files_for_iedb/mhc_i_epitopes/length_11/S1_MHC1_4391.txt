@@ -1,0 +1,5 @@
+>S1_MHC1_4391
+TPPIKDFGGFN
+# Position: 791-801
+# Length: 11 amino acids
+# Type: MHC-I

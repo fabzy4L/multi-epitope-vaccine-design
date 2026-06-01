@@ -1,0 +1,5 @@
+>S1_MHC1_5492
+AYTMSLGAENSV
+# Position: 694-705
+# Length: 12 amino acids
+# Type: MHC-I

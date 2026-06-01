@@ -1,0 +1,5 @@
+>S1_MHC1_2135
+IQDSLSSTA
+# Position: 934-942
+# Length: 9 amino acids
+# Type: MHC-I

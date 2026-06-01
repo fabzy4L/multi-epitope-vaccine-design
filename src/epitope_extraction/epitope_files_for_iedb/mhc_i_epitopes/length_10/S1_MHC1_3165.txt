@@ -1,0 +1,5 @@
+>S1_MHC1_3165
+NRALTGIAVE
+# Position: 764-773
+# Length: 10 amino acids
+# Type: MHC-I

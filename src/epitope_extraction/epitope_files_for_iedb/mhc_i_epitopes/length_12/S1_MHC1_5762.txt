@@ -1,0 +1,5 @@
+>S1_MHC1_5762
+KQLSSNFGAISS
+# Position: 964-975
+# Length: 12 amino acids
+# Type: MHC-I

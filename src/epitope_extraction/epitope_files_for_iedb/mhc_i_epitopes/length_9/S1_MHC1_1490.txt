@@ -1,0 +1,5 @@
+>S1_MHC1_1490
+VDCALDPLS
+# Position: 289-297
+# Length: 9 amino acids
+# Type: MHC-I

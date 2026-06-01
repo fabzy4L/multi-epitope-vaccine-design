@@ -1,0 +1,5 @@
+>S1_MHC1_0905
+RFNGIGVT
+# Position: 905-912
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3393
+QIDRLITGRL
+# Position: 992-1001
+# Length: 10 amino acids
+# Type: MHC-I

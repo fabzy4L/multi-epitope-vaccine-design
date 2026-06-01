@@ -1,0 +1,5 @@
+>S1_MHC1_2383
+YSVLYNSASFS
+# Position: 352-362
+# Length: 11 amino acids
+# Type: MHC-I

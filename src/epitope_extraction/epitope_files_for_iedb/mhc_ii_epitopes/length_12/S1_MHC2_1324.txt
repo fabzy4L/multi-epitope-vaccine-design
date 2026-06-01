@@ -1,0 +1,5 @@
+>S1_MHC2_1324
+FGAISSVLNDIL
+# Position: 970-981
+# Length: 12 amino acids
+# Type: MHC-II

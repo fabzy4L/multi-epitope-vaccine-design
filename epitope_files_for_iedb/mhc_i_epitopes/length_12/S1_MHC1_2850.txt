@@ -1,0 +1,5 @@
+>S1_MHC1_2850
+FRVYSSANNCTF
+# Position: 144-155
+# Length: 12 amino acids
+# Type: MHC-I

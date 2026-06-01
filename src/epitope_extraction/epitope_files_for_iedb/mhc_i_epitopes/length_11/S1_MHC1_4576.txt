@@ -1,0 +1,5 @@
+>S1_MHC1_4576
+VLNDILSRLDK
+# Position: 976-986
+# Length: 11 amino acids
+# Type: MHC-I

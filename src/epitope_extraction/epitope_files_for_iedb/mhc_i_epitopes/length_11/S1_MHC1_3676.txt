@@ -1,0 +1,5 @@
+>S1_MHC1_3676
+TKRFDNPVLPF
+# Position: 76-86
+# Length: 11 amino acids
+# Type: MHC-I

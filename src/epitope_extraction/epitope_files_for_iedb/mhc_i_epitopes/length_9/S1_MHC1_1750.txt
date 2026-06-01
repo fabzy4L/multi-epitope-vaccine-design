@@ -1,0 +1,5 @@
+>S1_MHC1_1750
+TGVLTESNK
+# Position: 549-557
+# Length: 9 amino acids
+# Type: MHC-I

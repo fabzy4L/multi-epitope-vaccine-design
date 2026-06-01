@@ -1,0 +1,5 @@
+>S1_MHC1_1779
+DPQTLEILD
+# Position: 578-586
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3135
+TSVDCTMYIC
+# Position: 734-743
+# Length: 10 amino acids
+# Type: MHC-I

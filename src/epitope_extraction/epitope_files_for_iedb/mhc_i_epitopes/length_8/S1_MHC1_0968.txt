@@ -1,0 +1,5 @@
+>S1_MHC1_0968
+SNFGAISS
+# Position: 968-975
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5445
+AGCLIGAEHVNN
+# Position: 647-658
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2913
+VLSFELLHAP
+# Position: 512-521
+# Length: 10 amino acids
+# Type: MHC-I

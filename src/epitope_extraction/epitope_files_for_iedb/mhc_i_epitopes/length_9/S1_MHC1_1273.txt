@@ -1,0 +1,5 @@
+>S1_MHC1_1273
+GTNGTKRFD
+# Position: 72-80
+# Length: 9 amino acids
+# Type: MHC-I

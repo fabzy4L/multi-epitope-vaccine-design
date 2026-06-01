@@ -1,0 +1,5 @@
+>S1_MHC1_1806
+FERDISTEIY
+# Position: 451-460
+# Length: 10 amino acids
+# Type: MHC-I

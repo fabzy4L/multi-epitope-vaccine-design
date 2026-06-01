@@ -1,0 +1,5 @@
+>S1_MHC1_0326
+IVRFPNIT
+# Position: 326-333
+# Length: 8 amino acids
+# Type: MHC-I

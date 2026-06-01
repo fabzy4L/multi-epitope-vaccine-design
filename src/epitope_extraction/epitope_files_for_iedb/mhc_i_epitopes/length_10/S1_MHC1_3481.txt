@@ -1,0 +1,5 @@
+>S1_MHC1_3481
+AICHDGKAHF
+# Position: 1080-1089
+# Length: 10 amino acids
+# Type: MHC-I

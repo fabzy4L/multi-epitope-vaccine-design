@@ -1,0 +1,5 @@
+>S1_MHC1_0842
+GDIAARDL
+# Position: 842-849
+# Length: 8 amino acids
+# Type: MHC-I

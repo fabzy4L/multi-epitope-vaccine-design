@@ -1,0 +1,5 @@
+>S1_MHC1_1330
+KVCEFQFCN
+# Position: 129-137
+# Length: 9 amino acids
+# Type: MHC-I

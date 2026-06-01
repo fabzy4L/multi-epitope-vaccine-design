@@ -1,0 +1,5 @@
+>S1_MHC1_5871
+KNFTTAPAICHD
+# Position: 1073-1084
+# Length: 12 amino acids
+# Type: MHC-I

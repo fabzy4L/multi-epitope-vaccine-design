@@ -1,0 +1,5 @@
+>S1_MHC1_3360
+GAGICASYQTQT
+# Position: 654-665
+# Length: 12 amino acids
+# Type: MHC-I

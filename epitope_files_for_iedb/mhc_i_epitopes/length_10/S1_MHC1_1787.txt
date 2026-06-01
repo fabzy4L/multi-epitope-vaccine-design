@@ -1,0 +1,5 @@
+>S1_MHC1_1787
+VGGNYNYLYR
+# Position: 432-441
+# Length: 10 amino acids
+# Type: MHC-I

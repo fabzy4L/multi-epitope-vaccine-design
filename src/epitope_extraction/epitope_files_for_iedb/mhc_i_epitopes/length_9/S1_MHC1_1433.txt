@@ -1,0 +1,5 @@
+>S1_MHC1_1433
+GINITRFQT
+# Position: 232-240
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3266
+LTDEMIAQYT
+# Position: 865-874
+# Length: 10 amino acids
+# Type: MHC-I

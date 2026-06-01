@@ -1,0 +1,5 @@
+>S1_MHC1_0311
+ESIVRFPN
+# Position: 311-318
+# Length: 8 amino acids
+# Type: MHC-I

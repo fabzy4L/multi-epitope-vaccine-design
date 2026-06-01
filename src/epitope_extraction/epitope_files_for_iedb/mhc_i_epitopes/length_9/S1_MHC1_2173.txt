@@ -1,0 +1,5 @@
+>S1_MHC1_2173
+AISSVLNDI
+# Position: 972-980
+# Length: 9 amino acids
+# Type: MHC-I

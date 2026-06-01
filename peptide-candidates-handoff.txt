@@ -1,0 +1,49 @@
+Now I have full context. Here's exactly where you stand and what to do:
+
+**The problem with your IEDB submission:** 10,774 sequences is far too many for the web server — that's why it estimated ~48 hours and likely timed out or the email got lost. The IEDB web tool is meant for small jobs (hundreds of sequences, not thousands).
+
+---
+
+## What You Actually Need to Do
+
+Your pipeline README already identifies the correct input: `1624324292.fas.1` (the 10,778 representative sequences from CD-HIT). But you shouldn't be running all of them through MHC prediction. The correct workflow is:
+
+**Step 1 — Filter first, predict second.**
+You should only run epitope prediction on the **spike protein S1 subunit sequences**, not the entire proteome. From your data, that means extracting S1-relevant sequences from `1624324292.fas.1` using your `NC_045512v2.fa` / `gene_file.fa` as reference. This will reduce your input from ~10,778 to likely **20–100 sequences**.
+
+**Step 2 — Run MHC-I and MHC-II prediction on the filtered set.**
+
+For MHC-I (CD8+):
+- IEDB web tool: http://tools.iedb.org/mhci/
+- Method: NetMHCpan-4.1 EL
+- Alleles: HLA-A*02:01, HLA-A*01:01, HLA-B*07:02 (common supertypes)
+- Length: 9-mers
+
+For MHC-II (CD4+) — your current job:
+- Same IEDB tool, but with a filtered input
+- Method: netmhciipan_el (same as you used)
+- Alleles: DRB1*01:01, DRB1*03:01, DRB1*07:01 (already good choices)
+
+---
+
+## To Retrieve Your Current Job (if still alive)
+
+Go to: **http://tools.iedb.org/mhcii/retrieve/**
+
+You'll need the job timestamp: `2026-05-02 11:05:05`. IEDB sometimes lets you retrieve by email + submission time. If it's gone, it's gone — but with filtered input it'll rerun in minutes, not days.
+
+---
+
+## Next Steps in Your Pipeline
+
+Once you have T-cell epitope candidates, you're ready for Stage 03:
+
+| Priority | Task | Tool |
+|---|---|---|
+| 1 | MHC-I prediction (CD8+) | IEDB / NetMHCpan |
+| 2 | MHC-II retrieval or resubmit (filtered) | IEDB |
+| 3 | Antigenicity scoring | VaxiJen v2.0 |
+| 4 | Allergenicity screen | AllerTop 2.0 |
+| 5 | Construct design with linkers | Manual / Python |
+
+Would you like help writing a Python or R script to extract just the S1 sequences from your clustered FASTA before resubmitting?

@@ -1,0 +1,5 @@
+>S1_MHC1_3471
+AQEKNFTTAP
+# Position: 1070-1079
+# Length: 10 amino acids
+# Type: MHC-I

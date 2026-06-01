@@ -1,0 +1,5 @@
+>S1_MHC1_1168
+DISGINAS
+# Position: 1168-1175
+# Length: 8 amino acids
+# Type: MHC-I

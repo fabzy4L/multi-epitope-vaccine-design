@@ -1,0 +1,5 @@
+>S1_MHC1_1484
+GTITDAVDC
+# Position: 283-291
+# Length: 9 amino acids
+# Type: MHC-I

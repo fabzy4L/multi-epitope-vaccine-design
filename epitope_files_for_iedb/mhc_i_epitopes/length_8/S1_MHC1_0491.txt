@@ -1,0 +1,5 @@
+>S1_MHC1_0491
+GYQPYRVV
+# Position: 491-498
+# Length: 8 amino acids
+# Type: MHC-I

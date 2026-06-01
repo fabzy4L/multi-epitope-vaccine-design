@@ -1,0 +1,5 @@
+>S1_MHC1_1564
+ADYSVLYNS
+# Position: 363-371
+# Length: 9 amino acids
+# Type: MHC-I

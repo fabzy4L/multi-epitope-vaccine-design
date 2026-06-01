@@ -1,0 +1,5 @@
+>S1_MHC1_0269
+NGTITDAV
+# Position: 269-276
+# Length: 8 amino acids
+# Type: MHC-I

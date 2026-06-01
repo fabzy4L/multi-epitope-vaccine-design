@@ -1,0 +1,5 @@
+>S1_MHC1_0813
+NNKSWMESE
+# Position: 135-143
+# Length: 9 amino acids
+# Type: MHC-I

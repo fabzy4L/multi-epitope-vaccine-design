@@ -1,0 +1,5 @@
+>S1_MHC1_3319
+ADQLTPTWRVYS
+# Position: 613-624
+# Length: 12 amino acids
+# Type: MHC-I

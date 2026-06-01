@@ -1,0 +1,5 @@
+>S1_MHC1_3918
+FRVQPTESIVR
+# Position: 318-328
+# Length: 11 amino acids
+# Type: MHC-I

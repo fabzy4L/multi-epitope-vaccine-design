@@ -1,0 +1,5 @@
+>S1_MHC1_5987
+VAKNLNESLIDL
+# Position: 1189-1200
+# Length: 12 amino acids
+# Type: MHC-I

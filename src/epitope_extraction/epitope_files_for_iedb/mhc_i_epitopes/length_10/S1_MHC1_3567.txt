@@ -1,0 +1,5 @@
+>S1_MHC1_3567
+LGDISGINAS
+# Position: 1166-1175
+# Length: 10 amino acids
+# Type: MHC-I

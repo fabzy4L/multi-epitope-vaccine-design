@@ -1,0 +1,5 @@
+>S1_MHC2_1119
+LYNSASFSTFKC
+# Position: 355-366
+# Length: 12 amino acids
+# Type: MHC-II

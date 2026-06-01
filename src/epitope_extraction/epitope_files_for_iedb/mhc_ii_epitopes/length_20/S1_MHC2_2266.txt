@@ -1,0 +1,5 @@
+>S1_MHC2_2266
+RDLPQGFSALEPLVDLPIGI
+# Position: 214-233
+# Length: 20 amino acids
+# Type: MHC-II

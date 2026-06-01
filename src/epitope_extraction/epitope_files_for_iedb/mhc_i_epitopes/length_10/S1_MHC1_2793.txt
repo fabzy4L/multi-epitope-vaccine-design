@@ -1,0 +1,5 @@
+>S1_MHC1_2793
+FTNVYADSFV
+# Position: 392-401
+# Length: 10 amino acids
+# Type: MHC-I

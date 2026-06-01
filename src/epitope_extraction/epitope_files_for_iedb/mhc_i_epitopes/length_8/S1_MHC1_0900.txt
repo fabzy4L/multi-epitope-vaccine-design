@@ -1,0 +1,5 @@
+>S1_MHC1_0900
+MQMAYRFN
+# Position: 900-907
+# Length: 8 amino acids
+# Type: MHC-I

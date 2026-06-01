@@ -1,0 +1,5 @@
+>S1_MHC1_0880
+GTITSGWT
+# Position: 880-887
+# Length: 8 amino acids
+# Type: MHC-I

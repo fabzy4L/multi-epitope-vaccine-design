@@ -1,0 +1,5 @@
+>S1_MHC1_0118
+CEFQFCND
+# Position: 118-125
+# Length: 8 amino acids
+# Type: MHC-I

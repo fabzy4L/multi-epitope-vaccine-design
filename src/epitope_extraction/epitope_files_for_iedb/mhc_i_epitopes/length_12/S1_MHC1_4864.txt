@@ -1,0 +1,5 @@
+>S1_MHC1_4864
+HAIHVSGTNGTK
+# Position: 66-77
+# Length: 12 amino acids
+# Type: MHC-I

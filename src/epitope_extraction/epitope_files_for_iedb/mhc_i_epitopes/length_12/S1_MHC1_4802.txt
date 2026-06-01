@@ -1,0 +1,5 @@
+>S1_MHC1_4802
+FLVLLPLVSSQC
+# Position: 4-15
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5716
+ENQKLIANQFNS
+# Position: 918-929
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1050
+TKLNDLCFT
+# Position: 372-380
+# Length: 9 amino acids
+# Type: MHC-I

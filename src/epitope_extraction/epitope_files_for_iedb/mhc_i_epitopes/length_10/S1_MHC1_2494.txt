@@ -1,0 +1,5 @@
+>S1_MHC1_2494
+ASTEKSNIIR
+# Position: 93-102
+# Length: 10 amino acids
+# Type: MHC-I

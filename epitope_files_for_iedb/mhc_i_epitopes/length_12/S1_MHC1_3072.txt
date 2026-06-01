@@ -1,0 +1,5 @@
+>S1_MHC1_3072
+CYGVSPTKLNDL
+# Position: 366-377
+# Length: 12 amino acids
+# Type: MHC-I

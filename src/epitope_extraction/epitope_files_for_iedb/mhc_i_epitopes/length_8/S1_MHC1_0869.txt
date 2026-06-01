@@ -1,0 +1,5 @@
+>S1_MHC1_0869
+MIAQYTSA
+# Position: 869-876
+# Length: 8 amino acids
+# Type: MHC-I

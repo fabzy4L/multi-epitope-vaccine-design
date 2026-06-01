@@ -1,0 +1,5 @@
+>S1_MHC1_2428
+IAPGQTGKIAD
+# Position: 397-407
+# Length: 11 amino acids
+# Type: MHC-I

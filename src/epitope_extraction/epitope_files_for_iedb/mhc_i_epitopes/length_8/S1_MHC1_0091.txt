@@ -1,0 +1,5 @@
+>S1_MHC1_0091
+YFASTEKS
+# Position: 91-98
+# Length: 8 amino acids
+# Type: MHC-I

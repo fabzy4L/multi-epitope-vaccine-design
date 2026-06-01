@@ -1,0 +1,5 @@
+>S1_MHC1_5822
+LAATKMSECVLG
+# Position: 1024-1035
+# Length: 12 amino acids
+# Type: MHC-I

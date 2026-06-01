@@ -1,0 +1,5 @@
+>S1_MHC1_2923
+ATVCGPKKST
+# Position: 522-531
+# Length: 10 amino acids
+# Type: MHC-I

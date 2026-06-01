@@ -1,0 +1,5 @@
+>S1_MHC1_5543
+DSTECSNLLLQY
+# Position: 745-756
+# Length: 12 amino acids
+# Type: MHC-I

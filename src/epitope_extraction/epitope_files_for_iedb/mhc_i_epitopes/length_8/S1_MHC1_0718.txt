@@ -1,0 +1,5 @@
+>S1_MHC1_0718
+FTISVTTE
+# Position: 718-725
+# Length: 8 amino acids
+# Type: MHC-I

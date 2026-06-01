@@ -1,0 +1,5 @@
+>S1_MHC1_3027
+ADQLTPTWRV
+# Position: 626-635
+# Length: 10 amino acids
+# Type: MHC-I

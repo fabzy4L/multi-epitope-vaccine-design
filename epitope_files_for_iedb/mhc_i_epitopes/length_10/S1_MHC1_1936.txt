@@ -1,0 +1,5 @@
+>S1_MHC1_1936
+GVSVITPGTN
+# Position: 581-590
+# Length: 10 amino acids
+# Type: MHC-I

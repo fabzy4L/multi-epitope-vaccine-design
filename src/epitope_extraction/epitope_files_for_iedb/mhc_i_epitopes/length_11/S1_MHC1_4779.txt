@@ -1,0 +1,5 @@
+>S1_MHC1_4779
+IQKEIDRLNEV
+# Position: 1179-1189
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1751
+QIAPGQTGKI
+# Position: 396-405
+# Length: 10 amino acids
+# Type: MHC-I

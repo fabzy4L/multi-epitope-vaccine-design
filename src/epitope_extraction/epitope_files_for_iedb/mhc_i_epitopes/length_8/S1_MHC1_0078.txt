@@ -1,0 +1,5 @@
+>S1_MHC1_0078
+RFDNPVLP
+# Position: 78-85
+# Length: 8 amino acids
+# Type: MHC-I

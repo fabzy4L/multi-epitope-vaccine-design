@@ -1,0 +1,5 @@
+>S1_MHC1_0016
+VNLTTRTQ
+# Position: 16-23
+# Length: 8 amino acids
+# Type: MHC-I

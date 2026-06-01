@@ -1,0 +1,149 @@
+.de Id
+.ds Rv \\$3
+.ds Dt \\$4
+..
+.Id $Header: example.1,v 1.2 94/02/15 13:28:25 rapacki Exp $
+.TH NetMHCpan 1 \" -*- nroff -*-
+.SH NAME
+NetMHCpan 4.2 \- Prediction of binding of peptides to any known MHC molecule.
+.SH SYNOPSIS
+.B NetMHCpan
+[\fB\-BA\fP]
+[\fB\-a\fP \fIallele(s)\fP]
+[\fB\-allname\fP \fIfile\fP]
+[\fB\-inptype\fP \fIint\fP]
+[\fB\-context\fP]
+[\fB\-p\fP]
+[\fB\-pmhc\fP]
+[\fB\-pathogen\fP]
+[\fB\-neo\fP]
+[\fB\-dirty\fP]
+[\fB\-f\fP \fIfile\fP]
+[\fB\-h\fP]
+[\fB\-hlapseudo\fP \fIfile\fP]
+[\fB\-hlaseq\fP \fIfile\fP]
+[\fB\-l\fP \fIlength(s)\fP]
+[\fB\-listMHC\fP]
+[\fB\-rdir\fP \fIdir\fP]
+[\fB\-rankS\fP \fIfloat\fP]
+[\fB\-rankW\fP \fIfloat\fP]
+[\fB\-s\fP]
+[\fB\-syn\fP \fIfile\fP]
+[\fB\-t\fP \fIfloat\fP]
+[\fB\-tdir\fP \fIdir\fP]
+[\fB\-termAcon\fP]
+[\fB\-thrfmt\fP \fIformat\fP]
+[\fB\-v\fP]
+[\fB\-version\fP \fIfile\fP]
+[\fB\-w\fP]
+[\fB\-xls\fP]
+[\fB\-xlsfile\fP \fIfile\fP]
+
+.SH DESCRIPTION
+.B NetMHCpan 4.2
+
+The NetMHCpan 4.2 software predicts binding of peptides to any known MHC molecule using artificial neural networks (ANNs). The method is trained on a combination of more than 1,000,000 quantitative Binding Affinity (BA) and Mass-Spectrometry Eluted Ligands (EL) peptides, and is further finetuned on a combination of >48,000 experimentally verified epitopes from the IEDB and CEDAR databases. Predictions can be made using the standard EL+BA method or with a method finetuned on either pathogen epitopes (IEDB) or neoepitopes (CEDAR). Aside from the wide set of MHC molecules covered in the tool, the user can obtain predictions to any custom MHC class I molecule by uploading a full length MHC protein sequence. Predictions can be made for peptides of any length, and, furthermore, peptide context information can also be included for the EL+BA prediction mode.
+
+The input is taken from \fIfile\fP(s). Use \fB--\fP for
+\fIstdin\fP. The output is plain text; it will go to \fIstdout\fP.
+The required input format is \fBFASTA\fP or \fBPEPTIDE\fP.
+
+.SH OPTIONS
+.TP
+.B "-BA"
+Include Binding Affinity prediction output.
+.TP
+.BI "\-a value"
+Allele(s) for prediction. Use comma-separated list without spaces for multiple alleles (e.g., HLA-A02:01,HLA-B07:02).
+.TP
+.B "-inptype int"
+Input type: [0] FASTA [1] PEPTIDE [2] PEPTIDECONT [3] PEPTIDEMHC [4] PEPTIDECONTMHC. Default: 0.
+.TP
+.BI "\-context"
+Enable context encoding.
+.TP
+.B "-p"
+Use peptide input. Using -p together with -context is equivalent to -inptype 2, while using -p without -context is equivalent to -inptype 1
+.TP
+.B "-pmhc"
+Use peptide and MHC input. Using -pmhc together with -context is equivalent to -inptype 4, while using -pmhc without -context is equivalent to -inptype 3
+.TP
+.B "-pathogen"
+Include pathogen epitope predictions in the output
+.TP
+.B "-neo"
+Include neoepitope predictions in the output
+.TP
+.BI "\-dirty"
+Dirty mode. Keeps temporary directory and files.
+.TP
+.BI "\-f file"
+Input file containing peptides or sequences. Required unless using standard input.
+.TP
+.B "-h"
+Print help message and exit.
+.TP
+.BI "\-hlapseudo file"
+File with MHC pseudo sequences
+.TP
+.BI "\-hlaseq file"
+File with full-length MHC protein sequences.
+.TP
+.BI "\-l value"
+Peptide length(s) to predict. Specify one or more lengths using commas (e.g., 8,9,10).
+.TP
+.BI "\-listMHC"
+Print the list of alleles supported by NetMHCpan.
+.TP
+.BI "\-rdir dir"
+Path to NetMHCpan installation directory
+.TP
+.BI "\-rankS value"
+Rank threshold for strong binders (default: 0.5).
+.TP
+.BI "\-rankW value"
+Rank threshold for weak binders (default: 2.0).
+.TP
+.BI "\-s"
+Sort output by descending predicted affinity.
+.TP
+.BI "\-syn file"
+Synaps file (default: $NETMHCpan/data/synlist_nocontext.bin).
+.TP
+.BI "\-t value"
+Threshold for output filtering based on %Rank. Values < 0 print all predictions (default: -99.9).
+.TP
+.BI "\-tdir dir"
+Temporary directory for intermediate files
+.TP
+.BI "\-termAcon"
+Encode terminal context residues as 'A' instead of default 'X'.
+.TP
+.BI "\-thrfmt format"
+Filename format string for threshold files
+.TP
+.BI "\-v"
+Enable verbose output.
+.TP
+.BI "\-version file"
+File with NetMHCpan version information
+.TP
+.BI "\-w"
+Web interface flag (used internally).
+.TP
+.BI "\-xls"
+Save output to Excel format.
+.TP
+.BI "\-xlsfile file"
+Filename for Excel output (default: NetMHCpan_out.xls).
+
+.SH AUTHOR
+
+Morten Nielsen, morni@dtu.dk, July 2025.
+.br
+.SH FILES
+\fB/usr/cbs/bio/bin/netMHCpan\fP           executable
+.br
+\fB/usr/cbs/bio/src/netMHCpan-2.8\fP       software home
+.SH SEE ALSO
+fasta (1),

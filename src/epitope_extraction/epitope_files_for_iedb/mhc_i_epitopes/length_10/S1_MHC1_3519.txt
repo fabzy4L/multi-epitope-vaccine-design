@@ -1,0 +1,5 @@
+>S1_MHC1_3519
+DNTFVSGNCD
+# Position: 1118-1127
+# Length: 10 amino acids
+# Type: MHC-I

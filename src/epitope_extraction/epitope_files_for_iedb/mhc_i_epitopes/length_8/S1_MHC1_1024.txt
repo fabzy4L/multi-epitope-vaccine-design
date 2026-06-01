@@ -1,0 +1,5 @@
+>S1_MHC1_1024
+LAATKMSE
+# Position: 1024-1031
+# Length: 8 amino acids
+# Type: MHC-I

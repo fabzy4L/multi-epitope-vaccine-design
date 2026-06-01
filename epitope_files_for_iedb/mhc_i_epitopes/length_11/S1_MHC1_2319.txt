@@ -1,0 +1,5 @@
+>S1_MHC1_2319
+CTLKSFTVEKG
+# Position: 288-298
+# Length: 11 amino acids
+# Type: MHC-I

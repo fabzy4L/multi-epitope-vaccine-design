@@ -1,0 +1,5 @@
+>S1_MHC1_0891
+GAALQIPF
+# Position: 891-898
+# Length: 8 amino acids
+# Type: MHC-I

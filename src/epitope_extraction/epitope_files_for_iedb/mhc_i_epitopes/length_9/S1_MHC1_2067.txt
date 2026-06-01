@@ -1,0 +1,5 @@
+>S1_MHC1_2067
+TDEMIAQYT
+# Position: 866-874
+# Length: 9 amino acids
+# Type: MHC-I

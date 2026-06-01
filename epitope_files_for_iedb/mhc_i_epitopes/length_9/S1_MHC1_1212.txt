@@ -1,0 +1,5 @@
+>S1_MHC1_1212
+TGTGVLTES
+# Position: 534-542
+# Length: 9 amino acids
+# Type: MHC-I

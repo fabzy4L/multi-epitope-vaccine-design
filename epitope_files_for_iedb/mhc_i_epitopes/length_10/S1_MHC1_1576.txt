@@ -1,0 +1,5 @@
+>S1_MHC1_1576
+NITRFQTLLA
+# Position: 221-230
+# Length: 10 amino acids
+# Type: MHC-I

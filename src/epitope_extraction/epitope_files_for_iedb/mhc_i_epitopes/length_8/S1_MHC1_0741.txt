@@ -1,0 +1,5 @@
+>S1_MHC1_0741
+YICGDSTE
+# Position: 741-748
+# Length: 8 amino acids
+# Type: MHC-I

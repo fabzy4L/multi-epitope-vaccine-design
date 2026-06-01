@@ -1,0 +1,5 @@
+>S1_MHC1_0420
+DYNYKLPD
+# Position: 420-427
+# Length: 8 amino acids
+# Type: MHC-I

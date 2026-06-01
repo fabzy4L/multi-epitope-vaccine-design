@@ -1,0 +1,5 @@
+>S1_MHC1_2253
+FPQSAPHGV
+# Position: 1052-1060
+# Length: 9 amino acids
+# Type: MHC-I

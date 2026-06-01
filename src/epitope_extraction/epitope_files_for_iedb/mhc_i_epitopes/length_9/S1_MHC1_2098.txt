@@ -1,0 +1,5 @@
+>S1_MHC1_2098
+PFAMQMAYR
+# Position: 897-905
+# Length: 9 amino acids
+# Type: MHC-I

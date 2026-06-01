@@ -1,0 +1,5 @@
+>S1_MHC1_1183
+IDRLNEVA
+# Position: 1183-1190
+# Length: 8 amino acids
+# Type: MHC-I

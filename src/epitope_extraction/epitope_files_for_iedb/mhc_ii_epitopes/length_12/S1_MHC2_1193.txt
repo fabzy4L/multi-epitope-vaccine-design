@@ -1,0 +1,5 @@
+>S1_MHC2_1193
+RDPQTLEILDIT
+# Position: 577-588
+# Length: 12 amino acids
+# Type: MHC-II

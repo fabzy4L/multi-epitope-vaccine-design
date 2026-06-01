@@ -1,0 +1,5 @@
+>S1_MHC1_2941
+NFNFNGLKGT
+# Position: 540-549
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1046
+GYHLMSFP
+# Position: 1046-1053
+# Length: 8 amino acids
+# Type: MHC-I

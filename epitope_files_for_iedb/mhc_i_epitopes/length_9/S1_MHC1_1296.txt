@@ -1,0 +1,5 @@
+>S1_MHC1_1296
+PTWRVYSTG
+# Position: 618-626
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2107
+NSAIGKIQDSLSSTASAL
+# Position: 928-945
+# Length: 18 amino acids
+# Type: MHC-II

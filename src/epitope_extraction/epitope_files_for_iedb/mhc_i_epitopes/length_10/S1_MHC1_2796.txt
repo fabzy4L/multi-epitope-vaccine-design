@@ -1,0 +1,5 @@
+>S1_MHC1_2796
+VYADSFVIRG
+# Position: 395-404
+# Length: 10 amino acids
+# Type: MHC-I

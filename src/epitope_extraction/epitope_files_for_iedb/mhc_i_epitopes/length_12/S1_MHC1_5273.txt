@@ -1,0 +1,5 @@
+>S1_MHC1_5273
+AGSTPCNGVEGF
+# Position: 475-486
+# Length: 12 amino acids
+# Type: MHC-I

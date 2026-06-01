@@ -1,0 +1,5 @@
+>S1_MHC1_4960
+SANNCTFEYVSQ
+# Position: 162-173
+# Length: 12 amino acids
+# Type: MHC-I

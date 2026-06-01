@@ -1,0 +1,5 @@
+>S1_MHC1_2829
+DFTGCVIAWN
+# Position: 428-437
+# Length: 10 amino acids
+# Type: MHC-I

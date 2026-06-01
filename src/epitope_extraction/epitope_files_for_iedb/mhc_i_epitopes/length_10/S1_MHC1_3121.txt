@@ -1,0 +1,5 @@
+>S1_MHC1_3121
+ISVTTEILPV
+# Position: 720-729
+# Length: 10 amino acids
+# Type: MHC-I

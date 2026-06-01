@@ -1,0 +1,5 @@
+>S1_MHC1_0733
+KTSVDCTM
+# Position: 733-740
+# Length: 8 amino acids
+# Type: MHC-I

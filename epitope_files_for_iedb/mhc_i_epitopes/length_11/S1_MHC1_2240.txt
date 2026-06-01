@@ -1,0 +1,5 @@
+>S1_MHC1_2240
+ALEPLVDLPIG
+# Position: 209-219
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1397
+VAKNLNESLIDL
+# Position: 1189-1200
+# Length: 12 amino acids
+# Type: MHC-II

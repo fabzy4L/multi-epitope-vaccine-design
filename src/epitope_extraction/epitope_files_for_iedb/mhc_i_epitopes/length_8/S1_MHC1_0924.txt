@@ -1,0 +1,5 @@
+>S1_MHC1_0924
+ANQFNSAI
+# Position: 924-931
+# Length: 8 amino acids
+# Type: MHC-I

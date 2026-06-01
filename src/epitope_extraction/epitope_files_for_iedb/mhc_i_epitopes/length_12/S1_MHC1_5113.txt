@@ -1,0 +1,5 @@
+>S1_MHC1_5113
+TSNFRVQPTESI
+# Position: 315-326
+# Length: 12 amino acids
+# Type: MHC-I

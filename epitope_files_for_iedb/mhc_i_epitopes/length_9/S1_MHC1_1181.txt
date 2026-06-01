@@ -1,0 +1,5 @@
+>S1_MHC1_1181
+ELLHAPATV
+# Position: 503-511
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1541
+EVFNATRFA
+# Position: 340-348
+# Length: 9 amino acids
+# Type: MHC-I

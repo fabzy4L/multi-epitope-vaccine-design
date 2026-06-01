@@ -1,0 +1,5 @@
+>S1_MHC1_2727
+IVRFPNITNL
+# Position: 326-335
+# Length: 10 amino acids
+# Type: MHC-I

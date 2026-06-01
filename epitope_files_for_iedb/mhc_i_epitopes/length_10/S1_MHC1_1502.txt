@@ -1,0 +1,5 @@
+>S1_MHC1_1502
+YSSANNCTFE
+# Position: 147-156
+# Length: 10 amino acids
+# Type: MHC-I

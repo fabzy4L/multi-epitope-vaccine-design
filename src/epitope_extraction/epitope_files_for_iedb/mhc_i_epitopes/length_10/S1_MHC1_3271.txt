@@ -1,0 +1,5 @@
+>S1_MHC1_3271
+IAQYTSALLA
+# Position: 870-879
+# Length: 10 amino acids
+# Type: MHC-I

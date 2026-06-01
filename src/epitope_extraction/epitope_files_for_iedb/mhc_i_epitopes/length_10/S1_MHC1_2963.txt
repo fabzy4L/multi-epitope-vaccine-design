@@ -1,0 +1,5 @@
+>S1_MHC1_2963
+FQQFGRDIAD
+# Position: 562-571
+# Length: 10 amino acids
+# Type: MHC-I

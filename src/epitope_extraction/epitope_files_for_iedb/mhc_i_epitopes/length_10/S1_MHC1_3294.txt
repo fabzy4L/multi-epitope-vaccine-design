@@ -1,0 +1,5 @@
+>S1_MHC1_3294
+ALQIPFAMQM
+# Position: 893-902
+# Length: 10 amino acids
+# Type: MHC-I

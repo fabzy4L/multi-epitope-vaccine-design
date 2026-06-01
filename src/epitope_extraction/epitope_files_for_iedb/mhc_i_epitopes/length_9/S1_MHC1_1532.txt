@@ -1,0 +1,5 @@
+>S1_MHC1_1532
+NITNLCPFG
+# Position: 331-339
+# Length: 9 amino acids
+# Type: MHC-I

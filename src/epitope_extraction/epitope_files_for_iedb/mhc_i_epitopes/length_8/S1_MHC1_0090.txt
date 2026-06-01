@@ -1,0 +1,5 @@
+>S1_MHC1_0090
+VYFASTEK
+# Position: 90-97
+# Length: 8 amino acids
+# Type: MHC-I

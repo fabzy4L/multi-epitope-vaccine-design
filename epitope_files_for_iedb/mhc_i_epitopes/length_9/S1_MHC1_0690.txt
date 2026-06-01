@@ -1,0 +1,5 @@
+>S1_MHC1_0690
+PPAYTNSFT
+# Position: 12-20
+# Length: 9 amino acids
+# Type: MHC-I

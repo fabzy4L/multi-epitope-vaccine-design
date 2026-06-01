@@ -1,0 +1,5 @@
+>S1_MHC1_0843
+DIAARDLI
+# Position: 843-850
+# Length: 8 amino acids
+# Type: MHC-I

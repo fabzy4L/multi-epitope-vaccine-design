@@ -1,0 +1,5 @@
+>S1_MHC1_0593
+GGVSVITP
+# Position: 593-600
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0031
+RSSVLHST
+# Position: 31-38
+# Length: 8 amino acids
+# Type: MHC-I

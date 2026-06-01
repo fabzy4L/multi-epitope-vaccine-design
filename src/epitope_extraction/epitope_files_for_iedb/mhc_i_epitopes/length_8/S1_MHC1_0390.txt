@@ -1,0 +1,5 @@
+>S1_MHC1_0390
+LCFTNVYA
+# Position: 390-397
+# Length: 8 amino acids
+# Type: MHC-I

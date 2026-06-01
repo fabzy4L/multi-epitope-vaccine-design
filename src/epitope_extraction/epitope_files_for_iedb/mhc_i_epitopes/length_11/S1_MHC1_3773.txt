@@ -1,0 +1,5 @@
+>S1_MHC1_3773
+QPFLMDLEGKQ
+# Position: 173-183
+# Length: 11 amino acids
+# Type: MHC-I

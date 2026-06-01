@@ -1,0 +1,5 @@
+>S1_MHC1_4267
+GAGICASYQTQ
+# Position: 667-677
+# Length: 11 amino acids
+# Type: MHC-I

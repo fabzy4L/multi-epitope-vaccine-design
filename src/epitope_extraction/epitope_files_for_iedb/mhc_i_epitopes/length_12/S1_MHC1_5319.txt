@@ -1,0 +1,5 @@
+>S1_MHC1_5319
+PATVCGPKKSTN
+# Position: 521-532
+# Length: 12 amino acids
+# Type: MHC-I

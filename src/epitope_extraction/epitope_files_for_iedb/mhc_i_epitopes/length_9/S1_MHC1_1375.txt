@@ -1,0 +1,5 @@
+>S1_MHC1_1375
+PFLMDLEGK
+# Position: 174-182
+# Length: 9 amino acids
+# Type: MHC-I

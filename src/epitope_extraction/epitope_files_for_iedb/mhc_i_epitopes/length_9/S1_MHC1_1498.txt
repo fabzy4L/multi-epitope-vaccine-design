@@ -1,0 +1,5 @@
+>S1_MHC1_1498
+SETKCTLKS
+# Position: 297-305
+# Length: 9 amino acids
+# Type: MHC-I

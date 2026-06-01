@@ -1,0 +1,5 @@
+>S1_MHC1_5765
+SSNFGAISSVLN
+# Position: 967-978
+# Length: 12 amino acids
+# Type: MHC-I

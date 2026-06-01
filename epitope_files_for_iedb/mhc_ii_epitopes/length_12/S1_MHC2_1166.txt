@@ -1,0 +1,5 @@
+>S1_MHC2_1166
+RVVVLSFELLHA
+# Position: 496-507
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_3276
+SALLAGTITS
+# Position: 875-884
+# Length: 10 amino acids
+# Type: MHC-I

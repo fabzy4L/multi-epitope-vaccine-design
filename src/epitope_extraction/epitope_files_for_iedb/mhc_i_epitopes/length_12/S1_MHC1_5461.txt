@@ -1,0 +1,5 @@
+>S1_MHC1_5461
+DIPIGAGICASY
+# Position: 663-674
+# Length: 12 amino acids
+# Type: MHC-I

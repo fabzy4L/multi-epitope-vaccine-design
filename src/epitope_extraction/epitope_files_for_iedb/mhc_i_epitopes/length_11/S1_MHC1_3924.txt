@@ -1,0 +1,5 @@
+>S1_MHC1_3924
+ESIVRFPNITN
+# Position: 324-334
+# Length: 11 amino acids
+# Type: MHC-I

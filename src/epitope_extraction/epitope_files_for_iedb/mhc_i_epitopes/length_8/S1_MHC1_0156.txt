@@ -1,0 +1,5 @@
+>S1_MHC1_0156
+EFRFYSSA
+# Position: 156-163
+# Length: 8 amino acids
+# Type: MHC-I

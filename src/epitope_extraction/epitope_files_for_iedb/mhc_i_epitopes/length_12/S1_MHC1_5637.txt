@@ -1,0 +1,5 @@
+>S1_MHC1_5637
+DCLGDIAARDLI
+# Position: 839-850
+# Length: 12 amino acids
+# Type: MHC-I

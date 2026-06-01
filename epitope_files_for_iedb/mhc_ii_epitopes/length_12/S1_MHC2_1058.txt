@@ -1,0 +1,5 @@
+>S1_MHC2_1058
+NFKNLREFVFKN
+# Position: 172-183
+# Length: 12 amino acids
+# Type: MHC-II

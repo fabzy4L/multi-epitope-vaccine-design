@@ -1,0 +1,5 @@
+>S1_MHC1_3269
+EMIAQYTSAL
+# Position: 868-877
+# Length: 10 amino acids
+# Type: MHC-I

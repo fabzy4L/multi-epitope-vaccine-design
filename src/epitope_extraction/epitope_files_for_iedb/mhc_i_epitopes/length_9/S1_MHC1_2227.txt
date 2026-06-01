@@ -1,0 +1,5 @@
+>S1_MHC1_2227
+ATKMSECVL
+# Position: 1026-1034
+# Length: 9 amino acids
+# Type: MHC-I

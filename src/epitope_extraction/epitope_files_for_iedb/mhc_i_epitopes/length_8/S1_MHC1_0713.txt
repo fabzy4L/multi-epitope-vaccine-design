@@ -1,0 +1,5 @@
+>S1_MHC1_0713
+AIPTNFTI
+# Position: 713-720
+# Length: 8 amino acids
+# Type: MHC-I

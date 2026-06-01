@@ -1,0 +1,5 @@
+>S1_MHC1_1821
+VPVAIHADQ
+# Position: 620-628
+# Length: 9 amino acids
+# Type: MHC-I

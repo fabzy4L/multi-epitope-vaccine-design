@@ -1,0 +1,5 @@
+>S1_MHC1_3225
+NKVTLADAGF
+# Position: 824-833
+# Length: 10 amino acids
+# Type: MHC-I

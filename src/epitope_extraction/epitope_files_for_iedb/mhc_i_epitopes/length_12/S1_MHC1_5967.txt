@@ -1,0 +1,5 @@
+>S1_MHC1_5967
+ISGINASVVNIQ
+# Position: 1169-1180
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2369
+DISGINASV
+# Position: 1168-1176
+# Length: 9 amino acids
+# Type: MHC-I

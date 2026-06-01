@@ -1,0 +1,5 @@
+>S1_MHC1_5647
+LICAQKFNGLTV
+# Position: 849-860
+# Length: 12 amino acids
+# Type: MHC-I

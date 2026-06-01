@@ -1,0 +1,5 @@
+>S1_MHC1_3419
+IRASANLAAT
+# Position: 1018-1027
+# Length: 10 amino acids
+# Type: MHC-I

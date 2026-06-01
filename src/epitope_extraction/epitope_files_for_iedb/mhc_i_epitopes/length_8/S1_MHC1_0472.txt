@@ -1,0 +1,5 @@
+>S1_MHC1_0472
+IYQAGSTP
+# Position: 472-479
+# Length: 8 amino acids
+# Type: MHC-I

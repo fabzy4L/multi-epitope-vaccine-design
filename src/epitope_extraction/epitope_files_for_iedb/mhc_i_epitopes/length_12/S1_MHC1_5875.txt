@@ -1,0 +1,5 @@
+>S1_MHC1_5875
+TAPAICHDGKAH
+# Position: 1077-1088
+# Length: 12 amino acids
+# Type: MHC-I

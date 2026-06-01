@@ -1,0 +1,5 @@
+>S1_MHC1_0790
+KTPPIKDF
+# Position: 790-797
+# Length: 8 amino acids
+# Type: MHC-I

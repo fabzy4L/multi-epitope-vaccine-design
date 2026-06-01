@@ -1,0 +1,5 @@
+>S1_MHC1_0747
+TECSNLLL
+# Position: 747-754
+# Length: 8 amino acids
+# Type: MHC-I

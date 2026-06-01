@@ -1,0 +1,5 @@
+>S1_MHC1_1802
+NLKPFERDIS
+# Position: 447-456
+# Length: 10 amino acids
+# Type: MHC-I

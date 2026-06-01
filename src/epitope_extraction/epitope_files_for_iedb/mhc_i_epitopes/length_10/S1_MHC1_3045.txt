@@ -1,0 +1,5 @@
+>S1_MHC1_3045
+QTRAGCLIGA
+# Position: 644-653
+# Length: 10 amino acids
+# Type: MHC-I

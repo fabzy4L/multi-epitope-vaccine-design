@@ -1,0 +1,5 @@
+>S1_MHC1_2758
+RISNCVADYS
+# Position: 357-366
+# Length: 10 amino acids
+# Type: MHC-I

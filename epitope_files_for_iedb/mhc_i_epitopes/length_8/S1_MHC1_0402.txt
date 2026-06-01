@@ -1,0 +1,5 @@
+>S1_MHC1_0402
+TGKIADYN
+# Position: 402-409
+# Length: 8 amino acids
+# Type: MHC-I

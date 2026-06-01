@@ -1,0 +1,5 @@
+>S1_MHC1_2556
+SEFRFYSSAN
+# Position: 155-164
+# Length: 10 amino acids
+# Type: MHC-I

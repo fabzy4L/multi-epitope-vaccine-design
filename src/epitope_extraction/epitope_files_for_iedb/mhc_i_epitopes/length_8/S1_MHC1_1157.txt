@@ -1,0 +1,5 @@
+>S1_MHC1_1157
+KNHTSPDV
+# Position: 1157-1164
+# Length: 8 amino acids
+# Type: MHC-I

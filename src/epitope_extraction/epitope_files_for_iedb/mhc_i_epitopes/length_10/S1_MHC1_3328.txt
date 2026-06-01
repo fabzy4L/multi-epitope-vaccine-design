@@ -1,0 +1,5 @@
+>S1_MHC1_3328
+FNSAIGKIQD
+# Position: 927-936
+# Length: 10 amino acids
+# Type: MHC-I

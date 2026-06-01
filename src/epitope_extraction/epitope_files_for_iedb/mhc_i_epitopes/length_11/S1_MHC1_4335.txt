@@ -1,0 +1,5 @@
+>S1_MHC1_4335
+SVDCTMYICGD
+# Position: 735-745
+# Length: 11 amino acids
+# Type: MHC-I

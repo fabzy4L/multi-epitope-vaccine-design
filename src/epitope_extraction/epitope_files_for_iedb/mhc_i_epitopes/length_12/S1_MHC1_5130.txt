@@ -1,0 +1,5 @@
+>S1_MHC1_5130
+ITNLCPFGEVFN
+# Position: 332-343
+# Length: 12 amino acids
+# Type: MHC-I

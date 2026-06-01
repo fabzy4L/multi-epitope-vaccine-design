@@ -1,0 +1,5 @@
+>S1_MHC1_5027
+LPIGINITRFQT
+# Position: 229-240
+# Length: 12 amino acids
+# Type: MHC-I

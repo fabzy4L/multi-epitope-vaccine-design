@@ -1,0 +1,5 @@
+>S1_MHC1_2714
+YQTSNFRVQP
+# Position: 313-322
+# Length: 10 amino acids
+# Type: MHC-I

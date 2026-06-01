@@ -1,0 +1,5 @@
+>S1_MHC1_2231
+VRDLPQGFSAL
+# Position: 200-210
+# Length: 11 amino acids
+# Type: MHC-I

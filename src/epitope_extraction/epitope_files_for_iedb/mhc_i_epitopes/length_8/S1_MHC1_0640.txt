@@ -1,0 +1,5 @@
+>S1_MHC1_0640
+SNVFQTRA
+# Position: 640-647
+# Length: 8 amino acids
+# Type: MHC-I

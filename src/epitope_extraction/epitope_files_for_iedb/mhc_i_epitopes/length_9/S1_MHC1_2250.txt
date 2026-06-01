@@ -1,0 +1,5 @@
+>S1_MHC1_2250
+LMSFPQSAP
+# Position: 1049-1057
+# Length: 9 amino acids
+# Type: MHC-I

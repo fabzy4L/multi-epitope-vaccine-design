@@ -1,0 +1,5 @@
+>S1_MHC1_5776
+NDILSRLDKVEA
+# Position: 978-989
+# Length: 12 amino acids
+# Type: MHC-I

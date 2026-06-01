@@ -1,0 +1,5 @@
+>S1_MHC1_1070
+AQEKNFTT
+# Position: 1070-1077
+# Length: 8 amino acids
+# Type: MHC-I

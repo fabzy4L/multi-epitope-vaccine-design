@@ -1,0 +1,5 @@
+>S1_MHC1_0280
+NENGTITD
+# Position: 280-287
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4106
+QPYRVVVLSFE
+# Position: 506-516
+# Length: 11 amino acids
+# Type: MHC-I

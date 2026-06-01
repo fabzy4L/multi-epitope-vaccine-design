@@ -1,0 +1,5 @@
+>S1_MHC1_4614
+RAAEIRASANL
+# Position: 1014-1024
+# Length: 11 amino acids
+# Type: MHC-I

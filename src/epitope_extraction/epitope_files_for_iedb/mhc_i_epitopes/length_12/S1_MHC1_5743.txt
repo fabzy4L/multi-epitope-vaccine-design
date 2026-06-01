@@ -1,0 +1,5 @@
+>S1_MHC1_5743
+LGKLQDVVNQNA
+# Position: 945-956
+# Length: 12 amino acids
+# Type: MHC-I

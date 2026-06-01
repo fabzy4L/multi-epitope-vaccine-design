@@ -1,0 +1,5 @@
+>S1_MHC2_1028
+TEKSNIIRGWIF
+# Position: 82-93
+# Length: 12 amino acids
+# Type: MHC-II

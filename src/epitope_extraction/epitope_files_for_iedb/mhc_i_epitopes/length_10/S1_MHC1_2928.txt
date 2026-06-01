@@ -1,0 +1,5 @@
+>S1_MHC1_2928
+PKKSTNLVKN
+# Position: 527-536
+# Length: 10 amino acids
+# Type: MHC-I

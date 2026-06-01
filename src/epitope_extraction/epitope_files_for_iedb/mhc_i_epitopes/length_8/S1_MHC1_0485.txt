@@ -1,0 +1,5 @@
+>S1_MHC1_0485
+GFNCYFPL
+# Position: 485-492
+# Length: 8 amino acids
+# Type: MHC-I

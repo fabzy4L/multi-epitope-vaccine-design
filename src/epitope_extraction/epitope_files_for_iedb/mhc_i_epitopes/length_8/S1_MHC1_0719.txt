@@ -1,0 +1,5 @@
+>S1_MHC1_0719
+TISVTTEI
+# Position: 719-726
+# Length: 8 amino acids
+# Type: MHC-I

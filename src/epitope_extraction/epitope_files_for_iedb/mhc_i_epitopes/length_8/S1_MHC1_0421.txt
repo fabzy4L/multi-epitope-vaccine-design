@@ -1,0 +1,5 @@
+>S1_MHC1_0421
+YNYKLPDD
+# Position: 421-428
+# Length: 8 amino acids
+# Type: MHC-I

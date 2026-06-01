@@ -1,0 +1,5 @@
+>S1_MHC1_2528
+VIKVCEFQFC
+# Position: 127-136
+# Length: 10 amino acids
+# Type: MHC-I

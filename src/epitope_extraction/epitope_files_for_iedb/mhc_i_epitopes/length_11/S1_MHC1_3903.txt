@@ -1,0 +1,5 @@
+>S1_MHC1_3903
+LKSFTVEKGIY
+# Position: 303-313
+# Length: 11 amino acids
+# Type: MHC-I

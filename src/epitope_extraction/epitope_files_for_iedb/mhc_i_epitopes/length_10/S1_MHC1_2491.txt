@@ -1,0 +1,5 @@
+>S1_MHC1_2491
+VYFASTEKSN
+# Position: 90-99
+# Length: 10 amino acids
+# Type: MHC-I

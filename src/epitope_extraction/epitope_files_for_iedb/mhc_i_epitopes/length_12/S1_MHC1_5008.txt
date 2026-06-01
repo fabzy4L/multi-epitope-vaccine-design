@@ -1,0 +1,5 @@
+>S1_MHC1_5008
+INLVRDLPQGFS
+# Position: 210-221
+# Length: 12 amino acids
+# Type: MHC-I

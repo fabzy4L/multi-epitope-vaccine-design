@@ -1,0 +1,5 @@
+>S1_MHC1_5144
+RFASVYAWNRKR
+# Position: 346-357
+# Length: 12 amino acids
+# Type: MHC-I

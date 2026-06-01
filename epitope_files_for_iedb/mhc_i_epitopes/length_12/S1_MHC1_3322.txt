@@ -1,0 +1,5 @@
+>S1_MHC1_3322
+LTPTWRVYSTGS
+# Position: 616-627
+# Length: 12 amino acids
+# Type: MHC-I

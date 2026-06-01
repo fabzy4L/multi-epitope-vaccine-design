@@ -1,0 +1,5 @@
+>S1_MHC1_2676
+NSYECDIPIGA
+# Position: 645-655
+# Length: 11 amino acids
+# Type: MHC-I

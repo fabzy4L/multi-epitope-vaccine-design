@@ -1,0 +1,5 @@
+>S1_MHC1_4759
+HTSPDVDLGDI
+# Position: 1159-1169
+# Length: 11 amino acids
+# Type: MHC-I

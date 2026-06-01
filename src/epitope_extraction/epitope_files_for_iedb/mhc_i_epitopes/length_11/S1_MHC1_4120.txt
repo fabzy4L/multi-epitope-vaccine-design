@@ -1,0 +1,5 @@
+>S1_MHC1_4120
+APATVCGPKKS
+# Position: 520-530
+# Length: 11 amino acids
+# Type: MHC-I

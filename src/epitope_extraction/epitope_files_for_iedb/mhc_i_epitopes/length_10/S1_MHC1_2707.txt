@@ -1,0 +1,5 @@
+>S1_MHC1_2707
+FTVEKGIYQT
+# Position: 306-315
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5036
+FQTLLALHRSYL
+# Position: 238-249
+# Length: 12 amino acids
+# Type: MHC-I

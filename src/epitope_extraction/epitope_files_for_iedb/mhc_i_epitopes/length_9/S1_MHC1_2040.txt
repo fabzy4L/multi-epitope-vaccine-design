@@ -1,0 +1,5 @@
+>S1_MHC1_2040
+DCLGDIAAR
+# Position: 839-847
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0374
+LNDLCFTN
+# Position: 374-381
+# Length: 8 amino acids
+# Type: MHC-I

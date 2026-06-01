@@ -1,0 +1,5 @@
+>S1_MHC1_0221
+NITRFQTL
+# Position: 221-228
+# Length: 8 amino acids
+# Type: MHC-I

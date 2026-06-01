@@ -1,0 +1,5 @@
+>S1_MHC1_0760
+CTQLNRAL
+# Position: 760-767
+# Length: 8 amino acids
+# Type: MHC-I

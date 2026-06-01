@@ -1,0 +1,5 @@
+>S1_MHC1_3124
+TTEILPVSMT
+# Position: 723-732
+# Length: 10 amino acids
+# Type: MHC-I

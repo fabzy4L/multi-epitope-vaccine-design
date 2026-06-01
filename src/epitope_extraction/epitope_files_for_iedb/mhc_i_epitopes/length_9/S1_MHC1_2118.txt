@@ -1,0 +1,5 @@
+>S1_MHC1_2118
+YENQKLIAN
+# Position: 917-925
+# Length: 9 amino acids
+# Type: MHC-I

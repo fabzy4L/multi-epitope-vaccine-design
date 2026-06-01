@@ -1,0 +1,5 @@
+>S1_MHC1_2110
+FASTEKSNIIR
+# Position: 79-89
+# Length: 11 amino acids
+# Type: MHC-I

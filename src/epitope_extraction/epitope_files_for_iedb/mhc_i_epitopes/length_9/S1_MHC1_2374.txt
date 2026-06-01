@@ -1,0 +1,5 @@
+>S1_MHC1_2374
+NASVVNIQK
+# Position: 1173-1181
+# Length: 9 amino acids
+# Type: MHC-I

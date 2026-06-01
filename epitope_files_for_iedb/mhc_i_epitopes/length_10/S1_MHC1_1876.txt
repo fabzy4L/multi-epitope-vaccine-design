@@ -1,0 +1,5 @@
+>S1_MHC1_1876
+VKNKCVNFNF
+# Position: 521-530
+# Length: 10 amino acids
+# Type: MHC-I

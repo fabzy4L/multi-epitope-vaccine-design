@@ -1,0 +1,5 @@
+>S1_MHC1_5522
+TEILPVSMTKTS
+# Position: 724-735
+# Length: 12 amino acids
+# Type: MHC-I

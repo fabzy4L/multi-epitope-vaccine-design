@@ -1,0 +1,5 @@
+>S1_MHC1_1929
+ITPCSFGGVS
+# Position: 574-583
+# Length: 10 amino acids
+# Type: MHC-I

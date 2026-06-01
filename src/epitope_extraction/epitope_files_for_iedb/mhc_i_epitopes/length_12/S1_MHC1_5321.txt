@@ -1,0 +1,5 @@
+>S1_MHC1_5321
+TVCGPKKSTNLV
+# Position: 523-534
+# Length: 12 amino acids
+# Type: MHC-I

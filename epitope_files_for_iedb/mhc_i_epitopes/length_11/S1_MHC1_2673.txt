@@ -1,0 +1,5 @@
+>S1_MHC1_2673
+HVNNSYECDIP
+# Position: 642-652
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3066
+PIGAGICASY
+# Position: 665-674
+# Length: 10 amino acids
+# Type: MHC-I

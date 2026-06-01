@@ -1,0 +1,5 @@
+>S1_MHC1_2691
+DCALDPLSET
+# Position: 290-299
+# Length: 10 amino acids
+# Type: MHC-I

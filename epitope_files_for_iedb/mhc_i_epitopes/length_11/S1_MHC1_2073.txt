@@ -1,0 +1,5 @@
+>S1_MHC1_2073
+FLPFFSNVTWF
+# Position: 42-52
+# Length: 11 amino acids
+# Type: MHC-I

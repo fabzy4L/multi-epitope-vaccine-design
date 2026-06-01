@@ -1,0 +1,5 @@
+>S1_MHC1_1455
+KTQSLLIVNN
+# Position: 100-109
+# Length: 10 amino acids
+# Type: MHC-I

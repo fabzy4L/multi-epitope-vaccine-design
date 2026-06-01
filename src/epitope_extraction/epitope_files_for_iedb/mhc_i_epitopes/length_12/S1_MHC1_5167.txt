@@ -1,0 +1,5 @@
+>S1_MHC1_5167
+YNSASFSTFKCY
+# Position: 369-380
+# Length: 12 amino acids
+# Type: MHC-I

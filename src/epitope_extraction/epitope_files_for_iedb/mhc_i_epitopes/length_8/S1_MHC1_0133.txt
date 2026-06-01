@@ -1,0 +1,5 @@
+>S1_MHC1_0133
+FQFCNDPF
+# Position: 133-140
+# Length: 8 amino acids
+# Type: MHC-I

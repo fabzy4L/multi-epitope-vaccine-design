@@ -1,0 +1,5 @@
+>S1_MHC1_0620
+WRVYSTGS
+# Position: 620-627
+# Length: 8 amino acids
+# Type: MHC-I

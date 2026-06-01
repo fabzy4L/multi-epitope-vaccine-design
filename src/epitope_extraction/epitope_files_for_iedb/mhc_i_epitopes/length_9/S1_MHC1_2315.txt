@@ -1,0 +1,5 @@
+>S1_MHC1_2315
+IITTDNTFV
+# Position: 1114-1122
+# Length: 9 amino acids
+# Type: MHC-I

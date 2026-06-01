@@ -1,0 +1,5 @@
+>S1_MHC2_1908
+NITNLCPFGEVFNATRFA
+# Position: 331-348
+# Length: 18 amino acids
+# Type: MHC-II

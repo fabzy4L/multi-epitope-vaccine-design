@@ -1,0 +1,5 @@
+>S1_MHC1_0944
+YNENGTITD
+# Position: 266-274
+# Length: 9 amino acids
+# Type: MHC-I

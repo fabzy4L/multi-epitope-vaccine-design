@@ -1,0 +1,5 @@
+>S1_MHC2_1312
+PRTFLLKYNENGTIT
+# Position: 259-273
+# Length: 15 amino acids
+# Type: MHC-II

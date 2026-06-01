@@ -1,0 +1,5 @@
+>S1_MHC1_0314
+VRFPNITN
+# Position: 314-321
+# Length: 8 amino acids
+# Type: MHC-I

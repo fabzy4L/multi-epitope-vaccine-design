@@ -1,0 +1,5 @@
+>S1_MHC1_0819
+ESEFRVYSS
+# Position: 141-149
+# Length: 9 amino acids
+# Type: MHC-I

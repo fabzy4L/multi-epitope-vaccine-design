@@ -1,0 +1,5 @@
+>S1_MHC1_2005
+QILPDPSKP
+# Position: 804-812
+# Length: 9 amino acids
+# Type: MHC-I

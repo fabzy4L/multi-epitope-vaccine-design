@@ -1,0 +1,5 @@
+>S1_MHC2_1269
+ILPDPSKPSKRS
+# Position: 805-816
+# Length: 12 amino acids
+# Type: MHC-II

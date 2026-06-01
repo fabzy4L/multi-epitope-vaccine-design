@@ -1,0 +1,5 @@
+>S1_MHC1_1714
+ASFSTFKCYG
+# Position: 359-368
+# Length: 10 amino acids
+# Type: MHC-I

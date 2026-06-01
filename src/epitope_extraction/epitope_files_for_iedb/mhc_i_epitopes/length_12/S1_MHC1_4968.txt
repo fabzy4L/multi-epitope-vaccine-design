@@ -1,0 +1,5 @@
+>S1_MHC1_4968
+YVSQPFLMDLEG
+# Position: 170-181
+# Length: 12 amino acids
+# Type: MHC-I

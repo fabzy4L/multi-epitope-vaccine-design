@@ -1,0 +1,5 @@
+>S1_MHC1_3150
+CSNLLLQYGS
+# Position: 749-758
+# Length: 10 amino acids
+# Type: MHC-I

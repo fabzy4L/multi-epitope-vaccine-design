@@ -1,0 +1,5 @@
+>S1_MHC1_3505
+VTQRNFYEPQ
+# Position: 1104-1113
+# Length: 10 amino acids
+# Type: MHC-I

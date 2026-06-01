@@ -1,0 +1,5 @@
+>S1_MHC1_0119
+IVNNATNV
+# Position: 119-126
+# Length: 8 amino acids
+# Type: MHC-I

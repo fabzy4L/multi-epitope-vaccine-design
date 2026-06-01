@@ -1,0 +1,5 @@
+>S1_MHC1_3558
+KNHTSPDVDL
+# Position: 1157-1166
+# Length: 10 amino acids
+# Type: MHC-I

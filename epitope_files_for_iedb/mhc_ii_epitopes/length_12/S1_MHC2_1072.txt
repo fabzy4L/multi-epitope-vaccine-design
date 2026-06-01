@@ -1,0 +1,5 @@
+>S1_MHC2_1072
+VDLPIGINITRF
+# Position: 214-225
+# Length: 12 amino acids
+# Type: MHC-II

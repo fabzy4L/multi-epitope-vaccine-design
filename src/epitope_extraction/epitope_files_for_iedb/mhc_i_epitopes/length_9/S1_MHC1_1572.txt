@@ -1,0 +1,5 @@
+>S1_MHC1_1572
+SASFSTFKC
+# Position: 371-379
+# Length: 9 amino acids
+# Type: MHC-I

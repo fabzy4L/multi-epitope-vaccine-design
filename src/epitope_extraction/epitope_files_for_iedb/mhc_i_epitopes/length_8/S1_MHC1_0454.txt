@@ -1,0 +1,5 @@
+>S1_MHC1_0454
+RLFRKSNL
+# Position: 454-461
+# Length: 8 amino acids
+# Type: MHC-I

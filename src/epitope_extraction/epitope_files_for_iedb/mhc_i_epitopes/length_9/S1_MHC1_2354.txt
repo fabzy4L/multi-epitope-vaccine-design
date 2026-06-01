@@ -1,0 +1,5 @@
+>S1_MHC1_2354
+DKYFKNHTS
+# Position: 1153-1161
+# Length: 9 amino acids
+# Type: MHC-I

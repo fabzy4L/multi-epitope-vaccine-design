@@ -1,0 +1,5 @@
+>S1_MHC1_2971
+ADTTDAVRDP
+# Position: 570-579
+# Length: 10 amino acids
+# Type: MHC-I

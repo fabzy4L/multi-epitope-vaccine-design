@@ -1,0 +1,5 @@
+>S1_MHC1_0511
+VCGPKKST
+# Position: 511-518
+# Length: 8 amino acids
+# Type: MHC-I

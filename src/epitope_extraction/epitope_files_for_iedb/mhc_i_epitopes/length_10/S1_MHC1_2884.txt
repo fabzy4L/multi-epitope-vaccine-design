@@ -1,0 +1,5 @@
+>S1_MHC1_2884
+VEGFNCYFPL
+# Position: 483-492
+# Length: 10 amino acids
+# Type: MHC-I

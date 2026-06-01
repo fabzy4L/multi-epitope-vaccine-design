@@ -1,0 +1,5 @@
+>S1_MHC1_5124
+IVRFPNITNLCP
+# Position: 326-337
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0848
+DLICAQKF
+# Position: 848-855
+# Length: 8 amino acids
+# Type: MHC-I

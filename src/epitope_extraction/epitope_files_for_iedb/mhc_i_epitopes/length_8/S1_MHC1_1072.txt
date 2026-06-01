@@ -1,0 +1,5 @@
+>S1_MHC1_1072
+EKNFTTAP
+# Position: 1072-1079
+# Length: 8 amino acids
+# Type: MHC-I

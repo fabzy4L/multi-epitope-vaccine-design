@@ -1,0 +1,5 @@
+>S1_MHC1_3170
+GIAVEQDKNT
+# Position: 769-778
+# Length: 10 amino acids
+# Type: MHC-I

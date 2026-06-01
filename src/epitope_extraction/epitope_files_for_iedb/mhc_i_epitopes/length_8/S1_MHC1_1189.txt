@@ -1,0 +1,5 @@
+>S1_MHC1_1189
+VAKNLNES
+# Position: 1189-1196
+# Length: 8 amino acids
+# Type: MHC-I

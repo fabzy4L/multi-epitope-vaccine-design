@@ -1,0 +1,5 @@
+>S1_MHC1_3213
+PSKRSFIEDL
+# Position: 812-821
+# Length: 10 amino acids
+# Type: MHC-I

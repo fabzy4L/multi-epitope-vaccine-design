@@ -1,0 +1,5 @@
+>S1_MHC1_0024
+LPPAYTNS
+# Position: 24-31
+# Length: 8 amino acids
+# Type: MHC-I

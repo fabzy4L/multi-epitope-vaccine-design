@@ -1,0 +1,5 @@
+>S1_MHC1_5318
+APATVCGPKKST
+# Position: 520-531
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4189
+PCSFGGVSVIT
+# Position: 589-599
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1784
+FASVYAWNRKRISNCVADYS
+# Position: 334-353
+# Length: 20 amino acids
+# Type: MHC-II

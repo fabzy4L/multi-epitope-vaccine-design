@@ -1,0 +1,5 @@
+>S1_MHC1_1084
+DGKAHFPR
+# Position: 1084-1091
+# Length: 8 amino acids
+# Type: MHC-I

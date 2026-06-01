@@ -1,0 +1,5 @@
+>S1_MHC1_3807
+HTPINLVRDLP
+# Position: 207-217
+# Length: 11 amino acids
+# Type: MHC-I

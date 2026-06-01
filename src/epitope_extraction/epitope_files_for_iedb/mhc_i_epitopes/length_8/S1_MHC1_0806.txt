@@ -1,0 +1,5 @@
+>S1_MHC1_0806
+LPDPSKPS
+# Position: 806-813
+# Length: 8 amino acids
+# Type: MHC-I

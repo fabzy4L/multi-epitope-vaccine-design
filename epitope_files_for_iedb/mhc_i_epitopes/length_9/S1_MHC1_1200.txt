@@ -1,0 +1,5 @@
+>S1_MHC1_1200
+KNKCVNFNF
+# Position: 522-530
+# Length: 9 amino acids
+# Type: MHC-I

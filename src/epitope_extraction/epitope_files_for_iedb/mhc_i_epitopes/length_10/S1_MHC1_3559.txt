@@ -1,0 +1,5 @@
+>S1_MHC1_3559
+NHTSPDVDLG
+# Position: 1158-1167
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1396
+KNIDGYFKI
+# Position: 195-203
+# Length: 9 amino acids
+# Type: MHC-I

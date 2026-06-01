@@ -1,0 +1,5 @@
+>S1_MHC1_0934
+YLQPRTFLL
+# Position: 256-264
+# Length: 9 amino acids
+# Type: MHC-I

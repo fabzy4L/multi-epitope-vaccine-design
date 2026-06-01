@@ -1,0 +1,5 @@
+>S1_MHC1_3674
+NGTKRFDNPVL
+# Position: 74-84
+# Length: 11 amino acids
+# Type: MHC-I

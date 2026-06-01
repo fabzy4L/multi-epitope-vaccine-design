@@ -1,0 +1,5 @@
+>S1_MHC1_3474
+KNFTTAPAIC
+# Position: 1073-1082
+# Length: 10 amino acids
+# Type: MHC-I

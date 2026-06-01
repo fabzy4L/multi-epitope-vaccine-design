@@ -1,0 +1,5 @@
+>S1_MHC2_1382
+ELDSFKEELDKY
+# Position: 1144-1155
+# Length: 12 amino acids
+# Type: MHC-II

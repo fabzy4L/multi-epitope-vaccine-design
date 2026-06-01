@@ -1,0 +1,5 @@
+>S1_MHC1_0272
+PRTFLLKY
+# Position: 272-279
+# Length: 8 amino acids
+# Type: MHC-I

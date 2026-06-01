@@ -1,0 +1,5 @@
+>S1_MHC1_3609
+PLVSSQCVNLT
+# Position: 9-19
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0821
+EFRVYSSAN
+# Position: 143-151
+# Length: 9 amino acids
+# Type: MHC-I

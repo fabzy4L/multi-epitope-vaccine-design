@@ -1,0 +1,5 @@
+>S1_MHC1_3018
+CTEVPVAIHA
+# Position: 617-626
+# Length: 10 amino acids
+# Type: MHC-I

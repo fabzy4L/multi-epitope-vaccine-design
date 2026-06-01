@@ -1,0 +1,5 @@
+>S1_MHC2_1361
+ICHDGKAHFPRE
+# Position: 1081-1092
+# Length: 12 amino acids
+# Type: MHC-II

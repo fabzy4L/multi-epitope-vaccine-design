@@ -1,0 +1,5 @@
+>S1_MHC1_5690
+AALQIPFAMQMA
+# Position: 892-903
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2017
+NSYECDIPIGAGICASYQ
+# Position: 658-675
+# Length: 18 amino acids
+# Type: MHC-II

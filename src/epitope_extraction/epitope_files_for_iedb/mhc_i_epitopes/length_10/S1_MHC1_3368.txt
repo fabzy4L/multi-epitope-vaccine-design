@@ -1,0 +1,5 @@
+>S1_MHC1_3368
+SSNFGAISSV
+# Position: 967-976
+# Length: 10 amino acids
+# Type: MHC-I

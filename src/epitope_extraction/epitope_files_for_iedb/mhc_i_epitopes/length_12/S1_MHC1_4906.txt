@@ -1,0 +1,5 @@
+>S1_MHC1_4906
+TTLDSKTQSLLI
+# Position: 108-119
+# Length: 12 amino acids
+# Type: MHC-I

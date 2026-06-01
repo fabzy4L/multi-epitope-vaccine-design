@@ -1,0 +1,5 @@
+>S1_MHC1_3462
+VFLHVTYVPA
+# Position: 1061-1070
+# Length: 10 amino acids
+# Type: MHC-I

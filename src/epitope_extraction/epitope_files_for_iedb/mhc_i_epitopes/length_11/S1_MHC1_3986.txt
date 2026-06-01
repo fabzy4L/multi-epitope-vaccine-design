@@ -1,0 +1,5 @@
+>S1_MHC1_3986
+KLNDLCFTNVY
+# Position: 386-396
+# Length: 11 amino acids
+# Type: MHC-I

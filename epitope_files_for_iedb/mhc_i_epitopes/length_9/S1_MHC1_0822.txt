@@ -1,0 +1,5 @@
+>S1_MHC1_0822
+FRVYSSANN
+# Position: 144-152
+# Length: 9 amino acids
+# Type: MHC-I

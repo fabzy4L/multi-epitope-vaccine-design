@@ -1,0 +1,5 @@
+>S1_MHC1_0211
+NLVRDLPQ
+# Position: 211-218
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3953
+WNRKRISNCVA
+# Position: 353-363
+# Length: 11 amino acids
+# Type: MHC-I

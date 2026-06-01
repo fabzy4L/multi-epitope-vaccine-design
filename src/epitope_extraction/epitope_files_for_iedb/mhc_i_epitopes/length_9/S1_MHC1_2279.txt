@@ -1,0 +1,5 @@
+>S1_MHC1_2279
+APAICHDGK
+# Position: 1078-1086
+# Length: 9 amino acids
+# Type: MHC-I

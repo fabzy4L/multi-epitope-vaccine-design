@@ -1,0 +1,5 @@
+>S1_MHC1_4584
+LDKVEAEVQID
+# Position: 984-994
+# Length: 11 amino acids
+# Type: MHC-I

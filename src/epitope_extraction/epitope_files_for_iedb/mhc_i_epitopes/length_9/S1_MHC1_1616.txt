@@ -1,0 +1,5 @@
+>S1_MHC1_1616
+TGKIADYNY
+# Position: 415-423
+# Length: 9 amino acids
+# Type: MHC-I

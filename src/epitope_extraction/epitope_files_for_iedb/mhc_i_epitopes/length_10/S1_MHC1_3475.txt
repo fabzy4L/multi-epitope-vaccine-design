@@ -1,0 +1,5 @@
+>S1_MHC1_3475
+NFTTAPAICH
+# Position: 1074-1083
+# Length: 10 amino acids
+# Type: MHC-I

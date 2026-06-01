@@ -1,0 +1,5 @@
+>S1_MHC1_5119
+QPTESIVRFPNI
+# Position: 321-332
+# Length: 12 amino acids
+# Type: MHC-I

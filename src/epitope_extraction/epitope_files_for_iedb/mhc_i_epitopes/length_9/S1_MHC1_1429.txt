@@ -1,0 +1,5 @@
+>S1_MHC1_1429
+DLPIGINIT
+# Position: 228-236
+# Length: 9 amino acids
+# Type: MHC-I

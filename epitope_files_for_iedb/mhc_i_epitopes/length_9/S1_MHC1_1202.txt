@@ -1,0 +1,5 @@
+>S1_MHC1_1202
+KCVNFNFNG
+# Position: 524-532
+# Length: 9 amino acids
+# Type: MHC-I

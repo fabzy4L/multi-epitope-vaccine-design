@@ -1,0 +1,5 @@
+>S1_MHC1_2327
+EKGIYQTSNFR
+# Position: 296-306
+# Length: 11 amino acids
+# Type: MHC-I

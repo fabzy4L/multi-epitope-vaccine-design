@@ -1,0 +1,5 @@
+>S1_MHC1_3047
+NRKRISNCVADY
+# Position: 341-352
+# Length: 12 amino acids
+# Type: MHC-I

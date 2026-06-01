@@ -1,0 +1,5 @@
+>S1_MHC1_1937
+VDCTMYICG
+# Position: 736-744
+# Length: 9 amino acids
+# Type: MHC-I

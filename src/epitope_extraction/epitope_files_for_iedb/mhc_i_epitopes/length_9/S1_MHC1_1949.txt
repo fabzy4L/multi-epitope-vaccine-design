@@ -1,0 +1,5 @@
+>S1_MHC1_1949
+ECSNLLLQY
+# Position: 748-756
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3465
+HVTYVPAQEK
+# Position: 1064-1073
+# Length: 10 amino acids
+# Type: MHC-I

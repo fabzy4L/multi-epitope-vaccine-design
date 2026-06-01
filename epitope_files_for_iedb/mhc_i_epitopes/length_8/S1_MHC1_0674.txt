@@ -1,0 +1,5 @@
+>S1_MHC1_0674
+VASQSIIA
+# Position: 674-681
+# Length: 8 amino acids
+# Type: MHC-I

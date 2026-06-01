@@ -1,0 +1,5 @@
+>S1_MHC2_1641
+TEILPVSMTKTSVDC
+# Position: 724-738
+# Length: 15 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_1477
+LLKYNENGT
+# Position: 276-284
+# Length: 9 amino acids
+# Type: MHC-I

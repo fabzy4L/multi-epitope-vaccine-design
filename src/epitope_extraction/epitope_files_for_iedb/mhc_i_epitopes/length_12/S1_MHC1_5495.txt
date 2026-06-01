@@ -1,0 +1,5 @@
+>S1_MHC1_5495
+MSLGAENSVAYS
+# Position: 697-708
+# Length: 12 amino acids
+# Type: MHC-I

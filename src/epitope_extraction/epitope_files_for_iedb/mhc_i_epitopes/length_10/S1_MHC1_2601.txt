@@ -1,0 +1,5 @@
+>S1_MHC1_2601
+YFKIYSKHTP
+# Position: 200-209
+# Length: 10 amino acids
+# Type: MHC-I

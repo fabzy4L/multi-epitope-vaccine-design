@@ -1,0 +1,5 @@
+>S1_MHC1_1987
+KQIYKTPPI
+# Position: 786-794
+# Length: 9 amino acids
+# Type: MHC-I

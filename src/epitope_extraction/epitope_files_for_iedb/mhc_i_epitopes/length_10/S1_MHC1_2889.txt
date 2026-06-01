@@ -1,0 +1,5 @@
+>S1_MHC1_2889
+CYFPLQSYGF
+# Position: 488-497
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4342
+ICGDSTECSNL
+# Position: 742-752
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2087
+WTFGAGAAL
+# Position: 886-894
+# Length: 9 amino acids
+# Type: MHC-I

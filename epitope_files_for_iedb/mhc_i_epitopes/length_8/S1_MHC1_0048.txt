@@ -1,0 +1,5 @@
+>S1_MHC1_0048
+NVTWFHAI
+# Position: 48-55
+# Length: 8 amino acids
+# Type: MHC-I

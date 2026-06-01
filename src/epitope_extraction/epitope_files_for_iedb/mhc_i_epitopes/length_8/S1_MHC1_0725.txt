@@ -1,0 +1,5 @@
+>S1_MHC1_0725
+EILPVSMT
+# Position: 725-732
+# Length: 8 amino acids
+# Type: MHC-I

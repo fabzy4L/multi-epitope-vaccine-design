@@ -1,0 +1,5 @@
+>S1_MHC1_4404
+QILPDPSKPSK
+# Position: 804-814
+# Length: 11 amino acids
+# Type: MHC-I

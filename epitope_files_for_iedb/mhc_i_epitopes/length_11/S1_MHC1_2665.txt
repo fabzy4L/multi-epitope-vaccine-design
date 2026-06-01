@@ -1,0 +1,5 @@
+>S1_MHC1_2665
+AGCLIGAEHVN
+# Position: 634-644
+# Length: 11 amino acids
+# Type: MHC-I

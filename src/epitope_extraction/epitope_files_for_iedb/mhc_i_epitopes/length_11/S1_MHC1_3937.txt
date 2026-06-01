@@ -1,0 +1,5 @@
+>S1_MHC1_3937
+PFGEVFNATRF
+# Position: 337-347
+# Length: 11 amino acids
+# Type: MHC-I

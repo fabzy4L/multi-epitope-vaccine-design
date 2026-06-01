@@ -1,0 +1,5 @@
+>S1_MHC1_5657
+TVLPPLLTDEMI
+# Position: 859-870
+# Length: 12 amino acids
+# Type: MHC-I

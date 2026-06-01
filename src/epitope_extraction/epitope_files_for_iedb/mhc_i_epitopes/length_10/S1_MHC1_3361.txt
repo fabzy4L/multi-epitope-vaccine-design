@@ -1,0 +1,5 @@
+>S1_MHC1_3361
+NTLVKQLSSN
+# Position: 960-969
+# Length: 10 amino acids
+# Type: MHC-I

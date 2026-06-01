@@ -1,0 +1,5 @@
+>S1_MHC1_2704
+LKSFTVEKGI
+# Position: 303-312
+# Length: 10 amino acids
+# Type: MHC-I

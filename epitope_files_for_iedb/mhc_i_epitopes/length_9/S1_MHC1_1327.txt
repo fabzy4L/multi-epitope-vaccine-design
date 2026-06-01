@@ -1,0 +1,5 @@
+>S1_MHC1_1327
+CDIPIGAGI
+# Position: 649-657
+# Length: 9 amino acids
+# Type: MHC-I

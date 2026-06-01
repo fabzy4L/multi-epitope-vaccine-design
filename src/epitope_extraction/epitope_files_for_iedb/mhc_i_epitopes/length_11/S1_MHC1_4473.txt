@@ -1,0 +1,5 @@
+>S1_MHC1_4473
+YTSALLAGTIT
+# Position: 873-883
+# Length: 11 amino acids
+# Type: MHC-I

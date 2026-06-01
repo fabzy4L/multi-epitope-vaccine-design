@@ -1,0 +1,5 @@
+>S1_MHC1_5733
+QDSLSSTASALG
+# Position: 935-946
+# Length: 12 amino acids
+# Type: MHC-I

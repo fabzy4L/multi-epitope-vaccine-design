@@ -1,0 +1,5 @@
+>S1_MHC1_2841
+NNKSWMESEFRV
+# Position: 135-146
+# Length: 12 amino acids
+# Type: MHC-I

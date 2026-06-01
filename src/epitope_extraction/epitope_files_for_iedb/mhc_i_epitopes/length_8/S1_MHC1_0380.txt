@@ -1,0 +1,5 @@
+>S1_MHC1_0380
+YGVSPTKL
+# Position: 380-387
+# Length: 8 amino acids
+# Type: MHC-I

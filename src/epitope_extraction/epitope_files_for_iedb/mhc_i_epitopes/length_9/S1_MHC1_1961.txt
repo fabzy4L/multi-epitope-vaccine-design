@@ -1,0 +1,5 @@
+>S1_MHC1_1961
+CTQLNRALT
+# Position: 760-768
+# Length: 9 amino acids
+# Type: MHC-I

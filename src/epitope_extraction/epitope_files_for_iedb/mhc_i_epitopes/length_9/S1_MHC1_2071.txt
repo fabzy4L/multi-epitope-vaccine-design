@@ -1,0 +1,5 @@
+>S1_MHC1_2071
+IAQYTSALL
+# Position: 870-878
+# Length: 9 amino acids
+# Type: MHC-I

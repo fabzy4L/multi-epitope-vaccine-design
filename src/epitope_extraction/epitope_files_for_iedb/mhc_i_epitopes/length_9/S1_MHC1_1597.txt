@@ -1,0 +1,5 @@
+>S1_MHC1_1597
+YADSFVIRG
+# Position: 396-404
+# Length: 9 amino acids
+# Type: MHC-I

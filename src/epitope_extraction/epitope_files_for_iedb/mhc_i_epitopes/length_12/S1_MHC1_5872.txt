@@ -1,0 +1,5 @@
+>S1_MHC1_5872
+NFTTAPAICHDG
+# Position: 1074-1085
+# Length: 12 amino acids
+# Type: MHC-I

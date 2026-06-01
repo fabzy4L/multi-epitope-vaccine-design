@@ -1,0 +1,5 @@
+>S1_MHC1_2926
+INITRFQTLLAL
+# Position: 220-231
+# Length: 12 amino acids
+# Type: MHC-I

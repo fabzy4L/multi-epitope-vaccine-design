@@ -1,0 +1,5 @@
+>S1_MHC1_1085
+GKAHFPRE
+# Position: 1085-1092
+# Length: 8 amino acids
+# Type: MHC-I

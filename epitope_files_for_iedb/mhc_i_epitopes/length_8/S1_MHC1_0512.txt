@@ -1,0 +1,5 @@
+>S1_MHC1_0512
+CGPKKSTN
+# Position: 512-519
+# Length: 8 amino acids
+# Type: MHC-I

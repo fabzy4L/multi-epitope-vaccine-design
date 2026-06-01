@@ -1,0 +1,5 @@
+>S1_MHC1_2127
+QFNSAIGKI
+# Position: 926-934
+# Length: 9 amino acids
+# Type: MHC-I

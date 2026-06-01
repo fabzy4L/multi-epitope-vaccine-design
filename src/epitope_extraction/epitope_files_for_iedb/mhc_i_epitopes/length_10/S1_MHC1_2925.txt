@@ -1,0 +1,5 @@
+>S1_MHC1_2925
+VCGPKKSTNL
+# Position: 524-533
+# Length: 10 amino acids
+# Type: MHC-I

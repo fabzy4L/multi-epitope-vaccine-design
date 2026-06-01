@@ -1,0 +1,5 @@
+>S1_MHC1_2026
+KVTLADAGF
+# Position: 825-833
+# Length: 9 amino acids
+# Type: MHC-I

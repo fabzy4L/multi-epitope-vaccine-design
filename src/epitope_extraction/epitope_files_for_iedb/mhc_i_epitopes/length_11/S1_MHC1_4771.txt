@@ -1,0 +1,5 @@
+>S1_MHC1_4771
+GINASVVNIQK
+# Position: 1171-1181
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2016
+HVNNSYECDIPIGAGICA
+# Position: 655-672
+# Length: 18 amino acids
+# Type: MHC-II

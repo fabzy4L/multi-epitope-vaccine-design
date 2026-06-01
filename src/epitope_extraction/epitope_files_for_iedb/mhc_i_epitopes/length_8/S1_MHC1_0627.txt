@@ -1,0 +1,5 @@
+>S1_MHC1_0627
+DQLTPTWR
+# Position: 627-634
+# Length: 8 amino acids
+# Type: MHC-I

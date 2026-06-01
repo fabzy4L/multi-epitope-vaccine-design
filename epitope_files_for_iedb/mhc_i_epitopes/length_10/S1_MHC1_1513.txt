@@ -1,0 +1,5 @@
+>S1_MHC1_1513
+VSQPFLMDLE
+# Position: 158-167
+# Length: 10 amino acids
+# Type: MHC-I

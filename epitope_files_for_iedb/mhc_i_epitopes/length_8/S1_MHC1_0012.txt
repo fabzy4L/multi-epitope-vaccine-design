@@ -1,0 +1,5 @@
+>S1_MHC1_0012
+PPAYTNSF
+# Position: 12-19
+# Length: 8 amino acids
+# Type: MHC-I

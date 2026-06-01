@@ -1,0 +1,5 @@
+>S1_MHC1_4619
+RASANLAATKM
+# Position: 1019-1029
+# Length: 11 amino acids
+# Type: MHC-I

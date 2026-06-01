@@ -1,0 +1,5 @@
+>S1_MHC1_1165
+DLGDISGI
+# Position: 1165-1172
+# Length: 8 amino acids
+# Type: MHC-I

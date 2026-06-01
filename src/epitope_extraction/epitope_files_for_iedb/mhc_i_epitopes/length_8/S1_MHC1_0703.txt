@@ -1,0 +1,5 @@
+>S1_MHC1_0703
+NSVAYSNN
+# Position: 703-710
+# Length: 8 amino acids
+# Type: MHC-I

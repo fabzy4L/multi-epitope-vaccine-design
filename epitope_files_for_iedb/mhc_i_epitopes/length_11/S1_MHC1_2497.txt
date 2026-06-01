@@ -1,0 +1,5 @@
+>S1_MHC1_2497
+PCNGVEGFNCY
+# Position: 466-476
+# Length: 11 amino acids
+# Type: MHC-I

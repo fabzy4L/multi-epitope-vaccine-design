@@ -1,0 +1,5 @@
+>S1_MHC1_4121
+PATVCGPKKST
+# Position: 521-531
+# Length: 11 amino acids
+# Type: MHC-I

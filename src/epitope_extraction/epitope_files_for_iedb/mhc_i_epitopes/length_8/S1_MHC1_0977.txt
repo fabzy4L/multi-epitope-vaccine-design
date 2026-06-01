@@ -1,0 +1,5 @@
+>S1_MHC1_0977
+LNDILSRL
+# Position: 977-984
+# Length: 8 amino acids
+# Type: MHC-I

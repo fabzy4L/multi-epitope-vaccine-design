@@ -1,0 +1,5 @@
+>S1_MHC1_2390
+VAKNLNESL
+# Position: 1189-1197
+# Length: 9 amino acids
+# Type: MHC-I

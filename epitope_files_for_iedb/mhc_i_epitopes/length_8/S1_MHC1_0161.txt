@@ -1,0 +1,5 @@
+>S1_MHC1_0161
+PFLMDLEG
+# Position: 161-168
+# Length: 8 amino acids
+# Type: MHC-I

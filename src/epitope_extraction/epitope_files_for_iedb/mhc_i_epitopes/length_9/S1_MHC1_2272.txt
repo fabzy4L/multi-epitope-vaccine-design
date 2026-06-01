@@ -1,0 +1,5 @@
+>S1_MHC1_2272
+QEKNFTTAP
+# Position: 1071-1079
+# Length: 9 amino acids
+# Type: MHC-I

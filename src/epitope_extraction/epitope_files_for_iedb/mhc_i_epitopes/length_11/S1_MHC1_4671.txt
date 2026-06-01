@@ -1,0 +1,5 @@
+>S1_MHC1_4671
+QEKNFTTAPAI
+# Position: 1071-1081
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3934
+NLCPFGEVFNA
+# Position: 334-344
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3206
+ILPDPSKPSK
+# Position: 805-814
+# Length: 10 amino acids
+# Type: MHC-I

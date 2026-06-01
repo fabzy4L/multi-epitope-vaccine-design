@@ -1,0 +1,5 @@
+>S1_MHC1_1660
+FRVQPTESIV
+# Position: 305-314
+# Length: 10 amino acids
+# Type: MHC-I

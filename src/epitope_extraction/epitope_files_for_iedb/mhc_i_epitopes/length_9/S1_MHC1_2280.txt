@@ -1,0 +1,5 @@
+>S1_MHC1_2280
+PAICHDGKA
+# Position: 1079-1087
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2216
+AAEIRASAN
+# Position: 1015-1023
+# Length: 9 amino acids
+# Type: MHC-I

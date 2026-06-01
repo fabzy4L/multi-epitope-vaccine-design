@@ -1,0 +1,5 @@
+>S1_MHC2_1223
+GAGICASYQTQT
+# Position: 667-678
+# Length: 12 amino acids
+# Type: MHC-II

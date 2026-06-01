@@ -1,0 +1,5 @@
+>S1_MHC1_3420
+RASANLAATK
+# Position: 1019-1028
+# Length: 10 amino acids
+# Type: MHC-I

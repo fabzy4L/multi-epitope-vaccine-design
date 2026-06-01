@@ -1,0 +1,5 @@
+>S1_MHC1_1712
+NSASFSTFKC
+# Position: 357-366
+# Length: 10 amino acids
+# Type: MHC-I

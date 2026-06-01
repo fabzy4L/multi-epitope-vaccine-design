@@ -1,0 +1,5 @@
+>S1_MHC1_1864
+DIPIGAGIC
+# Position: 663-671
+# Length: 9 amino acids
+# Type: MHC-I

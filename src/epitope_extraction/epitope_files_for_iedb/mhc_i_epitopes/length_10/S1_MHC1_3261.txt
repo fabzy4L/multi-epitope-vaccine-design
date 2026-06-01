@@ -1,0 +1,5 @@
+>S1_MHC1_3261
+VLPPLLTDEM
+# Position: 860-869
+# Length: 10 amino acids
+# Type: MHC-I

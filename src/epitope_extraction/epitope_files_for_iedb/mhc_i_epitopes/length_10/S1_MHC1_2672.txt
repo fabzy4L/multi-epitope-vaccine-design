@@ -1,0 +1,5 @@
+>S1_MHC1_2672
+QPRTFLLKYN
+# Position: 271-280
+# Length: 10 amino acids
+# Type: MHC-I

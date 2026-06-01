@@ -1,0 +1,5 @@
+>S1_MHC1_1909
+SNNSIAIPT
+# Position: 708-716
+# Length: 9 amino acids
+# Type: MHC-I

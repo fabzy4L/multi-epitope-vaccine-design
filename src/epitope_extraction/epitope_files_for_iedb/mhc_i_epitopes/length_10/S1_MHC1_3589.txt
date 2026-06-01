@@ -1,0 +1,5 @@
+>S1_MHC1_3589
+EVAKNLNESL
+# Position: 1188-1197
+# Length: 10 amino acids
+# Type: MHC-I

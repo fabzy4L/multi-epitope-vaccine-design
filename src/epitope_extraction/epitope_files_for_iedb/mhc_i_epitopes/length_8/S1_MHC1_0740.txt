@@ -1,0 +1,5 @@
+>S1_MHC1_0740
+MYICGDST
+# Position: 740-747
+# Length: 8 amino acids
+# Type: MHC-I

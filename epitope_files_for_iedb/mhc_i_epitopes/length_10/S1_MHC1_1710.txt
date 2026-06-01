@@ -1,0 +1,5 @@
+>S1_MHC1_1710
+LYNSASFSTF
+# Position: 355-364
+# Length: 10 amino acids
+# Type: MHC-I

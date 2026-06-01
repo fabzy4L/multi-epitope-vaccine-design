@@ -1,0 +1,5 @@
+>S1_MHC1_5069
+QPRTFLLKYNEN
+# Position: 271-282
+# Length: 12 amino acids
+# Type: MHC-I

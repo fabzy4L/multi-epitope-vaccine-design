@@ -1,0 +1,14 @@
+NC_045512v2	wuhCor1_ncbiGeneBGP	start_codon	266	268	0.000000	+	.	gene_id "ORF1a"; transcript_id "ORF1a"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	CDS	266	13480	0.000000	+	0	gene_id "ORF1a"; transcript_id "ORF1a"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	stop_codon	13481	13483	0.000000	+	.	gene_id "ORF1a"; transcript_id "ORF1a"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	exon	266	13483	0.000000	+	.	gene_id "ORF1a"; transcript_id "ORF1a"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	start_codon	266	268	0.000000	+	.	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	CDS	266	13468	0.000000	+	0	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	exon	266	13468	0.000000	+	.	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	CDS	13468	21552	0.000000	+	0	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	stop_codon	21553	21555	0.000000	+	.	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	exon	13468	21555	0.000000	+	.	gene_id "ORF1ab"; transcript_id "ORF1ab"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	start_codon	21563	21565	0.000000	+	.	gene_id "S"; transcript_id "S"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	CDS	21563	25381	0.000000	+	0	gene_id "S"; transcript_id "S"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	stop_codon	25382	25384	0.000000	+	.	gene_id "S"; transcript_id "S"; 
+NC_045512v2	wuhCor1_ncbiGeneBGP	exon	21563	25384	0.000000	+	.	gene_id "S"; transcript_id "S"; 

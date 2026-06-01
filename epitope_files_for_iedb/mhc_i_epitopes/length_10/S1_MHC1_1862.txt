@@ -1,0 +1,5 @@
+>S1_MHC1_1862
+APATVCGPKK
+# Position: 507-516
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0152
+WMESEFRF
+# Position: 152-159
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2917
+ELLHAPATVC
+# Position: 516-525
+# Length: 10 amino acids
+# Type: MHC-I

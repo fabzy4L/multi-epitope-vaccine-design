@@ -1,0 +1,5 @@
+>S1_MHC2_1760
+ICHDGKAHFPREGVF
+# Position: 1081-1095
+# Length: 15 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC2_1322
+KQLSSNFGAISS
+# Position: 964-975
+# Length: 12 amino acids
+# Type: MHC-II

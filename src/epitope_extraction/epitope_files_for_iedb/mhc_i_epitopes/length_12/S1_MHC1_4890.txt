@@ -1,0 +1,5 @@
+>S1_MHC1_4890
+FASTEKSNIIRG
+# Position: 92-103
+# Length: 12 amino acids
+# Type: MHC-I

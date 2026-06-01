@@ -1,0 +1,5 @@
+>S1_MHC1_2578
+LPFQQFGRDIA
+# Position: 547-557
+# Length: 11 amino acids
+# Type: MHC-I

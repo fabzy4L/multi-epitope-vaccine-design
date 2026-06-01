@@ -1,0 +1,5 @@
+>S1_MHC1_0391
+GDEVRQIA
+# Position: 391-398
+# Length: 8 amino acids
+# Type: MHC-I

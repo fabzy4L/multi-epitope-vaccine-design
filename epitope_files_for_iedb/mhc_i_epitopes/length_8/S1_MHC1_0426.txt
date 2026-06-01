@@ -1,0 +1,5 @@
+>S1_MHC1_0426
+NNLDSKVG
+# Position: 426-433
+# Length: 8 amino acids
+# Type: MHC-I

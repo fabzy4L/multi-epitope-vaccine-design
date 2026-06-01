@@ -1,0 +1,5 @@
+>S1_MHC1_1076
+APGQTGKIA
+# Position: 398-406
+# Length: 9 amino acids
+# Type: MHC-I

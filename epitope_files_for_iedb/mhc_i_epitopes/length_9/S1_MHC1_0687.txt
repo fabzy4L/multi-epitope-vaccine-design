@@ -1,0 +1,5 @@
+>S1_MHC1_0687
+TQLPPAYTN
+# Position: 9-17
+# Length: 9 amino acids
+# Type: MHC-I

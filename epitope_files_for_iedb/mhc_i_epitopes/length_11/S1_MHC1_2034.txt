@@ -1,0 +1,5 @@
+>S1_MHC1_2034
+VNLTTRTQLPP
+# Position: 3-13
+# Length: 11 amino acids
+# Type: MHC-I

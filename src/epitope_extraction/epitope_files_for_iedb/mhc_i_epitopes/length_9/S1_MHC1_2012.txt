@@ -1,0 +1,5 @@
+>S1_MHC1_2012
+KPSKRSFIE
+# Position: 811-819
+# Length: 9 amino acids
+# Type: MHC-I

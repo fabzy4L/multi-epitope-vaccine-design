@@ -1,0 +1,5 @@
+>S1_MHC1_2024
+FNKVTLADA
+# Position: 823-831
+# Length: 9 amino acids
+# Type: MHC-I

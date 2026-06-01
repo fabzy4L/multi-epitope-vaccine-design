@@ -1,0 +1,5 @@
+>S1_MHC1_1028
+KMSECVLG
+# Position: 1028-1035
+# Length: 8 amino acids
+# Type: MHC-I

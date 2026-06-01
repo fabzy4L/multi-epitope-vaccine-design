@@ -1,0 +1,5 @@
+>S1_MHC1_1048
+HLMSFPQS
+# Position: 1048-1055
+# Length: 8 amino acids
+# Type: MHC-I

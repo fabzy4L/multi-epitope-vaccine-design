@@ -1,0 +1,5 @@
+>S1_MHC1_2263
+FLHVTYVPA
+# Position: 1062-1070
+# Length: 9 amino acids
+# Type: MHC-I

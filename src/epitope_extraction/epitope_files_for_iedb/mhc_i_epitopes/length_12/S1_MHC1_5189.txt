@@ -1,0 +1,5 @@
+>S1_MHC1_5189
+CFTNVYADSFVI
+# Position: 391-402
+# Length: 12 amino acids
+# Type: MHC-I

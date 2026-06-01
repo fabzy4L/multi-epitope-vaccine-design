@@ -1,0 +1,5 @@
+>S1_MHC1_5602
+QILPDPSKPSKR
+# Position: 804-815
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1578
+FKCYGVSPT
+# Position: 377-385
+# Length: 9 amino acids
+# Type: MHC-I

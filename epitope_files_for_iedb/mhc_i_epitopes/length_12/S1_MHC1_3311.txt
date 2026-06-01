@@ -1,0 +1,5 @@
+>S1_MHC1_3311
+TEVPVAIHADQL
+# Position: 605-616
+# Length: 12 amino acids
+# Type: MHC-I

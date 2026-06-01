@@ -1,0 +1,5 @@
+>S1_MHC2_2411
+CLIGAEHVNNSYECDIPIGA
+# Position: 649-668
+# Length: 20 amino acids
+# Type: MHC-II

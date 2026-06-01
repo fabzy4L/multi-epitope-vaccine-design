@@ -1,0 +1,5 @@
+>S1_MHC1_5677
+AGTITSGWTFGA
+# Position: 879-890
+# Length: 12 amino acids
+# Type: MHC-I

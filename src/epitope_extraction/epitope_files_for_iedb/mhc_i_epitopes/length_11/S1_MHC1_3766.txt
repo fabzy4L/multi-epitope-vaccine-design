@@ -1,0 +1,5 @@
+>S1_MHC1_3766
+CTFEYVSQPFL
+# Position: 166-176
+# Length: 11 amino acids
+# Type: MHC-I

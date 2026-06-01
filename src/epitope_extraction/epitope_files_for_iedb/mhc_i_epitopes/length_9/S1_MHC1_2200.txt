@@ -1,0 +1,5 @@
+>S1_MHC1_2200
+GRLQSLQTY
+# Position: 999-1007
+# Length: 9 amino acids
+# Type: MHC-I

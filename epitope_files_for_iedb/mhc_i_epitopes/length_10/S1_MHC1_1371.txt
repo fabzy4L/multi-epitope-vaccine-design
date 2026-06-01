@@ -1,0 +1,5 @@
+>S1_MHC1_1371
+TNSFTRGVYY
+# Position: 16-25
+# Length: 10 amino acids
+# Type: MHC-I

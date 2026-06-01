@@ -1,0 +1,5 @@
+>S1_MHC1_0080
+ASTEKSNI
+# Position: 80-87
+# Length: 8 amino acids
+# Type: MHC-I

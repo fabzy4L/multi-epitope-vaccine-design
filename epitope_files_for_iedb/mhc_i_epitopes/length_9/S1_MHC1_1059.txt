@@ -1,0 +1,5 @@
+>S1_MHC1_1059
+NVYADSFVI
+# Position: 381-389
+# Length: 9 amino acids
+# Type: MHC-I

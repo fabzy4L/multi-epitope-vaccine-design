@@ -1,0 +1,5 @@
+>S1_MHC1_1073
+KNFTTAPA
+# Position: 1073-1080
+# Length: 8 amino acids
+# Type: MHC-I

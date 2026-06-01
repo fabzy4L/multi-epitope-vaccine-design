@@ -1,0 +1,5 @@
+>S1_MHC1_0938
+LSSTASAL
+# Position: 938-945
+# Length: 8 amino acids
+# Type: MHC-I

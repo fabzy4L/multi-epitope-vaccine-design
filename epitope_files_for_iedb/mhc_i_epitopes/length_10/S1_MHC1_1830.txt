@@ -1,0 +1,5 @@
+>S1_MHC1_1830
+CYFPLQSYGF
+# Position: 475-484
+# Length: 10 amino acids
+# Type: MHC-I

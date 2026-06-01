@@ -1,0 +1,5 @@
+>S1_MHC1_3715
+QSLLIVNNATN
+# Position: 115-125
+# Length: 11 amino acids
+# Type: MHC-I

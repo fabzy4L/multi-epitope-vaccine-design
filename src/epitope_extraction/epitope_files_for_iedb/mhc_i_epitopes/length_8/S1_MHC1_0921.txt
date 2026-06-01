@@ -1,0 +1,5 @@
+>S1_MHC1_0921
+KLIANQFN
+# Position: 921-928
+# Length: 8 amino acids
+# Type: MHC-I

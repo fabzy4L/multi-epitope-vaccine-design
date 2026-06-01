@@ -1,0 +1,5 @@
+>S1_MHC1_2367
+LGDISGINA
+# Position: 1166-1174
+# Length: 9 amino acids
+# Type: MHC-I

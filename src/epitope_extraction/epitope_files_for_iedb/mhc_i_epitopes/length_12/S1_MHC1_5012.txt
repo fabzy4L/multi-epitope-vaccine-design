@@ -1,0 +1,5 @@
+>S1_MHC1_5012
+RDLPQGFSALEP
+# Position: 214-225
+# Length: 12 amino acids
+# Type: MHC-I

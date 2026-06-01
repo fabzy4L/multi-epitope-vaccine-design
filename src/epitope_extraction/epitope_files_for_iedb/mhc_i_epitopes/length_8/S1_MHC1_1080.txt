@@ -1,0 +1,5 @@
+>S1_MHC1_1080
+AICHDGKA
+# Position: 1080-1087
+# Length: 8 amino acids
+# Type: MHC-I

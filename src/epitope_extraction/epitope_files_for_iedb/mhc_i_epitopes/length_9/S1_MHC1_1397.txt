@@ -1,0 +1,5 @@
+>S1_MHC1_1397
+NIDGYFKIY
+# Position: 196-204
+# Length: 9 amino acids
+# Type: MHC-I

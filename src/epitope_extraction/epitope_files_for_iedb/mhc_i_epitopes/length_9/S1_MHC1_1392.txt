@@ -1,0 +1,5 @@
+>S1_MHC1_1392
+EFVFKNIDG
+# Position: 191-199
+# Length: 9 amino acids
+# Type: MHC-I

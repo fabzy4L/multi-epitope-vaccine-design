@@ -1,0 +1,5 @@
+>S1_MHC2_2286
+TFLLKYNENGTITDAVDCAL
+# Position: 274-293
+# Length: 20 amino acids
+# Type: MHC-II

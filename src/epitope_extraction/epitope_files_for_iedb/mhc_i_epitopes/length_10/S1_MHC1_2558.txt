@@ -1,0 +1,5 @@
+>S1_MHC1_2558
+FRFYSSANNC
+# Position: 157-166
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5969
+GINASVVNIQKE
+# Position: 1171-1182
+# Length: 12 amino acids
+# Type: MHC-I

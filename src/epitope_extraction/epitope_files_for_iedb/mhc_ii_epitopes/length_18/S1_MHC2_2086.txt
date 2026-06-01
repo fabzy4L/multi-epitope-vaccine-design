@@ -1,0 +1,5 @@
+>S1_MHC2_2086
+LTDEMIAQYTSALLAGTI
+# Position: 865-882
+# Length: 18 amino acids
+# Type: MHC-II

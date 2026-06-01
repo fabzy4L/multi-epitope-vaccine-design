@@ -1,0 +1,5 @@
+>S1_MHC1_2377
+VVNIQKEID
+# Position: 1176-1184
+# Length: 9 amino acids
+# Type: MHC-I

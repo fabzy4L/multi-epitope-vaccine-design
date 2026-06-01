@@ -1,0 +1,5 @@
+>S1_MHC1_0972
+TVEKGIYQT
+# Position: 294-302
+# Length: 9 amino acids
+# Type: MHC-I

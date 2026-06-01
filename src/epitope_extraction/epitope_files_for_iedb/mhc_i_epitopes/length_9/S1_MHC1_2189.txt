@@ -1,0 +1,5 @@
+>S1_MHC1_2189
+EAEVQIDRL
+# Position: 988-996
+# Length: 9 amino acids
+# Type: MHC-I

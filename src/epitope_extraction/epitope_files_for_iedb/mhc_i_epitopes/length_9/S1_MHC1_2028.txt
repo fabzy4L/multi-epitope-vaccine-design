@@ -1,0 +1,5 @@
+>S1_MHC1_2028
+TLADAGFIK
+# Position: 827-835
+# Length: 9 amino acids
+# Type: MHC-I

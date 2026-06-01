@@ -1,0 +1,5 @@
+>S1_MHC1_0319
+RVQPTESI
+# Position: 319-326
+# Length: 8 amino acids
+# Type: MHC-I

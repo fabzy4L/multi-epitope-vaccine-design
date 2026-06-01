@@ -1,0 +1,5 @@
+>S1_MHC1_3047
+RAGCLIGAEH
+# Position: 646-655
+# Length: 10 amino acids
+# Type: MHC-I

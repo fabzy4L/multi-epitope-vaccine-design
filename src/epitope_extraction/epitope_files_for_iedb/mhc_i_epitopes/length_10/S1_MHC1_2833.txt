@@ -1,0 +1,5 @@
+>S1_MHC1_2833
+CVIAWNSNNL
+# Position: 432-441
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2865
+SQPFLMDLEGKQ
+# Position: 159-170
+# Length: 12 amino acids
+# Type: MHC-I

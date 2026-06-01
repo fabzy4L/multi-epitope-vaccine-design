@@ -1,0 +1,5 @@
+>S1_MHC1_5022
+EPLVDLPIGINI
+# Position: 224-235
+# Length: 12 amino acids
+# Type: MHC-I

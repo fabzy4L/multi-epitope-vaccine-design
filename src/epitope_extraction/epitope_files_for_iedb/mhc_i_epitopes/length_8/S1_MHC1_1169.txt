@@ -1,0 +1,5 @@
+>S1_MHC1_1169
+ISGINASV
+# Position: 1169-1176
+# Length: 8 amino acids
+# Type: MHC-I

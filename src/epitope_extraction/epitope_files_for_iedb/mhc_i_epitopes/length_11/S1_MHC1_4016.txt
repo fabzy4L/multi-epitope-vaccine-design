@@ -1,0 +1,5 @@
+>S1_MHC1_4016
+GKIADYNYKLP
+# Position: 416-426
+# Length: 11 amino acids
+# Type: MHC-I

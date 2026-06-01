@@ -1,0 +1,5 @@
+>S1_MHC1_2977
+VRDPQTLEIL
+# Position: 576-585
+# Length: 10 amino acids
+# Type: MHC-I

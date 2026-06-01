@@ -1,0 +1,5 @@
+>S1_MHC1_3264
+PLLTDEMIAQ
+# Position: 863-872
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2697
+LSETKCTLKS
+# Position: 296-305
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1734
+FTNVYADSFV
+# Position: 379-388
+# Length: 10 amino acids
+# Type: MHC-I

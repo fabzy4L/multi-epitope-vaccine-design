@@ -1,0 +1,5 @@
+>S1_MHC1_3275
+TSALLAGTIT
+# Position: 874-883
+# Length: 10 amino acids
+# Type: MHC-I

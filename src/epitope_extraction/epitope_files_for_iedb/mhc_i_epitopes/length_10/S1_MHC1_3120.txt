@@ -1,0 +1,5 @@
+>S1_MHC1_3120
+TISVTTEILP
+# Position: 719-728
+# Length: 10 amino acids
+# Type: MHC-I

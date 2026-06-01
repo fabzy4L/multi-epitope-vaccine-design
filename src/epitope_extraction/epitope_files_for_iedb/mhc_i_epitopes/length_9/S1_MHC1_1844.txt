@@ -1,0 +1,5 @@
+>S1_MHC1_1844
+FQTRAGCLI
+# Position: 643-651
+# Length: 9 amino acids
+# Type: MHC-I

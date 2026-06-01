@@ -1,0 +1,5 @@
+>S1_MHC1_5498
+GAENSVAYSNNS
+# Position: 700-711
+# Length: 12 amino acids
+# Type: MHC-I

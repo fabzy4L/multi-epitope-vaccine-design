@@ -1,0 +1,5 @@
+>S1_MHC1_1238
+YYPDKVFRS
+# Position: 37-45
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0120
+FQFCNDPF
+# Position: 120-127
+# Length: 8 amino acids
+# Type: MHC-I

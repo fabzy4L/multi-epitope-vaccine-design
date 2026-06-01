@@ -1,0 +1,5 @@
+>S1_MHC1_4307
+YSNNSIAIPTN
+# Position: 707-717
+# Length: 11 amino acids
+# Type: MHC-I

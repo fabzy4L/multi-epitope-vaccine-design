@@ -1,0 +1,5 @@
+>S1_MHC1_5320
+ATVCGPKKSTNL
+# Position: 522-533
+# Length: 12 amino acids
+# Type: MHC-I

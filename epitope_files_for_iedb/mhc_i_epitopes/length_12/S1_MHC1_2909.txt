@@ -1,0 +1,5 @@
+>S1_MHC1_2909
+LPQGFSALEPLV
+# Position: 203-214
+# Length: 12 amino acids
+# Type: MHC-I

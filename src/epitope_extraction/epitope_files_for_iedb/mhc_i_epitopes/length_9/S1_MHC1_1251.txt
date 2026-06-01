@@ -1,0 +1,5 @@
+>S1_MHC1_1251
+STQDLFLPF
+# Position: 50-58
+# Length: 9 amino acids
+# Type: MHC-I

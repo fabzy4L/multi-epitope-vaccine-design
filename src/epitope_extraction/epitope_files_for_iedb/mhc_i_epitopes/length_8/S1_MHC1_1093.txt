@@ -1,0 +1,5 @@
+>S1_MHC1_1093
+GVFVSNGT
+# Position: 1093-1100
+# Length: 8 amino acids
+# Type: MHC-I

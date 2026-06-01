@@ -1,0 +1,5 @@
+>S1_MHC1_0998
+TGRLQSLQ
+# Position: 998-1005
+# Length: 8 amino acids
+# Type: MHC-I

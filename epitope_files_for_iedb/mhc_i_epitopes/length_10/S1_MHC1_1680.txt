@@ -1,0 +1,5 @@
+>S1_MHC1_1680
+FGEVFNATRF
+# Position: 325-334
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0764
+NRALTGIA
+# Position: 764-771
+# Length: 8 amino acids
+# Type: MHC-I

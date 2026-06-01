@@ -1,0 +1,5 @@
+>S1_MHC1_0088
+IRGWIFGT
+# Position: 88-95
+# Length: 8 amino acids
+# Type: MHC-I

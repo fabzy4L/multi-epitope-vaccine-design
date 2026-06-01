@@ -1,0 +1,5 @@
+>S1_MHC1_0853
+QKFNGLTV
+# Position: 853-860
+# Length: 8 amino acids
+# Type: MHC-I

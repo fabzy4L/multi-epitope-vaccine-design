@@ -1,0 +1,5 @@
+>S1_MHC1_2065
+LLTDEMIAQ
+# Position: 864-872
+# Length: 9 amino acids
+# Type: MHC-I

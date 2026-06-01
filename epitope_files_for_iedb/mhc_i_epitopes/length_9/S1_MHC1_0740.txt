@@ -1,0 +1,5 @@
+>S1_MHC1_0740
+GTKRFDNPV
+# Position: 62-70
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2757
+KRISNCVADY
+# Position: 356-365
+# Length: 10 amino acids
+# Type: MHC-I

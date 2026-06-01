@@ -1,0 +1,5 @@
+>S1_MHC1_1534
+TNLCPFGEV
+# Position: 333-341
+# Length: 9 amino acids
+# Type: MHC-I

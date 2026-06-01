@@ -1,0 +1,5 @@
+>S1_MHC1_2275
+NFTTAPAIC
+# Position: 1074-1082
+# Length: 9 amino acids
+# Type: MHC-I

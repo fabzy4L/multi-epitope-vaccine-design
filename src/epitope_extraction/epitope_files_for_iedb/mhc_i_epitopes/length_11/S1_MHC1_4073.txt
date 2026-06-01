@@ -1,0 +1,5 @@
+>S1_MHC1_4073
+YQAGSTPCNGV
+# Position: 473-483
+# Length: 11 amino acids
+# Type: MHC-I

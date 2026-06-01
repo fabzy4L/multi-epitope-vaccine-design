@@ -1,0 +1,5 @@
+>S1_MHC1_1221
+TRTQLPPAY
+# Position: 20-28
+# Length: 9 amino acids
+# Type: MHC-I

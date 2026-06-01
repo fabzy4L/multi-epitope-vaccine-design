@@ -1,0 +1,5 @@
+>S1_MHC1_2986
+LDITPCSFGG
+# Position: 585-594
+# Length: 10 amino acids
+# Type: MHC-I

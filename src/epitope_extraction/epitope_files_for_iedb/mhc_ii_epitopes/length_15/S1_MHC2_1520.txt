@@ -1,0 +1,5 @@
+>S1_MHC2_1520
+CVADYSVLYNSASFS
+# Position: 361-375
+# Length: 15 amino acids
+# Type: MHC-II

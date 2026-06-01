@@ -1,0 +1,5 @@
+>S1_MHC1_2853
+LYRLFRKSNL
+# Position: 452-461
+# Length: 10 amino acids
+# Type: MHC-I

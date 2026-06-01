@@ -1,0 +1,5 @@
+>S1_MHC1_0927
+FNSAIGKI
+# Position: 927-934
+# Length: 8 amino acids
+# Type: MHC-I

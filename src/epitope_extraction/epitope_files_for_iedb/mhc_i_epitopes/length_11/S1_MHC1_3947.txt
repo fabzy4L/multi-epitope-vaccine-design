@@ -1,0 +1,5 @@
+>S1_MHC1_3947
+FASVYAWNRKR
+# Position: 347-357
+# Length: 11 amino acids
+# Type: MHC-I

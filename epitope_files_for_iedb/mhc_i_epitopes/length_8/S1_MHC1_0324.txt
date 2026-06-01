@@ -1,0 +1,5 @@
+>S1_MHC1_0324
+PFGEVFNA
+# Position: 324-331
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5478
+SPRRARSVASQS
+# Position: 680-691
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5017
+GFSALEPLVDLP
+# Position: 219-230
+# Length: 12 amino acids
+# Type: MHC-I

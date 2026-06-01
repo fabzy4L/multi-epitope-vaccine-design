@@ -1,0 +1,5 @@
+>S1_MHC1_0608
+PVAIHADQ
+# Position: 608-615
+# Length: 8 amino acids
+# Type: MHC-I

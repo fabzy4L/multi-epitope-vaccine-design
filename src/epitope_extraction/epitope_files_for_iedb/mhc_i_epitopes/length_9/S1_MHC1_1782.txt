@@ -1,0 +1,5 @@
+>S1_MHC1_1782
+TLEILDITP
+# Position: 581-589
+# Length: 9 amino acids
+# Type: MHC-I

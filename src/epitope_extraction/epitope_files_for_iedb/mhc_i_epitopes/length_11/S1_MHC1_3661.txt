@@ -1,0 +1,5 @@
+>S1_MHC1_3661
+NVTWFHAIHVS
+# Position: 61-71
+# Length: 11 amino acids
+# Type: MHC-I

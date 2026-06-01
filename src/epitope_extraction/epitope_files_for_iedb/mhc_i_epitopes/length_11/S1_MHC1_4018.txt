@@ -1,0 +1,5 @@
+>S1_MHC1_4018
+IADYNYKLPDD
+# Position: 418-428
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3322
+KLIANQFNSA
+# Position: 921-930
+# Length: 10 amino acids
+# Type: MHC-I

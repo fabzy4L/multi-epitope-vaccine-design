@@ -1,0 +1,5 @@
+>S1_MHC2_1475
+GVYFASTEKSNIIRGWIF
+# Position: 76-93
+# Length: 18 amino acids
+# Type: MHC-II

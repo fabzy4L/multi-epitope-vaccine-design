@@ -1,0 +1,5 @@
+>S1_MHC1_3899
+TKCTLKSFTVE
+# Position: 299-309
+# Length: 11 amino acids
+# Type: MHC-I

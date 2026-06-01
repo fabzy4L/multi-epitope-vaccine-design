@@ -1,0 +1,5 @@
+>S1_MHC1_1051
+KLNDLCFTN
+# Position: 373-381
+# Length: 9 amino acids
+# Type: MHC-I

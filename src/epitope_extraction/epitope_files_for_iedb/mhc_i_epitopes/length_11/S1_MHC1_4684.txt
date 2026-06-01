@@ -1,0 +1,5 @@
+>S1_MHC1_4684
+DGKAHFPREGV
+# Position: 1084-1094
+# Length: 11 amino acids
+# Type: MHC-I

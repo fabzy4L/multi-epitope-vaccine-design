@@ -1,0 +1,5 @@
+>S1_MHC1_0291
+KSFTVEKG
+# Position: 291-298
+# Length: 8 amino acids
+# Type: MHC-I

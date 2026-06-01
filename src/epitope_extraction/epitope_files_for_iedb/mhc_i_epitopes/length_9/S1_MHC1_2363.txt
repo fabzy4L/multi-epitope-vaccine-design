@@ -1,0 +1,5 @@
+>S1_MHC1_2363
+PDVDLGDIS
+# Position: 1162-1170
+# Length: 9 amino acids
+# Type: MHC-I

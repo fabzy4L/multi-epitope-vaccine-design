@@ -1,0 +1,5 @@
+>S1_MHC1_2093
+GTKRFDNPVLP
+# Position: 62-72
+# Length: 11 amino acids
+# Type: MHC-I

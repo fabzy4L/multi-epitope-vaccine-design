@@ -1,0 +1,5 @@
+>S1_MHC2_1032
+STEKSNIIRGWI
+# Position: 94-105
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_3375
+SSVLNDILSR
+# Position: 974-983
+# Length: 10 amino acids
+# Type: MHC-I

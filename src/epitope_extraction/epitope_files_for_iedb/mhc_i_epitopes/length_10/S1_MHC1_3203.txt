@@ -1,0 +1,5 @@
+>S1_MHC1_3203
+FSQILPDPSK
+# Position: 802-811
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5172
+FSTFKCYGVSPT
+# Position: 374-385
+# Length: 12 amino acids
+# Type: MHC-I

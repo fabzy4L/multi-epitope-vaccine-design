@@ -1,0 +1,5 @@
+>S1_MHC1_5876
+APAICHDGKAHF
+# Position: 1078-1089
+# Length: 12 amino acids
+# Type: MHC-I

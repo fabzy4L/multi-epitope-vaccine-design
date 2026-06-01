@@ -1,0 +1,5 @@
+>S1_MHC1_0355
+RKRISNCV
+# Position: 355-362
+# Length: 8 amino acids
+# Type: MHC-I

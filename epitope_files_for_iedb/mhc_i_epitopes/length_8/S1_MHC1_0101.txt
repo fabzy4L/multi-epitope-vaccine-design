@@ -1,0 +1,5 @@
+>S1_MHC1_0101
+TQSLLIVN
+# Position: 101-108
+# Length: 8 amino acids
+# Type: MHC-I

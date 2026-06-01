@@ -1,0 +1,5 @@
+>S1_MHC1_5785
+VEAEVQIDRLIT
+# Position: 987-998
+# Length: 12 amino acids
+# Type: MHC-I

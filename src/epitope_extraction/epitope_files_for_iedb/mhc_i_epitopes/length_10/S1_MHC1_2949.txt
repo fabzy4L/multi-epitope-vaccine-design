@@ -1,0 +1,5 @@
+>S1_MHC1_2949
+GTGVLTESNK
+# Position: 548-557
+# Length: 10 amino acids
+# Type: MHC-I

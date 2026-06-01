@@ -1,0 +1,5 @@
+>S1_MHC1_1177
+VLSFELLHA
+# Position: 499-507
+# Length: 9 amino acids
+# Type: MHC-I

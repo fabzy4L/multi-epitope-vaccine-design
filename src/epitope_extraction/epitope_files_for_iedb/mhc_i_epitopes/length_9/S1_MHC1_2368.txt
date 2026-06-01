@@ -1,0 +1,5 @@
+>S1_MHC1_2368
+GDISGINAS
+# Position: 1167-1175
+# Length: 9 amino acids
+# Type: MHC-I

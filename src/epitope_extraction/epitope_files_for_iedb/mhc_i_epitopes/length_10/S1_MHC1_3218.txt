@@ -1,0 +1,5 @@
+>S1_MHC1_3218
+FIEDLLFNKV
+# Position: 817-826
+# Length: 10 amino acids
+# Type: MHC-I

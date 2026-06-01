@@ -1,0 +1,5 @@
+>S1_MHC1_1171
+GINASVVN
+# Position: 1171-1178
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1496
+ESEFRVYSSA
+# Position: 141-150
+# Length: 10 amino acids
+# Type: MHC-I

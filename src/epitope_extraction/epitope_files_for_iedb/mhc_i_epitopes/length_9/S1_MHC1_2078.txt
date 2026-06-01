@@ -1,0 +1,5 @@
+>S1_MHC1_2078
+LLAGTITSG
+# Position: 877-885
+# Length: 9 amino acids
+# Type: MHC-I

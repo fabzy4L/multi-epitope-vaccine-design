@@ -1,0 +1,5 @@
+>S1_MHC2_1341
+SANLAATKMSEC
+# Position: 1021-1032
+# Length: 12 amino acids
+# Type: MHC-II

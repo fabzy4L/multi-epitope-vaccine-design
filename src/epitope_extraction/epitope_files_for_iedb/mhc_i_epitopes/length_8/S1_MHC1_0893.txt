@@ -1,0 +1,5 @@
+>S1_MHC1_0893
+ALQIPFAM
+# Position: 893-900
+# Length: 8 amino acids
+# Type: MHC-I

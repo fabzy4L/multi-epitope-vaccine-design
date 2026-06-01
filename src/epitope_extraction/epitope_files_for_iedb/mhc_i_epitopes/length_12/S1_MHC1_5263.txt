@@ -1,0 +1,5 @@
+>S1_MHC1_5263
+ERDISTEIYQAG
+# Position: 465-476
+# Length: 12 amino acids
+# Type: MHC-I

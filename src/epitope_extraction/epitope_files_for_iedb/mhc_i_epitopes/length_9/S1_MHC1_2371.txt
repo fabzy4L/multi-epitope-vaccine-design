@@ -1,0 +1,5 @@
+>S1_MHC1_2371
+SGINASVVN
+# Position: 1170-1178
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2022
+SYQTQTNSPRRARSVASQ
+# Position: 673-690
+# Length: 18 amino acids
+# Type: MHC-II

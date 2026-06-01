@@ -1,0 +1,5 @@
+>S1_MHC1_1030
+SECVLGQS
+# Position: 1030-1037
+# Length: 8 amino acids
+# Type: MHC-I

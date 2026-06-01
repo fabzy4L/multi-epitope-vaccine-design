@@ -1,0 +1,5 @@
+>S1_MHC1_2148
+KLQDVVNQN
+# Position: 947-955
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2064
+PLLTDEMIA
+# Position: 863-871
+# Length: 9 amino acids
+# Type: MHC-I

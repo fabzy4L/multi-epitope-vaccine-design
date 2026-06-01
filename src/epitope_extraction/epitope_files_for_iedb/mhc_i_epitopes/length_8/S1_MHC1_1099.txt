@@ -1,0 +1,5 @@
+>S1_MHC1_1099
+GTHWFVTQ
+# Position: 1099-1106
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1281
+LGDIAARDLICA
+# Position: 841-852
+# Length: 12 amino acids
+# Type: MHC-II

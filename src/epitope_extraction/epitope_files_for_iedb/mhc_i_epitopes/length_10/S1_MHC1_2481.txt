@@ -1,0 +1,5 @@
+>S1_MHC1_2481
+DNPVLPFNDG
+# Position: 80-89
+# Length: 10 amino acids
+# Type: MHC-I

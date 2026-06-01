@@ -1,0 +1,5 @@
+>S1_MHC1_2614
+SVITPGTNTSN
+# Position: 583-593
+# Length: 11 amino acids
+# Type: MHC-I

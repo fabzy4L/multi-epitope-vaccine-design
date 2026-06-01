@@ -1,0 +1,5 @@
+>S1_MHC1_3854
+SSSGWTAGAAA
+# Position: 254-264
+# Length: 11 amino acids
+# Type: MHC-I

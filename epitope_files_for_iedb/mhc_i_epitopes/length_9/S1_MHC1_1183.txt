@@ -1,0 +1,5 @@
+>S1_MHC1_1183
+LHAPATVCG
+# Position: 505-513
+# Length: 9 amino acids
+# Type: MHC-I

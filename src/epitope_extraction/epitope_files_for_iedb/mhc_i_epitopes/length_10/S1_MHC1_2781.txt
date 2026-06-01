@@ -1,0 +1,5 @@
+>S1_MHC1_2781
+YGVSPTKLND
+# Position: 380-389
+# Length: 10 amino acids
+# Type: MHC-I

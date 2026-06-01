@@ -1,0 +1,5 @@
+>S1_MHC1_3372
+GAISSVLNDI
+# Position: 971-980
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0099
+NIIRGWIF
+# Position: 99-106
+# Length: 8 amino acids
+# Type: MHC-I

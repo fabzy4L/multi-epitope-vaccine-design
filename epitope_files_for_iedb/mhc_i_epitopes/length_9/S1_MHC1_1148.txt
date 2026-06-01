@@ -1,0 +1,5 @@
+>S1_MHC1_1148
+VEGFNCYFP
+# Position: 470-478
+# Length: 9 amino acids
+# Type: MHC-I

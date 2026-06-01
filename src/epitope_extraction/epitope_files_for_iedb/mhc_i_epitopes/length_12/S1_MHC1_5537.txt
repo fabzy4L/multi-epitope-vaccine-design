@@ -1,0 +1,5 @@
+>S1_MHC1_5537
+TMYICGDSTECS
+# Position: 739-750
+# Length: 12 amino acids
+# Type: MHC-I

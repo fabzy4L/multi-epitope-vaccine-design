@@ -1,0 +1,5 @@
+>S1_MHC1_0746
+STECSNLL
+# Position: 746-753
+# Length: 8 amino acids
+# Type: MHC-I

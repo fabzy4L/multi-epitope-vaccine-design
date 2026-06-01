@@ -1,0 +1,5 @@
+>S1_MHC2_1039
+QSLLIVNNATNV
+# Position: 115-126
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_1511
+KGIYQTSNF
+# Position: 310-318
+# Length: 9 amino acids
+# Type: MHC-I

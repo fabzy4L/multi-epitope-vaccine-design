@@ -1,0 +1,5 @@
+>S1_MHC1_0445
+VGGNYNYL
+# Position: 445-452
+# Length: 8 amino acids
+# Type: MHC-I

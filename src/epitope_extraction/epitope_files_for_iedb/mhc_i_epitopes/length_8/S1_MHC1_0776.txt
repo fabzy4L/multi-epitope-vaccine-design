@@ -1,0 +1,5 @@
+>S1_MHC1_0776
+KNTQEVFA
+# Position: 776-783
+# Length: 8 amino acids
+# Type: MHC-I

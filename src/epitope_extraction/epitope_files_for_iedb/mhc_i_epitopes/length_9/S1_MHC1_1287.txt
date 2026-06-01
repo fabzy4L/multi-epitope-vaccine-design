@@ -1,0 +1,5 @@
+>S1_MHC1_1287
+FNDGVYFAS
+# Position: 86-94
+# Length: 9 amino acids
+# Type: MHC-I

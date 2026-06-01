@@ -1,0 +1,5 @@
+>S1_MHC1_0759
+STEKSNIIR
+# Position: 81-89
+# Length: 9 amino acids
+# Type: MHC-I

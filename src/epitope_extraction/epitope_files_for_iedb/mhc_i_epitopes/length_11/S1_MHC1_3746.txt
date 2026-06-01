@@ -1,0 +1,5 @@
+>S1_MHC1_3746
+HKNNKSWMESE
+# Position: 146-156
+# Length: 11 amino acids
+# Type: MHC-I

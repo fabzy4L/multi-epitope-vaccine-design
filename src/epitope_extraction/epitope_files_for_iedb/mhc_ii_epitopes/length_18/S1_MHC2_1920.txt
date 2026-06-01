@@ -1,0 +1,5 @@
+>S1_MHC2_1920
+VLYNSASFSTFKCYGVSP
+# Position: 367-384
+# Length: 18 amino acids
+# Type: MHC-II

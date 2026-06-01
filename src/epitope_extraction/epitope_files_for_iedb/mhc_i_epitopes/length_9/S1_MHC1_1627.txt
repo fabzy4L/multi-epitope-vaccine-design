@@ -1,0 +1,5 @@
+>S1_MHC1_1627
+PDDFTGCVI
+# Position: 426-434
+# Length: 9 amino acids
+# Type: MHC-I

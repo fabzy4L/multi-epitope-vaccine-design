@@ -1,0 +1,5 @@
+>S1_MHC1_2292
+REGVFVSNG
+# Position: 1091-1099
+# Length: 9 amino acids
+# Type: MHC-I

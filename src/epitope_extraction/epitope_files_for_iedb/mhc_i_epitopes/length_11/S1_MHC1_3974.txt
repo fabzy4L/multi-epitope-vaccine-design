@@ -1,0 +1,5 @@
+>S1_MHC1_3974
+FSTFKCYGVSP
+# Position: 374-384
+# Length: 11 amino acids
+# Type: MHC-I

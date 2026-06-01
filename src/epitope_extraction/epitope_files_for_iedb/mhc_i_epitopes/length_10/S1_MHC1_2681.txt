@@ -1,0 +1,5 @@
+>S1_MHC1_2681
+NENGTITDAV
+# Position: 280-289
+# Length: 10 amino acids
+# Type: MHC-I

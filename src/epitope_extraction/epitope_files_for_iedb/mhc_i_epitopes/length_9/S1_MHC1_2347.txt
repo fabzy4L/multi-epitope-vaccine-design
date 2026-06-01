@@ -1,0 +1,5 @@
+>S1_MHC1_2347
+DSFKEELDK
+# Position: 1146-1154
+# Length: 9 amino acids
+# Type: MHC-I

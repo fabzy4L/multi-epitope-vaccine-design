@@ -1,0 +1,5 @@
+>S1_MHC1_3169
+GSTPCNGVEGFN
+# Position: 463-474
+# Length: 12 amino acids
+# Type: MHC-I

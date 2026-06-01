@@ -1,0 +1,5 @@
+>S1_MHC1_2717
+SNFRVQPTES
+# Position: 316-325
+# Length: 10 amino acids
+# Type: MHC-I

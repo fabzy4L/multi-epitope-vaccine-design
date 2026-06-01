@@ -1,0 +1,5 @@
+>S1_MHC1_0840
+CLGDIAAR
+# Position: 840-847
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1384
+QGNFKNLRE
+# Position: 183-191
+# Length: 9 amino acids
+# Type: MHC-I

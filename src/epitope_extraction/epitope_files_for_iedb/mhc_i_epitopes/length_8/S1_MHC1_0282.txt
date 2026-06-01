@@ -1,0 +1,5 @@
+>S1_MHC1_0282
+NGTITDAV
+# Position: 282-289
+# Length: 8 amino acids
+# Type: MHC-I

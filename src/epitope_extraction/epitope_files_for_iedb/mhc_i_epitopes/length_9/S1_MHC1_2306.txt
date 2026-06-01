@@ -1,0 +1,5 @@
+>S1_MHC1_2306
+TQRNFYEPQ
+# Position: 1105-1113
+# Length: 9 amino acids
+# Type: MHC-I

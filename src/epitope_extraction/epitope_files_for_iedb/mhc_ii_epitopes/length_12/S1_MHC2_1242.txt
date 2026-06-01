@@ -1,0 +1,5 @@
+>S1_MHC2_1242
+TEILPVSMTKTS
+# Position: 724-735
+# Length: 12 amino acids
+# Type: MHC-II

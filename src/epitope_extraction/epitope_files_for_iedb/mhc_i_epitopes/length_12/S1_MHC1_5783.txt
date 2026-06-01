@@ -1,0 +1,5 @@
+>S1_MHC1_5783
+DKVEAEVQIDRL
+# Position: 985-996
+# Length: 12 amino acids
+# Type: MHC-I

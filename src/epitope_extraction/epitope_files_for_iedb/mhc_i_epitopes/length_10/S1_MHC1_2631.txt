@@ -1,0 +1,5 @@
+>S1_MHC1_2631
+PIGINITRFQ
+# Position: 230-239
+# Length: 10 amino acids
+# Type: MHC-I

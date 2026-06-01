@@ -1,0 +1,5 @@
+>S1_MHC1_0872
+QYTSALLA
+# Position: 872-879
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1287
+TVLPPLLTDEMI
+# Position: 859-870
+# Length: 12 amino acids
+# Type: MHC-II

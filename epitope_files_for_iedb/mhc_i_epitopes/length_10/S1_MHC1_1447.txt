@@ -1,0 +1,5 @@
+>S1_MHC1_1447
+IFGTTLDSKT
+# Position: 92-101
+# Length: 10 amino acids
+# Type: MHC-I

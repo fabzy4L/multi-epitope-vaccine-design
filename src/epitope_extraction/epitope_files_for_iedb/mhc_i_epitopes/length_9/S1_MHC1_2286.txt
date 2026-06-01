@@ -1,0 +1,5 @@
+>S1_MHC1_2286
+GKAHFPREG
+# Position: 1085-1093
+# Length: 9 amino acids
+# Type: MHC-I

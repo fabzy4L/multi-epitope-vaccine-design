@@ -1,0 +1,5 @@
+>S1_MHC1_0991
+IVRFPNITN
+# Position: 313-321
+# Length: 9 amino acids
+# Type: MHC-I

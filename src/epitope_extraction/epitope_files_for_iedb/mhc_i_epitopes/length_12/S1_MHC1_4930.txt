@@ -1,0 +1,5 @@
+>S1_MHC1_4930
+EFQFCNDPFLGV
+# Position: 132-143
+# Length: 12 amino acids
+# Type: MHC-I

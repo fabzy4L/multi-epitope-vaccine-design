@@ -1,0 +1,5 @@
+>S1_MHC1_3686
+FNDGVYFASTE
+# Position: 86-96
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1987
+DIADTTDAVRDPQTLEIL
+# Position: 568-585
+# Length: 18 amino acids
+# Type: MHC-II

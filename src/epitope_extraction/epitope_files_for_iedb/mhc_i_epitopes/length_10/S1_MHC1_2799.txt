@@ -1,0 +1,5 @@
+>S1_MHC1_2799
+DSFVIRGDEV
+# Position: 398-407
+# Length: 10 amino acids
+# Type: MHC-I

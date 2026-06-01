@@ -1,0 +1,5 @@
+>S1_MHC1_0371
+PTKLNDLC
+# Position: 371-378
+# Length: 8 amino acids
+# Type: MHC-I

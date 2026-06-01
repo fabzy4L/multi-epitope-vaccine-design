@@ -1,0 +1,5 @@
+>S1_MHC1_1760
+IADYNYKLPD
+# Position: 405-414
+# Length: 10 amino acids
+# Type: MHC-I

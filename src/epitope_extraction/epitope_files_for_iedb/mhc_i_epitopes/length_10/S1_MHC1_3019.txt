@@ -1,0 +1,5 @@
+>S1_MHC1_3019
+TEVPVAIHAD
+# Position: 618-627
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0072
+GTNGTKRF
+# Position: 72-79
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1370
+YTNSFTRGVY
+# Position: 15-24
+# Length: 10 amino acids
+# Type: MHC-I

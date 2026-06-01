@@ -1,0 +1,5 @@
+>S1_MHC1_0992
+VRFPNITNL
+# Position: 314-322
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2229
+KMSECVLGQ
+# Position: 1028-1036
+# Length: 9 amino acids
+# Type: MHC-I

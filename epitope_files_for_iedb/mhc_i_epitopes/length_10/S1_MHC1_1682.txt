@@ -1,0 +1,5 @@
+>S1_MHC1_1682
+EVFNATRFAS
+# Position: 327-336
+# Length: 10 amino acids
+# Type: MHC-I

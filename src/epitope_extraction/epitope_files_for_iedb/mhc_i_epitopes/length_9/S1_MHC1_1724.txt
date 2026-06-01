@@ -1,0 +1,5 @@
+>S1_MHC1_1724
+TVCGPKKST
+# Position: 523-531
+# Length: 9 amino acids
+# Type: MHC-I

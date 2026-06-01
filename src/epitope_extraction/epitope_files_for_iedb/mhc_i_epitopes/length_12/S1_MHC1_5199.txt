@@ -1,0 +1,5 @@
+>S1_MHC1_5199
+VIRGDEVRQIAP
+# Position: 401-412
+# Length: 12 amino acids
+# Type: MHC-I

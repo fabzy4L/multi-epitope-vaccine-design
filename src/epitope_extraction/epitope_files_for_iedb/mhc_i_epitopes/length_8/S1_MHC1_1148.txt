@@ -1,0 +1,5 @@
+>S1_MHC1_1148
+FKEELDKY
+# Position: 1148-1155
+# Length: 8 amino acids
+# Type: MHC-I

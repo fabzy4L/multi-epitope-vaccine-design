@@ -1,0 +1,5 @@
+>S1_MHC1_4014
+QTGKIADYNYK
+# Position: 414-424
+# Length: 11 amino acids
+# Type: MHC-I

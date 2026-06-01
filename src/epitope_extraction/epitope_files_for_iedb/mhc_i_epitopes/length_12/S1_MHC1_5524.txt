@@ -1,0 +1,5 @@
+>S1_MHC1_5524
+ILPVSMTKTSVD
+# Position: 726-737
+# Length: 12 amino acids
+# Type: MHC-I

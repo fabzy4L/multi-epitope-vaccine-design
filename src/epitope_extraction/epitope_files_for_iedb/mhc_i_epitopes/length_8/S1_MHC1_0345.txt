@@ -1,0 +1,5 @@
+>S1_MHC1_0345
+TRFASVYA
+# Position: 345-352
+# Length: 8 amino acids
+# Type: MHC-I

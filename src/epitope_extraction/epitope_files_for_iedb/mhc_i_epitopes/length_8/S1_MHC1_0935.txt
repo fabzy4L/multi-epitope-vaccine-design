@@ -1,0 +1,5 @@
+>S1_MHC1_0935
+QDSLSSTA
+# Position: 935-942
+# Length: 8 amino acids
+# Type: MHC-I

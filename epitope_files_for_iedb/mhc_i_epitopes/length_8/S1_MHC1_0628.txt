@@ -1,0 +1,5 @@
+>S1_MHC1_0628
+NVFQTRAG
+# Position: 628-635
+# Length: 8 amino acids
+# Type: MHC-I

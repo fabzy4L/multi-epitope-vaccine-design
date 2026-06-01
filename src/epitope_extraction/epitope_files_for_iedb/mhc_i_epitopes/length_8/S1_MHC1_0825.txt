@@ -1,0 +1,5 @@
+>S1_MHC1_0825
+KVTLADAG
+# Position: 825-832
+# Length: 8 amino acids
+# Type: MHC-I

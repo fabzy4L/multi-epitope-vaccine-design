@@ -1,0 +1,5 @@
+>S1_MHC1_3413
+LIRAAEIRAS
+# Position: 1012-1021
+# Length: 10 amino acids
+# Type: MHC-I

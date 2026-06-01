@@ -1,0 +1,5 @@
+>S1_MHC1_2991
+CSFGGVSVIT
+# Position: 590-599
+# Length: 10 amino acids
+# Type: MHC-I

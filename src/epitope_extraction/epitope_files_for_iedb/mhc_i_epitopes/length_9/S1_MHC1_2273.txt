@@ -1,0 +1,5 @@
+>S1_MHC1_2273
+EKNFTTAPA
+# Position: 1072-1080
+# Length: 9 amino acids
+# Type: MHC-I

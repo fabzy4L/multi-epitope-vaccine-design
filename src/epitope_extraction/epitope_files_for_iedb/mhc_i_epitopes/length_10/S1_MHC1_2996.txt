@@ -1,0 +1,5 @@
+>S1_MHC1_2996
+VSVITPGTNT
+# Position: 595-604
+# Length: 10 amino acids
+# Type: MHC-I

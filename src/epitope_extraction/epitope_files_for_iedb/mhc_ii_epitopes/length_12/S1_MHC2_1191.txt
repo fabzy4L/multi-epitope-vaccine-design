@@ -1,0 +1,5 @@
+>S1_MHC2_1191
+DTTDAVRDPQTL
+# Position: 571-582
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_1120
+TFVSGNCD
+# Position: 1120-1127
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2383
+EIDRLNEVA
+# Position: 1182-1190
+# Length: 9 amino acids
+# Type: MHC-I

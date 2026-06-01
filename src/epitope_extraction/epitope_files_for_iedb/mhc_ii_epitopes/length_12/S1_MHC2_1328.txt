@@ -1,0 +1,5 @@
+>S1_MHC2_1328
+SRLDKVEAEVQI
+# Position: 982-993
+# Length: 12 amino acids
+# Type: MHC-II

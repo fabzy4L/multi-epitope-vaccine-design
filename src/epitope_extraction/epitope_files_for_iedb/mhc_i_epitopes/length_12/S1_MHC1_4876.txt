@@ -1,0 +1,5 @@
+>S1_MHC1_4876
+RFDNPVLPFNDG
+# Position: 78-89
+# Length: 12 amino acids
+# Type: MHC-I

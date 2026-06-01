@@ -1,0 +1,5 @@
+>S1_MHC1_1961
+EVPVAIHADQ
+# Position: 606-615
+# Length: 10 amino acids
+# Type: MHC-I

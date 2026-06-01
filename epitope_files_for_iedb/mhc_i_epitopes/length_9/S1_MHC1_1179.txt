@@ -1,0 +1,5 @@
+>S1_MHC1_1179
+SFELLHAPA
+# Position: 501-509
+# Length: 9 amino acids
+# Type: MHC-I

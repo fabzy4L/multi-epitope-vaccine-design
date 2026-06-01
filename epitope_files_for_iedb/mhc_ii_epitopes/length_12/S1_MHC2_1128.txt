@@ -1,0 +1,5 @@
+>S1_MHC2_1128
+VYADSFVIRGDE
+# Position: 382-393
+# Length: 12 amino acids
+# Type: MHC-II

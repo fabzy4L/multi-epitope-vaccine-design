@@ -1,0 +1,5 @@
+>S1_MHC1_0875
+SALLAGTI
+# Position: 875-882
+# Length: 8 amino acids
+# Type: MHC-I

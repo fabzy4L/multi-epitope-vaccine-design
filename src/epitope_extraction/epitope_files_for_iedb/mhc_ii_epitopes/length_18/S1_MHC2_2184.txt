@@ -1,0 +1,5 @@
+>S1_MHC2_2184
+HTSPDVDLGDISGINASV
+# Position: 1159-1176
+# Length: 18 amino acids
+# Type: MHC-II

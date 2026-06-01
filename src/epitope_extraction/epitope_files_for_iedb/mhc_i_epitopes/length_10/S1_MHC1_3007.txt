@@ -1,0 +1,5 @@
+>S1_MHC1_3007
+NQVAVLYQDV
+# Position: 606-615
+# Length: 10 amino acids
+# Type: MHC-I

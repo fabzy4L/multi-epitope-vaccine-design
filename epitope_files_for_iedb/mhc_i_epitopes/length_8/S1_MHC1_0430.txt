@@ -1,0 +1,5 @@
+>S1_MHC1_0430
+SKVGGNYN
+# Position: 430-437
+# Length: 8 amino acids
+# Type: MHC-I

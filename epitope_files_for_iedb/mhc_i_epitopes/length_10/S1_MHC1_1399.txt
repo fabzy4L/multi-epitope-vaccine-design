@@ -1,0 +1,5 @@
+>S1_MHC1_1399
+PFFSNVTWFH
+# Position: 44-53
+# Length: 10 amino acids
+# Type: MHC-I

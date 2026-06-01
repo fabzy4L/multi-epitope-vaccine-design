@@ -1,0 +1,5 @@
+>S1_MHC1_3626
+PAYTNSFTRGV
+# Position: 26-36
+# Length: 11 amino acids
+# Type: MHC-I

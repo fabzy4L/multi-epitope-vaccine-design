@@ -1,0 +1,5 @@
+>S1_MHC1_3162
+TQLNRALTGI
+# Position: 761-770
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3270
+MIAQYTSALL
+# Position: 869-878
+# Length: 10 amino acids
+# Type: MHC-I

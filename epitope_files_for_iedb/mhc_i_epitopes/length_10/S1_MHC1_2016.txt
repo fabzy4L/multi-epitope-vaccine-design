@@ -1,0 +1,5 @@
+>S1_MHC1_2016
+YQTQTNSPGS
+# Position: 661-670
+# Length: 10 amino acids
+# Type: MHC-I

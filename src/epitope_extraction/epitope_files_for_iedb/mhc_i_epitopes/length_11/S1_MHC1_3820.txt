@@ -1,0 +1,5 @@
+>S1_MHC1_3820
+FSALEPLVDLP
+# Position: 220-230
+# Length: 11 amino acids
+# Type: MHC-I

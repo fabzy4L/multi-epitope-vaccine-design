@@ -1,0 +1,5 @@
+>S1_MHC1_1954
+LLQYGSFCT
+# Position: 753-761
+# Length: 9 amino acids
+# Type: MHC-I

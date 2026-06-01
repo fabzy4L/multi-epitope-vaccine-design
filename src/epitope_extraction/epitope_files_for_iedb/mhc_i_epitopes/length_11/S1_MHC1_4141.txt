@@ -1,0 +1,5 @@
+>S1_MHC1_4141
+FNFNGLKGTGV
+# Position: 541-551
+# Length: 11 amino acids
+# Type: MHC-I

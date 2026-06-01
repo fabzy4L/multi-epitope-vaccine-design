@@ -1,0 +1,5 @@
+>S1_MHC1_0274
+DAVDCALD
+# Position: 274-281
+# Length: 8 amino acids
+# Type: MHC-I

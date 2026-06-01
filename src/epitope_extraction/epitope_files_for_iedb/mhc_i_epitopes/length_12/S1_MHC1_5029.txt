@@ -1,0 +1,5 @@
+>S1_MHC1_5029
+IGINITRFQTLL
+# Position: 231-242
+# Length: 12 amino acids
+# Type: MHC-I

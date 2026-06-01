@@ -1,0 +1,5 @@
+>S1_MHC1_1934
+KTSVDCTMY
+# Position: 733-741
+# Length: 9 amino acids
+# Type: MHC-I

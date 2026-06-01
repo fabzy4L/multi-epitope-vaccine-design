@@ -1,0 +1,5 @@
+>S1_MHC1_5024
+LVDLPIGINITR
+# Position: 226-237
+# Length: 12 amino acids
+# Type: MHC-I

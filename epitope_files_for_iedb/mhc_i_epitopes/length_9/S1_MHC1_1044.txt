@@ -1,0 +1,5 @@
+>S1_MHC1_1044
+CYGVSPTKL
+# Position: 366-374
+# Length: 9 amino acids
+# Type: MHC-I

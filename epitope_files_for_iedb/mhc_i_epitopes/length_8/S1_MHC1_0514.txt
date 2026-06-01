@@ -1,0 +1,5 @@
+>S1_MHC1_0514
+PKKSTNLV
+# Position: 514-521
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3544
+PELDSFKEEL
+# Position: 1143-1152
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4218
+TEVPVAIHADQ
+# Position: 618-628
+# Length: 11 amino acids
+# Type: MHC-I

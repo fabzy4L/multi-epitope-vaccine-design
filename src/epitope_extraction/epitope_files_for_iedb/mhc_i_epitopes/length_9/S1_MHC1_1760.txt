@@ -1,0 +1,5 @@
+>S1_MHC1_1760
+FLPFQQFGR
+# Position: 559-567
+# Length: 9 amino acids
+# Type: MHC-I

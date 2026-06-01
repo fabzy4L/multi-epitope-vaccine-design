@@ -1,0 +1,5 @@
+>S1_MHC2_2065
+FSQILPDPSKPSKRSFIE
+# Position: 802-819
+# Length: 18 amino acids
+# Type: MHC-II

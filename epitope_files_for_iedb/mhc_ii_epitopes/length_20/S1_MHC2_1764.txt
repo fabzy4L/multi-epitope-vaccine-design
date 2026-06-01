@@ -1,0 +1,5 @@
+>S1_MHC2_1764
+DAVDCALDPLSETKCTLKSF
+# Position: 274-293
+# Length: 20 amino acids
+# Type: MHC-II

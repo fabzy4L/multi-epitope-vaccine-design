@@ -1,0 +1,5 @@
+>S1_MHC1_1827
+ADQLTPTWR
+# Position: 626-634
+# Length: 9 amino acids
+# Type: MHC-I

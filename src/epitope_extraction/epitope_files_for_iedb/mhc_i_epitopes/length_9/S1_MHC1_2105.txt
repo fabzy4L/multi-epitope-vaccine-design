@@ -1,0 +1,5 @@
+>S1_MHC1_2105
+YRFNGIGVT
+# Position: 904-912
+# Length: 9 amino acids
+# Type: MHC-I

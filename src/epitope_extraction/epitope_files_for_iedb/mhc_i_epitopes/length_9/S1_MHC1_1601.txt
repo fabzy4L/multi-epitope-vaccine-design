@@ -1,0 +1,5 @@
+>S1_MHC1_1601
+FVIRGDEVR
+# Position: 400-408
+# Length: 9 amino acids
+# Type: MHC-I

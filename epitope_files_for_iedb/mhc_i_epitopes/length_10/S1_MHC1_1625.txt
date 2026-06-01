@@ -1,0 +1,5 @@
+>S1_MHC1_1625
+GTITDAVDCA
+# Position: 270-279
+# Length: 10 amino acids
+# Type: MHC-I

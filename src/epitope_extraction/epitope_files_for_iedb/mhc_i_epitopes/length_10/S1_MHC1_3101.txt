@@ -1,0 +1,5 @@
+>S1_MHC1_3101
+GAENSVAYSN
+# Position: 700-709
+# Length: 10 amino acids
+# Type: MHC-I

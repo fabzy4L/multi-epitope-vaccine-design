@@ -1,0 +1,5 @@
+>S1_MHC1_0446
+GGNYNYLY
+# Position: 446-453
+# Length: 8 amino acids
+# Type: MHC-I

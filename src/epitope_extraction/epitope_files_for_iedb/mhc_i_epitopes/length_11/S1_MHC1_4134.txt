@@ -1,0 +1,5 @@
+>S1_MHC1_4134
+VKNKCVNFNFN
+# Position: 534-544
+# Length: 11 amino acids
+# Type: MHC-I

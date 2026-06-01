@@ -1,0 +1,5 @@
+>S1_MHC1_1379
+DLEGKQGNF
+# Position: 178-186
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1430
+LPIGINITR
+# Position: 229-237
+# Length: 9 amino acids
+# Type: MHC-I

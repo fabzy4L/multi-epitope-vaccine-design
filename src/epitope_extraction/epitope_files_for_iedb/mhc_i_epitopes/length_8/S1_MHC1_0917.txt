@@ -1,0 +1,5 @@
+>S1_MHC1_0917
+YENQKLIA
+# Position: 917-924
+# Length: 8 amino acids
+# Type: MHC-I

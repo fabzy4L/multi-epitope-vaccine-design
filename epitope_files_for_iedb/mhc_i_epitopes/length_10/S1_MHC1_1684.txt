@@ -1,0 +1,5 @@
+>S1_MHC1_1684
+FNATRFASVY
+# Position: 329-338
+# Length: 10 amino acids
+# Type: MHC-I

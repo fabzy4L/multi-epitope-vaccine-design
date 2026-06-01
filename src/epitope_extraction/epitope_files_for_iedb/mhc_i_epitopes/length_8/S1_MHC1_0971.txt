@@ -1,0 +1,5 @@
+>S1_MHC1_0971
+GAISSVLN
+# Position: 971-978
+# Length: 8 amino acids
+# Type: MHC-I

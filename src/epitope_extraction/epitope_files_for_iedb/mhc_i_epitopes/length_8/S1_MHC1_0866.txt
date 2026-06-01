@@ -1,0 +1,5 @@
+>S1_MHC1_0866
+TDEMIAQY
+# Position: 866-873
+# Length: 8 amino acids
+# Type: MHC-I

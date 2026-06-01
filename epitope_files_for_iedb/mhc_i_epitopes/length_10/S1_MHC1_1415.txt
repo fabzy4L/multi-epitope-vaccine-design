@@ -1,0 +1,5 @@
+>S1_MHC1_1415
+TNGTKRFDNP
+# Position: 60-69
+# Length: 10 amino acids
+# Type: MHC-I

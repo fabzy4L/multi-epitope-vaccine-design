@@ -1,0 +1,5 @@
+>S1_MHC1_3547
+DSFKEELDKY
+# Position: 1146-1155
+# Length: 10 amino acids
+# Type: MHC-I

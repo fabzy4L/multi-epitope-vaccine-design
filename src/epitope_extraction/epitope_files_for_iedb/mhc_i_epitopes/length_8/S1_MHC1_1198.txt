@@ -1,0 +1,5 @@
+>S1_MHC1_1198
+IDLQELGK
+# Position: 1198-1205
+# Length: 8 amino acids
+# Type: MHC-I

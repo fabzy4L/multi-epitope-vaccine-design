@@ -1,0 +1,5 @@
+>S1_MHC1_1078
+APAICHDG
+# Position: 1078-1085
+# Length: 8 amino acids
+# Type: MHC-I

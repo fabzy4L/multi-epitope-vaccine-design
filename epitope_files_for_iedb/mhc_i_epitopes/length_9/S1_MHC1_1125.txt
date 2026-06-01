@@ -1,0 +1,5 @@
+>S1_MHC1_1125
+NLKPFERDI
+# Position: 447-455
+# Length: 9 amino acids
+# Type: MHC-I

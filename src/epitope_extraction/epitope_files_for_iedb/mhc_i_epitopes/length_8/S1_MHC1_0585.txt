@@ -1,0 +1,5 @@
+>S1_MHC1_0585
+LDITPCSF
+# Position: 585-592
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0987
+PTESIVRFP
+# Position: 309-317
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2123
+IFGTTLDSKTQ
+# Position: 92-102
+# Length: 11 amino acids
+# Type: MHC-I

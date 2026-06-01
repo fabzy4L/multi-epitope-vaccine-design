@@ -1,0 +1,5 @@
+>S1_MHC1_2426
+PPAYTNSFTR
+# Position: 25-34
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4531
+IGKIQDSLSST
+# Position: 931-941
+# Length: 11 amino acids
+# Type: MHC-I

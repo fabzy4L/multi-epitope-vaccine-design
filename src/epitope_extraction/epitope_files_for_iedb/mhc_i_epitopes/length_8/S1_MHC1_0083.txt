@@ -1,0 +1,5 @@
+>S1_MHC1_0083
+VLPFNDGV
+# Position: 83-90
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3071
+ICASYQTQTN
+# Position: 670-679
+# Length: 10 amino acids
+# Type: MHC-I

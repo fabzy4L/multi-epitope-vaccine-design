@@ -1,0 +1,5 @@
+>S1_MHC1_4982
+GNFKNLREFVFK
+# Position: 184-195
+# Length: 12 amino acids
+# Type: MHC-I

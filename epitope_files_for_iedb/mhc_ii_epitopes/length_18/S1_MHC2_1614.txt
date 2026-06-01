@@ -1,0 +1,5 @@
+>S1_MHC2_1614
+QPYRVVVLSFELLHAPAT
+# Position: 493-510
+# Length: 18 amino acids
+# Type: MHC-II

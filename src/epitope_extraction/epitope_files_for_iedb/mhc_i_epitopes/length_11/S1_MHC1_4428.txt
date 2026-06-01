@@ -1,0 +1,5 @@
+>S1_MHC1_4428
+LADAGFIKQYG
+# Position: 828-838
+# Length: 11 amino acids
+# Type: MHC-I

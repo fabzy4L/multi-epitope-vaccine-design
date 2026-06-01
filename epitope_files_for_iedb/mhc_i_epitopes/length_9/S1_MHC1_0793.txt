@@ -1,0 +1,5 @@
+>S1_MHC1_0793
+IKVCEFQFC
+# Position: 115-123
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1500
+TKCTLKSFT
+# Position: 299-307
+# Length: 9 amino acids
+# Type: MHC-I

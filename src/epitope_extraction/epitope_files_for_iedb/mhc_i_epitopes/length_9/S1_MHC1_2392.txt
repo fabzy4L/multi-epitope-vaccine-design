@@ -1,0 +1,5 @@
+>S1_MHC1_2392
+KNLNESLID
+# Position: 1191-1199
+# Length: 9 amino acids
+# Type: MHC-I

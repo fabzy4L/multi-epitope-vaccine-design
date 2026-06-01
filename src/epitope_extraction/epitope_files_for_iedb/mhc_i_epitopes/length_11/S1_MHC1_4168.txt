@@ -1,0 +1,5 @@
+>S1_MHC1_4168
+DIADTTDAVRD
+# Position: 568-578
+# Length: 11 amino acids
+# Type: MHC-I

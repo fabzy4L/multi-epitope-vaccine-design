@@ -1,0 +1,5 @@
+>S1_MHC1_3248
+RDLICAQKFN
+# Position: 847-856
+# Length: 10 amino acids
+# Type: MHC-I

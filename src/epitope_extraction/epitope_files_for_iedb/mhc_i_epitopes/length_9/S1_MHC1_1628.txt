@@ -1,0 +1,5 @@
+>S1_MHC1_1628
+DDFTGCVIA
+# Position: 427-435
+# Length: 9 amino acids
+# Type: MHC-I

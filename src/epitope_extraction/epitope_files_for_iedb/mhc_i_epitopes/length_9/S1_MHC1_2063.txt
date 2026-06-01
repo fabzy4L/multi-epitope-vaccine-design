@@ -1,0 +1,5 @@
+>S1_MHC1_2063
+PPLLTDEMI
+# Position: 862-870
+# Length: 9 amino acids
+# Type: MHC-I

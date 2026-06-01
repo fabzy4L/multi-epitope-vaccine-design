@@ -1,0 +1,5 @@
+>S1_MHC1_3051
+LIGAEHVNNS
+# Position: 650-659
+# Length: 10 amino acids
+# Type: MHC-I

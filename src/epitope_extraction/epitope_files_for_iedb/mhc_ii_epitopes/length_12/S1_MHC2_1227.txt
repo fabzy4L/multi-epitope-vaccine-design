@@ -1,0 +1,5 @@
+>S1_MHC2_1227
+NSPRRARSVASQ
+# Position: 679-690
+# Length: 12 amino acids
+# Type: MHC-II

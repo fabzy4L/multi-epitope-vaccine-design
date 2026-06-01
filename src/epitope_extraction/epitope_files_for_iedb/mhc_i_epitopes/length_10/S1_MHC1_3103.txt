@@ -1,0 +1,5 @@
+>S1_MHC1_3103
+ENSVAYSNNS
+# Position: 702-711
+# Length: 10 amino acids
+# Type: MHC-I

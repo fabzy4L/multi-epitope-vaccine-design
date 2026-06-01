@@ -1,0 +1,5 @@
+>S1_MHC1_2742
+VFNATRFASV
+# Position: 341-350
+# Length: 10 amino acids
+# Type: MHC-I

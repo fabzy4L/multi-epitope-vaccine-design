@@ -1,0 +1,5 @@
+>S1_MHC1_0767
+LTGIAVEQ
+# Position: 767-774
+# Length: 8 amino acids
+# Type: MHC-I

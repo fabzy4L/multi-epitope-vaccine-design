@@ -1,0 +1,5 @@
+>S1_MHC1_5090
+ALDPLSETKCTL
+# Position: 292-303
+# Length: 12 amino acids
+# Type: MHC-I

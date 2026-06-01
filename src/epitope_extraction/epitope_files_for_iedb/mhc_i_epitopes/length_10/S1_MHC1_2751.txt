@@ -1,0 +1,5 @@
+>S1_MHC1_2751
+VYAWNRKRIS
+# Position: 350-359
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1321
+TLVKQLSSNFGA
+# Position: 961-972
+# Length: 12 amino acids
+# Type: MHC-II

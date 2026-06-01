@@ -1,0 +1,5 @@
+>S1_MHC1_0540
+TESNKKFL
+# Position: 540-547
+# Length: 8 amino acids
+# Type: MHC-I

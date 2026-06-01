@@ -1,0 +1,5 @@
+>S1_MHC1_0129
+GVYYHKNN
+# Position: 129-136
+# Length: 8 amino acids
+# Type: MHC-I

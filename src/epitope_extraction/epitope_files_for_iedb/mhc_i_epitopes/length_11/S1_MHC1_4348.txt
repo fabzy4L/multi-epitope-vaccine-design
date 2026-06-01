@@ -1,0 +1,5 @@
+>S1_MHC1_4348
+ECSNLLLQYGS
+# Position: 748-758
+# Length: 11 amino acids
+# Type: MHC-I

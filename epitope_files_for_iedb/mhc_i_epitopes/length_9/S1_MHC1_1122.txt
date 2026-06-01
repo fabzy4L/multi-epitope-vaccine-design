@@ -1,0 +1,5 @@
+>S1_MHC1_1122
+RKSNLKPFE
+# Position: 444-452
+# Length: 9 amino acids
+# Type: MHC-I

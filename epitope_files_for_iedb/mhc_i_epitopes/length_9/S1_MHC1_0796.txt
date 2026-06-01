@@ -1,0 +1,5 @@
+>S1_MHC1_0796
+CEFQFCNDP
+# Position: 118-126
+# Length: 9 amino acids
+# Type: MHC-I

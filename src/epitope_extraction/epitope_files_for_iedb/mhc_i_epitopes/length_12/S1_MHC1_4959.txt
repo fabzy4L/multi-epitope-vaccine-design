@@ -1,0 +1,5 @@
+>S1_MHC1_4959
+SSANNCTFEYVS
+# Position: 161-172
+# Length: 12 amino acids
+# Type: MHC-I

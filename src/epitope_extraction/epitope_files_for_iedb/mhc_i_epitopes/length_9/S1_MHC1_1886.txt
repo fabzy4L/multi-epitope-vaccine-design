@@ -1,0 +1,5 @@
+>S1_MHC1_1886
+RSVASQSII
+# Position: 685-693
+# Length: 9 amino acids
+# Type: MHC-I

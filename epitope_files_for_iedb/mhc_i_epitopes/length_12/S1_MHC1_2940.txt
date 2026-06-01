@@ -1,0 +1,5 @@
+>S1_MHC1_2940
+SYLTPGDSSSGW
+# Position: 234-245
+# Length: 12 amino acids
+# Type: MHC-I

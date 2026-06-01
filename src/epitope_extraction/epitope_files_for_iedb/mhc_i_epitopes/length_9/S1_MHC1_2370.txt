@@ -1,0 +1,5 @@
+>S1_MHC1_2370
+ISGINASVV
+# Position: 1169-1177
+# Length: 9 amino acids
+# Type: MHC-I

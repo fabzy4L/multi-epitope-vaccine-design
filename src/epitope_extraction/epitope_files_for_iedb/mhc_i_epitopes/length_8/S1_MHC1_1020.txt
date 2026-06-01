@@ -1,0 +1,5 @@
+>S1_MHC1_1020
+ASANLAAT
+# Position: 1020-1027
+# Length: 8 amino acids
+# Type: MHC-I

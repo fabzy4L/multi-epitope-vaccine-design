@@ -1,0 +1,5 @@
+>S1_MHC2_1151
+FERDISTEIYQA
+# Position: 451-462
+# Length: 12 amino acids
+# Type: MHC-II

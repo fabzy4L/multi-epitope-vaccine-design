@@ -1,0 +1,5 @@
+>S1_MHC1_1246
+TLEILDITP
+# Position: 568-576
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1947
+STECSNLLL
+# Position: 746-754
+# Length: 9 amino acids
+# Type: MHC-I

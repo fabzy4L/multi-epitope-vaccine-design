@@ -1,0 +1,5 @@
+>S1_MHC1_0651
+IPIGAGIC
+# Position: 651-658
+# Length: 8 amino acids
+# Type: MHC-I

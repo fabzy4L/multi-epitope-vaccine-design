@@ -1,0 +1,5 @@
+>S1_MHC1_3289
+FGAGAALQIP
+# Position: 888-897
+# Length: 10 amino acids
+# Type: MHC-I

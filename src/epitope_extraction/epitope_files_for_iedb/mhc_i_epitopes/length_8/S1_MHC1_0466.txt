@@ -1,0 +1,5 @@
+>S1_MHC1_0466
+RDISTEIY
+# Position: 466-473
+# Length: 8 amino acids
+# Type: MHC-I

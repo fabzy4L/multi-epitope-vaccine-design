@@ -1,0 +1,5 @@
+>S1_MHC1_2100
+AMQMAYRFN
+# Position: 899-907
+# Length: 9 amino acids
+# Type: MHC-I

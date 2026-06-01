@@ -1,0 +1,5 @@
+>S1_MHC1_1918
+NFTISVTTE
+# Position: 717-725
+# Length: 9 amino acids
+# Type: MHC-I

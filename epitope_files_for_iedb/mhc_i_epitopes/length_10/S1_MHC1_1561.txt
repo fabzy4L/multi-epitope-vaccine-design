@@ -1,0 +1,5 @@
+>S1_MHC1_1561
+GFSALEPLVD
+# Position: 206-215
+# Length: 10 amino acids
+# Type: MHC-I

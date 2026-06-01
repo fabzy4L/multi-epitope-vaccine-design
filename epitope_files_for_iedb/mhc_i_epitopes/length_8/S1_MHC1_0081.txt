@@ -1,0 +1,5 @@
+>S1_MHC1_0081
+STEKSNII
+# Position: 81-88
+# Length: 8 amino acids
+# Type: MHC-I

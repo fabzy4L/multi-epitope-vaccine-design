@@ -1,0 +1,5 @@
+>S1_MHC1_2362
+SPDVDLGDI
+# Position: 1161-1169
+# Length: 9 amino acids
+# Type: MHC-I

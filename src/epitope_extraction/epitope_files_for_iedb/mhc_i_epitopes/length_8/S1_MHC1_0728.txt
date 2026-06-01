@@ -1,0 +1,5 @@
+>S1_MHC1_0728
+PVSMTKTS
+# Position: 728-735
+# Length: 8 amino acids
+# Type: MHC-I

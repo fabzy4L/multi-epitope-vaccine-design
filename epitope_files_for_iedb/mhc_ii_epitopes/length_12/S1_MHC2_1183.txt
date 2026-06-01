@@ -1,0 +1,5 @@
+>S1_MHC2_1183
+LPFQQFGRDIAD
+# Position: 547-558
+# Length: 12 amino acids
+# Type: MHC-II

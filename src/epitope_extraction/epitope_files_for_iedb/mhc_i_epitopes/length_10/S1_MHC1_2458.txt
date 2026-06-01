@@ -1,0 +1,5 @@
+>S1_MHC1_2458
+PFFSNVTWFH
+# Position: 57-66
+# Length: 10 amino acids
+# Type: MHC-I

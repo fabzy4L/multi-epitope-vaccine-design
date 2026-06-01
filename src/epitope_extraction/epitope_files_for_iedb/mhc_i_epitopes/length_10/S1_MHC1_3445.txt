@@ -1,0 +1,5 @@
+>S1_MHC1_3445
+GKGYHLMSFP
+# Position: 1044-1053
+# Length: 10 amino acids
+# Type: MHC-I

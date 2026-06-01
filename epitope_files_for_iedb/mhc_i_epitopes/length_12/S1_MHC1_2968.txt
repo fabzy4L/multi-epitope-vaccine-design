@@ -1,0 +1,5 @@
+>S1_MHC1_2968
+FLLKYNENGTIT
+# Position: 262-273
+# Length: 12 amino acids
+# Type: MHC-I

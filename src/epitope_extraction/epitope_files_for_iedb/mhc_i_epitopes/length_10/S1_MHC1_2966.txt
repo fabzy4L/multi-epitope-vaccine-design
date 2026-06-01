@@ -1,0 +1,5 @@
+>S1_MHC1_2966
+FGRDIADTTD
+# Position: 565-574
+# Length: 10 amino acids
+# Type: MHC-I

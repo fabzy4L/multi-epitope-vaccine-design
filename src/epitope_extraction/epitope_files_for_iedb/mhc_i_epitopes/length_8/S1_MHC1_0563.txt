@@ -1,0 +1,5 @@
+>S1_MHC1_0563
+QQFGRDIA
+# Position: 563-570
+# Length: 8 amino acids
+# Type: MHC-I

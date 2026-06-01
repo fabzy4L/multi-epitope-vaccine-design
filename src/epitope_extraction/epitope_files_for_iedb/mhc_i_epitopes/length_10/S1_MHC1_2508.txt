@@ -1,0 +1,5 @@
+>S1_MHC1_2508
+GTTLDSKTQS
+# Position: 107-116
+# Length: 10 amino acids
+# Type: MHC-I

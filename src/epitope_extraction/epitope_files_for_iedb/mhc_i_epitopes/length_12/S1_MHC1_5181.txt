@@ -1,0 +1,5 @@
+>S1_MHC1_5181
+SPTKLNDLCFTN
+# Position: 383-394
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0414
+DDFTGCVI
+# Position: 414-421
+# Length: 8 amino acids
+# Type: MHC-I

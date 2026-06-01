@@ -1,0 +1,5 @@
+>S1_MHC1_0237
+RFQTLLAL
+# Position: 237-244
+# Length: 8 amino acids
+# Type: MHC-I

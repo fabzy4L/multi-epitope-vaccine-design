@@ -1,0 +1,5 @@
+>S1_MHC1_3353
+YECDIPIGAGIC
+# Position: 647-658
+# Length: 12 amino acids
+# Type: MHC-I

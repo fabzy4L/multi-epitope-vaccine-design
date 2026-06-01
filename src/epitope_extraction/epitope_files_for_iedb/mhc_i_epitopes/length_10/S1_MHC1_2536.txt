@@ -1,0 +1,5 @@
+>S1_MHC1_2536
+FCNDPFLGVY
+# Position: 135-144
+# Length: 10 amino acids
+# Type: MHC-I

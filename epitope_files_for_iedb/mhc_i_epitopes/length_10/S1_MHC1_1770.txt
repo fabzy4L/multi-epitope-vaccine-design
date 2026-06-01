@@ -1,0 +1,5 @@
+>S1_MHC1_1770
+DFTGCVIAWN
+# Position: 415-424
+# Length: 10 amino acids
+# Type: MHC-I

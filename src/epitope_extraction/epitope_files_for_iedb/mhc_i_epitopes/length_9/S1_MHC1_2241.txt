@@ -1,0 +1,5 @@
+>S1_MHC1_2241
+VDFCGKGYH
+# Position: 1040-1048
+# Length: 9 amino acids
+# Type: MHC-I

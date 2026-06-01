@@ -1,0 +1,5 @@
+>S1_MHC1_1647
+GGNYNYLYR
+# Position: 446-454
+# Length: 9 amino acids
+# Type: MHC-I

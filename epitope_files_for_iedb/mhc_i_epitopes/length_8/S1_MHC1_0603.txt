@@ -1,0 +1,5 @@
+>S1_MHC1_0603
+NCTEVPVA
+# Position: 603-610
+# Length: 8 amino acids
+# Type: MHC-I

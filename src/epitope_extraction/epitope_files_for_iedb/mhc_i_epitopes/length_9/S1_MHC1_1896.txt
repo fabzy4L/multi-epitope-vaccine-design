@@ -1,0 +1,5 @@
+>S1_MHC1_1896
+YTMSLGAEN
+# Position: 695-703
+# Length: 9 amino acids
+# Type: MHC-I

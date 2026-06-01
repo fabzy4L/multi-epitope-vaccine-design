@@ -1,0 +1,5 @@
+>S1_MHC1_1418
+PQGFSALEP
+# Position: 217-225
+# Length: 9 amino acids
+# Type: MHC-I

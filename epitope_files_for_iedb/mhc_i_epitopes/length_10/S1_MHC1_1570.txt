@@ -1,0 +1,5 @@
+>S1_MHC1_1570
+DLPIGINITR
+# Position: 215-224
+# Length: 10 amino acids
+# Type: MHC-I

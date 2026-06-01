@@ -1,0 +1,5 @@
+>S1_MHC1_5116
+FRVQPTESIVRF
+# Position: 318-329
+# Length: 12 amino acids
+# Type: MHC-I

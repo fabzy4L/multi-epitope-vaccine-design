@@ -1,0 +1,5 @@
+>S1_MHC1_0260
+RTFLLKYN
+# Position: 260-267
+# Length: 8 amino acids
+# Type: MHC-I

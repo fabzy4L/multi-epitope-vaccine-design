@@ -1,0 +1,5 @@
+>S1_MHC1_2027
+VTLADAGFI
+# Position: 826-834
+# Length: 9 amino acids
+# Type: MHC-I

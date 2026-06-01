@@ -1,0 +1,5 @@
+>S1_MHC1_5599
+NFSQILPDPSKP
+# Position: 801-812
+# Length: 12 amino acids
+# Type: MHC-I

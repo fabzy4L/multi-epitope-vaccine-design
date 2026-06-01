@@ -1,0 +1,5 @@
+>S1_MHC1_1044
+GKGYHLMS
+# Position: 1044-1051
+# Length: 8 amino acids
+# Type: MHC-I

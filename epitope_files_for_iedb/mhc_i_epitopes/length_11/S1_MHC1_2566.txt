@@ -1,0 +1,5 @@
+>S1_MHC1_2566
+GTGVLTESNKK
+# Position: 535-545
+# Length: 11 amino acids
+# Type: MHC-I

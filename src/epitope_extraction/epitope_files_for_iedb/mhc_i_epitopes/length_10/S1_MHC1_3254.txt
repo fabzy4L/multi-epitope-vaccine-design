@@ -1,0 +1,5 @@
+>S1_MHC1_3254
+QKFNGLTVLP
+# Position: 853-862
+# Length: 10 amino acids
+# Type: MHC-I

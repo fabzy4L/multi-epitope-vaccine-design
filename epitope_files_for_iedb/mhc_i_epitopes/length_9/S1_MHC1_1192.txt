@@ -1,0 +1,5 @@
+>S1_MHC1_1192
+PKKSTNLVK
+# Position: 514-522
+# Length: 9 amino acids
+# Type: MHC-I

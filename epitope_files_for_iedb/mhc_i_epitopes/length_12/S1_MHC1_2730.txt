@@ -1,0 +1,5 @@
+>S1_MHC1_2730
+YYPDKVFRSSVL
+# Position: 24-35
+# Length: 12 amino acids
+# Type: MHC-I

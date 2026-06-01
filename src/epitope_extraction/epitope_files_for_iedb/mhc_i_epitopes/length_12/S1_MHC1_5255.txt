@@ -1,0 +1,5 @@
+>S1_MHC1_5255
+RKSNLKPFERDI
+# Position: 457-468
+# Length: 12 amino acids
+# Type: MHC-I

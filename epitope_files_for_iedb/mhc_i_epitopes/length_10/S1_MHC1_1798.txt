@@ -1,0 +1,5 @@
+>S1_MHC1_1798
+FRKSNLKPFE
+# Position: 443-452
+# Length: 10 amino acids
+# Type: MHC-I

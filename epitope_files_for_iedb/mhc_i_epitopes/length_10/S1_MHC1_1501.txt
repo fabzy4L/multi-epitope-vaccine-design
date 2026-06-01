@@ -1,0 +1,5 @@
+>S1_MHC1_1501
+VYSSANNCTF
+# Position: 146-155
+# Length: 10 amino acids
+# Type: MHC-I

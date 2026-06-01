@@ -1,0 +1,5 @@
+>S1_MHC1_3583
+EIDRLNEVAK
+# Position: 1182-1191
+# Length: 10 amino acids
+# Type: MHC-I

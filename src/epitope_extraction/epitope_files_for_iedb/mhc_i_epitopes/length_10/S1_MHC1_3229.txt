@@ -1,0 +1,5 @@
+>S1_MHC1_3229
+LADAGFIKQY
+# Position: 828-837
+# Length: 10 amino acids
+# Type: MHC-I

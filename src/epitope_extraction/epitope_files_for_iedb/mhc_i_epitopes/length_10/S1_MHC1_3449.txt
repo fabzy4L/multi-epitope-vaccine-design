@@ -1,0 +1,5 @@
+>S1_MHC1_3449
+HLMSFPQSAP
+# Position: 1048-1057
+# Length: 10 amino acids
+# Type: MHC-I

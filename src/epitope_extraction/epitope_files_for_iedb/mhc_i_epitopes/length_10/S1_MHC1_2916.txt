@@ -1,0 +1,5 @@
+>S1_MHC1_2916
+FELLHAPATV
+# Position: 515-524
+# Length: 10 amino acids
+# Type: MHC-I

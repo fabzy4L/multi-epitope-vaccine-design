@@ -1,0 +1,5 @@
+>S1_MHC1_1685
+NATRFASVYA
+# Position: 330-339
+# Length: 10 amino acids
+# Type: MHC-I

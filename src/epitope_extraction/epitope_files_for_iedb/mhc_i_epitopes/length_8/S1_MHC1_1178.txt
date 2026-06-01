@@ -1,0 +1,5 @@
+>S1_MHC1_1178
+NIQKEIDR
+# Position: 1178-1185
+# Length: 8 amino acids
+# Type: MHC-I

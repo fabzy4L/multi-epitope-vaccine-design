@@ -1,0 +1,5 @@
+>S1_MHC1_2647
+RSYLTPGDSS
+# Position: 246-255
+# Length: 10 amino acids
+# Type: MHC-I

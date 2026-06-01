@@ -1,0 +1,5 @@
+>S1_MHC1_2099
+FAMQMAYRF
+# Position: 898-906
+# Length: 9 amino acids
+# Type: MHC-I

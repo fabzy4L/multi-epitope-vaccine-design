@@ -1,0 +1,5 @@
+>S1_MHC1_0165
+NCTFEYVS
+# Position: 165-172
+# Length: 8 amino acids
+# Type: MHC-I

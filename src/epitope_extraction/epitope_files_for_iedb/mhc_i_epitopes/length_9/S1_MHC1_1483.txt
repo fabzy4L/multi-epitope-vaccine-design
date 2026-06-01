@@ -1,0 +1,5 @@
+>S1_MHC1_1483
+NGTITDAVD
+# Position: 282-290
+# Length: 9 amino acids
+# Type: MHC-I

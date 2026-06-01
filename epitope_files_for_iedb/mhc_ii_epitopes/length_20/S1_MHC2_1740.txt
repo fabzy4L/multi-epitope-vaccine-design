@@ -1,0 +1,5 @@
+>S1_MHC2_1740
+DLPQGFSALEPLVDLPIGIN
+# Position: 202-221
+# Length: 20 amino acids
+# Type: MHC-II

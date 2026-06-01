@@ -1,0 +1,5 @@
+>S1_MHC2_2010
+STGSNVFQTRAGCLIGAE
+# Position: 637-654
+# Length: 18 amino acids
+# Type: MHC-II

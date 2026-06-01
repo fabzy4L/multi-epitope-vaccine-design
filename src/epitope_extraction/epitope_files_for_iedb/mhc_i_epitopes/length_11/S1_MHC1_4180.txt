@@ -1,0 +1,5 @@
+>S1_MHC1_4180
+QTLEILDITPC
+# Position: 580-590
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0987
+VEAEVQID
+# Position: 987-994
+# Length: 8 amino acids
+# Type: MHC-I

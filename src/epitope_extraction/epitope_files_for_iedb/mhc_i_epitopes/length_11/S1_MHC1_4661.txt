@@ -1,0 +1,5 @@
+>S1_MHC1_4661
+VFLHVTYVPAQ
+# Position: 1061-1071
+# Length: 11 amino acids
+# Type: MHC-I

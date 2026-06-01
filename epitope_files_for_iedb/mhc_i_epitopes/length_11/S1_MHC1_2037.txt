@@ -1,0 +1,5 @@
+>S1_MHC1_2037
+TTRTQLPPAYT
+# Position: 6-16
+# Length: 11 amino acids
+# Type: MHC-I

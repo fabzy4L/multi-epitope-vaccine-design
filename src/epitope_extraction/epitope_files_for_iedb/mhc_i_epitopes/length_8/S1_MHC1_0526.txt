@@ -1,0 +1,5 @@
+>S1_MHC1_0526
+GPKKSTNL
+# Position: 526-533
+# Length: 8 amino acids
+# Type: MHC-I

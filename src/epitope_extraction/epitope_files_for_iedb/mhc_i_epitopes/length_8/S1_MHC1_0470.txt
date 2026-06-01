@@ -1,0 +1,5 @@
+>S1_MHC1_0470
+TEIYQAGS
+# Position: 470-477
+# Length: 8 amino acids
+# Type: MHC-I

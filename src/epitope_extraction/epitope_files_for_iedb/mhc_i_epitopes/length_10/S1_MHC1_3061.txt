@@ -1,0 +1,5 @@
+>S1_MHC1_3061
+YECDIPIGAG
+# Position: 660-669
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3829
+LPIGINITRFQ
+# Position: 229-239
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4320
+ISVTTEILPVS
+# Position: 720-730
+# Length: 11 amino acids
+# Type: MHC-I

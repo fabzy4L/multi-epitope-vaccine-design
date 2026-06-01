@@ -1,0 +1,5 @@
+>S1_MHC1_1903
+PFQQFGRDIA
+# Position: 548-557
+# Length: 10 amino acids
+# Type: MHC-I

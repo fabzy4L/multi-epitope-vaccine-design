@@ -1,0 +1,5 @@
+>S1_MHC1_3258
+FGRDIADTTDAV
+# Position: 552-563
+# Length: 12 amino acids
+# Type: MHC-I

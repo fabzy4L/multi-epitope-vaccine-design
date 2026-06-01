@@ -1,0 +1,5 @@
+>S1_MHC1_0300
+YQTSNFRV
+# Position: 300-307
+# Length: 8 amino acids
+# Type: MHC-I

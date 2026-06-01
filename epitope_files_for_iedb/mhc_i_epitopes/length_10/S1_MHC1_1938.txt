@@ -1,0 +1,5 @@
+>S1_MHC1_1938
+SVITPGTNTS
+# Position: 583-592
+# Length: 10 amino acids
+# Type: MHC-I

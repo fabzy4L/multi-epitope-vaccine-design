@@ -1,0 +1,5 @@
+>S1_MHC1_2060
+TVLPPLLTD
+# Position: 859-867
+# Length: 9 amino acids
+# Type: MHC-I

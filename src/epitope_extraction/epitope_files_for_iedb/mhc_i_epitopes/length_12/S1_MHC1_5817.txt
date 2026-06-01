@@ -1,0 +1,5 @@
+>S1_MHC1_5817
+RASANLAATKMS
+# Position: 1019-1030
+# Length: 12 amino acids
+# Type: MHC-I

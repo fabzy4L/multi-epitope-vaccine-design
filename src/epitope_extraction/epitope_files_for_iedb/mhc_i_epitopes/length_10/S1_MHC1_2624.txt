@@ -1,0 +1,5 @@
+>S1_MHC1_2624
+LEPLVDLPIG
+# Position: 223-232
+# Length: 10 amino acids
+# Type: MHC-I

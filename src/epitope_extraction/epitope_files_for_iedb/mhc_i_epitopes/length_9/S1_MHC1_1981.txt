@@ -1,0 +1,5 @@
+>S1_MHC1_1981
+EVFAQVKQI
+# Position: 780-788
+# Length: 9 amino acids
+# Type: MHC-I

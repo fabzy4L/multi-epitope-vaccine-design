@@ -1,0 +1,201 @@
+# PROTEIN SEGMENT SELECTION GUIDE
+# Vaccinology Pipeline — Stage 02 Epitope Prediction Input Selection
+# =====================================================================
+
+## OVERVIEW
+This guide helps you select the optimal protein segments for MHC-I and MHC-II
+epitope prediction in your SARS-CoV-2 vaccine design pipeline.
+
+## AVAILABLE PROTEIN SEQUENCES
+
+### 1. SARS-CoV-2 S1 Domain (RECOMMENDED) ✅
+   File: analysis/02_epitope_prediction/sars_cov2_s1_domain.fasta
+   Length: 685 amino acids
+   Source: PDB 6XM4 (authentic SARS-CoV-2 spike protein)
+
+   ADVANTAGES:
+   - Contains Receptor Binding Domain (RBD) — primary neutralization target
+   - Includes N-terminal Domain (NTD) — secondary neutralization site
+   - Vaccine-relevant: most neutralizing antibodies target this region
+   - Single sequence = fast IEDB processing (2-5 minutes)
+   - Matches literature focus for COVID-19 vaccine development
+
+   BEST FOR:
+   - COVID-19 vaccine design
+   - Neutralizing antibody induction
+   - T-cell response against functional spike domains
+
+### 2. Full Spike Protein (ALTERNATIVE)
+   File: data/structures/rcsb_pdb_6XM4.fasta
+   Length: 1,275 amino acids
+   Source: PDB 6XM4 (complete SARS-CoV-2 spike)
+
+   ADVANTAGES:
+   - Complete antigen coverage
+   - Includes S2 fusion domain epitopes
+   - More comprehensive T-cell response potential
+
+   DISADVANTAGES:
+   - Longer processing time
+   - S2 domain less relevant for neutralization
+   - May dilute focus from key S1 epitopes
+
+### 3. Clustered Proteome Sequences (NOT RECOMMENDED) ❌
+   File: analysis/02_epitope_prediction/s1_candidates.fasta
+   Length: 34 sequences (109-1,436 aa each)
+   Source: Dracunculus medinensis (parasitic worm)
+
+   PROBLEMS:
+   - Wrong organism (not SARS-CoV-2)
+   - No relevance to COVID-19 vaccine design
+   - Waste of computational resources
+
+## SELECTION CRITERIA
+
+### For SARS-CoV-2 Vaccine Design:
+
+   **Primary Choice: S1 Domain**
+   ✅ Use: analysis/02_epitope_prediction/sars_cov2_s1_domain.fasta
+
+   Rationale:
+   - RBD (residues ~330-530) is the primary neutralization target
+   - NTD (residues ~14-290) contains additional neutralizing epitopes
+   - S1/S2 cleavage site (residue 685) is functionally important
+   - Literature precedent: most successful vaccines target S1 domain
+
+### For Broad-Spectrum Coronavirus Vaccine:
+
+   **Alternative: Full Spike Protein**
+   ✅ Use: data/structures/rcsb_pdb_6XM4.fasta
+
+   Rationale:
+   - S2 fusion domain more conserved across coronaviruses
+   - Additional T-cell epitopes in S2 region
+   - Comprehensive immune response coverage
+
+## EPITOPE PREDICTION SETUP
+
+### MHC-I (CD8+ T-cells)
+   Target: Cytotoxic T lymphocyte responses
+
+   IEDB Parameters:
+   - Method: NetMHCpan EL 4.1
+   - Peptide Length: 9-mers (standard)
+   - Alleles: HLA-A*02:01, HLA-A*01:01, HLA-B*07:02, HLA-B*35:01
+   - Threshold: IC50 ≤ 50 nM OR percentile rank ≤ 0.5
+
+   Population Coverage:
+   - HLA-A*02:01: ~45% Caucasian, ~12% African, ~40% Asian
+   - HLA-A*01:01: ~25% Caucasian, ~10% African, ~1% Asian
+   - HLA-B*07:02: ~20% Caucasian, ~15% African, ~5% Asian
+   - Combined: >70% global population coverage
+
+### MHC-II (CD4+ T-cells)
+   Target: Helper T cell responses and antibody induction
+
+   IEDB Parameters:
+   - Method: NetMHCIIpan EL 4.1
+   - Peptide Length: 15-mers (standard)
+   - Alleles: HLA-DRB1*01:01, HLA-DRB1*03:01, HLA-DRB1*07:01, HLA-DRB1*15:01
+   - Threshold: Percentile rank ≤ 10.0
+
+   Population Coverage:
+   - HLA-DRB1*01:01: ~20% Caucasian, ~15% African, ~10% Asian
+   - HLA-DRB1*03:01: ~25% Caucasian, ~20% African, ~15% Asian
+   - HLA-DRB1*07:01: ~25% Caucasian, ~15% African, ~10% Asian
+   - Combined: >60% global population coverage
+
+## FUNCTIONAL DOMAINS IN S1 REGION
+
+### Signal Peptide (residues 1-13)
+   - Remove from epitope prediction (cleaved in mature protein)
+   - Not present in secreted spike protein
+
+### N-Terminal Domain (NTD, residues 14-290)
+   - Contains neutralizing antibody epitopes
+   - Include in B-cell epitope prediction
+   - Moderate priority for T-cell epitopes
+
+### Receptor Binding Domain (RBD, residues 319-541)
+   - PRIMARY TARGET for neutralizing antibodies
+   - Highest priority for epitope prediction
+   - Key residues: 417, 484, 501 (variant hotspots)
+
+### Subdomain 1 (residues 290-319)
+   - Linker region between NTD and RBD
+   - Lower priority for epitope selection
+
+### Subdomain 2 (residues 541-685)
+   - Contains S1/S2 cleavage site (furin site)
+   - Important for viral entry mechanism
+   - Moderate priority for T-cell epitopes
+
+## QUALITY CONTROL CHECKPOINTS
+
+### Before IEDB Submission:
+   1. ✅ Verify sequence source organism (Severe acute respiratory syndrome coronavirus 2)
+   2. ✅ Confirm sequence length (685 aa for S1 domain)
+   3. ✅ Check for non-standard amino acids or ambiguities
+   4. ✅ Validate FASTA format (single line header, wrapped sequence)
+
+### After Epitope Prediction:
+   1. ✅ Filter by binding affinity thresholds (IC50 ≤ 50 nM for MHC-I)
+   2. ✅ Check for self-similarity to human proteome (avoid autoimmunity)
+   3. ✅ Prioritize epitopes from functionally important regions (RBD > NTD > other)
+   4. ✅ Consider variant stability (avoid sites with high mutation rates)
+
+## COMMON PITFALLS TO AVOID
+
+❌ Using wrong organism sequences (e.g., D. medinensis instead of SARS-CoV-2)
+❌ Submitting full proteome datasets to web servers (causes timeouts)
+❌ Ignoring HLA population frequencies (reduces vaccine efficacy)
+❌ Selecting epitopes from non-conserved regions (variant escape)
+❌ Overlooking human homology screening (autoimmune risk)
+❌ Choosing epitopes solely on binding affinity (ignore functional context)
+
+## RECOMMENDED WORKFLOW
+
+Step 1: Input Selection
+   → Use sars_cov2_s1_domain.fasta (685 aa, single sequence)
+
+Step 2: MHC-I Prediction
+   → Submit to IEDB with 4 common HLA-A/B alleles, 9-mer peptides
+
+Step 3: MHC-II Prediction
+   → Submit to IEDB with 4 common HLA-DRB1 alleles, 15-mer peptides
+
+Step 4: Results Integration
+   → Combine with existing B-cell epitope data
+   → Apply scoring criteria from Stage 03 (antigenicity, allergenicity)
+
+Step 5: Functional Annotation
+   → Map epitopes to functional domains (RBD, NTD, cleavage sites)
+   → Prioritize based on neutralization relevance
+
+## EXPECTED OUTPUTS
+
+From S1 Domain (685 aa):
+- MHC-I: ~50-150 strong binding 9-mers
+- MHC-II: ~80-200 strong binding 15-mers
+- Processing time: 2-5 minutes per prediction
+- Ready for Stage 03 scoring within same day
+
+## LITERATURE REFERENCES
+
+Key papers supporting S1 domain focus:
+- Nature Medicine 2020: RBD-focused vaccines show neutralization
+- Cell 2021: NTD antibodies complement RBD responses
+- Science 2021: S1-specific T cells correlate with protection
+- NEJM 2021: Most approved vaccines target S1 domain
+
+## CONTACT INFO
+
+Pipeline questions: Review PIPELINE_COMPLETION.md
+Tool troubleshooting: Check IEDB help documentation
+Sequence validation: Use ExPASy ProtParam for basic checks
+
+================================================================================
+Last updated: 2026-05-13
+Pipeline stage: 02 (Epitope Prediction Input Preparation)
+Next stage: 03 (Candidate Scoring & Filtering)
+================================================================================

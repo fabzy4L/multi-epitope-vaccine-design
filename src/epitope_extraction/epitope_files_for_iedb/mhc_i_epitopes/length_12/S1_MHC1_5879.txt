@@ -1,0 +1,5 @@
+>S1_MHC1_5879
+ICHDGKAHFPRE
+# Position: 1081-1092
+# Length: 12 amino acids
+# Type: MHC-I

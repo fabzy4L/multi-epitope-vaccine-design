@@ -1,0 +1,5 @@
+>S1_MHC1_2357
+FKNHTSPDV
+# Position: 1156-1164
+# Length: 9 amino acids
+# Type: MHC-I

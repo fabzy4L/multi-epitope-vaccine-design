@@ -1,0 +1,5 @@
+>S1_MHC1_1550
+SVYAWNRKR
+# Position: 349-357
+# Length: 9 amino acids
+# Type: MHC-I

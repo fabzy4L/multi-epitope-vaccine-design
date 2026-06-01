@@ -1,0 +1,5 @@
+>S1_MHC1_3331
+TGSNVFQTRAGC
+# Position: 625-636
+# Length: 12 amino acids
+# Type: MHC-I

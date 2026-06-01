@@ -1,0 +1,5 @@
+>S1_MHC1_3893
+LDPLSETKCTL
+# Position: 293-303
+# Length: 11 amino acids
+# Type: MHC-I

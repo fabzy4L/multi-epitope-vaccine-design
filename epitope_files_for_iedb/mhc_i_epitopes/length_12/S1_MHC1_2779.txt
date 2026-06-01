@@ -1,0 +1,5 @@
+>S1_MHC1_2779
+FNDGVYFASTEK
+# Position: 73-84
+# Length: 12 amino acids
+# Type: MHC-I

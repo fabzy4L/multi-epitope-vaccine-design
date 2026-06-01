@@ -1,0 +1,5 @@
+>S1_MHC1_0393
+EVRQIAPG
+# Position: 393-400
+# Length: 8 amino acids
+# Type: MHC-I

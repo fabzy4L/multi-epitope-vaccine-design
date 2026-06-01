@@ -1,0 +1,5 @@
+>S1_MHC1_4944
+HKNNKSWMESEF
+# Position: 146-157
+# Length: 12 amino acids
+# Type: MHC-I

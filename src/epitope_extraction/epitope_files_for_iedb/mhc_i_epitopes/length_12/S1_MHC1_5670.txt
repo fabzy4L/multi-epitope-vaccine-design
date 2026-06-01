@@ -1,0 +1,5 @@
+>S1_MHC1_5670
+QYTSALLAGTIT
+# Position: 872-883
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0590
+CSFGGVSV
+# Position: 590-597
+# Length: 8 amino acids
+# Type: MHC-I

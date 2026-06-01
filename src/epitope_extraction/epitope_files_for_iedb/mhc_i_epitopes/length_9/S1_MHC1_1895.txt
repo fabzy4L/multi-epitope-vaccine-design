@@ -1,0 +1,5 @@
+>S1_MHC1_1895
+AYTMSLGAE
+# Position: 694-702
+# Length: 9 amino acids
+# Type: MHC-I

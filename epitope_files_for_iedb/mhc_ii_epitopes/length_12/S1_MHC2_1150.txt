@@ -1,0 +1,5 @@
+>S1_MHC2_1150
+LKPFERDISTEI
+# Position: 448-459
+# Length: 12 amino acids
+# Type: MHC-II

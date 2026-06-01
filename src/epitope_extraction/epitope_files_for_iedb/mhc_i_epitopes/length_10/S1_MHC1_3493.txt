@@ -1,0 +1,5 @@
+>S1_MHC1_3493
+EGVFVSNGTH
+# Position: 1092-1101
+# Length: 10 amino acids
+# Type: MHC-I

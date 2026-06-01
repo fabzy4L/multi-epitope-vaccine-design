@@ -1,0 +1,5 @@
+>S1_MHC1_3062
+ECDIPIGAGI
+# Position: 661-670
+# Length: 10 amino acids
+# Type: MHC-I

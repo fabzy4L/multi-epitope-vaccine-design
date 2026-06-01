@@ -1,0 +1,5 @@
+>S1_MHC1_1130
+ERDISTEIY
+# Position: 452-460
+# Length: 9 amino acids
+# Type: MHC-I

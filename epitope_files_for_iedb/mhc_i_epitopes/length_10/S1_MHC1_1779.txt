@@ -1,0 +1,5 @@
+>S1_MHC1_1779
+NSNNLDSKVG
+# Position: 424-433
+# Length: 10 amino acids
+# Type: MHC-I

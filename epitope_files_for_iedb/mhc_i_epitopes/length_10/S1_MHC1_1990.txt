@@ -1,0 +1,5 @@
+>S1_MHC1_1990
+GCLIGAEHVN
+# Position: 635-644
+# Length: 10 amino acids
+# Type: MHC-I

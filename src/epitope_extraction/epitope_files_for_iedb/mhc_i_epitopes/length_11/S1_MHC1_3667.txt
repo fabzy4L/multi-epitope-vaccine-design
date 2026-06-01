@@ -1,0 +1,5 @@
+>S1_MHC1_3667
+AIHVSGTNGTK
+# Position: 67-77
+# Length: 11 amino acids
+# Type: MHC-I

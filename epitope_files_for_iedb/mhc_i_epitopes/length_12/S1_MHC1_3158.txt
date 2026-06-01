@@ -1,0 +1,5 @@
+>S1_MHC1_3158
+ERDISTEIYQAG
+# Position: 452-463
+# Length: 12 amino acids
+# Type: MHC-I

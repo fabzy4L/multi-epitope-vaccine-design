@@ -1,0 +1,5 @@
+>S1_MHC1_4390
+KTPPIKDFGGF
+# Position: 790-800
+# Length: 11 amino acids
+# Type: MHC-I

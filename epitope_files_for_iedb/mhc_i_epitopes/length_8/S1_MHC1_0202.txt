@@ -1,0 +1,5 @@
+>S1_MHC1_0202
+DLPQGFSA
+# Position: 202-209
+# Length: 8 amino acids
+# Type: MHC-I

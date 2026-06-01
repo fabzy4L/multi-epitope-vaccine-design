@@ -1,0 +1,5 @@
+>S1_MHC1_2801
+TTLDSKTQSLLI
+# Position: 95-106
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2361
+TSPDVDLGD
+# Position: 1160-1168
+# Length: 9 amino acids
+# Type: MHC-I

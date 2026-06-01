@@ -1,0 +1,5 @@
+>S1_MHC1_3063
+CDIPIGAGIC
+# Position: 662-671
+# Length: 10 amino acids
+# Type: MHC-I

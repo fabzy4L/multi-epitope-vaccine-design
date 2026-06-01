@@ -1,0 +1,5 @@
+>S1_MHC1_4234
+RVYSTGSNVFQ
+# Position: 634-644
+# Length: 11 amino acids
+# Type: MHC-I

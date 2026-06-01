@@ -1,0 +1,5 @@
+>S1_MHC1_4175
+AVRDPQTLEIL
+# Position: 575-585
+# Length: 11 amino acids
+# Type: MHC-I

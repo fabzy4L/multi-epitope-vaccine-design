@@ -1,0 +1,5 @@
+>S1_MHC1_3976
+TFKCYGVSPTK
+# Position: 376-386
+# Length: 11 amino acids
+# Type: MHC-I

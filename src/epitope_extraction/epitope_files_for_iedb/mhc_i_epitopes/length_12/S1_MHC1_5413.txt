@@ -1,0 +1,5 @@
+>S1_MHC1_5413
+VNCTEVPVAIHA
+# Position: 615-626
+# Length: 12 amino acids
+# Type: MHC-I

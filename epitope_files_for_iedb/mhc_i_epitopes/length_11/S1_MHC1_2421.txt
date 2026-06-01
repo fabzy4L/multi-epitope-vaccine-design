@@ -1,0 +1,5 @@
+>S1_MHC1_2421
+RGDEVRQIAPG
+# Position: 390-400
+# Length: 11 amino acids
+# Type: MHC-I

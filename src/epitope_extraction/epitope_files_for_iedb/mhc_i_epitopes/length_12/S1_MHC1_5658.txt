@@ -1,0 +1,5 @@
+>S1_MHC1_5658
+VLPPLLTDEMIA
+# Position: 860-871
+# Length: 12 amino acids
+# Type: MHC-I

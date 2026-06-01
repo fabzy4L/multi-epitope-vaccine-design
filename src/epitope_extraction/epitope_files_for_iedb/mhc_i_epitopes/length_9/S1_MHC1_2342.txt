@@ -1,0 +1,5 @@
+>S1_MHC1_2342
+LQPELDSFK
+# Position: 1141-1149
+# Length: 9 amino acids
+# Type: MHC-I

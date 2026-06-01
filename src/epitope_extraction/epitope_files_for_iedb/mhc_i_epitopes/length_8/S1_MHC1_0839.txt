@@ -1,0 +1,5 @@
+>S1_MHC1_0839
+DCLGDIAA
+# Position: 839-846
+# Length: 8 amino acids
+# Type: MHC-I

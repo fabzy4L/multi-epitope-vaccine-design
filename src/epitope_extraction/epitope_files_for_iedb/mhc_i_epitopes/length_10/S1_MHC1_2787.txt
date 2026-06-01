@@ -1,0 +1,5 @@
+>S1_MHC1_2787
+KLNDLCFTNV
+# Position: 386-395
+# Length: 10 amino acids
+# Type: MHC-I

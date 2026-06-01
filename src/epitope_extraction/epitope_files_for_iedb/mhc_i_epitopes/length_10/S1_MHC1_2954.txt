@@ -1,0 +1,5 @@
+>S1_MHC1_2954
+TESNKKFLPF
+# Position: 553-562
+# Length: 10 amino acids
+# Type: MHC-I

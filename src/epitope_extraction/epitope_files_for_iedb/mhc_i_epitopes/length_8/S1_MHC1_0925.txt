@@ -1,0 +1,5 @@
+>S1_MHC1_0925
+NQFNSAIG
+# Position: 925-932
+# Length: 8 amino acids
+# Type: MHC-I

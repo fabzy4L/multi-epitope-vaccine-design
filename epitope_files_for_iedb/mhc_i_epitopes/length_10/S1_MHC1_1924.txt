@@ -1,0 +1,5 @@
+>S1_MHC1_1924
+LEILDITPCS
+# Position: 569-578
+# Length: 10 amino acids
+# Type: MHC-I

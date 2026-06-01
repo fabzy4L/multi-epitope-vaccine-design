@@ -1,0 +1,5 @@
+>S1_MHC1_2111
+GVTQNVLYE
+# Position: 910-918
+# Length: 9 amino acids
+# Type: MHC-I

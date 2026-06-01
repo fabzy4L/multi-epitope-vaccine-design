@@ -1,0 +1,5 @@
+>S1_MHC1_4081
+NGVEGFNCYFP
+# Position: 481-491
+# Length: 11 amino acids
+# Type: MHC-I

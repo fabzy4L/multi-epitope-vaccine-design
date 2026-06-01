@@ -1,0 +1,5 @@
+>S1_MHC2_1510
+NITNLCPFGEVFNAT
+# Position: 331-345
+# Length: 15 amino acids
+# Type: MHC-II

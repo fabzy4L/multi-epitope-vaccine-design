@@ -1,0 +1,5 @@
+>S1_MHC1_2008
+PDPSKPSKR
+# Position: 807-815
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2016
+RSFIEDLLF
+# Position: 815-823
+# Length: 9 amino acids
+# Type: MHC-I

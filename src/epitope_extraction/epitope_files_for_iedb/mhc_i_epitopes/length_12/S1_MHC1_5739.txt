@@ -1,0 +1,5 @@
+>S1_MHC1_5739
+TASALGKLQDVV
+# Position: 941-952
+# Length: 12 amino acids
+# Type: MHC-I

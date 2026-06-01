@@ -1,0 +1,5 @@
+>S1_MHC1_3190
+YKTPPIKDFG
+# Position: 789-798
+# Length: 10 amino acids
+# Type: MHC-I

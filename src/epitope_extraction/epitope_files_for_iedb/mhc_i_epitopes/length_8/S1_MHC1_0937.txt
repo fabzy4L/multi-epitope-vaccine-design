@@ -1,0 +1,5 @@
+>S1_MHC1_0937
+SLSSTASA
+# Position: 937-944
+# Length: 8 amino acids
+# Type: MHC-I

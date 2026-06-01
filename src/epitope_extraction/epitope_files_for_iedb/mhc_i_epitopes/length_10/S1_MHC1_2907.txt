@@ -1,0 +1,5 @@
+>S1_MHC1_2907
+QPYRVVVLSF
+# Position: 506-515
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5006
+TPINLVRDLPQG
+# Position: 208-219
+# Length: 12 amino acids
+# Type: MHC-I

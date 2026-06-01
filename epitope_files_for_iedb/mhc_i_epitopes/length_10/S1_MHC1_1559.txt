@@ -1,0 +1,5 @@
+>S1_MHC1_1559
+PQGFSALEPL
+# Position: 204-213
+# Length: 10 amino acids
+# Type: MHC-I

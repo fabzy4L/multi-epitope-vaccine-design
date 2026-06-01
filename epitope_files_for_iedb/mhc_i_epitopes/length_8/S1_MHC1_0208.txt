@@ -1,0 +1,5 @@
+>S1_MHC1_0208
+SALEPLVD
+# Position: 208-215
+# Length: 8 amino acids
+# Type: MHC-I

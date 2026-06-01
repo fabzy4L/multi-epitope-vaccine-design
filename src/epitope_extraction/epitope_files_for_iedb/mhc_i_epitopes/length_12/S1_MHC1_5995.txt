@@ -1,0 +1,5 @@
+>S1_MHC1_5995
+LIDLQELGKYEQ
+# Position: 1197-1208
+# Length: 12 amino acids
+# Type: MHC-I

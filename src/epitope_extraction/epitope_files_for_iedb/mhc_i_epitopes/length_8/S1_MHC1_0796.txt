@@ -1,0 +1,5 @@
+>S1_MHC1_0796
+DFGGFNFS
+# Position: 796-803
+# Length: 8 amino acids
+# Type: MHC-I

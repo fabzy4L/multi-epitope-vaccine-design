@@ -1,0 +1,5 @@
+>S1_MHC1_1517
+FLMDLEGKQG
+# Position: 162-171
+# Length: 10 amino acids
+# Type: MHC-I

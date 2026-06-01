@@ -1,0 +1,5 @@
+>S1_MHC1_3415
+RAAEIRASAN
+# Position: 1014-1023
+# Length: 10 amino acids
+# Type: MHC-I

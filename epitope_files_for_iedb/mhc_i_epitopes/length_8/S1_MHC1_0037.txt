@@ -1,0 +1,5 @@
+>S1_MHC1_0037
+STQDLFLP
+# Position: 37-44
+# Length: 8 amino acids
+# Type: MHC-I

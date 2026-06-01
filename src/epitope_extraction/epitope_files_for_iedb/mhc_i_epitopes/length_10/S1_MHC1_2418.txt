@@ -1,0 +1,5 @@
+>S1_MHC1_2418
+NLTTRTQLPP
+# Position: 17-26
+# Length: 10 amino acids
+# Type: MHC-I

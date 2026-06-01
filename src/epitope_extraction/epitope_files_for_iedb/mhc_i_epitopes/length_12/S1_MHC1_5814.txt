@@ -1,0 +1,5 @@
+>S1_MHC1_5814
+AEIRASANLAAT
+# Position: 1016-1027
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5962
+VDLGDISGINAS
+# Position: 1164-1175
+# Length: 12 amino acids
+# Type: MHC-I

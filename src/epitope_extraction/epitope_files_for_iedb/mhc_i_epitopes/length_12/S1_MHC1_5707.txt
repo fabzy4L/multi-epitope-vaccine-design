@@ -1,0 +1,5 @@
+>S1_MHC1_5707
+IGVTQNVLYENQ
+# Position: 909-920
+# Length: 12 amino acids
+# Type: MHC-I

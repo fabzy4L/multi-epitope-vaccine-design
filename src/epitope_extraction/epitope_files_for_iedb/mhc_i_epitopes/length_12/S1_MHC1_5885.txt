@@ -1,0 +1,5 @@
+>S1_MHC1_5885
+AHFPREGVFVSN
+# Position: 1087-1098
+# Length: 12 amino acids
+# Type: MHC-I

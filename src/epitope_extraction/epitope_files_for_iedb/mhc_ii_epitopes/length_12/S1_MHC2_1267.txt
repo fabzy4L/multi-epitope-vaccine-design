@@ -1,0 +1,5 @@
+>S1_MHC2_1267
+GFNFSQILPDPS
+# Position: 799-810
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_0729
+VSMTKTSV
+# Position: 729-736
+# Length: 8 amino acids
+# Type: MHC-I

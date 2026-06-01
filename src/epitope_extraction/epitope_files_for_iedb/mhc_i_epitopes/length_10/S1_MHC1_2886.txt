@@ -1,0 +1,5 @@
+>S1_MHC1_2886
+GFNCYFPLQS
+# Position: 485-494
+# Length: 10 amino acids
+# Type: MHC-I

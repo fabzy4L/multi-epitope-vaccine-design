@@ -1,0 +1,5 @@
+>S1_MHC1_1810
+AVLYQDVNC
+# Position: 609-617
+# Length: 9 amino acids
+# Type: MHC-I

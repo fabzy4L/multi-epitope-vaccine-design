@@ -1,0 +1,5 @@
+>S1_MHC1_0117
+VCEFQFCN
+# Position: 117-124
+# Length: 8 amino acids
+# Type: MHC-I

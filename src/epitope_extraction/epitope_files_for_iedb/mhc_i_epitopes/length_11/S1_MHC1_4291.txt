@@ -1,0 +1,5 @@
+>S1_MHC1_4291
+SIIAYTMSLGA
+# Position: 691-701
+# Length: 11 amino acids
+# Type: MHC-I

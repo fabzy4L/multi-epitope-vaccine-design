@@ -1,0 +1,5 @@
+>S1_MHC2_2529
+SLQTYVTQQLIRAAEIRASA
+# Position: 1003-1022
+# Length: 20 amino acids
+# Type: MHC-II

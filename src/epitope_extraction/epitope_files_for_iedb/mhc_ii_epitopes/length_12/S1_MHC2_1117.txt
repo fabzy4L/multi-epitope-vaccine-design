@@ -1,0 +1,5 @@
+>S1_MHC2_1117
+SVYAWNRKRISN
+# Position: 349-360
+# Length: 12 amino acids
+# Type: MHC-II

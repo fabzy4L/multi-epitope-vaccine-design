@@ -1,0 +1,5 @@
+>S1_MHC2_1522
+PIGINITRFQTLLALHRS
+# Position: 217-234
+# Length: 18 amino acids
+# Type: MHC-II

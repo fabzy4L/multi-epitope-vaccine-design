@@ -1,0 +1,5 @@
+>S1_MHC1_2428
+AYTNSFTRGV
+# Position: 27-36
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3341
+STASALGKLQ
+# Position: 940-949
+# Length: 10 amino acids
+# Type: MHC-I

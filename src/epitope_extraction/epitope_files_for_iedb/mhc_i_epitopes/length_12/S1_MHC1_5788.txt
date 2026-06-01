@@ -1,0 +1,5 @@
+>S1_MHC1_5788
+EVQIDRLITGRL
+# Position: 990-1001
+# Length: 12 amino acids
+# Type: MHC-I

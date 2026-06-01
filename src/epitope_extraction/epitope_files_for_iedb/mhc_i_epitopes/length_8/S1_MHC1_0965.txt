@@ -1,0 +1,5 @@
+>S1_MHC1_0965
+QLSSNFGA
+# Position: 965-972
+# Length: 8 amino acids
+# Type: MHC-I

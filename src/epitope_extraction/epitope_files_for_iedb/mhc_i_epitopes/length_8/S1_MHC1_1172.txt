@@ -1,0 +1,5 @@
+>S1_MHC1_1172
+INASVVNI
+# Position: 1172-1179
+# Length: 8 amino acids
+# Type: MHC-I

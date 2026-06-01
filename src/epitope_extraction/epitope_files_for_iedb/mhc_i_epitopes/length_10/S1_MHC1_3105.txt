@@ -1,0 +1,5 @@
+>S1_MHC1_3105
+SVAYSNNSIA
+# Position: 704-713
+# Length: 10 amino acids
+# Type: MHC-I

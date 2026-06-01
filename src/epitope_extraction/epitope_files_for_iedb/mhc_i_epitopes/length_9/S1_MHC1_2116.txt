@@ -1,0 +1,5 @@
+>S1_MHC1_2116
+VLYENQKLI
+# Position: 915-923
+# Length: 9 amino acids
+# Type: MHC-I

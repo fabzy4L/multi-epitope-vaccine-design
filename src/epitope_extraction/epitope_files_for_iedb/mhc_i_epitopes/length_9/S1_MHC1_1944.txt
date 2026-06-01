@@ -1,0 +1,5 @@
+>S1_MHC1_1944
+CGDSTECSN
+# Position: 743-751
+# Length: 9 amino acids
+# Type: MHC-I

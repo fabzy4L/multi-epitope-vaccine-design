@@ -1,0 +1,5 @@
+>S1_MHC1_5952
+KYFKNHTSPDVD
+# Position: 1154-1165
+# Length: 12 amino acids
+# Type: MHC-I

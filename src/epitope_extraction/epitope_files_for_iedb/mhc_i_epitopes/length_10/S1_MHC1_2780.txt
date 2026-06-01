@@ -1,0 +1,5 @@
+>S1_MHC1_2780
+CYGVSPTKLN
+# Position: 379-388
+# Length: 10 amino acids
+# Type: MHC-I

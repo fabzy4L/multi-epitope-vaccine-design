@@ -1,0 +1,5 @@
+>S1_MHC1_0658
+NSYECDIP
+# Position: 658-665
+# Length: 8 amino acids
+# Type: MHC-I

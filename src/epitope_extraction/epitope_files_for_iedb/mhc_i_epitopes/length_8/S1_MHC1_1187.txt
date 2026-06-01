@@ -1,0 +1,5 @@
+>S1_MHC1_1187
+NEVAKNLN
+# Position: 1187-1194
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2645
+LHRSYLTPGD
+# Position: 244-253
+# Length: 10 amino acids
+# Type: MHC-I

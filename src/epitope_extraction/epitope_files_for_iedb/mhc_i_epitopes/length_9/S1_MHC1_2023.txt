@@ -1,0 +1,5 @@
+>S1_MHC1_2023
+LFNKVTLAD
+# Position: 822-830
+# Length: 9 amino acids
+# Type: MHC-I

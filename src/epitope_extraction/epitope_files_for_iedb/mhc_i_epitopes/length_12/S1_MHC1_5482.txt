@@ -1,0 +1,5 @@
+>S1_MHC1_5482
+ARSVASQSIIAY
+# Position: 684-695
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1571
+LPIGINITRF
+# Position: 216-225
+# Length: 10 amino acids
+# Type: MHC-I

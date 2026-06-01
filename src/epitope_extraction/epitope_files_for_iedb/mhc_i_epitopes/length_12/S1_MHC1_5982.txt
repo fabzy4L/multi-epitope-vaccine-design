@@ -1,0 +1,5 @@
+>S1_MHC1_5982
+DRLNEVAKNLNE
+# Position: 1184-1195
+# Length: 12 amino acids
+# Type: MHC-I

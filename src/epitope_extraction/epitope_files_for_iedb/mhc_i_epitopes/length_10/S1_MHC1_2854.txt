@@ -1,0 +1,5 @@
+>S1_MHC1_2854
+YRLFRKSNLK
+# Position: 453-462
+# Length: 10 amino acids
+# Type: MHC-I

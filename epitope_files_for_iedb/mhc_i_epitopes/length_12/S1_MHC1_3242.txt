@@ -1,0 +1,5 @@
+>S1_MHC1_3242
+TGVLTESNKKFL
+# Position: 536-547
+# Length: 12 amino acids
+# Type: MHC-I

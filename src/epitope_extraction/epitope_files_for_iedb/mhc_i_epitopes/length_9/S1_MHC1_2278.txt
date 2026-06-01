@@ -1,0 +1,5 @@
+>S1_MHC1_2278
+TAPAICHDG
+# Position: 1077-1085
+# Length: 9 amino acids
+# Type: MHC-I

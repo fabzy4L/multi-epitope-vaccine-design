@@ -1,0 +1,5 @@
+>S1_MHC1_1474
+RTFLLKYNE
+# Position: 273-281
+# Length: 9 amino acids
+# Type: MHC-I

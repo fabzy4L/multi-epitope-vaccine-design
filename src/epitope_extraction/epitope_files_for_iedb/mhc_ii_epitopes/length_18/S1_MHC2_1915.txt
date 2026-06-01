@@ -1,0 +1,5 @@
+>S1_MHC2_1915
+AWNRKRISNCVADYSVLY
+# Position: 352-369
+# Length: 18 amino acids
+# Type: MHC-II

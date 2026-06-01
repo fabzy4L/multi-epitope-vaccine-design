@@ -1,0 +1,5 @@
+>S1_MHC1_3278
+LLAGTITSGW
+# Position: 877-886
+# Length: 10 amino acids
+# Type: MHC-I

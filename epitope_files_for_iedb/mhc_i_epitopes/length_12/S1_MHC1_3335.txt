@@ -1,0 +1,5 @@
+>S1_MHC1_3335
+VFQTRAGCLIGA
+# Position: 629-640
+# Length: 12 amino acids
+# Type: MHC-I

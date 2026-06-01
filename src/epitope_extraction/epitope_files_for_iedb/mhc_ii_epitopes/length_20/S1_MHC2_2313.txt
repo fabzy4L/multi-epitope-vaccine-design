@@ -1,0 +1,5 @@
+>S1_MHC2_2313
+RKRISNCVADYSVLYNSASF
+# Position: 355-374
+# Length: 20 amino acids
+# Type: MHC-II

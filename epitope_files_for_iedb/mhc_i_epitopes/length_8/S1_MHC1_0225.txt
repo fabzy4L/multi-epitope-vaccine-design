@@ -1,0 +1,5 @@
+>S1_MHC1_0225
+FQTLLALH
+# Position: 225-232
+# Length: 8 amino acids
+# Type: MHC-I

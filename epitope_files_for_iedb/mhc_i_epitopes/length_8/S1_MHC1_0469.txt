@@ -1,0 +1,5 @@
+>S1_MHC1_0469
+GVEGFNCY
+# Position: 469-476
+# Length: 8 amino acids
+# Type: MHC-I

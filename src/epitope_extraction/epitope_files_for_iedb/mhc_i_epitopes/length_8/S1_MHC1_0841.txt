@@ -1,0 +1,5 @@
+>S1_MHC1_0841
+LGDIAARD
+# Position: 841-848
+# Length: 8 amino acids
+# Type: MHC-I

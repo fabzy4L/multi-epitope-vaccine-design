@@ -1,0 +1,5 @@
+>S1_MHC1_0844
+IAARDLIC
+# Position: 844-851
+# Length: 8 amino acids
+# Type: MHC-I

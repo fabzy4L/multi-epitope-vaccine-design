@@ -1,0 +1,5 @@
+>S1_MHC1_1338
+SYQTQTNSP
+# Position: 660-668
+# Length: 9 amino acids
+# Type: MHC-I

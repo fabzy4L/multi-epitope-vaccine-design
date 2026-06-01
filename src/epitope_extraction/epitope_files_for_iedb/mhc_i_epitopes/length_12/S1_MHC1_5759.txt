@@ -1,0 +1,5 @@
+>S1_MHC1_5759
+TLVKQLSSNFGA
+# Position: 961-972
+# Length: 12 amino acids
+# Type: MHC-I

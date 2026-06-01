@@ -1,0 +1,5 @@
+>S1_MHC1_2980
+DAVDCALDPLSE
+# Position: 274-285
+# Length: 12 amino acids
+# Type: MHC-I

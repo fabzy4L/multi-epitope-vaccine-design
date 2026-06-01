@@ -1,0 +1,5 @@
+>S1_MHC1_4090
+FPLQSYGFQPT
+# Position: 490-500
+# Length: 11 amino acids
+# Type: MHC-I

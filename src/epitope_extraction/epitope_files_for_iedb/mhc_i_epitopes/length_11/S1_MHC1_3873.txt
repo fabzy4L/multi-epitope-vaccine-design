@@ -1,0 +1,5 @@
+>S1_MHC1_3873
+RTFLLKYNENG
+# Position: 273-283
+# Length: 11 amino acids
+# Type: MHC-I

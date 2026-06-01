@@ -1,0 +1,5 @@
+>S1_MHC1_1149
+KEELDKYF
+# Position: 1149-1156
+# Length: 8 amino acids
+# Type: MHC-I

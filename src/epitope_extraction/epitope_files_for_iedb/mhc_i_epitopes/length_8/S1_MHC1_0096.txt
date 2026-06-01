@@ -1,0 +1,5 @@
+>S1_MHC1_0096
+EKSNIIRG
+# Position: 96-103
+# Length: 8 amino acids
+# Type: MHC-I

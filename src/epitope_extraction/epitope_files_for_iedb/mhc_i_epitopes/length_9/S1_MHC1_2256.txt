@@ -1,0 +1,5 @@
+>S1_MHC1_2256
+SAPHGVVFL
+# Position: 1055-1063
+# Length: 9 amino acids
+# Type: MHC-I

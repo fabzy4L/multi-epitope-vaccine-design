@@ -1,0 +1,5 @@
+>S1_MHC1_1054
+DLCFTNVYA
+# Position: 376-384
+# Length: 9 amino acids
+# Type: MHC-I

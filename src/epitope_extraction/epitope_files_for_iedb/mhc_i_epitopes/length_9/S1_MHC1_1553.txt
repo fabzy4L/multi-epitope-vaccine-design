@@ -1,0 +1,5 @@
+>S1_MHC1_1553
+AWNRKRISN
+# Position: 352-360
+# Length: 9 amino acids
+# Type: MHC-I

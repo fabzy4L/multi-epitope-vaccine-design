@@ -1,0 +1,5 @@
+>S1_MHC1_5306
+YRVVVLSFELLH
+# Position: 508-519
+# Length: 12 amino acids
+# Type: MHC-I

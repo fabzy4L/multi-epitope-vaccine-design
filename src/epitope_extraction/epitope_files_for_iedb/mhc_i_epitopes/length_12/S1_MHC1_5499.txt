@@ -1,0 +1,5 @@
+>S1_MHC1_5499
+AENSVAYSNNSI
+# Position: 701-712
+# Length: 12 amino acids
+# Type: MHC-I

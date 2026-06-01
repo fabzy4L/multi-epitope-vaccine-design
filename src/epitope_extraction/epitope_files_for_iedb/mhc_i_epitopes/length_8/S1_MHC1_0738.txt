@@ -1,0 +1,5 @@
+>S1_MHC1_0738
+CTMYICGD
+# Position: 738-745
+# Length: 8 amino acids
+# Type: MHC-I

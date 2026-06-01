@@ -1,0 +1,5 @@
+>S1_MHC1_0322
+LCPFGEVF
+# Position: 322-329
+# Length: 8 amino acids
+# Type: MHC-I

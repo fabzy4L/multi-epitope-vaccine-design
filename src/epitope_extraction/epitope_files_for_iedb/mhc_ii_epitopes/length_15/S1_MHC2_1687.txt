@@ -1,0 +1,5 @@
+>S1_MHC2_1687
+PPLLTDEMIAQYTSA
+# Position: 862-876
+# Length: 15 amino acids
+# Type: MHC-II

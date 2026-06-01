@@ -1,0 +1,5 @@
+>S1_MHC1_4236
+YSTGSNVFQTR
+# Position: 636-646
+# Length: 11 amino acids
+# Type: MHC-I

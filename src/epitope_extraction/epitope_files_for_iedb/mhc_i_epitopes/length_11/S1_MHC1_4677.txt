@@ -1,0 +1,5 @@
+>S1_MHC1_4677
+TAPAICHDGKA
+# Position: 1077-1087
+# Length: 11 amino acids
+# Type: MHC-I

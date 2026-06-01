@@ -1,0 +1,5 @@
+>S1_MHC1_2406
+LVLLPLVSSQ
+# Position: 5-14
+# Length: 10 amino acids
+# Type: MHC-I

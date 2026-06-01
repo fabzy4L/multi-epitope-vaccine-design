@@ -1,0 +1,5 @@
+>S1_MHC1_4711
+EPQIITTDNTF
+# Position: 1111-1121
+# Length: 11 amino acids
+# Type: MHC-I

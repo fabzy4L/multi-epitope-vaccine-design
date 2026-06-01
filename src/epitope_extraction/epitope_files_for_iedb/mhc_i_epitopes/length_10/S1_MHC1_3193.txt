@@ -1,0 +1,5 @@
+>S1_MHC1_3193
+PPIKDFGGFN
+# Position: 792-801
+# Length: 10 amino acids
+# Type: MHC-I

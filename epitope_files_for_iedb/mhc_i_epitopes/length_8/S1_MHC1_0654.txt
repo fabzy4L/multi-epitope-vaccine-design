@@ -1,0 +1,5 @@
+>S1_MHC1_0654
+GAGICASY
+# Position: 654-661
+# Length: 8 amino acids
+# Type: MHC-I

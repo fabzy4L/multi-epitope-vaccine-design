@@ -1,0 +1,5 @@
+>S1_MHC1_1532
+REFVFKNIDG
+# Position: 177-186
+# Length: 10 amino acids
+# Type: MHC-I

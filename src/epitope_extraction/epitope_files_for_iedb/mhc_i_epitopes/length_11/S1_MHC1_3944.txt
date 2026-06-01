@@ -1,0 +1,5 @@
+>S1_MHC1_3944
+ATRFASVYAWN
+# Position: 344-354
+# Length: 11 amino acids
+# Type: MHC-I

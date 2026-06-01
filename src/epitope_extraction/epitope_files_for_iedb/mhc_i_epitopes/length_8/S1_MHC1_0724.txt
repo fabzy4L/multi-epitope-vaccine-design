@@ -1,0 +1,5 @@
+>S1_MHC1_0724
+TEILPVSM
+# Position: 724-731
+# Length: 8 amino acids
+# Type: MHC-I

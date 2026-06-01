@@ -1,0 +1,5 @@
+>S1_MHC1_1921
+ISVTTEILP
+# Position: 720-728
+# Length: 9 amino acids
+# Type: MHC-I

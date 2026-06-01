@@ -1,0 +1,5 @@
+>S1_MHC1_2877
+GSTPCNGVEG
+# Position: 476-485
+# Length: 10 amino acids
+# Type: MHC-I

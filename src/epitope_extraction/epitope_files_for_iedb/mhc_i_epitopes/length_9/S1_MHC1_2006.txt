@@ -1,0 +1,5 @@
+>S1_MHC1_2006
+ILPDPSKPS
+# Position: 805-813
+# Length: 9 amino acids
+# Type: MHC-I

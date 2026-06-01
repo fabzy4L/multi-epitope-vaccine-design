@@ -1,0 +1,5 @@
+>S1_MHC2_1112
+NLCPFGEVFNAT
+# Position: 334-345
+# Length: 12 amino acids
+# Type: MHC-II

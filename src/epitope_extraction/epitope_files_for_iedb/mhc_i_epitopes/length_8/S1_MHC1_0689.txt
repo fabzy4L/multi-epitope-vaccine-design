@@ -1,0 +1,5 @@
+>S1_MHC1_0689
+SQSIIAYT
+# Position: 689-696
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5603
+ILPDPSKPSKRS
+# Position: 805-816
+# Length: 12 amino acids
+# Type: MHC-I

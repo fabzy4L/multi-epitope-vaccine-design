@@ -1,0 +1,5 @@
+>S1_MHC1_0033
+SVLHSTQD
+# Position: 33-40
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1532
+ADSFVIRGDEVRQIA
+# Position: 397-411
+# Length: 15 amino acids
+# Type: MHC-II

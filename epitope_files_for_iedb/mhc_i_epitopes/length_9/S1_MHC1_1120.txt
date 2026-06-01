@@ -1,0 +1,5 @@
+>S1_MHC1_1120
+LFRKSNLKP
+# Position: 442-450
+# Length: 9 amino acids
+# Type: MHC-I

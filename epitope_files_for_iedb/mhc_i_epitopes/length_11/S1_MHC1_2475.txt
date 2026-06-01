@@ -1,0 +1,5 @@
+>S1_MHC1_2475
+RKSNLKPFERD
+# Position: 444-454
+# Length: 11 amino acids
+# Type: MHC-I

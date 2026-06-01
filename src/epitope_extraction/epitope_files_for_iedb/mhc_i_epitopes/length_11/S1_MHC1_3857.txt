@@ -1,0 +1,5 @@
+>S1_MHC1_3857
+GWTAGAAAYYV
+# Position: 257-267
+# Length: 11 amino acids
+# Type: MHC-I

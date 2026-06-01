@@ -1,0 +1,5 @@
+>S1_MHC1_2225
+LAATKMSEC
+# Position: 1024-1032
+# Length: 9 amino acids
+# Type: MHC-I

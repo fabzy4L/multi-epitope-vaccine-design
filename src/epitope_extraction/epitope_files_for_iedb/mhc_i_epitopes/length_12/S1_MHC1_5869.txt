@@ -1,0 +1,5 @@
+>S1_MHC1_5869
+QEKNFTTAPAIC
+# Position: 1071-1082
+# Length: 12 amino acids
+# Type: MHC-I

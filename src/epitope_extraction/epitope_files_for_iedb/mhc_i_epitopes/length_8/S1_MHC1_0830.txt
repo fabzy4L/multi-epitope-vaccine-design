@@ -1,0 +1,5 @@
+>S1_MHC1_0830
+DAGFIKQY
+# Position: 830-837
+# Length: 8 amino acids
+# Type: MHC-I

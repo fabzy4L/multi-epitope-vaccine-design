@@ -1,0 +1,5 @@
+>S1_MHC1_4927
+KVCEFQFCNDPF
+# Position: 129-140
+# Length: 12 amino acids
+# Type: MHC-I

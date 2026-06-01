@@ -1,0 +1,5 @@
+>S1_MHC2_2228
+IIRGWIFGTTLDSKTQSLLI
+# Position: 100-119
+# Length: 20 amino acids
+# Type: MHC-II

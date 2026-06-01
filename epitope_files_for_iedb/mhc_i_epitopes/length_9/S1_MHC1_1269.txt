@@ -1,0 +1,5 @@
+>S1_MHC1_1269
+TSNQVAVLY
+# Position: 591-599
+# Length: 9 amino acids
+# Type: MHC-I

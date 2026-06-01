@@ -1,0 +1,5 @@
+>S1_MHC1_5509
+SIAIPTNFTISV
+# Position: 711-722
+# Length: 12 amino acids
+# Type: MHC-I

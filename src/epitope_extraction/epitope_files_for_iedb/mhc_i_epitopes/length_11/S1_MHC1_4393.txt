@@ -1,0 +1,5 @@
+>S1_MHC1_4393
+PIKDFGGFNFS
+# Position: 793-803
+# Length: 11 amino acids
+# Type: MHC-I

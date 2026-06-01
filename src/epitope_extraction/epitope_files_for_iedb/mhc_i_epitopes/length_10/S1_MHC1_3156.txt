@@ -1,0 +1,5 @@
+>S1_MHC1_3156
+QYGSFCTQLN
+# Position: 755-764
+# Length: 10 amino acids
+# Type: MHC-I

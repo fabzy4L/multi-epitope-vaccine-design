@@ -1,0 +1,5 @@
+>S1_MHC1_1767
+LPDDFTGCVI
+# Position: 412-421
+# Length: 10 amino acids
+# Type: MHC-I

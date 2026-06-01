@@ -1,0 +1,5 @@
+>S1_MHC1_3631
+SFTRGVYYPDK
+# Position: 31-41
+# Length: 11 amino acids
+# Type: MHC-I

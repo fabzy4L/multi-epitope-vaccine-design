@@ -1,0 +1,5 @@
+>S1_MHC1_1326
+NVVIKVCEF
+# Position: 125-133
+# Length: 9 amino acids
+# Type: MHC-I

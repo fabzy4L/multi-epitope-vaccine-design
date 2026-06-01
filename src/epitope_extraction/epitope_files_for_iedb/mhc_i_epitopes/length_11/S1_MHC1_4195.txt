@@ -1,0 +1,5 @@
+>S1_MHC1_4195
+VSVITPGTNTS
+# Position: 595-605
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1518
+QGFSALEPLVDLPIGINI
+# Position: 205-222
+# Length: 18 amino acids
+# Type: MHC-II

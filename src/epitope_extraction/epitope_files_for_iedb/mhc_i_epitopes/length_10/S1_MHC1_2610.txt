@@ -1,0 +1,5 @@
+>S1_MHC1_2610
+PINLVRDLPQ
+# Position: 209-218
+# Length: 10 amino acids
+# Type: MHC-I

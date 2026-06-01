@@ -1,0 +1,5 @@
+>S1_MHC1_1086
+KAHFPREG
+# Position: 1086-1093
+# Length: 8 amino acids
+# Type: MHC-I

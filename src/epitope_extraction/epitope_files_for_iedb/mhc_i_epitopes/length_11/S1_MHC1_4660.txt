@@ -1,0 +1,5 @@
+>S1_MHC1_4660
+VVFLHVTYVPA
+# Position: 1060-1070
+# Length: 11 amino acids
+# Type: MHC-I

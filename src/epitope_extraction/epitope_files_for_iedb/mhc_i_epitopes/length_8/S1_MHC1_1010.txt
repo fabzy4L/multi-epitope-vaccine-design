@@ -1,0 +1,5 @@
+>S1_MHC1_1010
+QQLIRAAE
+# Position: 1010-1017
+# Length: 8 amino acids
+# Type: MHC-I

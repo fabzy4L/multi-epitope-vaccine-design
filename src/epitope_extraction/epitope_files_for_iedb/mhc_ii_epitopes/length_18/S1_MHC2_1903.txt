@@ -1,0 +1,5 @@
+>S1_MHC2_1903
+SNFRVQPTESIVRFPNIT
+# Position: 316-333
+# Length: 18 amino acids
+# Type: MHC-II

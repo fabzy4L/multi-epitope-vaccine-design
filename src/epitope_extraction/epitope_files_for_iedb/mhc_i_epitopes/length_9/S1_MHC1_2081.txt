@@ -1,0 +1,5 @@
+>S1_MHC1_2081
+GTITSGWTF
+# Position: 880-888
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3252
+CAQKFNGLTV
+# Position: 851-860
+# Length: 10 amino acids
+# Type: MHC-I

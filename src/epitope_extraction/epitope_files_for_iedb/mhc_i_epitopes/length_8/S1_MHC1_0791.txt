@@ -1,0 +1,5 @@
+>S1_MHC1_0791
+TPPIKDFG
+# Position: 791-798
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2555
+ESEFRFYSSA
+# Position: 154-163
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0061
+NGTKRFDN
+# Position: 61-68
+# Length: 8 amino acids
+# Type: MHC-I

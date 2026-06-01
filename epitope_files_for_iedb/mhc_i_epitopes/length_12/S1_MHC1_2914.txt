@@ -1,0 +1,5 @@
+>S1_MHC1_2914
+SALEPLVDLPIG
+# Position: 208-219
+# Length: 12 amino acids
+# Type: MHC-I

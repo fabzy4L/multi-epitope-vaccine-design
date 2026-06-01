@@ -1,0 +1,5 @@
+>S1_MHC1_3795
+KNIDGYFKIYS
+# Position: 195-205
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1270
+DPSKPSKRSFIE
+# Position: 808-819
+# Length: 12 amino acids
+# Type: MHC-II

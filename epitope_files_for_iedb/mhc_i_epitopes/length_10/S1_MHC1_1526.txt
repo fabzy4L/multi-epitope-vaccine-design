@@ -1,0 +1,5 @@
+>S1_MHC1_1526
+GNFKNLREFV
+# Position: 171-180
+# Length: 10 amino acids
+# Type: MHC-I

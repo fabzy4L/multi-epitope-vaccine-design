@@ -1,0 +1,5 @@
+>S1_MHC2_1577
+VYADSFVIRGDEVRQIAP
+# Position: 382-399
+# Length: 18 amino acids
+# Type: MHC-II

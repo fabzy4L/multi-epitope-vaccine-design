@@ -1,0 +1,5 @@
+>S1_MHC1_1409
+TPINLVRDL
+# Position: 208-216
+# Length: 9 amino acids
+# Type: MHC-I

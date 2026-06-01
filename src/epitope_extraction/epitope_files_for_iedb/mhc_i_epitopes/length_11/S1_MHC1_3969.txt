@@ -1,0 +1,5 @@
+>S1_MHC1_3969
+YNSASFSTFKC
+# Position: 369-379
+# Length: 11 amino acids
+# Type: MHC-I

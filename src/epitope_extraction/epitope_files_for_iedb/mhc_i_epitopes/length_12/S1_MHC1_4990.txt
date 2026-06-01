@@ -1,0 +1,5 @@
+>S1_MHC1_4990
+FVFKNIDGYFKI
+# Position: 192-203
+# Length: 12 amino acids
+# Type: MHC-I

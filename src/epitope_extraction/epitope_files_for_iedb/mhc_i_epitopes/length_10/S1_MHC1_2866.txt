@@ -1,0 +1,5 @@
+>S1_MHC1_2866
+ERDISTEIYQ
+# Position: 465-474
+# Length: 10 amino acids
+# Type: MHC-I

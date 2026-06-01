@@ -1,0 +1,5 @@
+>S1_MHC1_1841
+SNVFQTRAG
+# Position: 640-648
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1362
+TRTQLPPAYT
+# Position: 7-16
+# Length: 10 amino acids
+# Type: MHC-I

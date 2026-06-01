@@ -1,0 +1,5 @@
+>S1_MHC1_0695
+YTMSLGAE
+# Position: 695-702
+# Length: 8 amino acids
+# Type: MHC-I

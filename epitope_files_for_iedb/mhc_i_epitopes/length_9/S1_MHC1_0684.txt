@@ -1,0 +1,5 @@
+>S1_MHC1_0684
+TTRTQLPPA
+# Position: 6-14
+# Length: 9 amino acids
+# Type: MHC-I

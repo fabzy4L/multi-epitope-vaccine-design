@@ -1,0 +1,5 @@
+>S1_MHC1_1689
+FASVYAWNRK
+# Position: 334-343
+# Length: 10 amino acids
+# Type: MHC-I

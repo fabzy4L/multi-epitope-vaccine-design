@@ -1,0 +1,5 @@
+>S1_MHC1_0268
+GYLQPRTF
+# Position: 268-275
+# Length: 8 amino acids
+# Type: MHC-I

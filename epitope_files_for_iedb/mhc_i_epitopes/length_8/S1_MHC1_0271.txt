@@ -1,0 +1,5 @@
+>S1_MHC1_0271
+TITDAVDC
+# Position: 271-278
+# Length: 8 amino acids
+# Type: MHC-I

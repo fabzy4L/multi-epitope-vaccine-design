@@ -1,0 +1,5 @@
+>S1_MHC1_0043
+FRSSVLHS
+# Position: 43-50
+# Length: 8 amino acids
+# Type: MHC-I

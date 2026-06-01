@@ -1,0 +1,5 @@
+>S1_MHC1_3527
+CDVVIGIVNN
+# Position: 1126-1135
+# Length: 10 amino acids
+# Type: MHC-I

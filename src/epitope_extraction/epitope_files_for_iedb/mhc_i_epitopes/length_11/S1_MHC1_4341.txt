@@ -1,0 +1,5 @@
+>S1_MHC1_4341
+YICGDSTECSN
+# Position: 741-751
+# Length: 11 amino acids
+# Type: MHC-I

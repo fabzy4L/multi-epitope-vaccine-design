@@ -1,0 +1,5 @@
+>S1_MHC1_4591
+VQIDRLITGRL
+# Position: 991-1001
+# Length: 11 amino acids
+# Type: MHC-I

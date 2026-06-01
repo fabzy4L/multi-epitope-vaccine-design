@@ -1,0 +1,5 @@
+>S1_MHC2_1710
+IGKIQDSLSSTASAL
+# Position: 931-945
+# Length: 15 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_0422
+AWNSNNLD
+# Position: 422-429
+# Length: 8 amino acids
+# Type: MHC-I

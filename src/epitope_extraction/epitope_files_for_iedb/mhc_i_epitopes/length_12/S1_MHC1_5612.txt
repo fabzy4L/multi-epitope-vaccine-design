@@ -1,0 +1,5 @@
+>S1_MHC1_5612
+KRSFIEDLLFNK
+# Position: 814-825
+# Length: 12 amino acids
+# Type: MHC-I

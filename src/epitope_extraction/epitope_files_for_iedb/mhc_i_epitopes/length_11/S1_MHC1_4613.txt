@@ -1,0 +1,5 @@
+>S1_MHC1_4613
+IRAAEIRASAN
+# Position: 1013-1023
+# Length: 11 amino acids
+# Type: MHC-I

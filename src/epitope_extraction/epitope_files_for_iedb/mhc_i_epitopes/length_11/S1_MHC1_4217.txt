@@ -1,0 +1,5 @@
+>S1_MHC1_4217
+CTEVPVAIHAD
+# Position: 617-627
+# Length: 11 amino acids
+# Type: MHC-I

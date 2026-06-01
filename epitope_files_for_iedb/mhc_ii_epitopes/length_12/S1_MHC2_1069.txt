@@ -1,0 +1,5 @@
+>S1_MHC2_1069
+QGFSALEPLVDL
+# Position: 205-216
+# Length: 12 amino acids
+# Type: MHC-II

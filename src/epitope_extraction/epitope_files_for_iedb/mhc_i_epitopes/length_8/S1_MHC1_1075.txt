@@ -1,0 +1,5 @@
+>S1_MHC1_1075
+FTTAPAIC
+# Position: 1075-1082
+# Length: 8 amino acids
+# Type: MHC-I

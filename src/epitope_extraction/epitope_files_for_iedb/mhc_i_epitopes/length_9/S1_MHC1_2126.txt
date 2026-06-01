@@ -1,0 +1,5 @@
+>S1_MHC1_2126
+NQFNSAIGK
+# Position: 925-933
+# Length: 9 amino acids
+# Type: MHC-I

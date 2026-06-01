@@ -1,0 +1,5 @@
+>S1_MHC1_2177
+VLNDILSRL
+# Position: 976-984
+# Length: 9 amino acids
+# Type: MHC-I

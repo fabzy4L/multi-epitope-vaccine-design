@@ -1,0 +1,5 @@
+>S1_MHC1_2132
+IGKIQDSLS
+# Position: 931-939
+# Length: 9 amino acids
+# Type: MHC-I

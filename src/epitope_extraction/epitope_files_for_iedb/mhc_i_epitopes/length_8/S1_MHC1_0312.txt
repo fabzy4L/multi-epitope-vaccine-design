@@ -1,0 +1,5 @@
+>S1_MHC1_0312
+IYQTSNFR
+# Position: 312-319
+# Length: 8 amino acids
+# Type: MHC-I

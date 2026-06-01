@@ -1,0 +1,5 @@
+>S1_MHC1_2682
+IPIGAGICASY
+# Position: 651-661
+# Length: 11 amino acids
+# Type: MHC-I

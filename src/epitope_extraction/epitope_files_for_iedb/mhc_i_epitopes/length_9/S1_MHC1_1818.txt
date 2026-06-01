@@ -1,0 +1,5 @@
+>S1_MHC1_1818
+CTEVPVAIH
+# Position: 617-625
+# Length: 9 amino acids
+# Type: MHC-I

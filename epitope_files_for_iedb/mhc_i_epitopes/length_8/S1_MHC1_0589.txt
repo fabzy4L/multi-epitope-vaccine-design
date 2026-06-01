@@ -1,0 +1,5 @@
+>S1_MHC1_0589
+TNTSNQVA
+# Position: 589-596
+# Length: 8 amino acids
+# Type: MHC-I

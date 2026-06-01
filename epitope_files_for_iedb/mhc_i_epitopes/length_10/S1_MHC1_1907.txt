@@ -1,0 +1,5 @@
+>S1_MHC1_1907
+FGRDIADTTD
+# Position: 552-561
+# Length: 10 amino acids
+# Type: MHC-I

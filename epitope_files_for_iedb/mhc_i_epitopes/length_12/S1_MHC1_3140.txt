@@ -1,0 +1,5 @@
+>S1_MHC1_3140
+GNYNYLYRLFRK
+# Position: 434-445
+# Length: 12 amino acids
+# Type: MHC-I

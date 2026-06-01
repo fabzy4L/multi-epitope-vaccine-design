@@ -1,0 +1,5 @@
+>S1_MHC2_1916
+RKRISNCVADYSVLYNSA
+# Position: 355-372
+# Length: 18 amino acids
+# Type: MHC-II

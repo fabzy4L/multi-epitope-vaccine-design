@@ -1,0 +1,5 @@
+>S1_MHC1_2358
+KNHTSPDVD
+# Position: 1157-1165
+# Length: 9 amino acids
+# Type: MHC-I

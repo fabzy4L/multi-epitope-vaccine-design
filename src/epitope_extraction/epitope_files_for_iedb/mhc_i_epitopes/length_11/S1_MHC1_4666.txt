@@ -1,0 +1,5 @@
+>S1_MHC1_4666
+TYVPAQEKNFT
+# Position: 1066-1076
+# Length: 11 amino acids
+# Type: MHC-I

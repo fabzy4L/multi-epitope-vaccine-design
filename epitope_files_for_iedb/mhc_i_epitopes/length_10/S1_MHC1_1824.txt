@@ -1,0 +1,5 @@
+>S1_MHC1_1824
+GVEGFNCYFP
+# Position: 469-478
+# Length: 10 amino acids
+# Type: MHC-I

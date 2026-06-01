@@ -1,0 +1,5 @@
+>S1_MHC1_1077
+PGQTGKIAD
+# Position: 399-407
+# Length: 9 amino acids
+# Type: MHC-I

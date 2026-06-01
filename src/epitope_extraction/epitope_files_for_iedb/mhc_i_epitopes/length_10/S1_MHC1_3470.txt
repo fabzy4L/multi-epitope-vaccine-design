@@ -1,0 +1,5 @@
+>S1_MHC1_3470
+PAQEKNFTTA
+# Position: 1069-1078
+# Length: 10 amino acids
+# Type: MHC-I

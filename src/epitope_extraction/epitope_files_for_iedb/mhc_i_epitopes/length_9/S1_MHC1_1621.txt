@@ -1,0 +1,5 @@
+>S1_MHC1_1621
+DYNYKLPDD
+# Position: 420-428
+# Length: 9 amino acids
+# Type: MHC-I

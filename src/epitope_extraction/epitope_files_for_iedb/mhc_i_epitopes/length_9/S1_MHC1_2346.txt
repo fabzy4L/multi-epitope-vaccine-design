@@ -1,0 +1,5 @@
+>S1_MHC1_2346
+LDSFKEELD
+# Position: 1145-1153
+# Length: 9 amino acids
+# Type: MHC-I

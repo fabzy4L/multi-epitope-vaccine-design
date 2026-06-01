@@ -1,0 +1,5 @@
+>S1_MHC1_3085
+ARSVASQSII
+# Position: 684-693
+# Length: 10 amino acids
+# Type: MHC-I

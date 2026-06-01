@@ -1,0 +1,5 @@
+>S1_MHC1_0724
+FSNVTWFHA
+# Position: 46-54
+# Length: 9 amino acids
+# Type: MHC-I

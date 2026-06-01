@@ -1,0 +1,5 @@
+>S1_MHC1_5606
+DPSKPSKRSFIE
+# Position: 808-819
+# Length: 12 amino acids
+# Type: MHC-I

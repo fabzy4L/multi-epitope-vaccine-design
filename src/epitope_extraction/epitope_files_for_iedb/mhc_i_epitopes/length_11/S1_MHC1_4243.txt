@@ -1,0 +1,5 @@
+>S1_MHC1_4243
+FQTRAGCLIGA
+# Position: 643-653
+# Length: 11 amino acids
+# Type: MHC-I

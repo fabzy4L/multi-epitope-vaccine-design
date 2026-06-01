@@ -1,0 +1,5 @@
+>S1_MHC1_1391
+REFVFKNID
+# Position: 190-198
+# Length: 9 amino acids
+# Type: MHC-I

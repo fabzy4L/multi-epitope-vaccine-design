@@ -1,0 +1,5 @@
+>S1_MHC1_0826
+SSANNCTFE
+# Position: 148-156
+# Length: 9 amino acids
+# Type: MHC-I

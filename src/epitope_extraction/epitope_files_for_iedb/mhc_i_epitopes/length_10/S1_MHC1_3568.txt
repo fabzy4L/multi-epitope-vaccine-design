@@ -1,0 +1,5 @@
+>S1_MHC1_3568
+GDISGINASV
+# Position: 1167-1176
+# Length: 10 amino acids
+# Type: MHC-I

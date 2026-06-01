@@ -1,0 +1,5 @@
+>S1_MHC2_1381
+LQPELDSFKEEL
+# Position: 1141-1152
+# Length: 12 amino acids
+# Type: MHC-II

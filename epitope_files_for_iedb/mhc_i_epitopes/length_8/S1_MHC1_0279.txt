@@ -1,0 +1,5 @@
+>S1_MHC1_0279
+ALDPLSET
+# Position: 279-286
+# Length: 8 amino acids
+# Type: MHC-I

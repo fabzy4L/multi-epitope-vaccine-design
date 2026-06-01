@@ -1,0 +1,5 @@
+>S1_MHC1_0604
+TSNQVAVL
+# Position: 604-611
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2017
+QTQTNSPGSA
+# Position: 662-671
+# Length: 10 amino acids
+# Type: MHC-I

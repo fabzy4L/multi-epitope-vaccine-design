@@ -1,0 +1,5 @@
+>S1_MHC1_3537
+TVYDPLQPEL
+# Position: 1136-1145
+# Length: 10 amino acids
+# Type: MHC-I

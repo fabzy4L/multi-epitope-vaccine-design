@@ -1,0 +1,5 @@
+>S1_MHC1_5664
+TDEMIAQYTSAL
+# Position: 866-877
+# Length: 12 amino acids
+# Type: MHC-I

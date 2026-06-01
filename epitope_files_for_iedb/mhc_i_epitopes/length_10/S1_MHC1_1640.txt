@@ -1,0 +1,5 @@
+>S1_MHC1_1640
+ETKCTLKSFT
+# Position: 285-294
+# Length: 10 amino acids
+# Type: MHC-I

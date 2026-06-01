@@ -1,0 +1,5 @@
+>S1_MHC2_1254
+CTQLNRALTGIA
+# Position: 760-771
+# Length: 12 amino acids
+# Type: MHC-II

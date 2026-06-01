@@ -1,0 +1,5 @@
+>S1_MHC1_2042
+LGDIAARDL
+# Position: 841-849
+# Length: 9 amino acids
+# Type: MHC-I

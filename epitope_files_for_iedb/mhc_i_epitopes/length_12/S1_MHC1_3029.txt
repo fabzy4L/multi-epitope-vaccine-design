@@ -1,0 +1,5 @@
+>S1_MHC1_3029
+CPFGEVFNATRF
+# Position: 323-334
+# Length: 12 amino acids
+# Type: MHC-I

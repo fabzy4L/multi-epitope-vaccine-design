@@ -1,0 +1,5 @@
+>S1_MHC1_4158
+KFLPFQQFGRD
+# Position: 558-568
+# Length: 11 amino acids
+# Type: MHC-I

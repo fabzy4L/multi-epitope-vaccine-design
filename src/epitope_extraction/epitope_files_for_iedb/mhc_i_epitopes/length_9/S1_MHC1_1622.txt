@@ -1,0 +1,5 @@
+>S1_MHC1_1622
+YNYKLPDDF
+# Position: 421-429
+# Length: 9 amino acids
+# Type: MHC-I

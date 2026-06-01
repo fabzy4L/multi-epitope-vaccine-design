@@ -1,0 +1,5 @@
+>S1_MHC1_0668
+AGICASYQ
+# Position: 668-675
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2572
+VSQPFLMDLE
+# Position: 171-180
+# Length: 10 amino acids
+# Type: MHC-I

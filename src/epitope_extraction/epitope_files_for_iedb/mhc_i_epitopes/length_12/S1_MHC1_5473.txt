@@ -1,0 +1,5 @@
+>S1_MHC1_5473
+QTQTNSPRRARS
+# Position: 675-686
+# Length: 12 amino acids
+# Type: MHC-I

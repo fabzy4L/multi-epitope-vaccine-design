@@ -1,0 +1,5 @@
+>S1_MHC1_0619
+EVPVAIHA
+# Position: 619-626
+# Length: 8 amino acids
+# Type: MHC-I

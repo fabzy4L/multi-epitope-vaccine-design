@@ -1,0 +1,5 @@
+>S1_MHC1_2795
+NVYADSFVIR
+# Position: 394-403
+# Length: 10 amino acids
+# Type: MHC-I

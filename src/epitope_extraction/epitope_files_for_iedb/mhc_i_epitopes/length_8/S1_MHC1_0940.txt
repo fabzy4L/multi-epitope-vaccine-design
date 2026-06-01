@@ -1,0 +1,5 @@
+>S1_MHC1_0940
+STASALGK
+# Position: 940-947
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5634
+QYGDCLGDIAAR
+# Position: 836-847
+# Length: 12 amino acids
+# Type: MHC-I

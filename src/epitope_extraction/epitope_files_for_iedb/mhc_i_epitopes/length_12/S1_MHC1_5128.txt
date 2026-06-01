@@ -1,0 +1,5 @@
+>S1_MHC1_5128
+PNITNLCPFGEV
+# Position: 330-341
+# Length: 12 amino acids
+# Type: MHC-I

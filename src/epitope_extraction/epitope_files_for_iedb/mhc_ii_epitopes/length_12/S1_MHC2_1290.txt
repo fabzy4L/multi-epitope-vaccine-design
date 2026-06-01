@@ -1,0 +1,5 @@
+>S1_MHC2_1290
+EMIAQYTSALLA
+# Position: 868-879
+# Length: 12 amino acids
+# Type: MHC-II

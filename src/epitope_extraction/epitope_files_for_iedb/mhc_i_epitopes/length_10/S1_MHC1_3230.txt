@@ -1,0 +1,5 @@
+>S1_MHC1_3230
+ADAGFIKQYG
+# Position: 829-838
+# Length: 10 amino acids
+# Type: MHC-I

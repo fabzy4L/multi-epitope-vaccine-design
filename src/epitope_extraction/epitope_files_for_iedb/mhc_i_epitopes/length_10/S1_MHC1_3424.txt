@@ -1,0 +1,5 @@
+>S1_MHC1_3424
+NLAATKMSEC
+# Position: 1023-1032
+# Length: 10 amino acids
+# Type: MHC-I

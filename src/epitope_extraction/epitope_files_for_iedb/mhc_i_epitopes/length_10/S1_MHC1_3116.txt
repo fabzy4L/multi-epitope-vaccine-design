@@ -1,0 +1,5 @@
+>S1_MHC1_3116
+PTNFTISVTT
+# Position: 715-724
+# Length: 10 amino acids
+# Type: MHC-I

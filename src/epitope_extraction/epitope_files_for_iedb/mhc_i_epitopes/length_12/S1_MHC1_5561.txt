@@ -1,0 +1,5 @@
+>S1_MHC1_5561
+LNRALTGIAVEQ
+# Position: 763-774
+# Length: 12 amino acids
+# Type: MHC-I

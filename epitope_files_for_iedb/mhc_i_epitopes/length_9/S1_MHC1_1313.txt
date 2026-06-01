@@ -1,0 +1,5 @@
+>S1_MHC1_1313
+GCLIGAEHV
+# Position: 635-643
+# Length: 9 amino acids
+# Type: MHC-I

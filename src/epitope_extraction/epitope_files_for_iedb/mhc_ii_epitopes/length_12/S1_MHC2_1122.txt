@@ -1,0 +1,5 @@
+>S1_MHC2_1122
+DYSVLYNSASFS
+# Position: 364-375
+# Length: 12 amino acids
+# Type: MHC-II

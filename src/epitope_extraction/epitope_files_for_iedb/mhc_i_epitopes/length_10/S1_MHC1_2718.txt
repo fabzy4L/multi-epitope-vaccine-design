@@ -1,0 +1,5 @@
+>S1_MHC1_2718
+NFRVQPTESI
+# Position: 317-326
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1855
+LSFELLHAPA
+# Position: 500-509
+# Length: 10 amino acids
+# Type: MHC-I

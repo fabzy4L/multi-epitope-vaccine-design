@@ -1,0 +1,5 @@
+>S1_MHC1_2218
+YFKIYSKHTPI
+# Position: 187-197
+# Length: 11 amino acids
+# Type: MHC-I

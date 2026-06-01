@@ -1,0 +1,5 @@
+>S1_MHC1_0552
+LTESNKKF
+# Position: 552-559
+# Length: 8 amino acids
+# Type: MHC-I

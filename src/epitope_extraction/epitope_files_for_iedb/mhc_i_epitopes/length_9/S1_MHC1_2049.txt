@@ -1,0 +1,5 @@
+>S1_MHC1_2049
+DLICAQKFN
+# Position: 848-856
+# Length: 9 amino acids
+# Type: MHC-I

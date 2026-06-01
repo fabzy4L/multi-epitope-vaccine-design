@@ -1,0 +1,5 @@
+>S1_MHC1_0617
+CTEVPVAI
+# Position: 617-624
+# Length: 8 amino acids
+# Type: MHC-I

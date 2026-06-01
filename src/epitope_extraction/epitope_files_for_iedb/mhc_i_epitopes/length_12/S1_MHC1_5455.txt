@@ -1,0 +1,5 @@
+>S1_MHC1_5455
+NNSYECDIPIGA
+# Position: 657-668
+# Length: 12 amino acids
+# Type: MHC-I

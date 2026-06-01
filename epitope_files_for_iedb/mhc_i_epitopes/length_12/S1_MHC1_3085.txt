@@ -1,0 +1,5 @@
+>S1_MHC1_3085
+FTNVYADSFVIR
+# Position: 379-390
+# Length: 12 amino acids
+# Type: MHC-I

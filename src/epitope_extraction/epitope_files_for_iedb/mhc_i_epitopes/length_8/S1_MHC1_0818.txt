@@ -1,0 +1,5 @@
+>S1_MHC1_0818
+IEDLLFNK
+# Position: 818-825
+# Length: 8 amino acids
+# Type: MHC-I

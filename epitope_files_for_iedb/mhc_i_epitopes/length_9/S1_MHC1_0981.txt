@@ -1,0 +1,5 @@
+>S1_MHC1_0981
+SNFRVQPTE
+# Position: 303-311
+# Length: 9 amino acids
+# Type: MHC-I

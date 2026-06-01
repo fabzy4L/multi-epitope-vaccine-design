@@ -1,0 +1,5 @@
+>S1_MHC1_2403
+FVFLVLLPLV
+# Position: 2-11
+# Length: 10 amino acids
+# Type: MHC-I

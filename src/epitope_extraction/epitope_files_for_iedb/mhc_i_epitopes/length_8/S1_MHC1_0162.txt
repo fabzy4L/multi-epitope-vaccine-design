@@ -1,0 +1,5 @@
+>S1_MHC1_0162
+SANNCTFE
+# Position: 162-169
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2220
+RASANLAAT
+# Position: 1019-1027
+# Length: 9 amino acids
+# Type: MHC-I

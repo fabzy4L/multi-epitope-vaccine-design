@@ -1,0 +1,5 @@
+>S1_MHC1_5769
+GAISSVLNDILS
+# Position: 971-982
+# Length: 12 amino acids
+# Type: MHC-I

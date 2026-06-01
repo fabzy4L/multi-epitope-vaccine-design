@@ -1,0 +1,5 @@
+>S1_MHC1_2396
+ESLIDLQEL
+# Position: 1195-1203
+# Length: 9 amino acids
+# Type: MHC-I

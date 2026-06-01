@@ -1,0 +1,5 @@
+>S1_MHC1_4617
+EIRASANLAAT
+# Position: 1017-1027
+# Length: 11 amino acids
+# Type: MHC-I

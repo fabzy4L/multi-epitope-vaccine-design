@@ -1,0 +1,5 @@
+>S1_MHC1_2123
+LIANQFNSA
+# Position: 922-930
+# Length: 9 amino acids
+# Type: MHC-I

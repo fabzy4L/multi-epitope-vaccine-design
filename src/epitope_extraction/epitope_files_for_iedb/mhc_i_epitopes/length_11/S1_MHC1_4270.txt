@@ -1,0 +1,5 @@
+>S1_MHC1_4270
+ICASYQTQTNS
+# Position: 670-680
+# Length: 11 amino acids
+# Type: MHC-I

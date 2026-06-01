@@ -1,0 +1,5 @@
+>S1_MHC1_2393
+NLNESLIDL
+# Position: 1192-1200
+# Length: 9 amino acids
+# Type: MHC-I

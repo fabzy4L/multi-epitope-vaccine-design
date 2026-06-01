@@ -1,0 +1,5 @@
+>S1_MHC1_2728
+VRFPNITNLC
+# Position: 327-336
+# Length: 10 amino acids
+# Type: MHC-I

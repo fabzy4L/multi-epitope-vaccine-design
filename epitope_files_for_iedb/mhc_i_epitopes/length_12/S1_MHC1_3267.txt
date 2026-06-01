@@ -1,0 +1,5 @@
+>S1_MHC1_3267
+DAVRDPQTLEIL
+# Position: 561-572
+# Length: 12 amino acids
+# Type: MHC-I

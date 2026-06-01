@@ -1,0 +1,5 @@
+>S1_MHC1_1060
+VYADSFVIR
+# Position: 382-390
+# Length: 9 amino acids
+# Type: MHC-I

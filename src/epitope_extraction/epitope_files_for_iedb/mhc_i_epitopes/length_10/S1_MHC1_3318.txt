@@ -1,0 +1,5 @@
+>S1_MHC1_3318
+YENQKLIANQ
+# Position: 917-926
+# Length: 10 amino acids
+# Type: MHC-I

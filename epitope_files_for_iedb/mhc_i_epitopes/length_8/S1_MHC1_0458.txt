@@ -1,0 +1,5 @@
+>S1_MHC1_0458
+EIYQAGST
+# Position: 458-465
+# Length: 8 amino acids
+# Type: MHC-I

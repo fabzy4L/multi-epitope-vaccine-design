@@ -1,0 +1,5 @@
+>S1_MHC1_3774
+PFLMDLEGKQG
+# Position: 174-184
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0245
+WTAGAAAY
+# Position: 245-252
+# Length: 8 amino acids
+# Type: MHC-I

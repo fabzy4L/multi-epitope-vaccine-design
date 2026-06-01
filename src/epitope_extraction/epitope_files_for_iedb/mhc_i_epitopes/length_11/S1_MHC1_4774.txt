@@ -1,0 +1,5 @@
+>S1_MHC1_4774
+ASVVNIQKEID
+# Position: 1174-1184
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3617
+NLTTRTQLPPA
+# Position: 17-27
+# Length: 11 amino acids
+# Type: MHC-I

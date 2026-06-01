@@ -1,0 +1,5 @@
+>S1_MHC1_3545
+ELDSFKEELD
+# Position: 1144-1153
+# Length: 10 amino acids
+# Type: MHC-I

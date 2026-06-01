@@ -1,0 +1,5 @@
+>S1_MHC1_3216
+RSFIEDLLFN
+# Position: 815-824
+# Length: 10 amino acids
+# Type: MHC-I

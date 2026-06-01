@@ -1,0 +1,5 @@
+>S1_MHC1_3017
+NCTEVPVAIH
+# Position: 616-625
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1311
+IGKIQDSLSSTA
+# Position: 931-942
+# Length: 12 amino acids
+# Type: MHC-II

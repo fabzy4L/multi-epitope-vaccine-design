@@ -1,0 +1,5 @@
+>S1_MHC1_3824
+EPLVDLPIGIN
+# Position: 224-234
+# Length: 11 amino acids
+# Type: MHC-I

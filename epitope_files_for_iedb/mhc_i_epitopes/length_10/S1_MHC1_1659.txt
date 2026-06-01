@@ -1,0 +1,5 @@
+>S1_MHC1_1659
+NFRVQPTESI
+# Position: 304-313
+# Length: 10 amino acids
+# Type: MHC-I

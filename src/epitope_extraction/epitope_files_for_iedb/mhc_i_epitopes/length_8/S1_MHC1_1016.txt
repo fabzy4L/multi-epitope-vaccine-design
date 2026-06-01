@@ -1,0 +1,5 @@
+>S1_MHC1_1016
+AEIRASAN
+# Position: 1016-1023
+# Length: 8 amino acids
+# Type: MHC-I

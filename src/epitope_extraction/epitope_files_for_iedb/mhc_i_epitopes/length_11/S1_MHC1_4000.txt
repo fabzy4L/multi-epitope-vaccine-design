@@ -1,0 +1,5 @@
+>S1_MHC1_4000
+FVIRGDEVRQI
+# Position: 400-410
+# Length: 11 amino acids
+# Type: MHC-I

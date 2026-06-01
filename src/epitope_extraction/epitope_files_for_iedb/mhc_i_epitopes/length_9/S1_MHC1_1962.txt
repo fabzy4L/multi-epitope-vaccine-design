@@ -1,0 +1,5 @@
+>S1_MHC1_1962
+TQLNRALTG
+# Position: 761-769
+# Length: 9 amino acids
+# Type: MHC-I

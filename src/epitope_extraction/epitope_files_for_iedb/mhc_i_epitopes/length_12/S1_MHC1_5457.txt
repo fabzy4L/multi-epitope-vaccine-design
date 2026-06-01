@@ -1,0 +1,5 @@
+>S1_MHC1_5457
+SYECDIPIGAGI
+# Position: 659-670
+# Length: 12 amino acids
+# Type: MHC-I

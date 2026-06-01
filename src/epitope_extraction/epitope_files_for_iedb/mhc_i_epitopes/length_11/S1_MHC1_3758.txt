@@ -1,0 +1,5 @@
+>S1_MHC1_3758
+RFYSSANNCTF
+# Position: 158-168
+# Length: 11 amino acids
+# Type: MHC-I

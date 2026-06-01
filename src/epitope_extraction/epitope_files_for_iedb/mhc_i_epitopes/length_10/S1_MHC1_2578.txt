@@ -1,0 +1,5 @@
+>S1_MHC1_2578
+MDLEGKQGNF
+# Position: 177-186
+# Length: 10 amino acids
+# Type: MHC-I

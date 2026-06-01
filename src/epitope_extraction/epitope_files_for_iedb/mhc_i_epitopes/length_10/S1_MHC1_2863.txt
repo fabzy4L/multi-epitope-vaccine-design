@@ -1,0 +1,5 @@
+>S1_MHC1_2863
+KPFERDISTE
+# Position: 462-471
+# Length: 10 amino acids
+# Type: MHC-I

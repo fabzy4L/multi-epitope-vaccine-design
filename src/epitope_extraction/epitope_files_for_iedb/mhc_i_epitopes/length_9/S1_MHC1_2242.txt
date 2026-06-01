@@ -1,0 +1,5 @@
+>S1_MHC1_2242
+DFCGKGYHL
+# Position: 1041-1049
+# Length: 9 amino acids
+# Type: MHC-I

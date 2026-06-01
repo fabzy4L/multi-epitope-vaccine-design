@@ -1,0 +1,5 @@
+>S1_MHC1_0942
+LKYNENGTI
+# Position: 264-272
+# Length: 9 amino acids
+# Type: MHC-I

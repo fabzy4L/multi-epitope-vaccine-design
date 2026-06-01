@@ -1,0 +1,5 @@
+>S1_MHC1_1727
+GPKKSTNLV
+# Position: 526-534
+# Length: 9 amino acids
+# Type: MHC-I

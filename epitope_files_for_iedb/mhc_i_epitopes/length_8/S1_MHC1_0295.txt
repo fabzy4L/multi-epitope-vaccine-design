@@ -1,0 +1,5 @@
+>S1_MHC1_0295
+VEKGIYQT
+# Position: 295-302
+# Length: 8 amino acids
+# Type: MHC-I

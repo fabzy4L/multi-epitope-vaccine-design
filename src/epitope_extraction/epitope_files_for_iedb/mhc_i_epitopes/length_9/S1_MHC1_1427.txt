@@ -1,0 +1,5 @@
+>S1_MHC1_1427
+LVDLPIGIN
+# Position: 226-234
+# Length: 9 amino acids
+# Type: MHC-I

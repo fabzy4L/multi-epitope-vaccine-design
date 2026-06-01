@@ -1,0 +1,5 @@
+>S1_MHC1_1863
+PATVCGPKKS
+# Position: 508-517
+# Length: 10 amino acids
+# Type: MHC-I

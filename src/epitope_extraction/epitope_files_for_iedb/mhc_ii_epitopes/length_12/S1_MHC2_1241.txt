@@ -1,0 +1,5 @@
+>S1_MHC2_1241
+SVTTEILPVSMT
+# Position: 721-732
+# Length: 12 amino acids
+# Type: MHC-II

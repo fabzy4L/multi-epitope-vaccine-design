@@ -1,0 +1,5 @@
+>S1_MHC1_5443
+TRAGCLIGAEHV
+# Position: 645-656
+# Length: 12 amino acids
+# Type: MHC-I

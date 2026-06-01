@@ -1,0 +1,5 @@
+>S1_MHC1_2358
+EVFNATRFASV
+# Position: 327-337
+# Length: 11 amino acids
+# Type: MHC-I

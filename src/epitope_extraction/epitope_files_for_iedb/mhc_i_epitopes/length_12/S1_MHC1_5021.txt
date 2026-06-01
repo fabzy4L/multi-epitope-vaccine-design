@@ -1,0 +1,5 @@
+>S1_MHC1_5021
+LEPLVDLPIGIN
+# Position: 223-234
+# Length: 12 amino acids
+# Type: MHC-I

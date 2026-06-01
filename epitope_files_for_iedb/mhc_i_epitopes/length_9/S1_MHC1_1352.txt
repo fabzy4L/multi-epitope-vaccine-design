@@ -1,0 +1,5 @@
+>S1_MHC1_1352
+VASQSIIAY
+# Position: 674-682
+# Length: 9 amino acids
+# Type: MHC-I

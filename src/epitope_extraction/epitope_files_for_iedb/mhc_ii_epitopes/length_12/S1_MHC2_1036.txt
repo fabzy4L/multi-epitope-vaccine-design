@@ -1,0 +1,5 @@
+>S1_MHC2_1036
+FGTTLDSKTQSL
+# Position: 106-117
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_2677
+LLKYNENGTI
+# Position: 276-285
+# Length: 10 amino acids
+# Type: MHC-I

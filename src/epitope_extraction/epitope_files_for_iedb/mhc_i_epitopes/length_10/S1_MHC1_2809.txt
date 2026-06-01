@@ -1,0 +1,5 @@
+>S1_MHC1_2809
+RQIAPGQTGK
+# Position: 408-417
+# Length: 10 amino acids
+# Type: MHC-I

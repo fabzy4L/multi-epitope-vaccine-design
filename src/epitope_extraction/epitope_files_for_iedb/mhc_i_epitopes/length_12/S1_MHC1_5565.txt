@@ -1,0 +1,5 @@
+>S1_MHC1_5565
+LTGIAVEQDKNT
+# Position: 767-778
+# Length: 12 amino acids
+# Type: MHC-I

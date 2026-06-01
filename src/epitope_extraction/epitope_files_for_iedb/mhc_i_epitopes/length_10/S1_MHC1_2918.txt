@@ -1,0 +1,5 @@
+>S1_MHC1_2918
+LLHAPATVCG
+# Position: 517-526
+# Length: 10 amino acids
+# Type: MHC-I

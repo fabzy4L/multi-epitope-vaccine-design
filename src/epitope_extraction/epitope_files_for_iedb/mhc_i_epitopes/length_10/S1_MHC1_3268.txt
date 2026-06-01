@@ -1,0 +1,5 @@
+>S1_MHC1_3268
+DEMIAQYTSA
+# Position: 867-876
+# Length: 10 amino acids
+# Type: MHC-I

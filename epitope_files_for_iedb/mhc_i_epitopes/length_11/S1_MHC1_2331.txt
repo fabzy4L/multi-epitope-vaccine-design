@@ -1,0 +1,5 @@
+>S1_MHC1_2331
+YQTSNFRVQPT
+# Position: 300-310
+# Length: 11 amino acids
+# Type: MHC-I

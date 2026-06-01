@@ -1,0 +1,5 @@
+>S1_MHC1_2715
+TQLPPAYTNSFT
+# Position: 9-20
+# Length: 12 amino acids
+# Type: MHC-I

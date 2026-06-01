@@ -1,0 +1,5 @@
+>S1_MHC1_0437
+NSNNLDSK
+# Position: 437-444
+# Length: 8 amino acids
+# Type: MHC-I

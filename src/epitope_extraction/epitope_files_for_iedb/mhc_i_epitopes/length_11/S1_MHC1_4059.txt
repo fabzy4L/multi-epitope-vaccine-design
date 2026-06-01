@@ -1,0 +1,5 @@
+>S1_MHC1_4059
+SNLKPFERDIS
+# Position: 459-469
+# Length: 11 amino acids
+# Type: MHC-I

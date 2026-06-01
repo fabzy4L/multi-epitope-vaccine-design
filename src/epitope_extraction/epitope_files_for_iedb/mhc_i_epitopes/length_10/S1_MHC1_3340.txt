@@ -1,0 +1,5 @@
+>S1_MHC1_3340
+SSTASALGKL
+# Position: 939-948
+# Length: 10 amino acids
+# Type: MHC-I

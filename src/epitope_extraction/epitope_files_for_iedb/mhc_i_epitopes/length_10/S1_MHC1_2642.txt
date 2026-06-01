@@ -1,0 +1,5 @@
+>S1_MHC1_2642
+LLALHRSYLT
+# Position: 241-250
+# Length: 10 amino acids
+# Type: MHC-I

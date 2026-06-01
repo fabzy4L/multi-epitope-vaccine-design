@@ -1,0 +1,5 @@
+>S1_MHC1_3016
+VNCTEVPVAI
+# Position: 615-624
+# Length: 10 amino acids
+# Type: MHC-I

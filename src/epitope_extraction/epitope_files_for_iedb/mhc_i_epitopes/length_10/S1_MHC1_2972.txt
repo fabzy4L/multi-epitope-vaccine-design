@@ -1,0 +1,5 @@
+>S1_MHC1_2972
+DTTDAVRDPQ
+# Position: 571-580
+# Length: 10 amino acids
+# Type: MHC-I

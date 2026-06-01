@@ -1,0 +1,5 @@
+>S1_MHC1_3211
+SKPSKRSFIE
+# Position: 810-819
+# Length: 10 amino acids
+# Type: MHC-I

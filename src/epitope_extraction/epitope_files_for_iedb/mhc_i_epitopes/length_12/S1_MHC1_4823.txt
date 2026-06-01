@@ -1,0 +1,5 @@
+>S1_MHC1_4823
+PPAYTNSFTRGV
+# Position: 25-36
+# Length: 12 amino acids
+# Type: MHC-I

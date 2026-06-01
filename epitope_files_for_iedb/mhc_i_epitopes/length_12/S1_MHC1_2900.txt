@@ -1,0 +1,5 @@
+>S1_MHC1_2900
+HTPINLVRDLPQ
+# Position: 194-205
+# Length: 12 amino acids
+# Type: MHC-I

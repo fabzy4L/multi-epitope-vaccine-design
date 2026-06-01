@@ -1,0 +1,5 @@
+>S1_MHC1_1016
+YAWNRKRIS
+# Position: 338-346
+# Length: 9 amino acids
+# Type: MHC-I

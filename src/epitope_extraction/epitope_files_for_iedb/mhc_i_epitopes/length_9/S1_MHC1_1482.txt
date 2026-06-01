@@ -1,0 +1,5 @@
+>S1_MHC1_1482
+ENGTITDAV
+# Position: 281-289
+# Length: 9 amino acids
+# Type: MHC-I

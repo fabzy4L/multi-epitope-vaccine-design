@@ -1,0 +1,5 @@
+>S1_MHC1_1425
+EPLVDLPIG
+# Position: 224-232
+# Length: 9 amino acids
+# Type: MHC-I

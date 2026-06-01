@@ -1,0 +1,5 @@
+>S1_MHC1_5694
+IPFAMQMAYRFN
+# Position: 896-907
+# Length: 12 amino acids
+# Type: MHC-I

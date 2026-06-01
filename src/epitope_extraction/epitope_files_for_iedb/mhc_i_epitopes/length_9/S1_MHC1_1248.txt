@@ -1,0 +1,5 @@
+>S1_MHC1_1248
+VLHSTQDLF
+# Position: 47-55
+# Length: 9 amino acids
+# Type: MHC-I

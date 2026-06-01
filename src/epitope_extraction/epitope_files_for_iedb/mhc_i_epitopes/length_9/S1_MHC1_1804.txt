@@ -1,0 +1,5 @@
+>S1_MHC1_1804
+NTSNQVAVL
+# Position: 603-611
+# Length: 9 amino acids
+# Type: MHC-I

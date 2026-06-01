@@ -1,0 +1,5 @@
+>S1_MHC1_1964
+LNRALTGIA
+# Position: 763-771
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0678
+TNSPRRAR
+# Position: 678-685
+# Length: 8 amino acids
+# Type: MHC-I

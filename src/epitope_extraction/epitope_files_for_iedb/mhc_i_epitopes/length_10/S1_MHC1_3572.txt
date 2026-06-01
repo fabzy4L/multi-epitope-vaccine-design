@@ -1,0 +1,5 @@
+>S1_MHC1_3572
+GINASVVNIQ
+# Position: 1171-1180
+# Length: 10 amino acids
+# Type: MHC-I

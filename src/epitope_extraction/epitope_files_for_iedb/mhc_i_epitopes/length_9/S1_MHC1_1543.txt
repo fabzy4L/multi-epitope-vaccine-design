@@ -1,0 +1,5 @@
+>S1_MHC1_1543
+FNATRFASV
+# Position: 342-350
+# Length: 9 amino acids
+# Type: MHC-I

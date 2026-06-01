@@ -1,0 +1,5 @@
+>S1_MHC1_1618
+LLKYNENGTI
+# Position: 263-272
+# Length: 10 amino acids
+# Type: MHC-I

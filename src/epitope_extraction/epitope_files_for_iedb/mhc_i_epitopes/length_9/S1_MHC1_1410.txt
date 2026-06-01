@@ -1,0 +1,5 @@
+>S1_MHC1_1410
+PINLVRDLP
+# Position: 209-217
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3597
+SLIDLQELGK
+# Position: 1196-1205
+# Length: 10 amino acids
+# Type: MHC-I

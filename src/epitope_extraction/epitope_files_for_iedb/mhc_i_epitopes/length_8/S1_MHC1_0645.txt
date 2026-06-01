@@ -1,0 +1,5 @@
+>S1_MHC1_0645
+TRAGCLIG
+# Position: 645-652
+# Length: 8 amino acids
+# Type: MHC-I

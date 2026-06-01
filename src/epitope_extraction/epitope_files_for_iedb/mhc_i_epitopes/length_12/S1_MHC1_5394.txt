@@ -1,0 +1,5 @@
+>S1_MHC1_5394
+SVITPGTNTSNQ
+# Position: 596-607
+# Length: 12 amino acids
+# Type: MHC-I

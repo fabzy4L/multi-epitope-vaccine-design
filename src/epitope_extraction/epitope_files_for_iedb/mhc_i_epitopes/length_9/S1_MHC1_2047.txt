@@ -1,0 +1,5 @@
+>S1_MHC1_2047
+ARDLICAQK
+# Position: 846-854
+# Length: 9 amino acids
+# Type: MHC-I

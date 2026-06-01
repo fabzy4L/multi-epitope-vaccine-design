@@ -1,0 +1,5 @@
+>S1_MHC2_1257
+GIAVEQDKNTQE
+# Position: 769-780
+# Length: 12 amino acids
+# Type: MHC-II

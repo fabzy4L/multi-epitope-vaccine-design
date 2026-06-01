@@ -1,0 +1,5 @@
+>S1_MHC1_2725
+ESIVRFPNIT
+# Position: 324-333
+# Length: 10 amino acids
+# Type: MHC-I

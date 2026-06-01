@@ -1,0 +1,5 @@
+>S1_MHC1_4830
+FTRGVYYPDKVF
+# Position: 32-43
+# Length: 12 amino acids
+# Type: MHC-I

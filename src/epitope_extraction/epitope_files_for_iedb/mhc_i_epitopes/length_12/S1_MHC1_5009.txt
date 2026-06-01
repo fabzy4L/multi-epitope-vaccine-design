@@ -1,0 +1,5 @@
+>S1_MHC1_5009
+NLVRDLPQGFSA
+# Position: 211-222
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4738
+YDPLQPELDSF
+# Position: 1138-1148
+# Length: 11 amino acids
+# Type: MHC-I

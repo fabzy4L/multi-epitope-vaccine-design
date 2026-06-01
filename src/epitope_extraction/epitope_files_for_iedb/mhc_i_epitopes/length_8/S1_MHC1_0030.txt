@@ -1,0 +1,5 @@
+>S1_MHC1_0030
+NSFTRGVY
+# Position: 30-37
+# Length: 8 amino acids
+# Type: MHC-I

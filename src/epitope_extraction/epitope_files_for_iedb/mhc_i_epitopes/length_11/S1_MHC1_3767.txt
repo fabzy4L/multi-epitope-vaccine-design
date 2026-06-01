@@ -1,0 +1,5 @@
+>S1_MHC1_3767
+TFEYVSQPFLM
+# Position: 167-177
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1626
+NSPRRARSVASQSII
+# Position: 679-693
+# Length: 15 amino acids
+# Type: MHC-II

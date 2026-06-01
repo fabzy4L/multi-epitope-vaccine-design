@@ -1,0 +1,5 @@
+>S1_MHC2_1071
+EPLVDLPIGINI
+# Position: 211-222
+# Length: 12 amino acids
+# Type: MHC-II

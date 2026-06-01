@@ -1,0 +1,5 @@
+>S1_MHC1_3082
+DLCFTNVYADSF
+# Position: 376-387
+# Length: 12 amino acids
+# Type: MHC-I

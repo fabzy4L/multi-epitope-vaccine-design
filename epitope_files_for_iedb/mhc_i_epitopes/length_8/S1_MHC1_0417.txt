@@ -1,0 +1,5 @@
+>S1_MHC1_0417
+TGCVIAWN
+# Position: 417-424
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0720
+ISVTTEIL
+# Position: 720-727
+# Length: 8 amino acids
+# Type: MHC-I

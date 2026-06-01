@@ -1,0 +1,5 @@
+>S1_MHC1_1285
+VPVAIHADQ
+# Position: 607-615
+# Length: 9 amino acids
+# Type: MHC-I

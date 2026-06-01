@@ -1,0 +1,5 @@
+>S1_MHC2_1061
+GKQGNFKNLREF
+# Position: 181-192
+# Length: 12 amino acids
+# Type: MHC-II

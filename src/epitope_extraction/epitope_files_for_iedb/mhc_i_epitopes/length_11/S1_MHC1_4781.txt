@@ -1,0 +1,5 @@
+>S1_MHC1_4781
+KEIDRLNEVAK
+# Position: 1181-1191
+# Length: 11 amino acids
+# Type: MHC-I

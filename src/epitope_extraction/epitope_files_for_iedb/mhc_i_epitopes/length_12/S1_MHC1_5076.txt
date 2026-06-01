@@ -1,0 +1,5 @@
+>S1_MHC1_5076
+KYNENGTITDAV
+# Position: 278-289
+# Length: 12 amino acids
+# Type: MHC-I

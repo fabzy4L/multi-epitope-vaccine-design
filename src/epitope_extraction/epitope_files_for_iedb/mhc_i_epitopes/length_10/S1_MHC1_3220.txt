@@ -1,0 +1,5 @@
+>S1_MHC1_3220
+EDLLFNKVTL
+# Position: 819-828
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3916
+SNFRVQPTESI
+# Position: 316-326
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0811
+KPSKRSFI
+# Position: 811-818
+# Length: 8 amino acids
+# Type: MHC-I

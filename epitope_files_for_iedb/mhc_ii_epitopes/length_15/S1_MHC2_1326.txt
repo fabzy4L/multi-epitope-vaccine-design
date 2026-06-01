@@ -1,0 +1,5 @@
+>S1_MHC2_1326
+QTSNFRVQPTESIVR
+# Position: 301-315
+# Length: 15 amino acids
+# Type: MHC-II

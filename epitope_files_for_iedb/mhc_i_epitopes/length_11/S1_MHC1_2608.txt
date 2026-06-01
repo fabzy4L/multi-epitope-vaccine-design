@@ -1,0 +1,5 @@
+>S1_MHC1_2608
+CSFGGVSVITP
+# Position: 577-587
+# Length: 11 amino acids
+# Type: MHC-I

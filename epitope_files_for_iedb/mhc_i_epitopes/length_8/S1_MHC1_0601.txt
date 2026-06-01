@@ -1,0 +1,5 @@
+>S1_MHC1_0601
+DVNCTEVP
+# Position: 601-608
+# Length: 8 amino acids
+# Type: MHC-I

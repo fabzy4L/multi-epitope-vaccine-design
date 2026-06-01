@@ -1,0 +1,5 @@
+>S1_MHC1_2499
+SNIIRGWIFG
+# Position: 98-107
+# Length: 10 amino acids
+# Type: MHC-I

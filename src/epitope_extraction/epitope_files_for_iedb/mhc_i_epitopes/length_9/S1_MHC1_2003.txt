@@ -1,0 +1,5 @@
+>S1_MHC1_2003
+FSQILPDPS
+# Position: 802-810
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0448
+LKPFERDI
+# Position: 448-455
+# Length: 8 amino acids
+# Type: MHC-I

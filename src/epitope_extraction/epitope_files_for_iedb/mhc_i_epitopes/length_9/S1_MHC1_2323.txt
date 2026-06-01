@@ -1,0 +1,5 @@
+>S1_MHC1_2323
+VSGNCDVVI
+# Position: 1122-1130
+# Length: 9 amino acids
+# Type: MHC-I

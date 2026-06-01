@@ -1,0 +1,5 @@
+>S1_MHC1_3099
+SLGAENSVAY
+# Position: 698-707
+# Length: 10 amino acids
+# Type: MHC-I

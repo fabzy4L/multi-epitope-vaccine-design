@@ -1,0 +1,5 @@
+>S1_MHC1_1853
+VVLSFELLHA
+# Position: 498-507
+# Length: 10 amino acids
+# Type: MHC-I

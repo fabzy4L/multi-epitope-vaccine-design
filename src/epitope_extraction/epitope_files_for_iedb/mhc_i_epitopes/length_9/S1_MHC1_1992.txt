@@ -1,0 +1,5 @@
+>S1_MHC1_1992
+TPPIKDFGG
+# Position: 791-799
+# Length: 9 amino acids
+# Type: MHC-I

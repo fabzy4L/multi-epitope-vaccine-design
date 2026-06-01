@@ -1,0 +1,5 @@
+>S1_MHC1_4920
+NATNVVIKVCEF
+# Position: 122-133
+# Length: 12 amino acids
+# Type: MHC-I

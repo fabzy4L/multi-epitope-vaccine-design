@@ -1,0 +1,5 @@
+>S1_MHC1_0826
+VTLADAGF
+# Position: 826-833
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2235
+NNATNVVIKVCEFQFCNDPF
+# Position: 121-140
+# Length: 20 amino acids
+# Type: MHC-II

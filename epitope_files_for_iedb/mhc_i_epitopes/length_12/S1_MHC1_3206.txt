@@ -1,0 +1,5 @@
+>S1_MHC1_3206
+LSFELLHAPATV
+# Position: 500-511
+# Length: 12 amino acids
+# Type: MHC-I

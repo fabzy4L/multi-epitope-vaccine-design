@@ -1,0 +1,5 @@
+>S1_MHC1_3125
+TEILPVSMTK
+# Position: 724-733
+# Length: 10 amino acids
+# Type: MHC-I

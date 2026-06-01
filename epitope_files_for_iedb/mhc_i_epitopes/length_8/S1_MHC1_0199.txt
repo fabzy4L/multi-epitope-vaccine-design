@@ -1,0 +1,5 @@
+>S1_MHC1_0199
+LVRDLPQG
+# Position: 199-206
+# Length: 8 amino acids
+# Type: MHC-I

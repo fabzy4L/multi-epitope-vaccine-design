@@ -1,0 +1,5 @@
+>S1_MHC1_0915
+TPGDSSSGW
+# Position: 237-245
+# Length: 9 amino acids
+# Type: MHC-I

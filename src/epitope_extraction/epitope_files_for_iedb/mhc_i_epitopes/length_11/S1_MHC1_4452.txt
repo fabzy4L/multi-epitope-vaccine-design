@@ -1,0 +1,5 @@
+>S1_MHC1_4452
+AQKFNGLTVLP
+# Position: 852-862
+# Length: 11 amino acids
+# Type: MHC-I

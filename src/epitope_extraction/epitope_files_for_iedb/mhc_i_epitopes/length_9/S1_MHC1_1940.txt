@@ -1,0 +1,5 @@
+>S1_MHC1_1940
+TMYICGDST
+# Position: 739-747
+# Length: 9 amino acids
+# Type: MHC-I

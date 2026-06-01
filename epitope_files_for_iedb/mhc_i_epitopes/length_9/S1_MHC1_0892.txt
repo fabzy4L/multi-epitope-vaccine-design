@@ -1,0 +1,5 @@
+>S1_MHC1_0892
+VDLPIGINI
+# Position: 214-222
+# Length: 9 amino acids
+# Type: MHC-I

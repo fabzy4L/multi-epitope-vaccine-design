@@ -1,0 +1,5 @@
+>S1_MHC1_3088
+VASQSIIAYT
+# Position: 687-696
+# Length: 10 amino acids
+# Type: MHC-I

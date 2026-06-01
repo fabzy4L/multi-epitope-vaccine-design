@@ -1,0 +1,5 @@
+>S1_MHC1_2982
+TLEILDITPC
+# Position: 581-590
+# Length: 10 amino acids
+# Type: MHC-I

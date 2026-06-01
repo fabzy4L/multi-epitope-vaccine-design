@@ -1,0 +1,5 @@
+>S1_MHC1_0827
+TLADAGFI
+# Position: 827-834
+# Length: 8 amino acids
+# Type: MHC-I

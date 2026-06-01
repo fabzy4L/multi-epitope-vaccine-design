@@ -1,0 +1,5 @@
+>S1_MHC1_1373
+SFTRGVYYPD
+# Position: 18-27
+# Length: 10 amino acids
+# Type: MHC-I

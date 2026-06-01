@@ -1,0 +1,5 @@
+>S1_MHC1_5254
+FRKSNLKPFERD
+# Position: 456-467
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5663
+LTDEMIAQYTSA
+# Position: 865-876
+# Length: 12 amino acids
+# Type: MHC-I

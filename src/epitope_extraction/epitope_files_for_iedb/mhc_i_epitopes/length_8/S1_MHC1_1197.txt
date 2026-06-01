@@ -1,0 +1,5 @@
+>S1_MHC1_1197
+LIDLQELG
+# Position: 1197-1204
+# Length: 8 amino acids
+# Type: MHC-I

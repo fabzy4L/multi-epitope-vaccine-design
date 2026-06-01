@@ -1,0 +1,5 @@
+>S1_MHC1_0648
+GCLIGAEH
+# Position: 648-655
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3629
+TNSFTRGVYYP
+# Position: 29-39
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2371
+WNRKRISNCVA
+# Position: 340-350
+# Length: 11 amino acids
+# Type: MHC-I

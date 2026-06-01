@@ -1,0 +1,5 @@
+>S1_MHC1_2185
+LDKVEAEVQ
+# Position: 984-992
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2180
+DILSRLDKV
+# Position: 979-987
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1663
+KPFERDIST
+# Position: 462-470
+# Length: 9 amino acids
+# Type: MHC-I

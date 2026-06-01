@@ -1,0 +1,5 @@
+>S1_MHC1_4413
+SKRSFIEDLLF
+# Position: 813-823
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0807
+PDPSKPSK
+# Position: 807-814
+# Length: 8 amino acids
+# Type: MHC-I

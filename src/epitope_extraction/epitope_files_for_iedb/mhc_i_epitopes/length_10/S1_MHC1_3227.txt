@@ -1,0 +1,5 @@
+>S1_MHC1_3227
+VTLADAGFIK
+# Position: 826-835
+# Length: 10 amino acids
+# Type: MHC-I

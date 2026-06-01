@@ -1,0 +1,5 @@
+>S1_MHC1_1587
+KLNDLCFTN
+# Position: 386-394
+# Length: 9 amino acids
+# Type: MHC-I

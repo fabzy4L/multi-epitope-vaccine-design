@@ -1,0 +1,5 @@
+>S1_MHC1_2668
+LIGAEHVNNSY
+# Position: 637-647
+# Length: 11 amino acids
+# Type: MHC-I

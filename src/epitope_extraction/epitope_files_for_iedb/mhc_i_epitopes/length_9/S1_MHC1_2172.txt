@@ -1,0 +1,5 @@
+>S1_MHC1_2172
+GAISSVLND
+# Position: 971-979
+# Length: 9 amino acids
+# Type: MHC-I

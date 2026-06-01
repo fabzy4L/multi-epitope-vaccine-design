@@ -1,0 +1,5 @@
+>S1_MHC1_2090
+GAGAALQIP
+# Position: 889-897
+# Length: 9 amino acids
+# Type: MHC-I

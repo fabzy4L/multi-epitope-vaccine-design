@@ -1,0 +1,5 @@
+>S1_MHC2_1023
+DNPVLPFNDGVY
+# Position: 67-78
+# Length: 12 amino acids
+# Type: MHC-II

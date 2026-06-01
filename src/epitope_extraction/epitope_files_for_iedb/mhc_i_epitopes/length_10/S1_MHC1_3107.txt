@@ -1,0 +1,5 @@
+>S1_MHC1_3107
+AYSNNSIAIP
+# Position: 706-715
+# Length: 10 amino acids
+# Type: MHC-I

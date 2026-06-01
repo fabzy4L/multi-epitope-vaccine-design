@@ -1,0 +1,5 @@
+>S1_MHC1_0986
+KVEAEVQI
+# Position: 986-993
+# Length: 8 amino acids
+# Type: MHC-I

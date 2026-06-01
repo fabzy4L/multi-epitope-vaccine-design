@@ -1,0 +1,5 @@
+>S1_MHC2_1558
+AGSTPCNGVEGFNCY
+# Position: 475-489
+# Length: 15 amino acids
+# Type: MHC-II

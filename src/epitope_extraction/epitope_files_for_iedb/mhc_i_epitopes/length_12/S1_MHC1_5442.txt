@@ -1,0 +1,5 @@
+>S1_MHC1_5442
+QTRAGCLIGAEH
+# Position: 644-655
+# Length: 12 amino acids
+# Type: MHC-I

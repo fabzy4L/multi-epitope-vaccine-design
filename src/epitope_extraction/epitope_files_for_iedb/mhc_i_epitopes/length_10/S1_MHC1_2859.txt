@@ -1,0 +1,5 @@
+>S1_MHC1_2859
+KSNLKPFERD
+# Position: 458-467
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5048
+TPGDSSSGWTAG
+# Position: 250-261
+# Length: 12 amino acids
+# Type: MHC-I

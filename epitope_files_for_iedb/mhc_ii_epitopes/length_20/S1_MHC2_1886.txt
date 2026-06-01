@@ -1,0 +1,5 @@
+>S1_MHC2_1886
+AEHVNNSYECDIPIGAGICA
+# Position: 640-659
+# Length: 20 amino acids
+# Type: MHC-II

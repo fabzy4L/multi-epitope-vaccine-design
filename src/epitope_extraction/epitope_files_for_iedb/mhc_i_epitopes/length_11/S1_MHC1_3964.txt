@@ -1,0 +1,5 @@
+>S1_MHC1_3964
+DYSVLYNSASF
+# Position: 364-374
+# Length: 11 amino acids
+# Type: MHC-I

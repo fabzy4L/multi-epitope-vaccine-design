@@ -1,0 +1,5 @@
+>S1_MHC1_5158
+NCVADYSVLYNS
+# Position: 360-371
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4608
+VTQQLIRAAEI
+# Position: 1008-1018
+# Length: 11 amino acids
+# Type: MHC-I

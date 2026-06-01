@@ -1,0 +1,5 @@
+>S1_MHC1_3256
+FNGLTVLPPL
+# Position: 855-864
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2773
+ASFSTFKCYG
+# Position: 372-381
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1449
+YLTPGDSSS
+# Position: 248-256
+# Length: 9 amino acids
+# Type: MHC-I

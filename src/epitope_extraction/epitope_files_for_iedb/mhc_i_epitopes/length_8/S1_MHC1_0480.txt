@@ -1,0 +1,5 @@
+>S1_MHC1_0480
+CNGVEGFN
+# Position: 480-487
+# Length: 8 amino acids
+# Type: MHC-I

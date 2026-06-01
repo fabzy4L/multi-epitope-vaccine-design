@@ -1,0 +1,5 @@
+>S1_MHC1_0730
+FHAIHVSGT
+# Position: 52-60
+# Length: 9 amino acids
+# Type: MHC-I

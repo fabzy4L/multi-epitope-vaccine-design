@@ -1,0 +1,5 @@
+>S1_MHC2_1134
+FVIRGDEVRQIA
+# Position: 400-411
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_1625
+KLPDDFTGC
+# Position: 424-432
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0085
+SNIIRGWI
+# Position: 85-92
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1079
+QTGKIADYN
+# Position: 401-409
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4188
+TPCSFGGVSVI
+# Position: 588-598
+# Length: 11 amino acids
+# Type: MHC-I

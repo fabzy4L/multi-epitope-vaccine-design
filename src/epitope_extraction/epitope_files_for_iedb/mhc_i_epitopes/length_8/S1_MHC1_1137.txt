@@ -1,0 +1,5 @@
+>S1_MHC1_1137
+VYDPLQPE
+# Position: 1137-1144
+# Length: 8 amino acids
+# Type: MHC-I

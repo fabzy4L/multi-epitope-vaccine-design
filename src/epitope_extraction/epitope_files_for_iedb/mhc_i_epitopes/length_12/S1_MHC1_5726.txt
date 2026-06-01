@@ -1,0 +1,5 @@
+>S1_MHC1_5726
+NSAIGKIQDSLS
+# Position: 928-939
+# Length: 12 amino acids
+# Type: MHC-I

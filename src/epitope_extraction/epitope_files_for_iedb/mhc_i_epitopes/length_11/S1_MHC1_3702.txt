@@ -1,0 +1,5 @@
+>S1_MHC1_3702
+RGWIFGTTLDS
+# Position: 102-112
+# Length: 11 amino acids
+# Type: MHC-I

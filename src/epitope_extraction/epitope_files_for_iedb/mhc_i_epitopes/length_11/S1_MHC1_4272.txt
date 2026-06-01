@@ -1,0 +1,5 @@
+>S1_MHC1_4272
+ASYQTQTNSPR
+# Position: 672-682
+# Length: 11 amino acids
+# Type: MHC-I

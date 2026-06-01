@@ -1,0 +1,5 @@
+>S1_MHC1_5719
+KLIANQFNSAIG
+# Position: 921-932
+# Length: 12 amino acids
+# Type: MHC-I

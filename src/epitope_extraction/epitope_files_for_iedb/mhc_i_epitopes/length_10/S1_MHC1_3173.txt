@@ -1,0 +1,5 @@
+>S1_MHC1_3173
+VEQDKNTQEV
+# Position: 772-781
+# Length: 10 amino acids
+# Type: MHC-I

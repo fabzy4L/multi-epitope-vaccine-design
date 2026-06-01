@@ -1,0 +1,5 @@
+>S1_MHC1_0873
+YTSALLAG
+# Position: 873-880
+# Length: 8 amino acids
+# Type: MHC-I

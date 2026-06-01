@@ -1,0 +1,5 @@
+>S1_MHC1_3602
+FVFLVLLPLVS
+# Position: 2-12
+# Length: 11 amino acids
+# Type: MHC-I

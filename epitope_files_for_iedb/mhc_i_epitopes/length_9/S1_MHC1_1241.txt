@@ -1,0 +1,5 @@
+>S1_MHC1_1241
+VRDPQTLEI
+# Position: 563-571
+# Length: 9 amino acids
+# Type: MHC-I

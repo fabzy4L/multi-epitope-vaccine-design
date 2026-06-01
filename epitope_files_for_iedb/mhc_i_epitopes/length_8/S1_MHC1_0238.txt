@@ -1,0 +1,5 @@
+>S1_MHC1_0238
+PGDSSSGW
+# Position: 238-245
+# Length: 8 amino acids
+# Type: MHC-I

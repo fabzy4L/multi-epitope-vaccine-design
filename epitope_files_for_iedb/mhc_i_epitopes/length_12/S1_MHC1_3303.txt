@@ -1,0 +1,5 @@
+>S1_MHC1_3303
+VLYQDVNCTEVP
+# Position: 597-608
+# Length: 12 amino acids
+# Type: MHC-I

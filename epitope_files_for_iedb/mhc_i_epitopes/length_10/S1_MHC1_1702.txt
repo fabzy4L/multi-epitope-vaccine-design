@@ -1,0 +1,5 @@
+>S1_MHC1_1702
+NCVADYSVLY
+# Position: 347-356
+# Length: 10 amino acids
+# Type: MHC-I

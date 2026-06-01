@@ -1,0 +1,5 @@
+>S1_MHC1_1611
+YLQPRTFLLK
+# Position: 256-265
+# Length: 10 amino acids
+# Type: MHC-I

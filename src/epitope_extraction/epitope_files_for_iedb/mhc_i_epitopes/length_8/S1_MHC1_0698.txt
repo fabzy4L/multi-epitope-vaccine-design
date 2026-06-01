@@ -1,0 +1,5 @@
+>S1_MHC1_0698
+SLGAENSV
+# Position: 698-705
+# Length: 8 amino acids
+# Type: MHC-I

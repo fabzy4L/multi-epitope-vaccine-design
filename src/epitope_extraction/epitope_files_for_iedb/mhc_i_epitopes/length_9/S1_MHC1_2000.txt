@@ -1,0 +1,5 @@
+>S1_MHC1_2000
+GFNFSQILP
+# Position: 799-807
+# Length: 9 amino acids
+# Type: MHC-I

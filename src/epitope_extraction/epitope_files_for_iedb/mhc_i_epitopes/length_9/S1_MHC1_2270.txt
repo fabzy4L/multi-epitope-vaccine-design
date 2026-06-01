@@ -1,0 +1,5 @@
+>S1_MHC1_2270
+PAQEKNFTT
+# Position: 1069-1077
+# Length: 9 amino acids
+# Type: MHC-I

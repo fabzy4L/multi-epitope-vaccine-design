@@ -1,0 +1,5 @@
+>S1_MHC1_4580
+ILSRLDKVEAE
+# Position: 980-990
+# Length: 11 amino acids
+# Type: MHC-I

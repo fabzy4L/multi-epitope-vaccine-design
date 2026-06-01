@@ -1,0 +1,5 @@
+>S1_MHC1_3333
+GKIQDSLSST
+# Position: 932-941
+# Length: 10 amino acids
+# Type: MHC-I

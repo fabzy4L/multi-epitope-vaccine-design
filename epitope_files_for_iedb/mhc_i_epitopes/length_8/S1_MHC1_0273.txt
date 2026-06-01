@@ -1,0 +1,5 @@
+>S1_MHC1_0273
+TDAVDCAL
+# Position: 273-280
+# Length: 8 amino acids
+# Type: MHC-I

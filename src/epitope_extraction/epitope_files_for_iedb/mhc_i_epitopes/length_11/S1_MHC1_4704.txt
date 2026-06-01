@@ -1,0 +1,5 @@
+>S1_MHC1_4704
+VTQRNFYEPQI
+# Position: 1104-1114
+# Length: 11 amino acids
+# Type: MHC-I

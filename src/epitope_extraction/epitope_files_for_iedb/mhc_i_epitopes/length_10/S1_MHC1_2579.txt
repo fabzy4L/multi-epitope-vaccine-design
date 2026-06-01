@@ -1,0 +1,5 @@
+>S1_MHC1_2579
+DLEGKQGNFK
+# Position: 178-187
+# Length: 10 amino acids
+# Type: MHC-I

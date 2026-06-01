@@ -1,0 +1,5 @@
+>S1_MHC1_4104
+GYQPYRVVVLS
+# Position: 504-514
+# Length: 11 amino acids
+# Type: MHC-I

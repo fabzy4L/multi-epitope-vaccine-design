@@ -1,0 +1,5 @@
+>S1_MHC1_3548
+SFKEELDKYF
+# Position: 1147-1156
+# Length: 10 amino acids
+# Type: MHC-I

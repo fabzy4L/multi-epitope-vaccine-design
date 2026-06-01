@@ -1,0 +1,5 @@
+>S1_MHC1_2010
+PSKPSKRSF
+# Position: 809-817
+# Length: 9 amino acids
+# Type: MHC-I

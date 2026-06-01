@@ -1,0 +1,5 @@
+>S1_MHC1_0762
+KSNIIRGWI
+# Position: 84-92
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0857
+GLTVLPPL
+# Position: 857-864
+# Length: 8 amino acids
+# Type: MHC-I

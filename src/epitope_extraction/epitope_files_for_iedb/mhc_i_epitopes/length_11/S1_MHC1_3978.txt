@@ -1,0 +1,5 @@
+>S1_MHC1_3978
+KCYGVSPTKLN
+# Position: 378-388
+# Length: 11 amino acids
+# Type: MHC-I

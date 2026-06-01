@@ -1,0 +1,5 @@
+>S1_MHC1_2688
+DAVDCALDPL
+# Position: 287-296
+# Length: 10 amino acids
+# Type: MHC-I

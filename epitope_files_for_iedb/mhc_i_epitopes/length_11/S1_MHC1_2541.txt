@@ -1,0 +1,5 @@
+>S1_MHC1_2541
+TVCGPKKSTNL
+# Position: 510-520
+# Length: 11 amino acids
+# Type: MHC-I

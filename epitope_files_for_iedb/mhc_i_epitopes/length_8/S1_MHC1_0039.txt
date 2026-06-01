@@ -1,0 +1,5 @@
+>S1_MHC1_0039
+QDLFLPFF
+# Position: 39-46
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4700
+THWFVTQRNFY
+# Position: 1100-1110
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1743
+VIRGDEVRQI
+# Position: 388-397
+# Length: 10 amino acids
+# Type: MHC-I

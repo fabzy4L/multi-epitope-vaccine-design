@@ -1,0 +1,5 @@
+>S1_MHC1_4303
+NSVAYSNNSIA
+# Position: 703-713
+# Length: 11 amino acids
+# Type: MHC-I

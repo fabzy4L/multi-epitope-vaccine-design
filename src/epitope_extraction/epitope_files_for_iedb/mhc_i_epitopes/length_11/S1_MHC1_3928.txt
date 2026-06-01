@@ -1,0 +1,5 @@
+>S1_MHC1_3928
+RFPNITNLCPF
+# Position: 328-338
+# Length: 11 amino acids
+# Type: MHC-I

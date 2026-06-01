@@ -1,0 +1,5 @@
+>S1_MHC1_4763
+DVDLGDISGIN
+# Position: 1163-1173
+# Length: 11 amino acids
+# Type: MHC-I

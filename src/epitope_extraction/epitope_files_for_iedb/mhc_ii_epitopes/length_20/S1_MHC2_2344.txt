@@ -1,0 +1,5 @@
+>S1_MHC2_2344
+NYNYLYRLFRKSNLKPFERD
+# Position: 448-467
+# Length: 20 amino acids
+# Type: MHC-II

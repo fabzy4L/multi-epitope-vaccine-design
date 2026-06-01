@@ -1,0 +1,5 @@
+>S1_MHC1_1926
+EILPVSMTK
+# Position: 725-733
+# Length: 9 amino acids
+# Type: MHC-I

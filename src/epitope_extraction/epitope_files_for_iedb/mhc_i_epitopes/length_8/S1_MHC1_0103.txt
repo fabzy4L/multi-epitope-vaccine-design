@@ -1,0 +1,5 @@
+>S1_MHC1_0103
+GWIFGTTL
+# Position: 103-110
+# Length: 8 amino acids
+# Type: MHC-I

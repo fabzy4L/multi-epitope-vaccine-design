@@ -1,0 +1,5 @@
+>S1_MHC1_3925
+SIVRFPNITNL
+# Position: 325-335
+# Length: 11 amino acids
+# Type: MHC-I

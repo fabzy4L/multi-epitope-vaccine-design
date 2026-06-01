@@ -1,0 +1,5 @@
+>S1_MHC1_2990
+SETKCTLKSFTV
+# Position: 284-295
+# Length: 12 amino acids
+# Type: MHC-I

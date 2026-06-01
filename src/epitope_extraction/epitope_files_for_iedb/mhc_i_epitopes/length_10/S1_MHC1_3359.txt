@@ -1,0 +1,5 @@
+>S1_MHC1_3359
+ALNTLVKQLS
+# Position: 958-967
+# Length: 10 amino acids
+# Type: MHC-I

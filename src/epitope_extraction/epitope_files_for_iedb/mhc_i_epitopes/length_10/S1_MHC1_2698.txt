@@ -1,0 +1,5 @@
+>S1_MHC1_2698
+SETKCTLKSF
+# Position: 297-306
+# Length: 10 amino acids
+# Type: MHC-I

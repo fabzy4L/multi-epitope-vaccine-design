@@ -1,0 +1,5 @@
+>S1_MHC1_2058
+GLTVLPPLL
+# Position: 857-865
+# Length: 9 amino acids
+# Type: MHC-I

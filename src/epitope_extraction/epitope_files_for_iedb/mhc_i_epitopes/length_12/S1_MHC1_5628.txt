@@ -1,0 +1,5 @@
+>S1_MHC1_5628
+DAGFIKQYGDCL
+# Position: 830-841
+# Length: 12 amino acids
+# Type: MHC-I

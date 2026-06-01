@@ -1,0 +1,5 @@
+>S1_MHC1_2560
+FYSSANNCTF
+# Position: 159-168
+# Length: 10 amino acids
+# Type: MHC-I

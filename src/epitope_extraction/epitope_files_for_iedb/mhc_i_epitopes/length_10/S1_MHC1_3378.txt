@@ -1,0 +1,5 @@
+>S1_MHC1_3378
+LNDILSRLDK
+# Position: 977-986
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1978
+YSTGSNVFQT
+# Position: 623-632
+# Length: 10 amino acids
+# Type: MHC-I

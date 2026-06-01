@@ -1,0 +1,5 @@
+>S1_MHC2_1575
+DLCFTNVYADSFVIRGDE
+# Position: 376-393
+# Length: 18 amino acids
+# Type: MHC-II

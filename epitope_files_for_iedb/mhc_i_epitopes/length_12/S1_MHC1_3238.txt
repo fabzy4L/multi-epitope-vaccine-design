@@ -1,0 +1,5 @@
+>S1_MHC1_3238
+GLTGTGVLTESN
+# Position: 532-543
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0743
+CGDSTECS
+# Position: 743-750
+# Length: 8 amino acids
+# Type: MHC-I

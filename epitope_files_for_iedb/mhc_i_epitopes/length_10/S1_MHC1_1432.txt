@@ -1,0 +1,5 @@
+>S1_MHC1_1432
+VYFASTEKSN
+# Position: 77-86
+# Length: 10 amino acids
+# Type: MHC-I

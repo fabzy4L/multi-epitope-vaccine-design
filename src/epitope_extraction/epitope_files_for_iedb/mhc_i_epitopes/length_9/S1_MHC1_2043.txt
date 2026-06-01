@@ -1,0 +1,5 @@
+>S1_MHC1_2043
+GDIAARDLI
+# Position: 842-850
+# Length: 9 amino acids
+# Type: MHC-I

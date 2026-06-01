@@ -1,0 +1,5 @@
+>S1_MHC1_5674
+ALLAGTITSGWT
+# Position: 876-887
+# Length: 12 amino acids
+# Type: MHC-I

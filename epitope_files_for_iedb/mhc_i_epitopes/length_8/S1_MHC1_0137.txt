@@ -1,0 +1,5 @@
+>S1_MHC1_0137
+KSWMESEF
+# Position: 137-144
+# Length: 8 amino acids
+# Type: MHC-I

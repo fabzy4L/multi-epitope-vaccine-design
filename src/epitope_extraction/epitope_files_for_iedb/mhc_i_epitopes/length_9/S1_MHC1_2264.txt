@@ -1,0 +1,5 @@
+>S1_MHC1_2264
+LHVTYVPAQ
+# Position: 1063-1071
+# Length: 9 amino acids
+# Type: MHC-I

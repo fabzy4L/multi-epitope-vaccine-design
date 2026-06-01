@@ -1,0 +1,5 @@
+>S1_MHC1_1203
+FVFLVLLPL
+# Position: 2-10
+# Length: 9 amino acids
+# Type: MHC-I

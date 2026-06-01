@@ -1,0 +1,5 @@
+>S1_MHC1_3816
+LPQGFSALEPL
+# Position: 216-226
+# Length: 11 amino acids
+# Type: MHC-I

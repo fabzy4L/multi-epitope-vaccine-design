@@ -1,0 +1,5 @@
+>S1_MHC1_2265
+HVTYVPAQE
+# Position: 1064-1072
+# Length: 9 amino acids
+# Type: MHC-I

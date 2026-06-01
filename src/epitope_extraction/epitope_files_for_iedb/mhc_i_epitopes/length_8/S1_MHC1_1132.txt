@@ -1,0 +1,5 @@
+>S1_MHC1_1132
+IVNNTVYD
+# Position: 1132-1139
+# Length: 8 amino acids
+# Type: MHC-I

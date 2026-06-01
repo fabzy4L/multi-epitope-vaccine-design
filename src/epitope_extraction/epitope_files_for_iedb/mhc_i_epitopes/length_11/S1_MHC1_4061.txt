@@ -1,0 +1,5 @@
+>S1_MHC1_4061
+LKPFERDISTE
+# Position: 461-471
+# Length: 11 amino acids
+# Type: MHC-I

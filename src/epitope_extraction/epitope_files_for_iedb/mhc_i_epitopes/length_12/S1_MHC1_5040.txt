@@ -1,0 +1,5 @@
+>S1_MHC1_5040
+LALHRSYLTPGD
+# Position: 242-253
+# Length: 12 amino acids
+# Type: MHC-I

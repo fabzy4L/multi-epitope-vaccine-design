@@ -1,0 +1,5 @@
+>S1_MHC1_0396
+YADSFVIR
+# Position: 396-403
+# Length: 8 amino acids
+# Type: MHC-I

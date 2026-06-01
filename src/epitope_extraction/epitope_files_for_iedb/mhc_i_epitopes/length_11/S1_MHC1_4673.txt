@@ -1,0 +1,5 @@
+>S1_MHC1_4673
+KNFTTAPAICH
+# Position: 1073-1083
+# Length: 11 amino acids
+# Type: MHC-I

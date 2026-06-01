@@ -1,0 +1,5 @@
+>S1_MHC1_1156
+FKNHTSPD
+# Position: 1156-1163
+# Length: 8 amino acids
+# Type: MHC-I

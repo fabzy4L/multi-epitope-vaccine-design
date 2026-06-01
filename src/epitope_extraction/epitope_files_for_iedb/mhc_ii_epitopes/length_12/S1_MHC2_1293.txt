@@ -1,0 +1,5 @@
+>S1_MHC2_1293
+LLAGTITSGWTF
+# Position: 877-888
+# Length: 12 amino acids
+# Type: MHC-II

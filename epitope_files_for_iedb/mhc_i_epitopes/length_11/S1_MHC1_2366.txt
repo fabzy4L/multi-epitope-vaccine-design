@@ -1,0 +1,5 @@
+>S1_MHC1_2366
+ASVYAWNRKRI
+# Position: 335-345
+# Length: 11 amino acids
+# Type: MHC-I

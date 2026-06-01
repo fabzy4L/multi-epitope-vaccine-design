@@ -1,0 +1,5 @@
+>S1_MHC1_4789
+VAKNLNESLID
+# Position: 1189-1199
+# Length: 11 amino acids
+# Type: MHC-I

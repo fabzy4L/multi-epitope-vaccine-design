@@ -1,0 +1,5 @@
+>S1_MHC1_5689
+GAALQIPFAMQM
+# Position: 891-902
+# Length: 12 amino acids
+# Type: MHC-I

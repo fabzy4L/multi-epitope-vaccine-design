@@ -1,0 +1,5 @@
+>S1_MHC1_1360
+FYSSANNCT
+# Position: 159-167
+# Length: 9 amino acids
+# Type: MHC-I

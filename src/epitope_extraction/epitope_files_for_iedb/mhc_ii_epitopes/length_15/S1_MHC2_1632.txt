@@ -1,0 +1,5 @@
+>S1_MHC2_1632
+MSLGAENSVAYSNNS
+# Position: 697-711
+# Length: 15 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_4257
+NNSYECDIPIG
+# Position: 657-667
+# Length: 11 amino acids
+# Type: MHC-I

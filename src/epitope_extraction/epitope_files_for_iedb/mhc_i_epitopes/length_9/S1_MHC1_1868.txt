@@ -1,0 +1,5 @@
+>S1_MHC1_1868
+GAGICASYQ
+# Position: 667-675
+# Length: 9 amino acids
+# Type: MHC-I

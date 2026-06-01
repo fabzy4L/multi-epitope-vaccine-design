@@ -1,0 +1,5 @@
+>S1_MHC1_2539
+PATVCGPKKST
+# Position: 508-518
+# Length: 11 amino acids
+# Type: MHC-I

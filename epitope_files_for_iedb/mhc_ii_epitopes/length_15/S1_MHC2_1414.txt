@@ -1,0 +1,5 @@
+>S1_MHC2_1414
+DPQTLEILDITPCSF
+# Position: 565-579
+# Length: 15 amino acids
+# Type: MHC-II

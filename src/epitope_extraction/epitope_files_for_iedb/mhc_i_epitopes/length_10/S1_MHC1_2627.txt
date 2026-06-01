@@ -1,0 +1,5 @@
+>S1_MHC1_2627
+LVDLPIGINI
+# Position: 226-235
+# Length: 10 amino acids
+# Type: MHC-I

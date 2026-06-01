@@ -1,0 +1,5 @@
+>S1_MHC1_2391
+AKNLNESLI
+# Position: 1190-1198
+# Length: 9 amino acids
+# Type: MHC-I

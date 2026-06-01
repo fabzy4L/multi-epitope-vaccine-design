@@ -1,0 +1,5 @@
+>S1_MHC2_1690
+AQYTSALLAGTITSG
+# Position: 871-885
+# Length: 15 amino acids
+# Type: MHC-II

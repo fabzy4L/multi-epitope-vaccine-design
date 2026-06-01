@@ -1,0 +1,5 @@
+>S1_MHC1_0365
+YSVLYNSA
+# Position: 365-372
+# Length: 8 amino acids
+# Type: MHC-I

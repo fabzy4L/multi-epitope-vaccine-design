@@ -1,0 +1,5 @@
+>S1_MHC1_2529
+VVLSFELLHAP
+# Position: 498-508
+# Length: 11 amino acids
+# Type: MHC-I

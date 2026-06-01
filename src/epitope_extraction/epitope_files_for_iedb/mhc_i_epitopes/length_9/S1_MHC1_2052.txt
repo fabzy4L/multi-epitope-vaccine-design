@@ -1,0 +1,5 @@
+>S1_MHC1_2052
+CAQKFNGLT
+# Position: 851-859
+# Length: 9 amino acids
+# Type: MHC-I

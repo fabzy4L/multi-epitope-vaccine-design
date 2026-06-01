@@ -1,0 +1,5 @@
+>S1_MHC1_2121
+QKLIANQFN
+# Position: 920-928
+# Length: 9 amino acids
+# Type: MHC-I

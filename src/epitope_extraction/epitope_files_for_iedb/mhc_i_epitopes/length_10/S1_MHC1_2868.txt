@@ -1,0 +1,5 @@
+>S1_MHC1_2868
+DISTEIYQAG
+# Position: 467-476
+# Length: 10 amino acids
+# Type: MHC-I

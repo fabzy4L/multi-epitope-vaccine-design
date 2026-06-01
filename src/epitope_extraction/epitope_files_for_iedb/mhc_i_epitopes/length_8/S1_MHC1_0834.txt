@@ -1,0 +1,5 @@
+>S1_MHC1_0834
+IKQYGDCL
+# Position: 834-841
+# Length: 8 amino acids
+# Type: MHC-I

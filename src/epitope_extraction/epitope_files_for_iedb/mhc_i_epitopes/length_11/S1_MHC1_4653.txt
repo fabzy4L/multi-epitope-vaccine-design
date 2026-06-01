@@ -1,0 +1,5 @@
+>S1_MHC1_4653
+PQSAPHGVVFL
+# Position: 1053-1063
+# Length: 11 amino acids
+# Type: MHC-I

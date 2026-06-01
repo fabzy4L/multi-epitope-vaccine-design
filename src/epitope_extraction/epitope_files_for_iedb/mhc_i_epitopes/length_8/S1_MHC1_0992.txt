@@ -1,0 +1,5 @@
+>S1_MHC1_0992
+QIDRLITG
+# Position: 992-999
+# Length: 8 amino acids
+# Type: MHC-I

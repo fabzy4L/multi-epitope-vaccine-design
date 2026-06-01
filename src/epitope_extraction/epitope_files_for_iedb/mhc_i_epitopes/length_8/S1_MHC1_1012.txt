@@ -1,0 +1,5 @@
+>S1_MHC1_1012
+LIRAAEIR
+# Position: 1012-1019
+# Length: 8 amino acids
+# Type: MHC-I

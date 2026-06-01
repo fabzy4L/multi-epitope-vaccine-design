@@ -1,0 +1,5 @@
+>S1_MHC1_1589
+SYLTPGDSSS
+# Position: 234-243
+# Length: 10 amino acids
+# Type: MHC-I

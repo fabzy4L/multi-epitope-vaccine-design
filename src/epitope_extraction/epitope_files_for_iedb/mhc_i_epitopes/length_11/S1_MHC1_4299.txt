@@ -1,0 +1,5 @@
+>S1_MHC1_4299
+LGAENSVAYSN
+# Position: 699-709
+# Length: 11 amino acids
+# Type: MHC-I

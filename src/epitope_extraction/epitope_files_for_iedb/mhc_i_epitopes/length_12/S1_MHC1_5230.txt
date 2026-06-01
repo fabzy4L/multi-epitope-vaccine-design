@@ -1,0 +1,5 @@
+>S1_MHC1_5230
+CVIAWNSNNLDS
+# Position: 432-443
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2267
+TYVPAQEKN
+# Position: 1066-1074
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1989
+AGCLIGAEHV
+# Position: 634-643
+# Length: 10 amino acids
+# Type: MHC-I

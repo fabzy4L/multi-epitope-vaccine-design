@@ -1,0 +1,5 @@
+>S1_MHC1_2097
+IPFAMQMAY
+# Position: 896-904
+# Length: 9 amino acids
+# Type: MHC-I

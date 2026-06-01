@@ -1,0 +1,5 @@
+>S1_MHC1_0219
+GFSALEPL
+# Position: 219-226
+# Length: 8 amino acids
+# Type: MHC-I

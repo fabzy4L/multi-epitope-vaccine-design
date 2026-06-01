@@ -1,0 +1,5 @@
+>S1_MHC1_1605
+GDEVRQIAP
+# Position: 404-412
+# Length: 9 amino acids
+# Type: MHC-I

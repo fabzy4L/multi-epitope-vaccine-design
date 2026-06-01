@@ -1,0 +1,5 @@
+>S1_MHC1_0973
+ISSVLNDI
+# Position: 973-980
+# Length: 8 amino acids
+# Type: MHC-I

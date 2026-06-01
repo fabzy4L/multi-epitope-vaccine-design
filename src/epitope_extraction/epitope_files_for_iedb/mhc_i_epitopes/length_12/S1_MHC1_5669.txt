@@ -1,0 +1,5 @@
+>S1_MHC1_5669
+AQYTSALLAGTI
+# Position: 871-882
+# Length: 12 amino acids
+# Type: MHC-I

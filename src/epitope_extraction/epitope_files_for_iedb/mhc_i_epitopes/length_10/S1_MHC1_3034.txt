@@ -1,0 +1,5 @@
+>S1_MHC1_3034
+WRVYSTGSNV
+# Position: 633-642
+# Length: 10 amino acids
+# Type: MHC-I

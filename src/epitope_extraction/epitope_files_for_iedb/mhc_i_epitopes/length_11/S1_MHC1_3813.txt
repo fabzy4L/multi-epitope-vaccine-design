@@ -1,0 +1,5 @@
+>S1_MHC1_3813
+VRDLPQGFSAL
+# Position: 213-223
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2752
+YAWNRKRISN
+# Position: 351-360
+# Length: 10 amino acids
+# Type: MHC-I

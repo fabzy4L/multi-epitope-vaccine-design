@@ -1,0 +1,5 @@
+>S1_MHC1_0681
+PRRARSVA
+# Position: 681-688
+# Length: 8 amino acids
+# Type: MHC-I

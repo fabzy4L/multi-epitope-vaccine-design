@@ -1,0 +1,5 @@
+>S1_MHC1_2519
+LIVNNATNVV
+# Position: 118-127
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1903
+ENSVAYSNN
+# Position: 702-710
+# Length: 9 amino acids
+# Type: MHC-I

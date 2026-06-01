@@ -1,0 +1,5 @@
+>S1_MHC1_2142
+TASALGKLQ
+# Position: 941-949
+# Length: 9 amino acids
+# Type: MHC-I

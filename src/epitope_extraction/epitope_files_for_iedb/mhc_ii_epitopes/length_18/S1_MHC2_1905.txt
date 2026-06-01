@@ -1,0 +1,5 @@
+>S1_MHC2_1905
+PTESIVRFPNITNLCPFG
+# Position: 322-339
+# Length: 18 amino acids
+# Type: MHC-II

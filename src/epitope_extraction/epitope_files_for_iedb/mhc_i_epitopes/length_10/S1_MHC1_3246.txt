@@ -1,0 +1,5 @@
+>S1_MHC1_3246
+AARDLICAQK
+# Position: 845-854
+# Length: 10 amino acids
+# Type: MHC-I

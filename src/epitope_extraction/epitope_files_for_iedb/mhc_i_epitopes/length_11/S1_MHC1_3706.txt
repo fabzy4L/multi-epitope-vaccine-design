@@ -1,0 +1,5 @@
+>S1_MHC1_3706
+FGTTLDSKTQS
+# Position: 106-116
+# Length: 11 amino acids
+# Type: MHC-I

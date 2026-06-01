@@ -1,0 +1,5 @@
+>S1_MHC1_3566
+DLGDISGINA
+# Position: 1165-1174
+# Length: 10 amino acids
+# Type: MHC-I

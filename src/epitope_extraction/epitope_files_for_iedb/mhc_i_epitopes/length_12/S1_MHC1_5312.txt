@@ -1,0 +1,5 @@
+>S1_MHC1_5312
+SFELLHAPATVC
+# Position: 514-525
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0623
+YSTGSNVF
+# Position: 623-630
+# Length: 8 amino acids
+# Type: MHC-I

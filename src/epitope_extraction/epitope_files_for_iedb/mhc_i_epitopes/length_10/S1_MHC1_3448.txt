@@ -1,0 +1,5 @@
+>S1_MHC1_3448
+YHLMSFPQSA
+# Position: 1047-1056
+# Length: 10 amino acids
+# Type: MHC-I

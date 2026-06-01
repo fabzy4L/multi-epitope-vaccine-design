@@ -1,0 +1,5 @@
+>S1_MHC1_4345
+DSTECSNLLLQ
+# Position: 745-755
+# Length: 11 amino acids
+# Type: MHC-I

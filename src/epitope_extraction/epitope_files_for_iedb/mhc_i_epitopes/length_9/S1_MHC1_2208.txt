@@ -1,0 +1,5 @@
+>S1_MHC1_2208
+YVTQQLIRA
+# Position: 1007-1015
+# Length: 9 amino acids
+# Type: MHC-I

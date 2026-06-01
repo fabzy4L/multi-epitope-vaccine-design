@@ -1,0 +1,5 @@
+>S1_MHC1_1068
+VPAQEKNF
+# Position: 1068-1075
+# Length: 8 amino acids
+# Type: MHC-I

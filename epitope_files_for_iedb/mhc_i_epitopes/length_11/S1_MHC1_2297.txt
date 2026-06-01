@@ -1,0 +1,5 @@
+>S1_MHC1_2297
+YNENGTITDAV
+# Position: 266-276
+# Length: 11 amino acids
+# Type: MHC-I

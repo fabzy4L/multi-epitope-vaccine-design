@@ -1,0 +1,5 @@
+>S1_MHC1_4208
+VAVLYQDVNCT
+# Position: 608-618
+# Length: 11 amino acids
+# Type: MHC-I

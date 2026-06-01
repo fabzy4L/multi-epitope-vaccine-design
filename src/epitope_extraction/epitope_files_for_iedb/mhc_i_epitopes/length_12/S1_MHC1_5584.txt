@@ -1,0 +1,5 @@
+>S1_MHC1_5584
+KQIYKTPPIKDF
+# Position: 786-797
+# Length: 12 amino acids
+# Type: MHC-I

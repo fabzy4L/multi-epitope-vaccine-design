@@ -1,0 +1,5 @@
+>S1_MHC1_3164
+LNRALTGIAV
+# Position: 763-772
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4621
+SANLAATKMSE
+# Position: 1021-1031
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2819
+VVIKVCEFQFCN
+# Position: 113-124
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0945
+LGKLQDVV
+# Position: 945-952
+# Length: 8 amino acids
+# Type: MHC-I

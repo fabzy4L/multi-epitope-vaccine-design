@@ -1,0 +1,5 @@
+>S1_MHC1_1972
+TPTWRVYSTG
+# Position: 617-626
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0204
+YSKHTPIN
+# Position: 204-211
+# Length: 8 amino acids
+# Type: MHC-I

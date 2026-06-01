@@ -1,0 +1,114 @@
+{
+  "selection_date": "2026-06-01",
+  "mhc_i_epitopes": [
+    {
+      "peptide": "RLFRKSNLK",
+      "allele": "HLA-A*03:01",
+      "ic50": 4.82,
+      "rank": 0.01,
+      "length": 9,
+      "combined_score": 36.4881176914372,
+      "priority_score": 18.986
+    },
+    {
+      "peptide": "LPFNDGVYF",
+      "allele": "HLA-B*35:01",
+      "ic50": 4.12,
+      "rank": 0.02,
+      "length": 9,
+      "combined_score": 19.193250115580213,
+      "priority_score": 19.076
+    },
+    {
+      "peptide": "FPNITNLCPF",
+      "allele": "HLA-B*35:01",
+      "ic50": 5.4,
+      "rank": 0.02,
+      "length": 10,
+      "combined_score": 19.15873015873016,
+      "priority_score": 13.82
+    },
+    {
+      "peptide": "VLYNSASFSTFK",
+      "allele": "HLA-A*03:01",
+      "ic50": 7.53,
+      "rank": 0.02,
+      "length": 12,
+      "combined_score": 19.12730032251945,
+      "priority_score": 13.394
+    },
+    {
+      "peptide": "VASQSIIAY",
+      "allele": "HLA-B*35:01",
+      "ic50": 7.81,
+      "rank": 0.02,
+      "length": 9,
+      "combined_score": 19.124443631485885,
+      "priority_score": 13.338000000000001
+    },
+    {
+      "peptide": "LYNSASFSTF",
+      "allele": "HLA-A*24:02",
+      "ic50": 8.16,
+      "rank": 0.02,
+      "length": 10,
+      "combined_score": 19.121148459383758,
+      "priority_score": 18.268
+    }
+  ],
+  "mhc_ii_epitopes": [
+    {
+      "peptide": "QTLLALHRSYLT",
+      "allele": "HLA-DRB1*15:01",
+      "ic50": 45.82,
+      "rank": 0.14,
+      "length": 12,
+      "core_peptide": "LALHRSYLT",
+      "combined_score": 2.8499741510876664,
+      "priority_score": 10.136
+    },
+    {
+      "peptide": "QTLLALHRSYLTPGD",
+      "allele": "HLA-DRB1*15:01",
+      "ic50": 9.87,
+      "rank": 0.15,
+      "length": 15,
+      "core_peptide": "LALHRSYLT",
+      "combined_score": 2.7097968960727874,
+      "priority_score": 14.731200000000001
+    },
+    {
+      "peptide": "PIGINITRFQTLLALHRS",
+      "allele": "HLA-DRB1*15:01",
+      "ic50": 48.82,
+      "rank": 0.16,
+      "length": 18,
+      "core_peptide": "ITRFQTLLA",
+      "combined_score": 2.49676209475294,
+      "priority_score": 4.436
+    },
+    {
+      "peptide": "INITRFQTLLALHRS",
+      "allele": "HLA-DRB1*15:01",
+      "ic50": 11.23,
+      "rank": 0.2,
+      "length": 15,
+      "core_peptide": "ITRFQTLLA",
+      "combined_score": 2.0434780682517952,
+      "priority_score": 14.104799999999997
+    }
+  ],
+  "selection_criteria": {
+    "ic50_threshold": "50nM",
+    "diversity_threshold": "60%",
+    "preferred_lengths": {
+      "MHC_I": [
+        9,
+        10
+      ],
+      "MHC_II": [
+        15
+      ]
+    }
+  }
+}

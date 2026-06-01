@@ -1,0 +1,5 @@
+>S1_MHC1_2887
+FNCYFPLQSY
+# Position: 486-495
+# Length: 10 amino acids
+# Type: MHC-I

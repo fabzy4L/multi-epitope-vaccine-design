@@ -1,0 +1,5 @@
+>S1_MHC1_3553
+LDKYFKNHTS
+# Position: 1152-1161
+# Length: 10 amino acids
+# Type: MHC-I

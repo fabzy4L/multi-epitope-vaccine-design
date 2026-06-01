@@ -1,0 +1,5 @@
+>S1_MHC1_2201
+QGNFKNLREFV
+# Position: 170-180
+# Length: 11 amino acids
+# Type: MHC-I

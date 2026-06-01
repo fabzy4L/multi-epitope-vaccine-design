@@ -1,0 +1,5 @@
+>S1_MHC2_1043
+VIKVCEFQFCND
+# Position: 127-138
+# Length: 12 amino acids
+# Type: MHC-II

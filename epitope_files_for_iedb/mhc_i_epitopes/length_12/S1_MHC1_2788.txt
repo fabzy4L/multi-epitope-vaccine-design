@@ -1,0 +1,5 @@
+>S1_MHC1_2788
+TEKSNIIRGWIF
+# Position: 82-93
+# Length: 12 amino acids
+# Type: MHC-I

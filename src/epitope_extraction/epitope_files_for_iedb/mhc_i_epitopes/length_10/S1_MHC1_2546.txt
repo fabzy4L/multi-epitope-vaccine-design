@@ -1,0 +1,5 @@
+>S1_MHC1_2546
+YHKNNKSWME
+# Position: 145-154
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0411
+KLPDDFTG
+# Position: 411-418
+# Length: 8 amino acids
+# Type: MHC-I

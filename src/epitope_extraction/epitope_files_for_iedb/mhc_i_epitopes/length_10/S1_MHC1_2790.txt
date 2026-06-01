@@ -1,0 +1,5 @@
+>S1_MHC1_2790
+DLCFTNVYAD
+# Position: 389-398
+# Length: 10 amino acids
+# Type: MHC-I

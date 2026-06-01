@@ -1,0 +1,5 @@
+>S1_MHC1_1756
+QTGKIADYNY
+# Position: 401-410
+# Length: 10 amino acids
+# Type: MHC-I

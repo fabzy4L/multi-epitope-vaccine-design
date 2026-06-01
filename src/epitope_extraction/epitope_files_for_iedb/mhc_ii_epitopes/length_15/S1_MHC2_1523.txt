@@ -1,0 +1,5 @@
+>S1_MHC2_1523
+NSASFSTFKCYGVSP
+# Position: 370-384
+# Length: 15 amino acids
+# Type: MHC-II

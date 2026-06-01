@@ -1,0 +1,5 @@
+>S1_MHC1_0768
+GWIFGTTLD
+# Position: 90-98
+# Length: 9 amino acids
+# Type: MHC-I

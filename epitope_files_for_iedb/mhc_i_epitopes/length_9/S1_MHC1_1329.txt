@@ -1,0 +1,5 @@
+>S1_MHC1_1329
+IPIGAGICA
+# Position: 651-659
+# Length: 9 amino acids
+# Type: MHC-I

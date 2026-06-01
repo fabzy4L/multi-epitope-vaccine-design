@@ -1,0 +1,5 @@
+>S1_MHC1_1496
+PLSETKCTL
+# Position: 295-303
+# Length: 9 amino acids
+# Type: MHC-I

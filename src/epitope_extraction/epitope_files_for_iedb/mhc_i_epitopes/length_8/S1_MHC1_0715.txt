@@ -1,0 +1,5 @@
+>S1_MHC1_0715
+PTNFTISV
+# Position: 715-722
+# Length: 8 amino acids
+# Type: MHC-I

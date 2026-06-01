@@ -1,0 +1,5 @@
+>S1_MHC1_4009
+QIAPGQTGKIA
+# Position: 409-419
+# Length: 11 amino acids
+# Type: MHC-I

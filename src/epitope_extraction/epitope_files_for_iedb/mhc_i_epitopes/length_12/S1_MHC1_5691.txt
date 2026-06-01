@@ -1,0 +1,5 @@
+>S1_MHC1_5691
+ALQIPFAMQMAY
+# Position: 893-904
+# Length: 12 amino acids
+# Type: MHC-I

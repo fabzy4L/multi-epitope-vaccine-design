@@ -1,0 +1,5 @@
+>S1_MHC1_0821
+LLFNKVTL
+# Position: 821-828
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1019
+RASANLAA
+# Position: 1019-1026
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1296
+TEKSNIIRG
+# Position: 95-103
+# Length: 9 amino acids
+# Type: MHC-I

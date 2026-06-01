@@ -1,0 +1,5 @@
+>S1_MHC1_1143
+PELDSFKE
+# Position: 1143-1150
+# Length: 8 amino acids
+# Type: MHC-I

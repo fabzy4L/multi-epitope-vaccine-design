@@ -1,0 +1,5 @@
+>S1_MHC1_0908
+ALHRSYLTP
+# Position: 230-238
+# Length: 9 amino acids
+# Type: MHC-I

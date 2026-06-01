@@ -1,0 +1,5 @@
+>S1_MHC1_0100
+KTQSLLIV
+# Position: 100-107
+# Length: 8 amino acids
+# Type: MHC-I

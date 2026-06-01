@@ -1,0 +1,5 @@
+>S1_MHC1_4745
+LDSFKEELDKY
+# Position: 1145-1155
+# Length: 11 amino acids
+# Type: MHC-I

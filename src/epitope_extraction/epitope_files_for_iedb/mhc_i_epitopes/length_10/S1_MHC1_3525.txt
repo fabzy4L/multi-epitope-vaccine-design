@@ -1,0 +1,5 @@
+>S1_MHC1_3525
+GNCDVVIGIV
+# Position: 1124-1133
+# Length: 10 amino acids
+# Type: MHC-I

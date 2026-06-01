@@ -1,0 +1,5 @@
+>S1_MHC1_2355
+KYFKNHTSP
+# Position: 1154-1162
+# Length: 9 amino acids
+# Type: MHC-I

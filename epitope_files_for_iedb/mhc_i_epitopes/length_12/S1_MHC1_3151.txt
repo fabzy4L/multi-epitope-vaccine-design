@@ -1,0 +1,5 @@
+>S1_MHC1_3151
+KSNLKPFERDIS
+# Position: 445-456
+# Length: 12 amino acids
+# Type: MHC-I

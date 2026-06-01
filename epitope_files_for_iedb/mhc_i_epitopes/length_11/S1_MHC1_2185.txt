@@ -1,0 +1,5 @@
+>S1_MHC1_2185
+TFEYVSQPFLM
+# Position: 154-164
+# Length: 11 amino acids
+# Type: MHC-I

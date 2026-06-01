@@ -1,0 +1,5 @@
+>S1_MHC2_2376
+NGLKGTGVLTESNKKFLPFQ
+# Position: 544-563
+# Length: 20 amino acids
+# Type: MHC-II

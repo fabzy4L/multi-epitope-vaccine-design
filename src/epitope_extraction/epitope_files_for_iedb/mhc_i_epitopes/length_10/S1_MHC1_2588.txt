@@ -1,0 +1,5 @@
+>S1_MHC1_2588
+KNLREFVFKN
+# Position: 187-196
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5514
+TNFTISVTTEIL
+# Position: 716-727
+# Length: 12 amino acids
+# Type: MHC-I

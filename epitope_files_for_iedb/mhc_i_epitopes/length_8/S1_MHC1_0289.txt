@@ -1,0 +1,5 @@
+>S1_MHC1_0289
+TLKSFTVE
+# Position: 289-296
+# Length: 8 amino acids
+# Type: MHC-I

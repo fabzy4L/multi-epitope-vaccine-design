@@ -1,0 +1,5 @@
+>S1_MHC1_0333
+RFASVYAW
+# Position: 333-340
+# Length: 8 amino acids
+# Type: MHC-I

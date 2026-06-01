@@ -1,0 +1,5 @@
+>S1_MHC1_3301
+MQMAYRFNGI
+# Position: 900-909
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_1364
+DFTGCVIAWNSNNLD
+# Position: 415-429
+# Length: 15 amino acids
+# Type: MHC-II

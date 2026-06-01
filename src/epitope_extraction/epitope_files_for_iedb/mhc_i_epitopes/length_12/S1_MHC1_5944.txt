@@ -1,0 +1,5 @@
+>S1_MHC1_5944
+DSFKEELDKYFK
+# Position: 1146-1157
+# Length: 12 amino acids
+# Type: MHC-I

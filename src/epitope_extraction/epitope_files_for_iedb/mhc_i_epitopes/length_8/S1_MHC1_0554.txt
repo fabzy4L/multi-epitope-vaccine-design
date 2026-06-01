@@ -1,0 +1,5 @@
+>S1_MHC1_0554
+ESNKKFLP
+# Position: 554-561
+# Length: 8 amino acids
+# Type: MHC-I

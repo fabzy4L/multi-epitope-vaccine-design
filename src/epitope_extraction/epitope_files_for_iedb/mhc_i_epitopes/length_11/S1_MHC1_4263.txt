@@ -1,0 +1,5 @@
+>S1_MHC1_4263
+DIPIGAGICAS
+# Position: 663-673
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2349
+PFERDISTEIYQAGSTPCNG
+# Position: 463-482
+# Length: 20 amino acids
+# Type: MHC-II

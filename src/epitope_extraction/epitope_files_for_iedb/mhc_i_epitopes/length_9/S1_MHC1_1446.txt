@@ -1,0 +1,5 @@
+>S1_MHC1_1446
+HRSYLTPGD
+# Position: 245-253
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3211
+LHAPATVCGPKK
+# Position: 505-516
+# Length: 12 amino acids
+# Type: MHC-I

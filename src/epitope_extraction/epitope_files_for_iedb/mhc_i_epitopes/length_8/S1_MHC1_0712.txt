@@ -1,0 +1,5 @@
+>S1_MHC1_0712
+IAIPTNFT
+# Position: 712-719
+# Length: 8 amino acids
+# Type: MHC-I

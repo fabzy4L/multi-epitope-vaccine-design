@@ -1,0 +1,5 @@
+>S1_MHC1_0918
+ENQKLIAN
+# Position: 918-925
+# Length: 8 amino acids
+# Type: MHC-I

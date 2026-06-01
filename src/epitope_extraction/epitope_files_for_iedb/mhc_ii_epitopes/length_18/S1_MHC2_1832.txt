@@ -1,0 +1,5 @@
+>S1_MHC2_1832
+GWIFGTTLDSKTQSLLIV
+# Position: 103-120
+# Length: 18 amino acids
+# Type: MHC-II

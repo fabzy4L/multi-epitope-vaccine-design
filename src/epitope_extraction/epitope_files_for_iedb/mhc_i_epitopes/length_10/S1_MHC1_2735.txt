@@ -1,0 +1,5 @@
+>S1_MHC1_2735
+NLCPFGEVFN
+# Position: 334-343
+# Length: 10 amino acids
+# Type: MHC-I

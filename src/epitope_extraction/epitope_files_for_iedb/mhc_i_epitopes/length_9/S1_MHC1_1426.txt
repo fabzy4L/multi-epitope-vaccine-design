@@ -1,0 +1,5 @@
+>S1_MHC1_1426
+PLVDLPIGI
+# Position: 225-233
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2478
+KRFDNPVLPF
+# Position: 77-86
+# Length: 10 amino acids
+# Type: MHC-I

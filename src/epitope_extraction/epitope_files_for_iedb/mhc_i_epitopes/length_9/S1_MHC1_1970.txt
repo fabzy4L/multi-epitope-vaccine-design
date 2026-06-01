@@ -1,0 +1,5 @@
+>S1_MHC1_1970
+GIAVEQDKN
+# Position: 769-777
+# Length: 9 amino acids
+# Type: MHC-I

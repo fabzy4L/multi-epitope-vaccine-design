@@ -1,0 +1,5 @@
+>S1_MHC1_3581
+QKEIDRLNEV
+# Position: 1180-1189
+# Length: 10 amino acids
+# Type: MHC-I

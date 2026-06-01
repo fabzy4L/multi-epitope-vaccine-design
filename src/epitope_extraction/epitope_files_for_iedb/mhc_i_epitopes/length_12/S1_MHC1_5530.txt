@@ -1,0 +1,5 @@
+>S1_MHC1_5530
+TKTSVDCTMYIC
+# Position: 732-743
+# Length: 12 amino acids
+# Type: MHC-I

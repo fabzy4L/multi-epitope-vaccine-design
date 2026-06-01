@@ -1,0 +1,5 @@
+>S1_MHC1_2763
+VADYSVLYNS
+# Position: 362-371
+# Length: 10 amino acids
+# Type: MHC-I

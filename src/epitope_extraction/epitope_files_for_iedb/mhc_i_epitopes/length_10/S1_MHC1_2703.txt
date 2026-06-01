@@ -1,0 +1,5 @@
+>S1_MHC1_2703
+TLKSFTVEKG
+# Position: 302-311
+# Length: 10 amino acids
+# Type: MHC-I

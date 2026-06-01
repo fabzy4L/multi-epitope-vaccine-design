@@ -1,0 +1,5 @@
+>S1_MHC1_1284
+EVPVAIHAD
+# Position: 606-614
+# Length: 9 amino acids
+# Type: MHC-I

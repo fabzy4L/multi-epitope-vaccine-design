@@ -1,0 +1,5 @@
+>S1_MHC1_3009
+SNFRVQPTESIV
+# Position: 303-314
+# Length: 12 amino acids
+# Type: MHC-I

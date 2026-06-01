@@ -1,0 +1,5 @@
+>S1_MHC1_5389
+SFGGVSVITPGT
+# Position: 591-602
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3310
+CTEVPVAIHADQ
+# Position: 604-615
+# Length: 12 amino acids
+# Type: MHC-I

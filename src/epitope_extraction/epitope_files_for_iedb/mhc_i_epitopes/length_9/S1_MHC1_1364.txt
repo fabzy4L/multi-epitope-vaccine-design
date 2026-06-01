@@ -1,0 +1,5 @@
+>S1_MHC1_1364
+ANNCTFEYV
+# Position: 163-171
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4573
+ISSVLNDILSR
+# Position: 973-983
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2139
+LSSTASALG
+# Position: 938-946
+# Length: 9 amino acids
+# Type: MHC-I

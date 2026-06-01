@@ -1,0 +1,5 @@
+>S1_MHC1_5533
+SVDCTMYICGDS
+# Position: 735-746
+# Length: 12 amino acids
+# Type: MHC-I

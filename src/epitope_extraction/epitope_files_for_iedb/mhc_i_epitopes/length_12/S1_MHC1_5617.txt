@@ -1,0 +1,5 @@
+>S1_MHC1_5617
+EDLLFNKVTLAD
+# Position: 819-830
+# Length: 12 amino acids
+# Type: MHC-I

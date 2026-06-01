@@ -1,0 +1,5 @@
+>S1_MHC1_2500
+NIIRGWIFGT
+# Position: 99-108
+# Length: 10 amino acids
+# Type: MHC-I

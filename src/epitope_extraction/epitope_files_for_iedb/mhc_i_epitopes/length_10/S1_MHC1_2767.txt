@@ -1,0 +1,5 @@
+>S1_MHC1_2767
+SVLYNSASFS
+# Position: 366-375
+# Length: 10 amino acids
+# Type: MHC-I

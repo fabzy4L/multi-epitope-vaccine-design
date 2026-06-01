@@ -1,0 +1,5 @@
+>S1_MHC2_1976
+KNKCVNFNFNGLKGTGVL
+# Position: 535-552
+# Length: 18 amino acids
+# Type: MHC-II

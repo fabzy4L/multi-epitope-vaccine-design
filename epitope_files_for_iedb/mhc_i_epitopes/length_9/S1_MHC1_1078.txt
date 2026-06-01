@@ -1,0 +1,5 @@
+>S1_MHC1_1078
+GQTGKIADY
+# Position: 400-408
+# Length: 9 amino acids
+# Type: MHC-I

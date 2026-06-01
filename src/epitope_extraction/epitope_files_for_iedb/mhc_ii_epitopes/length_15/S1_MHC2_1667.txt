@@ -1,0 +1,5 @@
+>S1_MHC2_1667
+FSQILPDPSKPSKRS
+# Position: 802-816
+# Length: 15 amino acids
+# Type: MHC-II

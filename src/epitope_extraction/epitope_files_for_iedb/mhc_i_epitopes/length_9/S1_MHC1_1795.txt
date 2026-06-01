@@ -1,0 +1,5 @@
+>S1_MHC1_1795
+GVSVITPGT
+# Position: 594-602
+# Length: 9 amino acids
+# Type: MHC-I

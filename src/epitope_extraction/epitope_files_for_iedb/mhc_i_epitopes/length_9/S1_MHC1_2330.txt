@@ -1,0 +1,5 @@
+>S1_MHC1_2330
+VIGIVNNTV
+# Position: 1129-1137
+# Length: 9 amino acids
+# Type: MHC-I

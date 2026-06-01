@@ -1,0 +1,5 @@
+>S1_MHC1_1898
+MSLGAENSV
+# Position: 697-705
+# Length: 9 amino acids
+# Type: MHC-I

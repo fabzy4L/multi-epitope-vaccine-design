@@ -1,0 +1,5 @@
+>S1_MHC1_1582
+TLLALHRSYL
+# Position: 227-236
+# Length: 10 amino acids
+# Type: MHC-I

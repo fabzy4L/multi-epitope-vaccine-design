@@ -1,0 +1,5 @@
+>S1_MHC1_1900
+LGAENSVAY
+# Position: 699-707
+# Length: 9 amino acids
+# Type: MHC-I

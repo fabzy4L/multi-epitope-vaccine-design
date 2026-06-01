@@ -1,0 +1,5 @@
+>S1_MHC1_0408
+RQIAPGQT
+# Position: 408-415
+# Length: 8 amino acids
+# Type: MHC-I

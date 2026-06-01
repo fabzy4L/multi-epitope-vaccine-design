@@ -1,0 +1,5 @@
+>S1_MHC1_0250
+TPGDSSSG
+# Position: 250-257
+# Length: 8 amino acids
+# Type: MHC-I

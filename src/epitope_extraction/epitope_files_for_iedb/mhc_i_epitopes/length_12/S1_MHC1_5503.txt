@@ -1,0 +1,5 @@
+>S1_MHC1_5503
+VAYSNNSIAIPT
+# Position: 705-716
+# Length: 12 amino acids
+# Type: MHC-I

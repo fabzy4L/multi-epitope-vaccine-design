@@ -1,0 +1,5 @@
+>S1_MHC1_3763
+ANNCTFEYVSQ
+# Position: 163-173
+# Length: 11 amino acids
+# Type: MHC-I

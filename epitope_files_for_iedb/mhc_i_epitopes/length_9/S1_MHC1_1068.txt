@@ -1,0 +1,5 @@
+>S1_MHC1_1068
+RGDEVRQIA
+# Position: 390-398
+# Length: 9 amino acids
+# Type: MHC-I

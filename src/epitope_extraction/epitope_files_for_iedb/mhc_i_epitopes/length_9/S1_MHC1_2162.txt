@@ -1,0 +1,5 @@
+>S1_MHC1_2162
+TLVKQLSSN
+# Position: 961-969
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0063
+TWFHAIHV
+# Position: 63-70
+# Length: 8 amino acids
+# Type: MHC-I

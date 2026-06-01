@@ -1,0 +1,5 @@
+>S1_MHC1_2817
+GKIADYNYKL
+# Position: 416-425
+# Length: 10 amino acids
+# Type: MHC-I

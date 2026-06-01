@@ -1,0 +1,5 @@
+>S1_MHC1_3565
+VDLGDISGIN
+# Position: 1164-1173
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0677
+QSIIAYTM
+# Position: 677-684
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5296
+QPTNGVGYQPYR
+# Position: 498-509
+# Length: 12 amino acids
+# Type: MHC-I

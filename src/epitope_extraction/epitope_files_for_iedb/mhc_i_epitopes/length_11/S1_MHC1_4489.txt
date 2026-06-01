@@ -1,0 +1,5 @@
+>S1_MHC1_4489
+GAGAALQIPFA
+# Position: 889-899
+# Length: 11 amino acids
+# Type: MHC-I

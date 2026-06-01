@@ -1,0 +1,5 @@
+>S1_MHC1_0515
+FELLHAPA
+# Position: 515-522
+# Length: 8 amino acids
+# Type: MHC-I

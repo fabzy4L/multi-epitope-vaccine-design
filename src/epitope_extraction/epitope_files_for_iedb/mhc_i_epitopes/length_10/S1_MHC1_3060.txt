@@ -1,0 +1,5 @@
+>S1_MHC1_3060
+SYECDIPIGA
+# Position: 659-668
+# Length: 10 amino acids
+# Type: MHC-I

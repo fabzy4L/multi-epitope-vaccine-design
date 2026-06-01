@@ -1,0 +1,5 @@
+>S1_MHC1_1732
+TNLVKNKCV
+# Position: 531-539
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0149
+NKSWMESE
+# Position: 149-156
+# Length: 8 amino acids
+# Type: MHC-I

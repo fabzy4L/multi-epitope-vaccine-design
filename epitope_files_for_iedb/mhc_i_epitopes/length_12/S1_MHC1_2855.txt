@@ -1,0 +1,5 @@
+>S1_MHC1_2855
+SANNCTFEYVSQ
+# Position: 149-160
+# Length: 12 amino acids
+# Type: MHC-I

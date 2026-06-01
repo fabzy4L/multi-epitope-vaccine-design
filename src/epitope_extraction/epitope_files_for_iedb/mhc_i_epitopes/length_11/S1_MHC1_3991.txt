@@ -1,0 +1,5 @@
+>S1_MHC1_3991
+CFTNVYADSFV
+# Position: 391-401
+# Length: 11 amino acids
+# Type: MHC-I

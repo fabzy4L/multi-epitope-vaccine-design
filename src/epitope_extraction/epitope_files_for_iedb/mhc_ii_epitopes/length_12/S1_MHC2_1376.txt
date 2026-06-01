@@ -1,0 +1,5 @@
+>S1_MHC2_1376
+CDVVIGIVNNTV
+# Position: 1126-1137
+# Length: 12 amino acids
+# Type: MHC-II

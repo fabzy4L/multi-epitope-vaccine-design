@@ -1,0 +1,5 @@
+>S1_MHC1_2312
+EPQIITTDN
+# Position: 1111-1119
+# Length: 9 amino acids
+# Type: MHC-I

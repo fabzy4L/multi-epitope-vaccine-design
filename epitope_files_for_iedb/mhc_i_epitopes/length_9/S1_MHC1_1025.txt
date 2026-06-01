@@ -1,0 +1,5 @@
+>S1_MHC1_1025
+NCVADYSVL
+# Position: 347-355
+# Length: 9 amino acids
+# Type: MHC-I

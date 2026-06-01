@@ -1,0 +1,5 @@
+>S1_MHC1_1442
+IIRGWIFGTT
+# Position: 87-96
+# Length: 10 amino acids
+# Type: MHC-I

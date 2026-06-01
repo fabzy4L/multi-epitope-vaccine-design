@@ -1,0 +1,5 @@
+>S1_MHC1_1833
+PLQSYGFQPT
+# Position: 478-487
+# Length: 10 amino acids
+# Type: MHC-I

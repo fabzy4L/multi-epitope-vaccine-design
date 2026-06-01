@@ -1,0 +1,5 @@
+>S1_MHC1_4214
+DVNCTEVPVAI
+# Position: 614-624
+# Length: 11 amino acids
+# Type: MHC-I

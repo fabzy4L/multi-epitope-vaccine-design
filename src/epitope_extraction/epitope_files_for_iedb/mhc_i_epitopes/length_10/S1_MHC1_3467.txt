@@ -1,0 +1,5 @@
+>S1_MHC1_3467
+TYVPAQEKNF
+# Position: 1066-1075
+# Length: 10 amino acids
+# Type: MHC-I

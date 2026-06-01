@@ -1,0 +1,5 @@
+>S1_MHC1_4400
+FNFSQILPDPS
+# Position: 800-810
+# Length: 11 amino acids
+# Type: MHC-I

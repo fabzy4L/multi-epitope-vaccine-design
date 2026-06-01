@@ -1,0 +1,5 @@
+>S1_MHC1_0719
+LFLPFFSNV
+# Position: 41-49
+# Length: 9 amino acids
+# Type: MHC-I

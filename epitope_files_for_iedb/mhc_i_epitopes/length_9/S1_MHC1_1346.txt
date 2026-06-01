@@ -1,0 +1,5 @@
+>S1_MHC1_1346
+PGSASSVAS
+# Position: 668-676
+# Length: 9 amino acids
+# Type: MHC-I

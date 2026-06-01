@@ -1,0 +1,5 @@
+>S1_MHC1_4620
+ASANLAATKMS
+# Position: 1020-1030
+# Length: 11 amino acids
+# Type: MHC-I

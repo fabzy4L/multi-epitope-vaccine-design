@@ -1,0 +1,5 @@
+>S1_MHC1_2848
+SEFRVYSSANNC
+# Position: 142-153
+# Length: 12 amino acids
+# Type: MHC-I

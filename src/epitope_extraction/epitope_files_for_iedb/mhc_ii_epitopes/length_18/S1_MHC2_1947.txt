@@ -1,0 +1,5 @@
+>S1_MHC2_1947
+NYNYLYRLFRKSNLKPFE
+# Position: 448-465
+# Length: 18 amino acids
+# Type: MHC-II

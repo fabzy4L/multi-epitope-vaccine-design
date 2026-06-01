@@ -1,0 +1,5 @@
+>S1_MHC1_2908
+DLPQGFSALEPL
+# Position: 202-213
+# Length: 12 amino acids
+# Type: MHC-I

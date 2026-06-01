@@ -1,0 +1,5 @@
+>S1_MHC1_0793
+PIKDFGGF
+# Position: 793-800
+# Length: 8 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1523
+GKQGNFKNLR
+# Position: 168-177
+# Length: 10 amino acids
+# Type: MHC-I

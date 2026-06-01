@@ -1,0 +1,5 @@
+>S1_MHC1_2935
+VKNKCVNFNF
+# Position: 534-543
+# Length: 10 amino acids
+# Type: MHC-I

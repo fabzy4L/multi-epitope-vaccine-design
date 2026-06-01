@@ -1,0 +1,5 @@
+>S1_MHC1_0868
+IYSKHTPIN
+# Position: 190-198
+# Length: 9 amino acids
+# Type: MHC-I

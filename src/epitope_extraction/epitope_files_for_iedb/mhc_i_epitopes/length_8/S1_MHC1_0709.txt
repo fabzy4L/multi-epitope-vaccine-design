@@ -1,0 +1,5 @@
+>S1_MHC1_0709
+NNSIAIPT
+# Position: 709-716
+# Length: 8 amino acids
+# Type: MHC-I

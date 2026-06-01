@@ -1,0 +1,5 @@
+>S1_MHC1_2531
+VCEFQFCNDP
+# Position: 130-139
+# Length: 10 amino acids
+# Type: MHC-I

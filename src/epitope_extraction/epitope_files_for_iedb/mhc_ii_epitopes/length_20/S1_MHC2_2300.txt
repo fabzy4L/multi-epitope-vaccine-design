@@ -1,0 +1,5 @@
+>S1_MHC2_2300
+SNFRVQPTESIVRFPNITNL
+# Position: 316-335
+# Length: 20 amino acids
+# Type: MHC-II

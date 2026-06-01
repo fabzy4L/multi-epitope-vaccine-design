@@ -1,0 +1,5 @@
+>S1_MHC2_1094
+NENGTITDAVDC
+# Position: 280-291
+# Length: 12 amino acids
+# Type: MHC-II

@@ -1,0 +1,5 @@
+>S1_MHC1_4186
+DITPCSFGGVS
+# Position: 586-596
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2976
+AVRDPQTLEI
+# Position: 575-584
+# Length: 10 amino acids
+# Type: MHC-I

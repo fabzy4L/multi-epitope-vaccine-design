@@ -1,0 +1,5 @@
+>S1_MHC1_5132
+NLCPFGEVFNAT
+# Position: 334-345
+# Length: 12 amino acids
+# Type: MHC-I

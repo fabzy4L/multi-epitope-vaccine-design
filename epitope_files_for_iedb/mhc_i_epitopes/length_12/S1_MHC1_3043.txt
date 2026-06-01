@@ -1,0 +1,5 @@
+>S1_MHC1_3043
+VYAWNRKRISNC
+# Position: 337-348
+# Length: 12 amino acids
+# Type: MHC-I

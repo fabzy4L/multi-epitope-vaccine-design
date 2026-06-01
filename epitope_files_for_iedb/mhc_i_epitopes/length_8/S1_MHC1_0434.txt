@@ -1,0 +1,5 @@
+>S1_MHC1_0434
+GNYNYLYR
+# Position: 434-441
+# Length: 8 amino acids
+# Type: MHC-I

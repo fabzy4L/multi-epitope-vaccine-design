@@ -1,0 +1,5 @@
+>S1_MHC1_1822
+PVAIHADQL
+# Position: 621-629
+# Length: 9 amino acids
+# Type: MHC-I

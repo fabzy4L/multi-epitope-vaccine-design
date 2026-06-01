@@ -1,0 +1,5 @@
+>S1_MHC1_0855
+FNGLTVLP
+# Position: 855-862
+# Length: 8 amino acids
+# Type: MHC-I

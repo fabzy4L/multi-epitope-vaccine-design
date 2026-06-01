@@ -1,0 +1,5 @@
+>S1_MHC1_0360
+NCVADYSV
+# Position: 360-367
+# Length: 8 amino acids
+# Type: MHC-I

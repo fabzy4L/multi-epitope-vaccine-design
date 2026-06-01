@@ -1,0 +1,5 @@
+>S1_MHC2_1116
+SNCVADYSVLYN
+# Position: 346-357
+# Length: 12 amino acids
+# Type: MHC-II

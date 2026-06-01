@@ -1,0 +1,5 @@
+>S1_MHC1_2276
+WTAGAAAYYVG
+# Position: 245-255
+# Length: 11 amino acids
+# Type: MHC-I

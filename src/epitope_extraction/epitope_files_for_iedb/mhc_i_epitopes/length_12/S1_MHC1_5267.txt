@@ -1,0 +1,5 @@
+>S1_MHC1_5267
+STEIYQAGSTPC
+# Position: 469-480
+# Length: 12 amino acids
+# Type: MHC-I

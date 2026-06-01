@@ -1,0 +1,5 @@
+>S1_MHC1_1497
+SEFRVYSSAN
+# Position: 142-151
+# Length: 10 amino acids
+# Type: MHC-I

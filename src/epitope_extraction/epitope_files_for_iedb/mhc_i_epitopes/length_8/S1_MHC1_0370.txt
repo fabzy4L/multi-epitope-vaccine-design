@@ -1,0 +1,5 @@
+>S1_MHC1_0370
+NSASFSTF
+# Position: 370-377
+# Length: 8 amino acids
+# Type: MHC-I

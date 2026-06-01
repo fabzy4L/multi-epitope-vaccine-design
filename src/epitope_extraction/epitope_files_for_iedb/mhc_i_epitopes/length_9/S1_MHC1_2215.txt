@@ -1,0 +1,5 @@
+>S1_MHC1_2215
+RAAEIRASA
+# Position: 1014-1022
+# Length: 9 amino acids
+# Type: MHC-I

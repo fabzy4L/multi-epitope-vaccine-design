@@ -1,0 +1,5 @@
+>S1_MHC1_5203
+DEVRQIAPGQTG
+# Position: 405-416
+# Length: 12 amino acids
+# Type: MHC-I

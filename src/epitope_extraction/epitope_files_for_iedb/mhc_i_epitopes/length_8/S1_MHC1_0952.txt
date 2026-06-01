@@ -1,0 +1,5 @@
+>S1_MHC1_0952
+VNQNAQAL
+# Position: 952-959
+# Length: 8 amino acids
+# Type: MHC-I

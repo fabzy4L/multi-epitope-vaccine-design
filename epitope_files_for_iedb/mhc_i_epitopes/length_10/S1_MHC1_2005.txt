@@ -1,0 +1,5 @@
+>S1_MHC1_2005
+DIPIGAGICA
+# Position: 650-659
+# Length: 10 amino acids
+# Type: MHC-I

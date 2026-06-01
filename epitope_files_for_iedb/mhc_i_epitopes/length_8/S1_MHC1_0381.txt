@@ -1,0 +1,5 @@
+>S1_MHC1_0381
+NVYADSFV
+# Position: 381-388
+# Length: 8 amino acids
+# Type: MHC-I

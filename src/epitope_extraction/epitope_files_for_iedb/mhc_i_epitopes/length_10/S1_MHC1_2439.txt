@@ -1,0 +1,5 @@
+>S1_MHC1_2439
+YPDKVFRSSV
+# Position: 38-47
+# Length: 10 amino acids
+# Type: MHC-I

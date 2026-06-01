@@ -1,0 +1,5 @@
+>S1_MHC1_2019
+IEDLLFNKV
+# Position: 818-826
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_3804
+YSKHTPINLVR
+# Position: 204-214
+# Length: 11 amino acids
+# Type: MHC-I

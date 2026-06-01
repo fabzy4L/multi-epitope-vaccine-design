@@ -1,0 +1,5 @@
+>S1_MHC1_0652
+GAEHVNNS
+# Position: 652-659
+# Length: 8 amino acids
+# Type: MHC-I

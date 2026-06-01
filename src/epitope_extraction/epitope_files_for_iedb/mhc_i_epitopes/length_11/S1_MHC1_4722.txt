@@ -1,0 +1,5 @@
+>S1_MHC1_4722
+VSGNCDVVIGI
+# Position: 1122-1132
+# Length: 11 amino acids
+# Type: MHC-I

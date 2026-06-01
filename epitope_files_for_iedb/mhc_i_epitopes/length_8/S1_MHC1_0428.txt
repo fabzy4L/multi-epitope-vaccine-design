@@ -1,0 +1,5 @@
+>S1_MHC1_0428
+LDSKVGGN
+# Position: 428-435
+# Length: 8 amino acids
+# Type: MHC-I

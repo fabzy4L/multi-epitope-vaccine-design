@@ -1,0 +1,5 @@
+>S1_MHC1_3560
+HTSPDVDLGD
+# Position: 1159-1168
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2655
+SSSGWTAGAA
+# Position: 254-263
+# Length: 10 amino acids
+# Type: MHC-I

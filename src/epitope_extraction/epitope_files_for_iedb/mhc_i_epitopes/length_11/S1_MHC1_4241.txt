@@ -1,0 +1,5 @@
+>S1_MHC1_4241
+NVFQTRAGCLI
+# Position: 641-651
+# Length: 11 amino acids
+# Type: MHC-I

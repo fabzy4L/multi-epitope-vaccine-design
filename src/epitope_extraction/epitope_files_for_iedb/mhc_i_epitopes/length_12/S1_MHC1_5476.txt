@@ -1,0 +1,5 @@
+>S1_MHC1_5476
+TNSPRRARSVAS
+# Position: 678-689
+# Length: 12 amino acids
+# Type: MHC-I

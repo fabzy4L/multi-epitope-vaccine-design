@@ -1,0 +1,5 @@
+>S1_MHC1_0092
+IFGTTLDS
+# Position: 92-99
+# Length: 8 amino acids
+# Type: MHC-I

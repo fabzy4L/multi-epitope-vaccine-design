@@ -1,0 +1,5 @@
+>S1_MHC1_2095
+LQIPFAMQM
+# Position: 894-902
+# Length: 9 amino acids
+# Type: MHC-I

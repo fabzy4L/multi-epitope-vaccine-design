@@ -1,0 +1,5 @@
+>S1_MHC1_4011
+APGQTGKIADY
+# Position: 411-421
+# Length: 11 amino acids
+# Type: MHC-I

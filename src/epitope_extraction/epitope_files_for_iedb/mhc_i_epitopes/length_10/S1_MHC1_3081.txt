@@ -1,0 +1,5 @@
+>S1_MHC1_3081
+SPRRARSVAS
+# Position: 680-689
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5023
+PLVDLPIGINIT
+# Position: 225-236
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4222
+VAIHADQLTPT
+# Position: 622-632
+# Length: 11 amino acids
+# Type: MHC-I

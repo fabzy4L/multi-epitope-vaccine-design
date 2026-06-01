@@ -1,0 +1,5 @@
+>S1_MHC1_0188
+NLREFVFK
+# Position: 188-195
+# Length: 8 amino acids
+# Type: MHC-I

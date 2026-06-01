@@ -1,0 +1,5 @@
+>S1_MHC1_3089
+YADSFVIRGDEV
+# Position: 383-394
+# Length: 12 amino acids
+# Type: MHC-I

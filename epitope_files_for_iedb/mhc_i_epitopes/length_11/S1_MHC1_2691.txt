@@ -1,0 +1,5 @@
+>S1_MHC1_2691
+SYQTQTNSPGS
+# Position: 660-670
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4463
+PLLTDEMIAQY
+# Position: 863-873
+# Length: 11 amino acids
+# Type: MHC-I

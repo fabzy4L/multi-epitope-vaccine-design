@@ -1,0 +1,5 @@
+>S1_MHC1_1293
+FASTEKSNI
+# Position: 92-100
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0460
+YQAGSTPC
+# Position: 460-467
+# Length: 8 amino acids
+# Type: MHC-I

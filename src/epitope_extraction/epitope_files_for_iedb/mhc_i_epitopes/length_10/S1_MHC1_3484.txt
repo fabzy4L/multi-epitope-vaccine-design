@@ -1,0 +1,5 @@
+>S1_MHC1_3484
+HDGKAHFPRE
+# Position: 1083-1092
+# Length: 10 amino acids
+# Type: MHC-I

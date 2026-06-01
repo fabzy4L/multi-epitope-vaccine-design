@@ -1,0 +1,5 @@
+>S1_MHC1_4481
+TITSGWTFGAG
+# Position: 881-891
+# Length: 11 amino acids
+# Type: MHC-I

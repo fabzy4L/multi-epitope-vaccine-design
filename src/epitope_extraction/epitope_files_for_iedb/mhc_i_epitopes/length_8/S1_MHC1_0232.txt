@@ -1,0 +1,5 @@
+>S1_MHC1_0232
+GINITRFQ
+# Position: 232-239
+# Length: 8 amino acids
+# Type: MHC-I

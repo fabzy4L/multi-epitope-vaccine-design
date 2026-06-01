@@ -1,0 +1,5 @@
+>S1_MHC1_3564
+DVDLGDISGI
+# Position: 1163-1172
+# Length: 10 amino acids
+# Type: MHC-I

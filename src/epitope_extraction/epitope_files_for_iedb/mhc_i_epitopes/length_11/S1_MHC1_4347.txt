@@ -1,0 +1,5 @@
+>S1_MHC1_4347
+TECSNLLLQYG
+# Position: 747-757
+# Length: 11 amino acids
+# Type: MHC-I

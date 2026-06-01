@@ -1,0 +1,5 @@
+>S1_MHC1_3622
+TQLPPAYTNSF
+# Position: 22-32
+# Length: 11 amino acids
+# Type: MHC-I

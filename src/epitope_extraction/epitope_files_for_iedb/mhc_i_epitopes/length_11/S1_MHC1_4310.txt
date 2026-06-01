@@ -1,0 +1,5 @@
+>S1_MHC1_4310
+NSIAIPTNFTI
+# Position: 710-720
+# Length: 11 amino acids
+# Type: MHC-I

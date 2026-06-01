@@ -1,0 +1,5 @@
+>S1_MHC1_0361
+CVADYSVL
+# Position: 361-368
+# Length: 8 amino acids
+# Type: MHC-I

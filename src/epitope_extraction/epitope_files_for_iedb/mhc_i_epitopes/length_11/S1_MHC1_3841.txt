@@ -1,0 +1,5 @@
+>S1_MHC1_3841
+LLALHRSYLTP
+# Position: 241-251
+# Length: 11 amino acids
+# Type: MHC-I

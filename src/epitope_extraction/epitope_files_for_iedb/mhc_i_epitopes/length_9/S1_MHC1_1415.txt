@@ -1,0 +1,5 @@
+>S1_MHC1_1415
+RDLPQGFSA
+# Position: 214-222
+# Length: 9 amino acids
+# Type: MHC-I

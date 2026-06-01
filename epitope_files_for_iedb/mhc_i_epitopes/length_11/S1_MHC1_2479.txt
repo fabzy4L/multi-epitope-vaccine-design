@@ -1,0 +1,5 @@
+>S1_MHC1_2479
+LKPFERDISTE
+# Position: 448-458
+# Length: 11 amino acids
+# Type: MHC-I

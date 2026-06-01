@@ -1,0 +1,5 @@
+>S1_MHC1_0038
+TQDLFLPF
+# Position: 38-45
+# Length: 8 amino acids
+# Type: MHC-I

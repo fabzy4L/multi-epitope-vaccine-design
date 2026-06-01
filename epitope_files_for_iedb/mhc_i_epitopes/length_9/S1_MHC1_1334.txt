@@ -1,0 +1,5 @@
+>S1_MHC1_1334
+GICASYQTQ
+# Position: 656-664
+# Length: 9 amino acids
+# Type: MHC-I

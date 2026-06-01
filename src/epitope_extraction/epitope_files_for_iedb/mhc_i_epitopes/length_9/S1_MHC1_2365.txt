@@ -1,0 +1,5 @@
+>S1_MHC1_2365
+VDLGDISGI
+# Position: 1164-1172
+# Length: 9 amino acids
+# Type: MHC-I

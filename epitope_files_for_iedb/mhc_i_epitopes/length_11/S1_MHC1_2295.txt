@@ -1,0 +1,5 @@
+>S1_MHC1_2295
+LKYNENGTITD
+# Position: 264-274
+# Length: 11 amino acids
+# Type: MHC-I

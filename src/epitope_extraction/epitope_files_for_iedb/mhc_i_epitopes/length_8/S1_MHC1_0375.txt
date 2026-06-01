@@ -1,0 +1,5 @@
+>S1_MHC1_0375
+STFKCYGV
+# Position: 375-382
+# Length: 8 amino acids
+# Type: MHC-I

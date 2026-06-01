@@ -1,0 +1,5 @@
+>S1_MHC1_0389
+IRGDEVRQ
+# Position: 389-396
+# Length: 8 amino acids
+# Type: MHC-I

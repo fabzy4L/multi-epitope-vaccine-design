@@ -1,0 +1,5 @@
+>S1_MHC1_4622
+ANLAATKMSEC
+# Position: 1022-1032
+# Length: 11 amino acids
+# Type: MHC-I

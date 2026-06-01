@@ -1,0 +1,5 @@
+>S1_MHC1_1232
+RDIADTTDA
+# Position: 554-562
+# Length: 9 amino acids
+# Type: MHC-I

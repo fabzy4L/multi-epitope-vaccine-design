@@ -1,0 +1,5 @@
+>S1_MHC1_3342
+TASALGKLQD
+# Position: 941-950
+# Length: 10 amino acids
+# Type: MHC-I

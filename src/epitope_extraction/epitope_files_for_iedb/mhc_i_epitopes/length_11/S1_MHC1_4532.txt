@@ -1,0 +1,5 @@
+>S1_MHC1_4532
+GKIQDSLSSTA
+# Position: 932-942
+# Length: 11 amino acids
+# Type: MHC-I

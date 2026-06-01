@@ -1,0 +1,5 @@
+>S1_MHC1_1106
+QRNFYEPQ
+# Position: 1106-1113
+# Length: 8 amino acids
+# Type: MHC-I

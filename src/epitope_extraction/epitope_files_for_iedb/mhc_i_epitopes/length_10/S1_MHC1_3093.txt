@@ -1,0 +1,5 @@
+>S1_MHC1_3093
+IIAYTMSLGA
+# Position: 692-701
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0205
+SKHTPINL
+# Position: 205-212
+# Length: 8 amino acids
+# Type: MHC-I

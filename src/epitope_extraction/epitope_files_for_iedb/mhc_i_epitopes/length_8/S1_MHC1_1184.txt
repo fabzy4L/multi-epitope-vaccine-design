@@ -1,0 +1,5 @@
+>S1_MHC1_1184
+DRLNEVAK
+# Position: 1184-1191
+# Length: 8 amino acids
+# Type: MHC-I

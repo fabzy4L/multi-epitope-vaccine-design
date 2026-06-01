@@ -1,0 +1,5 @@
+>S1_MHC1_3079
+TNSPRRARSV
+# Position: 678-687
+# Length: 10 amino acids
+# Type: MHC-I

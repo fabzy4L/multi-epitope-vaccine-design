@@ -1,0 +1,5 @@
+>S1_MHC1_2695
+DPLSETKCTL
+# Position: 294-303
+# Length: 10 amino acids
+# Type: MHC-I

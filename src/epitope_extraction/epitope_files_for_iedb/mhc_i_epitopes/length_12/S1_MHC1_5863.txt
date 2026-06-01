@@ -1,0 +1,5 @@
+>S1_MHC1_5863
+VTYVPAQEKNFT
+# Position: 1065-1076
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC2_2303
+SIVRFPNITNLCPFGEVFNA
+# Position: 325-344
+# Length: 20 amino acids
+# Type: MHC-II

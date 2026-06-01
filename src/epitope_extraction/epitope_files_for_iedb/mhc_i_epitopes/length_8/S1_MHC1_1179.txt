@@ -1,0 +1,5 @@
+>S1_MHC1_1179
+IQKEIDRL
+# Position: 1179-1186
+# Length: 8 amino acids
+# Type: MHC-I

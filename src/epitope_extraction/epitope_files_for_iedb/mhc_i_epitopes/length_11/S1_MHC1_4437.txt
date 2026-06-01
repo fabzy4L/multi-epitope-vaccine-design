@@ -1,0 +1,5 @@
+>S1_MHC1_4437
+YGDCLGDIAAR
+# Position: 837-847
+# Length: 11 amino acids
+# Type: MHC-I

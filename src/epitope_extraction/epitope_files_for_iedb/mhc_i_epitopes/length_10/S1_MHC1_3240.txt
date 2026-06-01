@@ -1,0 +1,5 @@
+>S1_MHC1_3240
+DCLGDIAARD
+# Position: 839-848
+# Length: 10 amino acids
+# Type: MHC-I

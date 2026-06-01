@@ -1,0 +1,5 @@
+>S1_MHC2_1253
+GSFCTQLNRALT
+# Position: 757-768
+# Length: 12 amino acids
+# Type: MHC-II

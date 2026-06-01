@@ -1,0 +1,5 @@
+>S1_MHC1_2044
+DIAARDLIC
+# Position: 843-851
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0388
+VIRGDEVR
+# Position: 388-395
+# Length: 8 amino acids
+# Type: MHC-I

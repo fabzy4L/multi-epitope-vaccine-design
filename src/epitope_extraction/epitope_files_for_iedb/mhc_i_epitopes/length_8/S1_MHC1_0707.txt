@@ -1,0 +1,5 @@
+>S1_MHC1_0707
+YSNNSIAI
+# Position: 707-714
+# Length: 8 amino acids
+# Type: MHC-I

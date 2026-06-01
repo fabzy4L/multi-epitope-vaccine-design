@@ -1,0 +1,5 @@
+>S1_MHC1_4202
+TNTSNQVAVLY
+# Position: 602-612
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1978
+NTQEVFAQV
+# Position: 777-785
+# Length: 9 amino acids
+# Type: MHC-I

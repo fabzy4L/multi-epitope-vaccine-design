@@ -1,0 +1,5 @@
+>S1_MHC1_1064
+HVTYVPAQ
+# Position: 1064-1071
+# Length: 8 amino acids
+# Type: MHC-I

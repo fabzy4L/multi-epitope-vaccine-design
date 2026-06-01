@@ -1,0 +1,5 @@
+>S1_MHC1_2150
+QDVVNQNAQ
+# Position: 949-957
+# Length: 9 amino acids
+# Type: MHC-I

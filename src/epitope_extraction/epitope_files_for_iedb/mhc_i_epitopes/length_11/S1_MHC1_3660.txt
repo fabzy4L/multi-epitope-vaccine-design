@@ -1,0 +1,5 @@
+>S1_MHC1_3660
+SNVTWFHAIHV
+# Position: 60-70
+# Length: 11 amino acids
+# Type: MHC-I

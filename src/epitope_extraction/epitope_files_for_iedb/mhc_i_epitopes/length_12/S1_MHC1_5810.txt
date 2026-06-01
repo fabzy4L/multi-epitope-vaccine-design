@@ -1,0 +1,5 @@
+>S1_MHC1_5810
+LIRAAEIRASAN
+# Position: 1012-1023
+# Length: 12 amino acids
+# Type: MHC-I

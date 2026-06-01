@@ -1,0 +1,5 @@
+>S1_MHC1_0737
+DCTMYICG
+# Position: 737-744
+# Length: 8 amino acids
+# Type: MHC-I

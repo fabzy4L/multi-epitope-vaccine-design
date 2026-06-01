@@ -1,0 +1,5 @@
+>S1_MHC1_3518
+TDNTFVSGNC
+# Position: 1117-1126
+# Length: 10 amino acids
+# Type: MHC-I

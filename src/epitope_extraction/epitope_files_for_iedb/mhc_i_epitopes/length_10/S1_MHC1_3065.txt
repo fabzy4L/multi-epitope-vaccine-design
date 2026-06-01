@@ -1,0 +1,5 @@
+>S1_MHC1_3065
+IPIGAGICAS
+# Position: 664-673
+# Length: 10 amino acids
+# Type: MHC-I

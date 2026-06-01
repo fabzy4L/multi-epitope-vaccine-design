@@ -1,0 +1,5 @@
+>S1_MHC1_4592
+QIDRLITGRLQ
+# Position: 992-1002
+# Length: 11 amino acids
+# Type: MHC-I

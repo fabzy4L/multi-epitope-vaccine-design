@@ -1,0 +1,5 @@
+>S1_MHC1_1167
+GDISGINA
+# Position: 1167-1174
+# Length: 8 amino acids
+# Type: MHC-I

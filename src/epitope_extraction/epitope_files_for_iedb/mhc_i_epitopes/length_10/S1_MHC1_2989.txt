@@ -1,0 +1,5 @@
+>S1_MHC1_2989
+TPCSFGGVSV
+# Position: 588-597
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_1916
+DAVRDPQTLE
+# Position: 561-570
+# Length: 10 amino acids
+# Type: MHC-I

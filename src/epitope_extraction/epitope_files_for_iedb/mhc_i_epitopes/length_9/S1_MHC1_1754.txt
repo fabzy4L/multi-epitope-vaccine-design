@@ -1,0 +1,5 @@
+>S1_MHC1_1754
+TESNKKFLP
+# Position: 553-561
+# Length: 9 amino acids
+# Type: MHC-I

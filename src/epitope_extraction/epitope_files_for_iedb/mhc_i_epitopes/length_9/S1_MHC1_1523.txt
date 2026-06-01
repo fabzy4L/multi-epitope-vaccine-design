@@ -1,0 +1,5 @@
+>S1_MHC1_1523
+PTESIVRFP
+# Position: 322-330
+# Length: 9 amino acids
+# Type: MHC-I

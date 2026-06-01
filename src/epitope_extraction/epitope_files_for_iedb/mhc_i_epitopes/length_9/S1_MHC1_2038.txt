@@ -1,0 +1,5 @@
+>S1_MHC1_2038
+YGDCLGDIA
+# Position: 837-845
+# Length: 9 amino acids
+# Type: MHC-I

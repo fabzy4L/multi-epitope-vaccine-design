@@ -1,0 +1,5 @@
+>S1_MHC1_5032
+NITRFQTLLALH
+# Position: 234-245
+# Length: 12 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2096
+QIPFAMQMA
+# Position: 895-903
+# Length: 9 amino acids
+# Type: MHC-I

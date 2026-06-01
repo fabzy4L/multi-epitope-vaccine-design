@@ -1,0 +1,5 @@
+>S1_MHC1_2386
+RLNEVAKNL
+# Position: 1185-1193
+# Length: 9 amino acids
+# Type: MHC-I

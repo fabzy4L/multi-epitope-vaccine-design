@@ -1,0 +1,5 @@
+>S1_MHC1_4469
+MIAQYTSALLA
+# Position: 869-879
+# Length: 11 amino acids
+# Type: MHC-I

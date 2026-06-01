@@ -1,0 +1,5 @@
+>S1_MHC1_2414
+SQCVNLTTRT
+# Position: 13-22
+# Length: 10 amino acids
+# Type: MHC-I

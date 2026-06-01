@@ -1,0 +1,5 @@
+>S1_MHC1_3272
+AQYTSALLAG
+# Position: 871-880
+# Length: 10 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_4891
+ASTEKSNIIRGW
+# Position: 93-104
+# Length: 12 amino acids
+# Type: MHC-I

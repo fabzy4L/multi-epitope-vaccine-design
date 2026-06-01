@@ -1,0 +1,5 @@
+>S1_MHC1_2271
+AQEKNFTTA
+# Position: 1070-1078
+# Length: 9 amino acids
+# Type: MHC-I

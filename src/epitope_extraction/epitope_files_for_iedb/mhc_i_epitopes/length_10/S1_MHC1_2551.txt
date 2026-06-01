@@ -1,0 +1,5 @@
+>S1_MHC1_2551
+KSWMESEFRF
+# Position: 150-159
+# Length: 10 amino acids
+# Type: MHC-I

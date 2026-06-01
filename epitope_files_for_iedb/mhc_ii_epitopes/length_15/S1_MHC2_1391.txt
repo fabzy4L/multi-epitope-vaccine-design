@@ -1,0 +1,5 @@
+>S1_MHC2_1391
+RVVVLSFELLHAPAT
+# Position: 496-510
+# Length: 15 amino acids
+# Type: MHC-II

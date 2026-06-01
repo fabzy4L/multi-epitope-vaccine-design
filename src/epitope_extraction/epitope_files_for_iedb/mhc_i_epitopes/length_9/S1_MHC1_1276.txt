@@ -1,0 +1,5 @@
+>S1_MHC1_1276
+GTKRFDNPV
+# Position: 75-83
+# Length: 9 amino acids
+# Type: MHC-I

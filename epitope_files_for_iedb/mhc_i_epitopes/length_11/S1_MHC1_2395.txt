@@ -1,0 +1,5 @@
+>S1_MHC1_2395
+FKCYGVSPTKL
+# Position: 364-374
+# Length: 11 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_0748
+VLPFNDGVY
+# Position: 70-78
+# Length: 9 amino acids
+# Type: MHC-I

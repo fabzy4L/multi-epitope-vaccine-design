@@ -1,0 +1,5 @@
+>S1_MHC1_1251
+DITPCSFGG
+# Position: 573-581
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_2987
+DPLSETKCTLKS
+# Position: 281-292
+# Length: 12 amino acids
+# Type: MHC-I

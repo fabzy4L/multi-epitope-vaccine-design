@@ -1,0 +1,5 @@
+>S1_MHC1_0988
+EAEVQIDR
+# Position: 988-995
+# Length: 8 amino acids
+# Type: MHC-I

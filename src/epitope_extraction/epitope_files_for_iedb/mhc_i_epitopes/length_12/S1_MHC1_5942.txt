@@ -1,0 +1,5 @@
+>S1_MHC1_5942
+ELDSFKEELDKY
+# Position: 1144-1155
+# Length: 12 amino acids
+# Type: MHC-I

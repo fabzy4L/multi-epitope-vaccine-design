@@ -1,0 +1,5 @@
+>S1_MHC1_4950
+WMESEFRFYSSA
+# Position: 152-163
+# Length: 12 amino acids
+# Type: MHC-I

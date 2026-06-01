@@ -1,0 +1,5 @@
+>S1_MHC1_3386
+DKVEAEVQID
+# Position: 985-994
+# Length: 10 amino acids
+# Type: MHC-I

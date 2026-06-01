@@ -1,0 +1,5 @@
+>S1_MHC1_2359
+NHTSPDVDL
+# Position: 1158-1166
+# Length: 9 amino acids
+# Type: MHC-I

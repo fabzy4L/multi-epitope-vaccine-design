@@ -1,0 +1,5 @@
+>S1_MHC1_1920
+TISVTTEIL
+# Position: 719-727
+# Length: 9 amino acids
+# Type: MHC-I

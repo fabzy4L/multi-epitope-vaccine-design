@@ -1,0 +1,5 @@
+>S1_MHC1_0060
+SNVTWFHA
+# Position: 60-67
+# Length: 8 amino acids
+# Type: MHC-I

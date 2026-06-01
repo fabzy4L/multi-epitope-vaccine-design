@@ -1,0 +1,5 @@
+>S1_MHC1_2275
+GWTAGAAAYYV
+# Position: 244-254
+# Length: 11 amino acids
+# Type: MHC-I

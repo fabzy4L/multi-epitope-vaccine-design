@@ -1,0 +1,5 @@
+>S1_MHC1_2307
+VDCALDPLSET
+# Position: 276-286
+# Length: 11 amino acids
+# Type: MHC-I

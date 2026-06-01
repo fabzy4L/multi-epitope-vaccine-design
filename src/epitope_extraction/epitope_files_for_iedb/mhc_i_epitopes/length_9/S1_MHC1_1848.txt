@@ -1,0 +1,5 @@
+>S1_MHC1_1848
+AGCLIGAEH
+# Position: 647-655
+# Length: 9 amino acids
+# Type: MHC-I

@@ -1,0 +1,5 @@
+>S1_MHC1_5941
+PELDSFKEELDK
+# Position: 1143-1154
+# Length: 12 amino acids
+# Type: MHC-I

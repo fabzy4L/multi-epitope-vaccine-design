@@ -1,0 +1,5 @@
+>S1_MHC1_1310
+TLDSKTQSL
+# Position: 109-117
+# Length: 9 amino acids
+# Type: MHC-I

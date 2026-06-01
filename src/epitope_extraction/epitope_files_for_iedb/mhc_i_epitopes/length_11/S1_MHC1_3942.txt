@@ -1,0 +1,5 @@
+>S1_MHC1_3942
+FNATRFASVYA
+# Position: 342-352
+# Length: 11 amino acids
+# Type: MHC-I

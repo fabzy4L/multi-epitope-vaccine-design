@@ -1,0 +1,5 @@
+>S1_MHC1_2915
+SFELLHAPAT
+# Position: 514-523
+# Length: 10 amino acids
+# Type: MHC-I

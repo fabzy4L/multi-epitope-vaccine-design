@@ -1,0 +1,5 @@
+>S1_MHC1_1716
+FSTFKCYGVS
+# Position: 361-370
+# Length: 10 amino acids
+# Type: MHC-I

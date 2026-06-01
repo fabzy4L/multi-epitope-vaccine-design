@@ -1,0 +1,5 @@
+>S1_MHC1_3407
+TYVTQQLIRA
+# Position: 1006-1015
+# Length: 10 amino acids
+# Type: MHC-I

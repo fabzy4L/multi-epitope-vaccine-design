@@ -1,0 +1,5 @@
+>S1_MHC1_4857
+FSNVTWFHAIHV
+# Position: 59-70
+# Length: 12 amino acids
+# Type: MHC-I
