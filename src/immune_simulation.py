@@ -5,8 +5,8 @@ Phase 9B — C-ImmSim Immune Simulation Analysis
 Parses and visualizes C-ImmSim output for a 3-dose immunization schedule
 of the v3.1 multi-epitope vaccine construct.
 
-C-ImmSim server: https://iimcb.genesilico.pl/cimsim/
-(formerly at cbs.dtu.dk — use the IIMCB mirror)
+C-ImmSim server: http://150.146.2.1/C-IMMSIM/submit.php  (CRS4, primary)
+IIMCB mirror (https://iimcb.genesilico.pl/cimsim/) is currently unavailable.
 
 After submission and download, place C-ImmSim CSV output at:
   results/immune_simulation/cimsim_results.csv
@@ -219,7 +219,8 @@ def run_immune_simulation():
     csv_path = SIM_DIR / "cimsim_results.csv"
     if not csv_path.exists():
         print(f"\nC-ImmSim results not found at {csv_path}")
-        print("Submit via C-ImmSim server — see results/immune_simulation/CIMSIM_SUBMISSION_GUIDE.md")
+        print("Server: http://150.146.2.1/C-IMMSIM/submit.php")
+        print("Guide:  results/immune_simulation/CIMSIM_SUBMISSION_GUIDE.md")
         print("\nv3.1 sequence for submission:")
         print(V3_1_SEQUENCE)
         return None

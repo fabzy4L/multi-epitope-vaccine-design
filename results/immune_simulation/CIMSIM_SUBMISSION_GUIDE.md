@@ -1,6 +1,7 @@
 # C-ImmSim Submission Guide — v3.1 Vaccine
 
-**Server:** https://iimcb.genesilico.pl/cimsim/
+**Primary server (CRS4, Italy):** http://150.146.2.1/C-IMMSIM/submit.php
+**Mirror (IIMCB):** https://iimcb.genesilico.pl/cimsim/ ← currently 404, use primary above
 
 ---
 
