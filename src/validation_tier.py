@@ -27,6 +27,7 @@ class ConstructMetadata:
     validation_tier: ValidationTier
     validation_methods_completed: List[str] = field(default_factory=list)
     validation_pending: List[str] = field(default_factory=list)
+    known_design_flags: List[str] = field(default_factory=list)
 
     def validation_label(self) -> str:
         """Returns publication-appropriate language for this construct's status."""
@@ -103,6 +104,38 @@ construct_v3 = ConstructMetadata(
     validation_pending=[
         "AlphaFold_structural", "solubility_prescreen",
         "HLA_binding_assay", "T_cell_activation_study", "animal_model"
+    ],
+    known_design_flags=[
+        # DESIGN DECISION — documented 2026-06-01
+        #
+        # VLSFELLHAPATVCG (4.06nM, HLA-DRB1*01:01) is the best MHC-II binder in the pipeline
+        # but is ABSENT from v3. Under the scoring formula it scored 17.64, higher than the
+        # two selected epitopes (17.28 and 11.75). Its exclusion was intentional:
+        # REASON: VLSFELLHAPATVCG contains a free cysteine at position 13 (PATVCG).
+        # Free cysteines in unstructured peptide constructs cause disulfide bond formation
+        # during E. coli expression and IMAC purification, resulting in insoluble aggregates.
+        # This is a known practical constraint in peptide subunit vaccine expression.
+        # ACTION REQUIRED: Before finalizing v3 for synthesis, evaluate cysteine capping
+        # (Cys->Ser substitution at position 13) and retest binding affinity in silico.
+        # A v4 construct with VLSFELL(S)APATVCG would restore DRB1*01:01 coverage.
+        "VLSFELLHAPATVCG_excluded: free cysteine at pos-13, expression/aggregation risk",
+
+        # MHC-II redundancy: both selected epitopes (QTLLALHRSYLTPGD, INITRFQTLLALHRS)
+        # share a 9-mer overlap (QTLLALHRS) and both target HLA-DRB1*15:01.
+        # v3 has NO coverage of HLA-DRB1*01:01 in its MHC-II region.
+        # This reduces effective allele diversity vs what the scoring intended.
+        "MHC-II_overlap: QTLLALHRS 9-mer shared between both MHC-II epitopes, both DRB1*15:01",
+
+        # YLQPRTFLL (4.30nM, HLA-A*02:01) is absent from v3.
+        # HLA-A*02:01 is the highest-frequency HLA allele globally (~30% prevalence).
+        # Its absence limits v3 population coverage relative to v1/v2.
+        "YLQPRTFLL_excluded: HLA-A*02:01 coverage gap, globally most prevalent allele",
+
+        # Structural anomaly: sequence between KK separator and first MHC-I epitope
+        # reads KKGPGPGKKLPFNDGVYF — a double-KK with GPGPG between them.
+        # This appears to be a manual construction artifact (KK appears at pos 69 and 76).
+        # Functional impact unknown; may affect proteasomal processing at the boundary.
+        "BOUNDARY_ARTIFACT: double-KK at MHC-II/MHC-I junction (pos 69+76), review needed",
     ],
 )
 
