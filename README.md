@@ -1,311 +1,190 @@
 # Multi-Epitope Vaccine Design Pipeline
 
-**A comprehensive computational framework for SARS-CoV-2 multi-epitope vaccine design using advanced immunoinformatics**
+**Computational immunoinformatics pipeline for SARS-CoV-2 multi-epitope vaccine design**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Status](https://img.shields.io/badge/status-publication--ready-green.svg)]()
+[![Status](https://img.shields.io/badge/status-bioRxiv--ready-green.svg)]()
 
-## 🧬 Overview
+**Fabian A. Alvarez-Primo, Ph.D.**
 
-This repository contains a complete computational pipeline for designing multi-epitope vaccines against SARS-CoV-2. The methodology integrates immunoinformatics tools, statistical analysis, and structural validation to identify optimal epitope candidates and design immunogenic vaccine constructs.
+---
 
-### Key Features
-- **Large-scale analysis**: Processes 44,359+ MHC binding predictions
-- **High selectivity**: 0.17% success rate identifies only strongest binders
-- **Multi-epitope design**: Combines MHC-I and MHC-II epitopes with optimized linkers
-- **Comprehensive validation**: Physicochemical, immunological, and structural analyses
-- **Full automation**: Reproducible pipeline with complete documentation
+## Overview
 
-## 🏆 Results Summary
+End-to-end computational pipeline for designing, scoring, and structurally validating multi-epitope peptide vaccine constructs against SARS-CoV-2. The pipeline processes 44,359 MHC binding predictions, applies a statistical scoring framework validated against 1,000 composition-matched decoys (KS p = 6.87 × 10⁻²⁴), and produces constructs with full proteasomal cleavage validation.
 
-- **74 high-affinity epitopes** identified from 4,274 candidates
-- **Sub-5nM binding affinities** achieved (best: 4.06nM)
-- **3 optimized vaccine constructs** designed (12.7-18.8 kDa)
-- **Publication-ready methodology** with comprehensive documentation
+**Lead construct: v3.1** — 142 amino acids, RS09 TLR4-agonist adjuvant, single KKGPGPG junction confirmed by NetChop C-term 3.0, synthesis gate cleared.
 
-### 📊 Key Visualizations
+---
 
-![Statistical Overview](results/figures/statistical_overview.png)
-*Comprehensive statistical analysis of 44,359 binding predictions*
+## Key Results
 
-![Binding Affinities](results/figures/binding_affinities.png)
-*Top epitope candidates with sub-10nM binding affinities*
+| Metric | Value |
+|---|---|
+| MHC binding predictions processed | 44,359 |
+| Strong binders identified | 74 (0.17% selectivity) |
+| Decoy benchmark | KS p = 6.87 × 10⁻²⁴ |
+| Best MHC-I epitope | RLFRKSNLK — HLA-A\*03:01, 4.82 nM |
+| Best MHC-II epitope (in construct) | QTLLALHRSYLTPGD — HLA-DRB1\*15:01, 9.87 nM |
+| AlphaFold mean pLDDT | 36.4 (inconclusive — expected for chimeric construct) |
+| RFdiffusion ensemble | 5/5 epitopes viable, mean confidence 0.941 (n=16) |
+| Lead construct | v3.1 — 142 aa, 15.1 kDa, pI 10.13, GRAVY −0.147 |
 
-## 🚀 Quick Start
+---
 
-### Prerequisites
-```bash
-# Python environment
-python >= 3.8
-pandas >= 1.3.0
-numpy >= 1.21.0
-biopython >= 1.79
+## Lead Construct: v3.1
+
+```
+>v3_1_single_kk — 142 aa
+MKKLLFAIPLVVPFYSHSGGGSAPPHALSGPGPGQTLLALHRSYLTPGD
+GPGPGINITRFQTLLALHRSKKGPGPGLPFNDGVYFAAYRLFRKSNLK
+AAYFPNITNLCPFAAYVLYNSASFSTFKGGGSPAPAPGSHHHHHH
 ```
 
-### Installation
+**Architecture:** `[Signal]-[RS09 adjuvant]-[MHC-II × 2]-[KKGPGPG]-[MHC-I × 4]-[His₆]`
+
+**v3 → v3.1:** An initial construct (v3) contained a KKGPGPGKK double-KK junction (residues 70–78). NetChop C-term 3.0 returned a maximum cleavage probability of 0.948 — above the 0.7 redesign threshold. The trailing KK was removed; v3.1 synthesis gate is cleared.
+
+**Expression note:** pI 10.13 → mammalian expression (HEK293) recommended over *E. coli*.
+
+---
+
+## Pipeline
+
+```
+SARS-CoV-2 S1 protein (685 aa)
+    ↓
+Sliding-window epitope generation (4,274 candidates)
+    ↓
+IEDB MHC prediction — NetMHCpan-4.1, NetMHCIIpan-4.0 (44,359 predictions)
+    ↓
+Statistical scoring + decoy benchmark (KS p = 6.87 × 10⁻²⁴)
+    ↓
+Construct design — RS09 adjuvant, GPGPG/AAY/KK linkers
+    ↓
+Solubility prescreen (ProtParam — GRAVY, pI, instability)
+    ↓
+AlphaFold2 structural prediction (ColabFold)
+    ↓
+RFdiffusion backbone modeling (n=16 ensemble)
+    ↓
+NetChop proteasomal cleavage validation → v3.1
+```
+
+---
+
+## Validation Table
+
+| Property | v1 | v2 | v3 | v3.1 (lead) |
+|---|---|---|---|---|
+| Length (aa) | 171 | 172 | 144 | **142** |
+| MW (kDa) | 15.0 | 15.1 | 15.3 | **15.1** |
+| Theoretical pI | 10.33 | 10.12 | 10.22 | **10.13** |
+| GRAVY | — | — | −0.199 | **−0.147** |
+| Synthesis gate | — | — | BLOCKED | **CLEARED** |
+
+---
+
+## Quick Start
+
 ```bash
-git clone https://github.com/[username]/multi-epitope-vaccine-design.git
+git clone https://github.com/fabzy4L/multi-epitope-vaccine-design.git
 cd multi-epitope-vaccine-design
 pip install -r requirements.txt
 ```
 
-### Basic Usage
 ```python
-# Run complete pipeline
-python run_pipeline.py
+# Scoring
+python src/scoring.py
 
-# Individual components
-python src/epitope_prediction/create_epitope_files.py
-python src/statistical_analysis/iedb_results_analyzer.py
-python src/construct_design/vaccine_constructor.py
+# Solubility prescreen
+python src/solubility_prescreen.py
+
+# NetChop junction analysis (requires NetChop CSV — see src/netchop_analysis.py)
+python src/netchop_analysis.py
+
+# Decoy benchmark
+python src/decoy_benchmark.py
 ```
 
-## 📊 Pipeline Architecture
-
-![Pipeline Architecture](results/figures/pipeline_architecture.png)
-*Complete computational workflow from SARS-CoV-2 S1 protein to validated vaccine constructs*
-
-## 📰 Featured Article
-
-📖 **[Revolutionizing Vaccine Design: An AI-Powered Approach to Multi-Epitope SARS-CoV-2 Vaccine Development](ARTICLE_Multi_Epitope_Vaccine_Design.md)**
-
-A comprehensive technical article covering:
-- Systematic methodology and innovation
-- Statistical analysis of 44,359 binding predictions  
-- Sub-5nM epitope discoveries and validation
-- Collaborative AI framework pioneering
-- Implications for pandemic preparedness
-
-## 📊 Pipeline Architecture
-
+```bash
+# Unit tests
+pytest tests/ -v
 ```
-SARS-CoV-2 S1 Protein (685 aa)
-         │
-         ▼
-   Epitope Generation (4,274 candidates)
-         │
-         ▼
-   IEDB MHC Prediction (44,359 predictions)
-         │
-         ▼
-   Statistical Analysis (74 strong binders)
-         │
-         ▼
-   Construct Design (3 optimized variants)
-         │
-         ▼
-   Validation & Structural Analysis
-```
-
-## 🔬 Methodology
-
-### 1. Epitope Prediction
-- **Source**: SARS-CoV-2 S1 protein (685 amino acids)
-- **Generation**: Systematic sliding window (8-20 residue lengths)
-- **Candidates**: 4,274 total epitopes (3,380 MHC-I + 894 MHC-II)
-
-### 2. MHC Binding Analysis
-- **Platform**: IEDB Analysis Resource (NetMHCpan-4.1, NetMHCIIpan-4.0)
-- **Alleles**: 19 HLA alleles covering >90% global population
-- **Predictions**: 44,359 binding predictions processed
-
-### 3. Statistical Selection
-- **Criteria**: IC50 < 50nM, Rank < 0.5% (MHC-I) / 1.0% (MHC-II)
-- **Results**: 74 strong binders (0.17% selectivity)
-- **Algorithm**: Combined scoring with population weighting
-
-### 4. Construct Design
-- **Architecture**: [Adjuvant]-[MHC-II]-[Separator]-[MHC-I]-[Tag]
-- **Linkers**: Literature-validated sequences (AAY, GPGPG, KK)
-- **Adjuvant**: RS09 TLR4 agonist peptide
-
-## 📁 Repository Structure
-
-```
-multi-epitope-vaccine-design/
-│
-├── README.md                          # This file
-├── METHODOLOGY.md                     # Complete academic methodology
-├── LICENSE                            # MIT license
-├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Git ignore rules
-│
-├── src/                              # Source code
-│   ├── epitope_prediction/           # Epitope generation
-│   ├── statistical_analysis/         # IEDB results processing
-│   ├── construct_design/             # Vaccine construct assembly
-│   ├── validation/                   # Physicochemical validation
-│   ├── structural_analysis/          # 3D structure and docking
-│   └── utils/                        # Shared utilities
-│
-├── data/                             # Input data
-│   ├── sequences/                    # Protein sequences
-│   └── structures/                   # PDB structures for docking
-│
-├── results/                          # Analysis outputs
-│   ├── epitope_predictions/          # IEDB results
-│   ├── construct_designs/            # Final vaccine constructs
-│   ├── validation_reports/           # Validation analyses
-│   └── figures/                      # Visualizations
-│
-├── docs/                             # Documentation
-│   ├── user_guide.md                # Usage instructions
-│   ├── api_reference.md             # Code documentation
-│   └── examples/                    # Tutorial notebooks
-│
-└── tests/                           # Unit tests
-    ├── test_epitope_prediction.py
-    ├── test_statistical_analysis.py
-    └── test_construct_design.py
-```
-
-## 🎯 Final Constructs
-
-### Recommended: Version 3 Optimized
-```
->Version_3_Optimized
-MKKLLFAIPLVVPFYSHSGGGSAPPHALSGPGPGQTLLALHRSYLTPGDGPGPGINITRFQTLLALHRS
-KKGPGPGKKLPFNDGVYFAAYRLFRKSNLKAAYFPNITNLCPFAAYVLYNSASFSTFKGGGSPAPAPGS
-HHHHHH
-```
-
-**Properties:**
-- Length: 144 amino acids
-- Molecular Weight: 12.7 kDa
-- Theoretical pI: 9.89
-- Stability: Excellent (Instability Index: 0.85)
-- Includes: Signal peptide + His-tag for purification
-
-## 📈 Validation Results
-
-| Construct | Length | MW (kDa) | pI | Stability | Recommendation |
-|-----------|--------|----------|----|-----------| ---------------|
-| Version 1 Standard | 171 | 15.0 | 10.33 | Stable | Good |
-| Version 2 Alternating | 172 | 15.1 | 10.12 | Stable | Good |
-| **Version 3 Optimized** | **144** | **12.7** | **9.89** | **Stable** | **⭐ Best** |
-
-## 🔧 Web Tool Integration
-
-### Supported External Tools
-- **VaxiJen v2.0**: Antigenicity prediction
-- **AllerTop v2.0**: Allergenicity screening
-- **ColabFold**: 3D structure prediction
-- **HDOCK**: Molecular docking simulation
-
-### Submission Files
-Pre-formatted files for web tool submissions available in `/results/web_submissions/`
-
-## 📊 Performance Metrics
-
-- **Processing Scale**: 44,359 binding predictions
-- **Selectivity**: 0.17% (publication-quality stringency)
-- **Success Rate**: 100% pipeline completion
-- **Runtime**: ~8 hours (fully automated)
-- **Reproducibility**: 100% (version-controlled pipeline)
-
-## 🤝 Collaborative AI Innovation
-
-This project demonstrates a pioneering **Claude + Gemini collaborative workflow**:
-- **50% efficiency improvement** through AI specialization
-- **Cross-validation protocols** for quality assurance
-- **Task optimization** for computational workflows
-
-## 🔬 Scientific Impact
-
-### Top Epitope Discoveries
-- **Best MHC-I**: RLFRKSNLK (4.82nM, HLA-A*03:01)
-- **Best MHC-II**: VLSFELLHAPATVCG (4.06nM, HLA-DRB1*01:01)
-
-### Population Coverage
-- **HLA Alleles**: 19 alleles covering major global populations
-- **Geographic Coverage**: Optimized for diverse populations
-- **Validation**: Cross-referenced with Allele Frequency Net
-
-## 📚 Documentation
-
-- **[Complete Methodology](METHODOLOGY.md)**: Academic-quality methods (9,000+ words)
-- **[User Guide](docs/user_guide.md)**: Step-by-step usage instructions
-- **[API Reference](docs/api_reference.md)**: Code documentation
-- **[Examples](docs/examples/)**: Tutorial notebooks and case studies
-
-## 🧪 Experimental Validation
-
-### Ready for Lab Testing
-- **HLA Binding Assays**: Selected epitopes ready for experimental validation
-- **T-cell Activation**: Constructs optimized for immunological assays
-- **Expression Systems**: Designed for E. coli, yeast, or mammalian expression
-
-### Next Steps
-1. **In vitro binding confirmation** using HLA multimers
-2. **T-cell activation assays** with PBMCs
-3. **Animal model testing** for immunogenicity
-4. **Clinical translation** pathway established
-
-## 🏅 Quality Assurance
-
-- **Code Quality**: Comprehensive unit tests
-- **Reproducibility**: Complete version control
-- **Documentation**: Academic-standard methodology
-- **Validation**: Multi-level quality checks
-
-## 📄 Citation
-
-If you use this pipeline in your research, please cite:
-
-```bibtex
-@software{alvarez_primo_2026_vaccine,
-  author       = {Alvarez-Primo, Fabian},
-  title        = {Multi-Epitope Vaccine Design Pipeline: SARS-CoV-2},
-  month        = jun,
-  year         = 2026,
-  publisher    = {GitHub},
-  url          = {https://github.com/[username]/multi-epitope-vaccine-design}
-}
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Areas for Contribution
-- Additional pathogen targets
-- New validation methods  
-- Performance optimizations
-- Documentation improvements
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **IEDB Team**: For the comprehensive immunoinformatics platform
-- **AlphaFold/DeepMind**: For revolutionary protein structure prediction
-- **Vaccine Design Community**: For established methodologies and benchmarks
-- **Open Source Contributors**: For tools and libraries that made this work possible
-
-## 📚 Key References
-
-- Zaman M et al. "Combined signals from TLR-2 and TLR-4 are necessary for optimal activation of naive CD4+ T cells by the peptide vaccine epitope." *Vaccine.* 2012. — **RS09 TLR4 adjuvant for peptide subunit vaccines**
-- Reynisson B et al. "NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data." *Nucleic Acids Research.* 2020.
-- Vita R et al. "The Immune Epitope Database (IEDB): 2018 update." *Nucleic Acids Research.* 2019.
-
-## 🔗 Links
-
-- **Documentation**: [Full Documentation](docs/)
-- **Issues**: [Report Issues](https://github.com/[username]/multi-epitope-vaccine-design/issues)
-- **Discussions**: [Community Discussions](https://github.com/[username]/multi-epitope-vaccine-design/discussions)
-
-## 📧 Contact
-
-**Fabian Alvarez-Primo, PhD**  
-Materials Science & Biomedical Engineering  
-📧 fpalvarez23@gmail.com  
-🐙 GitHub: [@fabzy4L](https://github.com/fabzy4L)
 
 ---
 
-⭐ **Star this repository** if you find it useful for your research!
+## Repository Structure
 
-**Status**: 🟢 Production Ready | 📚 Publication Quality | 🧪 Experimentally Validated Framework
+```
+src/
+  scoring.py                # Combined MHC scoring (log IC50, cysteine + allele diversity penalties)
+  validation_tier.py        # ConstructMetadata, DesignFlag, synthesis_cleared()
+  solubility_prescreen.py   # GRAVY, pI, instability index
+  decoy_benchmark.py        # KS test against composition-matched decoys
+  netchop_analysis.py       # Proteasomal cleavage analysis (auto-loads CSV)
+  rfdiffusion_analysis.py   # RFdiffusion ensemble scoring
+
+results/
+  netchop/                  # NetChop report, cleavage map, predictions CSV
+  alphafold/                # ColabFold run: 5 PDB models, score JSON, PAE/pLDDT plots
+  figures/                  # Visualizations
+
+tests/
+  test_scoring.py           # 9 unit tests — all passing
+```
+
+---
+
+## Known Design Flags (v3.1)
+
+| Flag | Severity | Blocks Synthesis | Summary |
+|---|---|---|---|
+| FLAG_01 | JUSTIFIED | No | VLSFELLHAPATVCG excluded — free Cys13, aggregation risk |
+| FLAG_02 | SCORING_ARTIFACT | No | Both MHC-II epitopes target DRB1\*15:01 — same-allele redundancy |
+| FLAG_03 | UNDOCUMENTED_GAP | No | HLA-A\*02:01 (~30% global) absent; YLQPRTFLL in pool but excluded |
+| FLAG_04 | RESOLVED | No | Double-KK junction redesigned → single KKGPGPG in v3.1 |
+
+---
+
+## Article
+
+**[Advancing Vaccine Design: An AI-Powered Approach to Multi-Epitope SARS-CoV-2 Vaccine Development](ARTICLE_Multi_Epitope_Vaccine_Design.md)**
+
+Covers full methodology, validation results, NetChop redesign rationale, limitations (FLAGS 01–03), and RS09 adjuvant citations.
+
+---
+
+## Related Work
+
+- **[sert-s438t-escitalopram](https://github.com/fabzy4L/sert-s438t-escitalopram)** — Computational pharmacology: AutoDock Vina docking of escitalopram against wild-type and S438T mutant hSERT. Companion to a forthcoming transcriptomics review on MDD/SZ/BD. Shares the same methodological theme: computational prediction + honest accounting of static-model limitations.
+
+---
+
+## References
+
+- Kim E, *et al.* (2025). Long-term immunity of a microneedle array patch of SARS-CoV-2 S1 subunit vaccine with RS09 adjuvant. *Vaccines*, 13(1), 86. https://doi.org/10.3390/vaccines13010086
+- Negahdaripour M, *et al.* (2017). Structural vaccinology considerations for in silico designing of a multi-epitope vaccine. *Infect. Genet. Evol.*, 58, 96–109. https://doi.org/10.1016/j.meegid.2017.12.008
+- Reynisson B, *et al.* (2020). NetMHCpan-4.1 and NetMHCIIpan-4.0. *Nucleic Acids Res.* https://doi.org/10.1093/nar/gkaa379
+
+---
+
+## Citation
+
+```bibtex
+@software{alvarez_primo_2026_vaccine,
+  author  = {Alvarez-Primo, Fabian},
+  title   = {Multi-Epitope Vaccine Design Pipeline: SARS-CoV-2},
+  year    = {2026},
+  url     = {https://github.com/fabzy4L/multi-epitope-vaccine-design}
+}
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE)
+
+## Contact
+
+**Fabian Alvarez-Primo, PhD** — fpalvarez23@gmail.com — [@fabzy4L](https://github.com/fabzy4L)
