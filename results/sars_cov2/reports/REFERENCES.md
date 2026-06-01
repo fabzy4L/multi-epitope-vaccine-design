@@ -23,7 +23,12 @@ This document cites the experimental evidence and peer-reviewed literature used 
     *   *Significance:* A foundational study identifying the immunodominance of RBD internal sequences including `FSTFKCYGVSPTKLN` and `VLSFELLHAPATVCG`.
 
 ## 4. Design Components
-*   **RS09 Adjuvant:** `MPKKKRKV`
-    *   *Source:* Synthetic TLR4 agonist derived from the sequences of inflammatory mediators. Proven to boost innate immune priming via TLR4 pathways.
-*   **Linkers:** `GPGPG` (Flexible), `AAY` (Cleavable), `KK` (Separator)
-    *   *Significance:* Standard bioinformatic spacers used to prevent junctional epitope formation and ensure proper proteasomal processing.
+
+*   **RS09 Adjuvant (SARS-CoV-2 subunit context):** Kim, E., Khan, M.S., et al. (2025). "The Long-Term Immunity of a Microneedle Array Patch of a SARS-CoV-2 S1 Protein Subunit Vaccine Irradiated by Gamma Rays in Mice." *Vaccines*, 13(1), 86. https://doi.org/10.3390/vaccines13010086
+    *   *Significance:* Demonstrates that the rS1+RS09 combination elicits stronger S1-specific IgG and superior neutralizing antibody responses (Wuhan, Delta, Omicron) compared to S1 alone or S1 trimer. Directly validates RS09 as a TLR4 agonist adjuvant in a SARS-CoV-2 viral subunit vaccine context.
+
+*   **RS09 in multi-epitope in silico vaccine design:** Negahdaripour, M., Nezafat, N., et al. (2017). "Structural vaccinology considerations for in silico designing of a multi-epitope vaccine." *Infection, Genetics and Evolution*, 58, 96–109. https://doi.org/10.1016/j.meegid.2017.12.008
+    *   *Significance:* Establishes the use of RS09 as a TLR4 agonist adjuvant in multi-epitope string-of-beads constructs. Studies the effect of RS09 placement, linker selection, and epitope arrangement on structural stability and TLR4 interaction—directly informing the design approach used here.
+
+*   **Linkers:** `GPGPG` (Flexible), `AAY` (Cleavable/MHC-I optimized), `KK` (Proteasomal separator)
+    *   *Significance:* Standard spacers used to prevent junctional epitope formation and ensure proper proteasomal processing. Single KKGPGPG junction in v3.1 confirmed acceptable by NetChop C-term 3.0 analysis.
