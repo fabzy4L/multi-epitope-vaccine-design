@@ -1,5 +1,0 @@
->S1_MHC1_2526
-YRVVVLSFELL
-# Position: 495-505
-# Length: 11 amino acids
-# Type: MHC-I

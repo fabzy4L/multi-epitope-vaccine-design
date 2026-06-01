@@ -1,5 +1,0 @@
->S1_MHC2_1573
-SPTKLNDLCFTNVYADSF
-# Position: 370-387
-# Length: 18 amino acids
-# Type: MHC-II

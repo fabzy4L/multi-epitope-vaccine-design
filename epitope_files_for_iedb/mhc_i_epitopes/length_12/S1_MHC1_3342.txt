@@ -1,5 +1,0 @@
->S1_MHC1_3342
-CLIGAEHVNNSY
-# Position: 636-647
-# Length: 12 amino acids
-# Type: MHC-I

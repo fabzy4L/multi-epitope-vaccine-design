@@ -1,5 +1,0 @@
->S1_MHC1_0351
-DYSVLYNS
-# Position: 351-358
-# Length: 8 amino acids
-# Type: MHC-I

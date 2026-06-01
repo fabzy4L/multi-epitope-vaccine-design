@@ -1,5 +1,0 @@
->S1_MHC1_1800
-KSNLKPFERD
-# Position: 445-454
-# Length: 10 amino acids
-# Type: MHC-I

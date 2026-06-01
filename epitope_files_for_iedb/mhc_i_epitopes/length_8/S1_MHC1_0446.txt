@@ -1,5 +1,0 @@
->S1_MHC1_0446
-SNLKPFER
-# Position: 446-453
-# Length: 8 amino acids
-# Type: MHC-I

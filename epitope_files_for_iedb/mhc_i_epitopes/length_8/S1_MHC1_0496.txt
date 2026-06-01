@@ -1,5 +1,0 @@
->S1_MHC1_0496
-RVVVLSFE
-# Position: 496-503
-# Length: 8 amino acids
-# Type: MHC-I

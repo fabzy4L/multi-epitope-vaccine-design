@@ -1,5 +1,0 @@
->S1_MHC1_0985
-VQPTESIVR
-# Position: 307-315
-# Length: 9 amino acids
-# Type: MHC-I

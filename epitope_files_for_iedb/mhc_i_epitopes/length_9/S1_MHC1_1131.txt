@@ -1,5 +1,0 @@
->S1_MHC1_1131
-RDISTEIYQ
-# Position: 453-461
-# Length: 9 amino acids
-# Type: MHC-I

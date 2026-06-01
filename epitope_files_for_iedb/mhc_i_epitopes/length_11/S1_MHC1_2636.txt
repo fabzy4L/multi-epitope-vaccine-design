@@ -1,5 +1,0 @@
->S1_MHC1_2636
-TEVPVAIHADQ
-# Position: 605-615
-# Length: 11 amino acids
-# Type: MHC-I

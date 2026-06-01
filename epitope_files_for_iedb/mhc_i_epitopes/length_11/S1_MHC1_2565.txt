@@ -1,5 +1,0 @@
->S1_MHC1_2565
-TGTGVLTESNK
-# Position: 534-544
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1075
-IAPGQTGKI
-# Position: 397-405
-# Length: 9 amino acids
-# Type: MHC-I

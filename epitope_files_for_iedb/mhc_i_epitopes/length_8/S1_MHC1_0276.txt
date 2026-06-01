@@ -1,5 +1,0 @@
->S1_MHC1_0276
-VDCALDPL
-# Position: 276-283
-# Length: 8 amino acids
-# Type: MHC-I

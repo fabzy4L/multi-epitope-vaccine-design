@@ -1,5 +1,0 @@
->S1_MHC2_1720
-SEFRVYSSANNCTFEYVSQP
-# Position: 142-161
-# Length: 20 amino acids
-# Type: MHC-II

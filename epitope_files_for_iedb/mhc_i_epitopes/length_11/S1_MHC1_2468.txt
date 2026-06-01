@@ -1,5 +1,0 @@
->S1_MHC1_2468
-NYLYRLFRKSN
-# Position: 437-447
-# Length: 11 amino acids
-# Type: MHC-I

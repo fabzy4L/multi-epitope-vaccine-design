@@ -1,5 +1,0 @@
->S1_MHC1_0235
-YLTPGDSS
-# Position: 235-242
-# Length: 8 amino acids
-# Type: MHC-I

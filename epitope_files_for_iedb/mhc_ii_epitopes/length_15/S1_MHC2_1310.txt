@@ -1,5 +1,0 @@
->S1_MHC2_1310
-YVGYLQPRTFLLKYN
-# Position: 253-267
-# Length: 15 amino acids
-# Type: MHC-II

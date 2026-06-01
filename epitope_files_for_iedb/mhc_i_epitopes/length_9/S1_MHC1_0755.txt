@@ -1,5 +1,0 @@
->S1_MHC1_0755
-VYFASTEKS
-# Position: 77-85
-# Length: 9 amino acids
-# Type: MHC-I

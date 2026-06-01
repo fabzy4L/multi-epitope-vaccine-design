@@ -1,5 +1,0 @@
->S1_MHC1_2609
-SFGGVSVITPG
-# Position: 578-588
-# Length: 11 amino acids
-# Type: MHC-I

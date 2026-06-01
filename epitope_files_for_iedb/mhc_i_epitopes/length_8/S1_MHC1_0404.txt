@@ -1,5 +1,0 @@
->S1_MHC1_0404
-KIADYNYK
-# Position: 404-411
-# Length: 8 amino acids
-# Type: MHC-I

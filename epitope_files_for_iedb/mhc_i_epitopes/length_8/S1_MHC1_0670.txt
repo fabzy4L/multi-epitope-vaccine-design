@@ -1,5 +1,0 @@
->S1_MHC1_0670
-SASSVASQ
-# Position: 670-677
-# Length: 8 amino acids
-# Type: MHC-I

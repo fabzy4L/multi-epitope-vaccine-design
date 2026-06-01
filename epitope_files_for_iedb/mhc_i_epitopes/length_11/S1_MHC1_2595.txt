@@ -1,5 +1,0 @@
->S1_MHC1_2595
-RDPQTLEILDI
-# Position: 564-574
-# Length: 11 amino acids
-# Type: MHC-I

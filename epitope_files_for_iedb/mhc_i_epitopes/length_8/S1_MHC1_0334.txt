@@ -1,5 +1,0 @@
->S1_MHC1_0334
-FASVYAWN
-# Position: 334-341
-# Length: 8 amino acids
-# Type: MHC-I

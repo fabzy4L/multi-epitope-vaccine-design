@@ -1,5 +1,0 @@
->S1_MHC2_1375
-LKPFERDISTEIYQA
-# Position: 448-462
-# Length: 15 amino acids
-# Type: MHC-II

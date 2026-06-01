@@ -1,5 +1,0 @@
->S1_MHC1_0860
-KNIDGYFKI
-# Position: 182-190
-# Length: 9 amino acids
-# Type: MHC-I

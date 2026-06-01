@@ -1,5 +1,0 @@
->S1_MHC1_0387
-FVIRGDEV
-# Position: 387-394
-# Length: 8 amino acids
-# Type: MHC-I

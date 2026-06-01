@@ -1,5 +1,0 @@
->S1_MHC1_2238
-FSALEPLVDLP
-# Position: 207-217
-# Length: 11 amino acids
-# Type: MHC-I

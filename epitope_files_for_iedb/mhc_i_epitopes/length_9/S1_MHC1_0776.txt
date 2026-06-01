@@ -1,5 +1,0 @@
->S1_MHC1_0776
-DSKTQSLLI
-# Position: 98-106
-# Length: 9 amino acids
-# Type: MHC-I

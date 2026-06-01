@@ -1,5 +1,0 @@
->S1_MHC1_0340
-WNRKRISN
-# Position: 340-347
-# Length: 8 amino acids
-# Type: MHC-I

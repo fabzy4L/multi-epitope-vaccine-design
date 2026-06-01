@@ -1,5 +1,0 @@
->S1_MHC2_1316
-TITDAVDCALDPLSE
-# Position: 271-285
-# Length: 15 amino acids
-# Type: MHC-II

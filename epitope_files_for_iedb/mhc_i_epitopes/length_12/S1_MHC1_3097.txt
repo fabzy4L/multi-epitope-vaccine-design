@@ -1,5 +1,0 @@
->S1_MHC1_3097
-GDEVRQIAPGQT
-# Position: 391-402
-# Length: 12 amino acids
-# Type: MHC-I

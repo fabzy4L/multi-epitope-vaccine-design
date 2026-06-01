@@ -1,5 +1,0 @@
->S1_MHC1_2917
-EPLVDLPIGINI
-# Position: 211-222
-# Length: 12 amino acids
-# Type: MHC-I

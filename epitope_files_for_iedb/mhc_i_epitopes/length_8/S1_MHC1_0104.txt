@@ -1,5 +1,0 @@
->S1_MHC1_0104
-LLIVNNAT
-# Position: 104-111
-# Length: 8 amino acids
-# Type: MHC-I

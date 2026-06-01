@@ -1,5 +1,0 @@
->S1_MHC1_0625
-TGSNVFQT
-# Position: 625-632
-# Length: 8 amino acids
-# Type: MHC-I

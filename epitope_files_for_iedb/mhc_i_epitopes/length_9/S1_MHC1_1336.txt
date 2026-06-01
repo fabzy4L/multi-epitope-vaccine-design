@@ -1,5 +1,0 @@
->S1_MHC1_1336
-CASYQTQTN
-# Position: 658-666
-# Length: 9 amino acids
-# Type: MHC-I

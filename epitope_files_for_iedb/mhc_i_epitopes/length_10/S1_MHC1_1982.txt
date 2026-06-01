@@ -1,5 +1,0 @@
->S1_MHC1_1982
-SNVFQTRAGC
-# Position: 627-636
-# Length: 10 amino acids
-# Type: MHC-I

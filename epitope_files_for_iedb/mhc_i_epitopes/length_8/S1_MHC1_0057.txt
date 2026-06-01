@@ -1,5 +1,0 @@
->S1_MHC1_0057
-VSGTNGTK
-# Position: 57-64
-# Length: 8 amino acids
-# Type: MHC-I

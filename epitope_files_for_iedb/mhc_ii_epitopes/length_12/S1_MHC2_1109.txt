@@ -1,5 +1,0 @@
->S1_MHC2_1109
-FGEVFNATRFAS
-# Position: 325-336
-# Length: 12 amino acids
-# Type: MHC-II

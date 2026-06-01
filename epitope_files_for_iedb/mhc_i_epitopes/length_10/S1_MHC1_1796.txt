@@ -1,5 +1,0 @@
->S1_MHC1_1796
-RLFRKSNLKP
-# Position: 441-450
-# Length: 10 amino acids
-# Type: MHC-I

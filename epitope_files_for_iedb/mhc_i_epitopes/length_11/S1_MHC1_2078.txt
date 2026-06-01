@@ -1,5 +1,0 @@
->S1_MHC1_2078
-SNVTWFHAIHV
-# Position: 47-57
-# Length: 11 amino acids
-# Type: MHC-I

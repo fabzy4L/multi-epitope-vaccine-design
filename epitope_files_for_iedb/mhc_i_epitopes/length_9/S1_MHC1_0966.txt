@@ -1,5 +1,0 @@
->S1_MHC1_0966
-CTLKSFTVE
-# Position: 288-296
-# Length: 9 amino acids
-# Type: MHC-I

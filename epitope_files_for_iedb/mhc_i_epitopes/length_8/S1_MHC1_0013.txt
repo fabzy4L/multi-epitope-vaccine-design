@@ -1,5 +1,0 @@
->S1_MHC1_0013
-PAYTNSFT
-# Position: 13-20
-# Length: 8 amino acids
-# Type: MHC-I

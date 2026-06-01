@@ -1,5 +1,0 @@
->S1_MHC1_0672
-SSVASQSI
-# Position: 672-679
-# Length: 8 amino acids
-# Type: MHC-I

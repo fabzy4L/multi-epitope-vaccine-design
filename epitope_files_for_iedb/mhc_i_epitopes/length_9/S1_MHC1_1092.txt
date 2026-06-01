@@ -1,5 +1,0 @@
->S1_MHC1_1092
-DDFTGCVIA
-# Position: 414-422
-# Length: 9 amino acids
-# Type: MHC-I

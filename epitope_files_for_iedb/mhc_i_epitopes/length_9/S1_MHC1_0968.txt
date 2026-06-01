@@ -1,5 +1,0 @@
->S1_MHC1_0968
-LKSFTVEKG
-# Position: 290-298
-# Length: 9 amino acids
-# Type: MHC-I

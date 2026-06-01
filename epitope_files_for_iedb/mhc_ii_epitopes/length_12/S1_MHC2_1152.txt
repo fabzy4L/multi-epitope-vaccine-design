@@ -1,5 +1,0 @@
->S1_MHC2_1152
-DISTEIYQAGST
-# Position: 454-465
-# Length: 12 amino acids
-# Type: MHC-II

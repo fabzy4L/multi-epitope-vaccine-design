@@ -1,5 +1,0 @@
->S1_MHC1_2787
-STEKSNIIRGWI
-# Position: 81-92
-# Length: 12 amino acids
-# Type: MHC-I

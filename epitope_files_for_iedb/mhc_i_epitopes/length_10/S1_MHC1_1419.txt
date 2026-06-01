@@ -1,5 +1,0 @@
->S1_MHC1_1419
-KRFDNPVLPF
-# Position: 64-73
-# Length: 10 amino acids
-# Type: MHC-I

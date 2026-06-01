@@ -1,5 +1,0 @@
->S1_MHC1_3344
-IGAEHVNNSYEC
-# Position: 638-649
-# Length: 12 amino acids
-# Type: MHC-I

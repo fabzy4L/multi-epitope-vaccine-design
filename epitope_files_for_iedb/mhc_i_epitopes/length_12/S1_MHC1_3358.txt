@@ -1,5 +1,0 @@
->S1_MHC1_3358
-PIGAGICASYQT
-# Position: 652-663
-# Length: 12 amino acids
-# Type: MHC-I

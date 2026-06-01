@@ -1,5 +1,0 @@
->S1_MHC1_0141
-ESEFRVYS
-# Position: 141-148
-# Length: 8 amino acids
-# Type: MHC-I

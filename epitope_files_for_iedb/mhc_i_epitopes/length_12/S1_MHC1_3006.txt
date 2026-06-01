@@ -1,5 +1,0 @@
->S1_MHC1_3006
-YQTSNFRVQPTE
-# Position: 300-311
-# Length: 12 amino acids
-# Type: MHC-I

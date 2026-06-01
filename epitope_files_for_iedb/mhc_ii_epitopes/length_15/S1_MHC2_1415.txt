@@ -1,5 +1,0 @@
->S1_MHC2_1415
-TLEILDITPCSFGGV
-# Position: 568-582
-# Length: 15 amino acids
-# Type: MHC-II

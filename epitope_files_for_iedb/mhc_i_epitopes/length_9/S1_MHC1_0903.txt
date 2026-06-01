@@ -1,5 +1,0 @@
->S1_MHC1_0903
-FQTLLALHR
-# Position: 225-233
-# Length: 9 amino acids
-# Type: MHC-I

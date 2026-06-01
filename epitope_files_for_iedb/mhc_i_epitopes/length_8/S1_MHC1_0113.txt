@@ -1,5 +1,0 @@
->S1_MHC1_0113
-VVIKVCEF
-# Position: 113-120
-# Length: 8 amino acids
-# Type: MHC-I

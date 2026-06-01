@@ -1,5 +1,0 @@
->S1_MHC1_1114
-YNYLYRLFR
-# Position: 436-444
-# Length: 9 amino acids
-# Type: MHC-I

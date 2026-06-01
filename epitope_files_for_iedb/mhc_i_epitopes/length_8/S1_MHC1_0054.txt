@@ -1,5 +1,0 @@
->S1_MHC1_0054
-AIHVSGTN
-# Position: 54-61
-# Length: 8 amino acids
-# Type: MHC-I

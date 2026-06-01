@@ -1,5 +1,0 @@
->S1_MHC1_1668
-IVRFPNITNL
-# Position: 313-322
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0439
-LYRLFRKS
-# Position: 439-446
-# Length: 8 amino acids
-# Type: MHC-I

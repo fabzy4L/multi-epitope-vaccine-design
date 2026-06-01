@@ -1,5 +1,0 @@
->S1_MHC1_0278
-CALDPLSE
-# Position: 278-285
-# Length: 8 amino acids
-# Type: MHC-I

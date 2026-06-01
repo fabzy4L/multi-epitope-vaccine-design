@@ -1,5 +1,0 @@
->S1_MHC1_0301
-QTSNFRVQ
-# Position: 301-308
-# Length: 8 amino acids
-# Type: MHC-I

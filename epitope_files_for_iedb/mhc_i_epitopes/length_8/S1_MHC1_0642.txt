@@ -1,5 +1,0 @@
->S1_MHC1_0642
-HVNNSYEC
-# Position: 642-649
-# Length: 8 amino acids
-# Type: MHC-I

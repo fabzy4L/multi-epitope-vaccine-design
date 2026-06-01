@@ -1,5 +1,0 @@
->S1_MHC1_1488
-HKNNKSWMES
-# Position: 133-142
-# Length: 10 amino acids
-# Type: MHC-I

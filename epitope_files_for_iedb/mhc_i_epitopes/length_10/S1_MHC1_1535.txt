@@ -1,5 +1,0 @@
->S1_MHC1_1535
-VFKNIDGYFK
-# Position: 180-189
-# Length: 10 amino acids
-# Type: MHC-I

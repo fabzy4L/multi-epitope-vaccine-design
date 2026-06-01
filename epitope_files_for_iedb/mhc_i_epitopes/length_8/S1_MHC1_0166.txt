@@ -1,5 +1,0 @@
->S1_MHC1_0166
-LEGKQGNF
-# Position: 166-173
-# Length: 8 amino acids
-# Type: MHC-I

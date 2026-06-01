@@ -1,5 +1,0 @@
->S1_MHC2_1437
-AGCLIGAEHVNNSYE
-# Position: 634-648
-# Length: 15 amino acids
-# Type: MHC-II

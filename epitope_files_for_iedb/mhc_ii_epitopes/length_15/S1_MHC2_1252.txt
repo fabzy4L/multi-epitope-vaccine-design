@@ -1,5 +1,0 @@
->S1_MHC2_1252
-FASTEKSNIIRGWIF
-# Position: 79-93
-# Length: 15 amino acids
-# Type: MHC-II

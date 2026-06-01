@@ -1,5 +1,0 @@
->S1_MHC1_2068
-STQDLFLPFFS
-# Position: 37-47
-# Length: 11 amino acids
-# Type: MHC-I

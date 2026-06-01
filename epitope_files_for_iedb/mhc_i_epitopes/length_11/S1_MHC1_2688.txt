@@ -1,5 +1,0 @@
->S1_MHC1_2688
-ICASYQTQTNS
-# Position: 657-667
-# Length: 11 amino acids
-# Type: MHC-I

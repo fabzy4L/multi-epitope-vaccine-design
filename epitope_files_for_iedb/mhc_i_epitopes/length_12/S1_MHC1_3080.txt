@@ -1,5 +1,0 @@
->S1_MHC1_3080
-LNDLCFTNVYAD
-# Position: 374-385
-# Length: 12 amino acids
-# Type: MHC-I

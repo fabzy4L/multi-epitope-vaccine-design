@@ -1,5 +1,0 @@
->S1_MHC1_1999
-NNSYECDIPI
-# Position: 644-653
-# Length: 10 amino acids
-# Type: MHC-I

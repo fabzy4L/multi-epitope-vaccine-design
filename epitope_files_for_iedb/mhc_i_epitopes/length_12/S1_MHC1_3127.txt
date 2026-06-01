@@ -1,5 +1,0 @@
->S1_MHC1_3127
-IAWNSNNLDSKV
-# Position: 421-432
-# Length: 12 amino acids
-# Type: MHC-I

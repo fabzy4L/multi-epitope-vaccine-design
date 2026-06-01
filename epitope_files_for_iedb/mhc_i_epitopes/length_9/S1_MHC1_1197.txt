@@ -1,5 +1,0 @@
->S1_MHC1_1197
-NLVKNKCVN
-# Position: 519-527
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0995
-PNITNLCPF
-# Position: 317-325
-# Length: 9 amino acids
-# Type: MHC-I

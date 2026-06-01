@@ -1,5 +1,0 @@
->S1_MHC1_2642
-IHADQLTPTWR
-# Position: 611-621
-# Length: 11 amino acids
-# Type: MHC-I

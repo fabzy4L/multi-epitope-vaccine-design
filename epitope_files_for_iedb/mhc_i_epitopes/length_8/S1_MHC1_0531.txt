@@ -1,5 +1,0 @@
->S1_MHC1_0531
-NGLTGTGV
-# Position: 531-538
-# Length: 8 amino acids
-# Type: MHC-I

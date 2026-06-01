@@ -1,5 +1,0 @@
->S1_MHC1_0386
-SFVIRGDE
-# Position: 386-393
-# Length: 8 amino acids
-# Type: MHC-I

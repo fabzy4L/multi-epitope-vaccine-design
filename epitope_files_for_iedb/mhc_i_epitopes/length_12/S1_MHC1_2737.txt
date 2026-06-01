@@ -1,5 +1,0 @@
->S1_MHC1_2737
-RSSVLHSTQDLF
-# Position: 31-42
-# Length: 12 amino acids
-# Type: MHC-I

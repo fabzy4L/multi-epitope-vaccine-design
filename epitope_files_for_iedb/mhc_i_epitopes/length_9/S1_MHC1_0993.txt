@@ -1,5 +1,0 @@
->S1_MHC1_0993
-RFPNITNLC
-# Position: 315-323
-# Length: 9 amino acids
-# Type: MHC-I

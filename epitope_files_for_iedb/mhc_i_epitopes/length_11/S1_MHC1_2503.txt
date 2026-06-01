@@ -1,5 +1,0 @@
->S1_MHC1_2503
-GFNCYFPLQSY
-# Position: 472-482
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1434
-FASTEKSNII
-# Position: 79-88
-# Length: 10 amino acids
-# Type: MHC-I

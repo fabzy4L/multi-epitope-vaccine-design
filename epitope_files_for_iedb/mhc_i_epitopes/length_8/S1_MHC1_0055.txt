@@ -1,5 +1,0 @@
->S1_MHC1_0055
-IHVSGTNG
-# Position: 55-62
-# Length: 8 amino acids
-# Type: MHC-I

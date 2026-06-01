@@ -1,5 +1,0 @@
->S1_MHC1_0070
-VLPFNDGV
-# Position: 70-77
-# Length: 8 amino acids
-# Type: MHC-I

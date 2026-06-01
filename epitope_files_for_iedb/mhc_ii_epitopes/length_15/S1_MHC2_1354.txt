@@ -1,5 +1,0 @@
->S1_MHC2_1354
-DSFVIRGDEVRQIAP
-# Position: 385-399
-# Length: 15 amino acids
-# Type: MHC-II

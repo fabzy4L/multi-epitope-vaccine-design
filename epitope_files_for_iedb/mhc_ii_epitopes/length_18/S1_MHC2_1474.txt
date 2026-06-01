@@ -1,5 +1,0 @@
->S1_MHC2_1474
-FNDGVYFASTEKSNIIRG
-# Position: 73-90
-# Length: 18 amino acids
-# Type: MHC-II

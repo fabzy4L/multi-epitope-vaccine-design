@@ -1,5 +1,0 @@
->S1_MHC1_2004
-CDIPIGAGIC
-# Position: 649-658
-# Length: 10 amino acids
-# Type: MHC-I

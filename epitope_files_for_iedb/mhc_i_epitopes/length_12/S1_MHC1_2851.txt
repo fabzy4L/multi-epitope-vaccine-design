@@ -1,5 +1,0 @@
->S1_MHC1_2851
-RVYSSANNCTFE
-# Position: 145-156
-# Length: 12 amino acids
-# Type: MHC-I

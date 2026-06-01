@@ -1,5 +1,0 @@
->S1_MHC1_1974
-TWRVYSTGSN
-# Position: 619-628
-# Length: 10 amino acids
-# Type: MHC-I

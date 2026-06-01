@@ -1,5 +1,0 @@
->S1_MHC1_1190
-CGPKKSTNL
-# Position: 512-520
-# Length: 9 amino acids
-# Type: MHC-I

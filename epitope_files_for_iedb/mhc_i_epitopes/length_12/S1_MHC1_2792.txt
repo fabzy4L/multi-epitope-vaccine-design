@@ -1,5 +1,0 @@
->S1_MHC1_2792
-NIIRGWIFGTTL
-# Position: 86-97
-# Length: 12 amino acids
-# Type: MHC-I

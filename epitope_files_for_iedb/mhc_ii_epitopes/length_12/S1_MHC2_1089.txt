@@ -1,5 +1,0 @@
->S1_MHC2_1089
-KYNENGTITDAV
-# Position: 265-276
-# Length: 12 amino acids
-# Type: MHC-II

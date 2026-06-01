@@ -1,5 +1,0 @@
->S1_MHC1_0177
-REFVFKNI
-# Position: 177-184
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1088
-FLLKYNENGTIT
-# Position: 262-273
-# Length: 12 amino acids
-# Type: MHC-II

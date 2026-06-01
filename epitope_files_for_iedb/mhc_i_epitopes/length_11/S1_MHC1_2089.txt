@@ -1,5 +1,0 @@
->S1_MHC1_2089
-SGTNGTKRFDN
-# Position: 58-68
-# Length: 11 amino acids
-# Type: MHC-I

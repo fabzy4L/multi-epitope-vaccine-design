@@ -1,5 +1,0 @@
->S1_MHC1_0262
-FLLKYNEN
-# Position: 262-269
-# Length: 8 amino acids
-# Type: MHC-I

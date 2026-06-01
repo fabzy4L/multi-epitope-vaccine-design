@@ -1,5 +1,0 @@
->S1_MHC1_3153
-NLKPFERDISTE
-# Position: 447-458
-# Length: 12 amino acids
-# Type: MHC-I

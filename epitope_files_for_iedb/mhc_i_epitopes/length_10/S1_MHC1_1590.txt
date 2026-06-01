@@ -1,5 +1,0 @@
->S1_MHC1_1590
-YLTPGDSSSG
-# Position: 235-244
-# Length: 10 amino acids
-# Type: MHC-I

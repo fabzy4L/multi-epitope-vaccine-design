@@ -1,5 +1,0 @@
->S1_MHC1_2405
-LNDLCFTNVYA
-# Position: 374-384
-# Length: 11 amino acids
-# Type: MHC-I

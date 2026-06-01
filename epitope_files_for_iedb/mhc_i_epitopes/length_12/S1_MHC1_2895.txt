@@ -1,5 +1,0 @@
->S1_MHC1_2895
-KIYSKHTPINLV
-# Position: 189-200
-# Length: 12 amino acids
-# Type: MHC-I

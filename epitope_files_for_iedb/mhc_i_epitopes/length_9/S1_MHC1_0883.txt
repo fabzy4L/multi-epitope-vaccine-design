@@ -1,5 +1,0 @@
->S1_MHC1_0883
-QGFSALEPL
-# Position: 205-213
-# Length: 9 amino acids
-# Type: MHC-I

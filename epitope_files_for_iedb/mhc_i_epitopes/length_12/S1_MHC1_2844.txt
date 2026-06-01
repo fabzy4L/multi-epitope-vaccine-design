@@ -1,5 +1,0 @@
->S1_MHC1_2844
-SWMESEFRVYSS
-# Position: 138-149
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1393
-TQDLFLPFFS
-# Position: 38-47
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0455
-ISTEIYQA
-# Position: 455-462
-# Length: 8 amino acids
-# Type: MHC-I

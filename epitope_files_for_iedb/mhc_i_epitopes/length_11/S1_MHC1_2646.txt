@@ -1,5 +1,0 @@
->S1_MHC1_2646
-QLTPTWRVYST
-# Position: 615-625
-# Length: 11 amino acids
-# Type: MHC-I

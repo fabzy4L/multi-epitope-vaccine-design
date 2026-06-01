@@ -1,5 +1,0 @@
->S1_MHC1_2979
-TDAVDCALDPLS
-# Position: 273-284
-# Length: 12 amino acids
-# Type: MHC-I

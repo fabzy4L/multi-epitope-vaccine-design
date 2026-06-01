@@ -1,5 +1,0 @@
->S1_MHC1_1421
-FDNPVLPFND
-# Position: 66-75
-# Length: 10 amino acids
-# Type: MHC-I

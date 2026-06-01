@@ -1,5 +1,0 @@
->S1_MHC1_0669
-GSASSVAS
-# Position: 669-676
-# Length: 8 amino acids
-# Type: MHC-I

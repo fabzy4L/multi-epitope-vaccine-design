@@ -1,5 +1,0 @@
->S1_MHC1_0150
-ANNCTFEY
-# Position: 150-157
-# Length: 8 amino acids
-# Type: MHC-I

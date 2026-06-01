@@ -1,5 +1,0 @@
->S1_MHC1_0954
-VDCALDPLS
-# Position: 276-284
-# Length: 9 amino acids
-# Type: MHC-I

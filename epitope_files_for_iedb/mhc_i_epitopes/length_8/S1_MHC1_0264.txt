@@ -1,5 +1,0 @@
->S1_MHC1_0264
-LKYNENGT
-# Position: 264-271
-# Length: 8 amino acids
-# Type: MHC-I

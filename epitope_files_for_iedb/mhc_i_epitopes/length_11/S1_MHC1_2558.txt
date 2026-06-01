@@ -1,5 +1,0 @@
->S1_MHC1_2558
-NFNFNGLTGTG
-# Position: 527-537
-# Length: 11 amino acids
-# Type: MHC-I

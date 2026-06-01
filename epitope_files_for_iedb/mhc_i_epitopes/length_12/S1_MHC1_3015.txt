@@ -1,5 +1,0 @@
->S1_MHC1_3015
-PTESIVRFPNIT
-# Position: 309-320
-# Length: 12 amino acids
-# Type: MHC-I

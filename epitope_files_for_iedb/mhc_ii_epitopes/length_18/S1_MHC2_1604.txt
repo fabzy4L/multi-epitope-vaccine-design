@@ -1,5 +1,0 @@
->S1_MHC2_1604
-GSTPCNGVEGFNCYFPLQ
-# Position: 463-480
-# Length: 18 amino acids
-# Type: MHC-II

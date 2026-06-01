@@ -1,5 +1,0 @@
->S1_MHC1_1967
-HADQLTPTWR
-# Position: 612-621
-# Length: 10 amino acids
-# Type: MHC-I

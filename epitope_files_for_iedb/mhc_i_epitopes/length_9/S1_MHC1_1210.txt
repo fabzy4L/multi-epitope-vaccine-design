@@ -1,5 +1,0 @@
->S1_MHC1_1210
-GLTGTGVLT
-# Position: 532-540
-# Length: 9 amino acids
-# Type: MHC-I

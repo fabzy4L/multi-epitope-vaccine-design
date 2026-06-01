@@ -1,5 +1,0 @@
->S1_MHC2_1785
-VYAWNRKRISNCVADYSVLY
-# Position: 337-356
-# Length: 20 amino acids
-# Type: MHC-II

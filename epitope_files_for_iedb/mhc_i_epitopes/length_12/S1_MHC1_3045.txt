@@ -1,5 +1,0 @@
->S1_MHC1_3045
-AWNRKRISNCVA
-# Position: 339-350
-# Length: 12 amino acids
-# Type: MHC-I

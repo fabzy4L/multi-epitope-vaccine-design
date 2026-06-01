@@ -1,5 +1,0 @@
->S1_MHC1_0538
-VLTESNKK
-# Position: 538-545
-# Length: 8 amino acids
-# Type: MHC-I

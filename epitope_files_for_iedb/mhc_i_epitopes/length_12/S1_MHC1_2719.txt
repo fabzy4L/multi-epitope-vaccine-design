@@ -1,5 +1,0 @@
->S1_MHC1_2719
-PAYTNSFTRGVY
-# Position: 13-24
-# Length: 12 amino acids
-# Type: MHC-I

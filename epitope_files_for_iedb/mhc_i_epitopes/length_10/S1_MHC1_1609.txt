@@ -1,5 +1,0 @@
->S1_MHC1_1609
-VGYLQPRTFL
-# Position: 254-263
-# Length: 10 amino acids
-# Type: MHC-I

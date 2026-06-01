@@ -1,5 +1,0 @@
->S1_MHC2_1451
-NLTTRTQLPPAYTNSFTR
-# Position: 4-21
-# Length: 18 amino acids
-# Type: MHC-II

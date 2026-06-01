@@ -1,5 +1,0 @@
->S1_MHC1_0171
-GNFKNLRE
-# Position: 171-178
-# Length: 8 amino acids
-# Type: MHC-I

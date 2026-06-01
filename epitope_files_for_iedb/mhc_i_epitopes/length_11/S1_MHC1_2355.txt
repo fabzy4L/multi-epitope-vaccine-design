@@ -1,5 +1,0 @@
->S1_MHC1_2355
-PFGEVFNATRF
-# Position: 324-334
-# Length: 11 amino acids
-# Type: MHC-I

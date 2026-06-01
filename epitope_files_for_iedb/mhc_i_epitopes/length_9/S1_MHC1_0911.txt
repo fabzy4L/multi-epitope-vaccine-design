@@ -1,5 +1,0 @@
->S1_MHC1_0911
-RSYLTPGDS
-# Position: 233-241
-# Length: 9 amino acids
-# Type: MHC-I

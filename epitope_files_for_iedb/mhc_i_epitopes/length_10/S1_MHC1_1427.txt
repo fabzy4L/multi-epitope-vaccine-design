@@ -1,5 +1,0 @@
->S1_MHC1_1427
-PFNDGVYFAS
-# Position: 72-81
-# Length: 10 amino acids
-# Type: MHC-I

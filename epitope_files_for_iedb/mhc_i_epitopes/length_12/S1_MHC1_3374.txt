@@ -1,5 +1,0 @@
->S1_MHC1_3374
-PGSASSVASQSI
-# Position: 668-679
-# Length: 12 amino acids
-# Type: MHC-I

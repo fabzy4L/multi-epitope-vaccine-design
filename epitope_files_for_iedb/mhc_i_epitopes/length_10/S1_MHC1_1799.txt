@@ -1,5 +1,0 @@
->S1_MHC1_1799
-RKSNLKPFER
-# Position: 444-453
-# Length: 10 amino acids
-# Type: MHC-I

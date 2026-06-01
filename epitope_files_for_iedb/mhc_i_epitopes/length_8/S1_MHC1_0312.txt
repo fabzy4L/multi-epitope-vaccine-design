@@ -1,5 +1,0 @@
->S1_MHC1_0312
-SIVRFPNI
-# Position: 312-319
-# Length: 8 amino acids
-# Type: MHC-I

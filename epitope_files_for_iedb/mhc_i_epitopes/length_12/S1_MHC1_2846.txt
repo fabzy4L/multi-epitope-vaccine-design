@@ -1,5 +1,0 @@
->S1_MHC1_2846
-MESEFRVYSSAN
-# Position: 140-151
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1981
-GSNVFQTRAG
-# Position: 626-635
-# Length: 10 amino acids
-# Type: MHC-I

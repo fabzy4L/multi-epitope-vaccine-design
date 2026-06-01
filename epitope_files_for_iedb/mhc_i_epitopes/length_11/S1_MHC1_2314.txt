@@ -1,5 +1,0 @@
->S1_MHC1_2314
-LSETKCTLKSF
-# Position: 283-293
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1725
-SPTKLNDLCF
-# Position: 370-379
-# Length: 10 amino acids
-# Type: MHC-I

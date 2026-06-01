@@ -1,5 +1,0 @@
->S1_MHC1_0725
-SNVTWFHAI
-# Position: 47-55
-# Length: 9 amino acids
-# Type: MHC-I

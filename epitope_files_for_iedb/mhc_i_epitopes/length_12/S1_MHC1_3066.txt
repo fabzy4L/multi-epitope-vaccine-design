@@ -1,5 +1,0 @@
->S1_MHC1_3066
-SFSTFKCYGVSP
-# Position: 360-371
-# Length: 12 amino acids
-# Type: MHC-I

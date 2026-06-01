@@ -1,5 +1,0 @@
->S1_MHC2_1317
-DAVDCALDPLSETKC
-# Position: 274-288
-# Length: 15 amino acids
-# Type: MHC-II

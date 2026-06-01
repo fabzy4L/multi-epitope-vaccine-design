@@ -1,5 +1,0 @@
->S1_MHC1_2954
-GAAAYYVGYLQP
-# Position: 248-259
-# Length: 12 amino acids
-# Type: MHC-I

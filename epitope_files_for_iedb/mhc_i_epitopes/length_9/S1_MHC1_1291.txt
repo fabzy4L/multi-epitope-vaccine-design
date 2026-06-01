@@ -1,5 +1,0 @@
->S1_MHC1_1291
-ADQLTPTWR
-# Position: 613-621
-# Length: 9 amino acids
-# Type: MHC-I

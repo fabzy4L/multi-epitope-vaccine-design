@@ -1,5 +1,0 @@
->S1_MHC1_1548
-KHTPINLVRD
-# Position: 193-202
-# Length: 10 amino acids
-# Type: MHC-I

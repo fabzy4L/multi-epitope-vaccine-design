@@ -1,5 +1,0 @@
->S1_MHC1_0544
-KKFLPFQQ
-# Position: 544-551
-# Length: 8 amino acids
-# Type: MHC-I

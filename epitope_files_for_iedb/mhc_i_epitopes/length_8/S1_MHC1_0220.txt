@@ -1,5 +1,0 @@
->S1_MHC1_0220
-INITRFQT
-# Position: 220-227
-# Length: 8 amino acids
-# Type: MHC-I

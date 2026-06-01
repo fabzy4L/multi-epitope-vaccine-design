@@ -1,5 +1,0 @@
->S1_MHC1_0871
-KHTPINLVR
-# Position: 193-201
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3109
-GKIADYNYKLPD
-# Position: 403-414
-# Length: 12 amino acids
-# Type: MHC-I

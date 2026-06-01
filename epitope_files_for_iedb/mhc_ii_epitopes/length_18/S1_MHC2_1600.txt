@@ -1,5 +1,0 @@
->S1_MHC2_1600
-FERDISTEIYQAGSTPCN
-# Position: 451-468
-# Length: 18 amino acids
-# Type: MHC-II

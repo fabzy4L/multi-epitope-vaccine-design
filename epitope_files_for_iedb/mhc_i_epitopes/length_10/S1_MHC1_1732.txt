@@ -1,5 +1,0 @@
->S1_MHC1_1732
-LCFTNVYADS
-# Position: 377-386
-# Length: 10 amino acids
-# Type: MHC-I

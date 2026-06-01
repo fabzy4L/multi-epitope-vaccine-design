@@ -1,5 +1,0 @@
->S1_MHC1_0588
-GTNTSNQV
-# Position: 588-595
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1324
-SYECDIPIG
-# Position: 646-654
-# Length: 9 amino acids
-# Type: MHC-I

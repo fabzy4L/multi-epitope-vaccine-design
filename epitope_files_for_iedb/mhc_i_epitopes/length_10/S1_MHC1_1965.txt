@@ -1,5 +1,0 @@
->S1_MHC1_1965
-AIHADQLTPT
-# Position: 610-619
-# Length: 10 amino acids
-# Type: MHC-I

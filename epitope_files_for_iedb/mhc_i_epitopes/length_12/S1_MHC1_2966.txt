@@ -1,5 +1,0 @@
->S1_MHC1_2966
-RTFLLKYNENGT
-# Position: 260-271
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1952
-VLYQDVNCTE
-# Position: 597-606
-# Length: 10 amino acids
-# Type: MHC-I

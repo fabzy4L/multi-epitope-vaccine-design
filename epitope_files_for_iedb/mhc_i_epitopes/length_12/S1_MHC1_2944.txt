@@ -1,5 +1,0 @@
->S1_MHC1_2944
-PGDSSSGWTAGA
-# Position: 238-249
-# Length: 12 amino acids
-# Type: MHC-I

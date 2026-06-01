@@ -1,5 +1,0 @@
->S1_MHC1_3111
-IADYNYKLPDDF
-# Position: 405-416
-# Length: 12 amino acids
-# Type: MHC-I

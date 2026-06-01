@@ -1,5 +1,0 @@
->S1_MHC1_0621
-RVYSTGSN
-# Position: 621-628
-# Length: 8 amino acids
-# Type: MHC-I

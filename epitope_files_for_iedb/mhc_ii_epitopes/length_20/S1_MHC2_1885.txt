@@ -1,5 +1,0 @@
->S1_MHC2_1885
-LIGAEHVNNSYECDIPIGAG
-# Position: 637-656
-# Length: 20 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_0913
-YLTPGDSSS
-# Position: 235-243
-# Length: 9 amino acids
-# Type: MHC-I

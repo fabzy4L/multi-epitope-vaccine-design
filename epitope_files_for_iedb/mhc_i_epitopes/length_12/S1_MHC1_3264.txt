@@ -1,5 +1,0 @@
->S1_MHC1_3264
-DTTDAVRDPQTL
-# Position: 558-569
-# Length: 12 amino acids
-# Type: MHC-I

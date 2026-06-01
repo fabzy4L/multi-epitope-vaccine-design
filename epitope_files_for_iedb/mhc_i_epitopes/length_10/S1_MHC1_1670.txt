@@ -1,5 +1,0 @@
->S1_MHC1_1670
-RFPNITNLCP
-# Position: 315-324
-# Length: 10 amino acids
-# Type: MHC-I

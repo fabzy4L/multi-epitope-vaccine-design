@@ -1,5 +1,0 @@
->S1_MHC1_0123
-CNDPFLGV
-# Position: 123-130
-# Length: 8 amino acids
-# Type: MHC-I

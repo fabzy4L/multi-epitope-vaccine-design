@@ -1,5 +1,0 @@
->S1_MHC1_1731
-DLCFTNVYAD
-# Position: 376-385
-# Length: 10 amino acids
-# Type: MHC-I

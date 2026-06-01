@@ -1,5 +1,0 @@
->S1_MHC1_2065
-VLHSTQDLFLP
-# Position: 34-44
-# Length: 11 amino acids
-# Type: MHC-I

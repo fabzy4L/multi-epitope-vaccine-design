@@ -1,5 +1,0 @@
->S1_MHC1_1919
-RDPQTLEILD
-# Position: 564-573
-# Length: 10 amino acids
-# Type: MHC-I

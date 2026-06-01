@@ -1,5 +1,0 @@
->S1_MHC1_0268
-ENGTITDA
-# Position: 268-275
-# Length: 8 amino acids
-# Type: MHC-I

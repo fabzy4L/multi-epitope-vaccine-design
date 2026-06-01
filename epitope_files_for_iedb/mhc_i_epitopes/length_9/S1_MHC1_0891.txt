@@ -1,5 +1,0 @@
->S1_MHC1_0891
-LVDLPIGIN
-# Position: 213-221
-# Length: 9 amino acids
-# Type: MHC-I

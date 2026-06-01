@@ -1,5 +1,0 @@
->S1_MHC1_3302
-AVLYQDVNCTEV
-# Position: 596-607
-# Length: 12 amino acids
-# Type: MHC-I

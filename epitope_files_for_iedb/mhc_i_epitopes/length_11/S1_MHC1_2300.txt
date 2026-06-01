@@ -1,5 +1,0 @@
->S1_MHC1_2300
-NGTITDAVDCA
-# Position: 269-279
-# Length: 11 amino acids
-# Type: MHC-I

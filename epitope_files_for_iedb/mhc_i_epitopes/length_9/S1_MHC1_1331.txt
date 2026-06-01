@@ -1,5 +1,0 @@
->S1_MHC1_1331
-IGAGICASY
-# Position: 653-661
-# Length: 9 amino acids
-# Type: MHC-I

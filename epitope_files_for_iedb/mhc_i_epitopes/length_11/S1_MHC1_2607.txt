@@ -1,5 +1,0 @@
->S1_MHC1_2607
-PCSFGGVSVIT
-# Position: 576-586
-# Length: 11 amino acids
-# Type: MHC-I

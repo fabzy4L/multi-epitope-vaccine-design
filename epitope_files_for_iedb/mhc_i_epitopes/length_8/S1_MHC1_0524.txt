@@ -1,5 +1,0 @@
->S1_MHC1_0524
-KCVNFNFN
-# Position: 524-531
-# Length: 8 amino acids
-# Type: MHC-I

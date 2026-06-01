@@ -1,5 +1,0 @@
->S1_MHC1_0144
-FRVYSSAN
-# Position: 144-151
-# Length: 8 amino acids
-# Type: MHC-I

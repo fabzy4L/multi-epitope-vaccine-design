@@ -1,5 +1,0 @@
->S1_MHC1_1719
-FKCYGVSPTK
-# Position: 364-373
-# Length: 10 amino acids
-# Type: MHC-I

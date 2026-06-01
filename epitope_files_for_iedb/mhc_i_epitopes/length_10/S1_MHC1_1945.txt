@@ -1,5 +1,0 @@
->S1_MHC1_1945
-NTSNQVAVLY
-# Position: 590-599
-# Length: 10 amino acids
-# Type: MHC-I

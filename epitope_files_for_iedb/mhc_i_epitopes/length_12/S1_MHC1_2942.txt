@@ -1,5 +1,0 @@
->S1_MHC1_2942
-LTPGDSSSGWTA
-# Position: 236-247
-# Length: 12 amino acids
-# Type: MHC-I

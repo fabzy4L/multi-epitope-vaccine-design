@@ -1,5 +1,0 @@
->S1_MHC1_0242
-SSGWTAGA
-# Position: 242-249
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1857
-FELLHAPATV
-# Position: 502-511
-# Length: 10 amino acids
-# Type: MHC-I

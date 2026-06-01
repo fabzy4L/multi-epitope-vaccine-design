@@ -1,5 +1,0 @@
->S1_MHC1_3027
-NLCPFGEVFNAT
-# Position: 321-332
-# Length: 12 amino acids
-# Type: MHC-I

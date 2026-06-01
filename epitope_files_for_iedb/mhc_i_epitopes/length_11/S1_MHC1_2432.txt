@@ -1,5 +1,0 @@
->S1_MHC1_2432
-QTGKIADYNYK
-# Position: 401-411
-# Length: 11 amino acids
-# Type: MHC-I

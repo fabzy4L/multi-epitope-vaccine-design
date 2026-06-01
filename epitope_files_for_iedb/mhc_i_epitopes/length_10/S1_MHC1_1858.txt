@@ -1,5 +1,0 @@
->S1_MHC1_1858
-ELLHAPATVC
-# Position: 503-512
-# Length: 10 amino acids
-# Type: MHC-I

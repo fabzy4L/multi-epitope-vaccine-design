@@ -1,5 +1,0 @@
->S1_MHC1_0869
-YSKHTPINL
-# Position: 191-199
-# Length: 9 amino acids
-# Type: MHC-I

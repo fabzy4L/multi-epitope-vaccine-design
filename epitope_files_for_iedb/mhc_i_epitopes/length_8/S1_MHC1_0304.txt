@@ -1,5 +1,0 @@
->S1_MHC1_0304
-NFRVQPTE
-# Position: 304-311
-# Length: 8 amino acids
-# Type: MHC-I

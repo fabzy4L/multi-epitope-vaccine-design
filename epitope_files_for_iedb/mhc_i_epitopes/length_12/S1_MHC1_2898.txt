@@ -1,5 +1,0 @@
->S1_MHC1_2898
-SKHTPINLVRDL
-# Position: 192-203
-# Length: 12 amino acids
-# Type: MHC-I

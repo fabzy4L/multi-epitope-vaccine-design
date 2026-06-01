@@ -1,5 +1,0 @@
->S1_MHC1_1688
-RFASVYAWNR
-# Position: 333-342
-# Length: 10 amino acids
-# Type: MHC-I

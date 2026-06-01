@@ -1,5 +1,0 @@
->S1_MHC1_2975
-NGTITDAVDCAL
-# Position: 269-280
-# Length: 12 amino acids
-# Type: MHC-I

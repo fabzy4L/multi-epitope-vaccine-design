@@ -1,5 +1,0 @@
->S1_MHC1_3056
-ADYSVLYNSASF
-# Position: 350-361
-# Length: 12 amino acids
-# Type: MHC-I

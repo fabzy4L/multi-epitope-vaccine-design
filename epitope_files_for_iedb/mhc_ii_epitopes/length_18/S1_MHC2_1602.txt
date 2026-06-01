@@ -1,5 +1,0 @@
->S1_MHC2_1602
-TEIYQAGSTPCNGVEGFN
-# Position: 457-474
-# Length: 18 amino acids
-# Type: MHC-II

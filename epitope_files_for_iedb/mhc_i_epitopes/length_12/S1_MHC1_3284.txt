@@ -1,5 +1,0 @@
->S1_MHC1_3284
-SFGGVSVITPGT
-# Position: 578-589
-# Length: 12 amino acids
-# Type: MHC-I

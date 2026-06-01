@@ -1,5 +1,0 @@
->S1_MHC1_0093
-FGTTLDSK
-# Position: 93-100
-# Length: 8 amino acids
-# Type: MHC-I

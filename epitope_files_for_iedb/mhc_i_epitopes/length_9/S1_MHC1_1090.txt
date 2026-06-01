@@ -1,5 +1,0 @@
->S1_MHC1_1090
-LPDDFTGCV
-# Position: 412-420
-# Length: 9 amino acids
-# Type: MHC-I

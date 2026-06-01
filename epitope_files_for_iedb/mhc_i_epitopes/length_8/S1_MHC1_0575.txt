@@ -1,5 +1,0 @@
->S1_MHC1_0575
-TPCSFGGV
-# Position: 575-582
-# Length: 8 amino acids
-# Type: MHC-I

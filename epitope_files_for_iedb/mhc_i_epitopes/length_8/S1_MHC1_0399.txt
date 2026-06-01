@@ -1,5 +1,0 @@
->S1_MHC1_0399
-PGQTGKIA
-# Position: 399-406
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0824
-VYSSANNCT
-# Position: 146-154
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1804
-KPFERDISTE
-# Position: 449-458
-# Length: 10 amino acids
-# Type: MHC-I

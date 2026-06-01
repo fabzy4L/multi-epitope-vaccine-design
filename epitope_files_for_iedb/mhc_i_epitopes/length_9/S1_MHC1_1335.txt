@@ -1,5 +1,0 @@
->S1_MHC1_1335
-ICASYQTQT
-# Position: 657-665
-# Length: 9 amino acids
-# Type: MHC-I

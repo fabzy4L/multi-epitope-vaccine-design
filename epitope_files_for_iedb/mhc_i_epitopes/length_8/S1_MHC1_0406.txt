@@ -1,5 +1,0 @@
->S1_MHC1_0406
-ADYNYKLP
-# Position: 406-413
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1822
-CNGVEGFNCY
-# Position: 467-476
-# Length: 10 amino acids
-# Type: MHC-I

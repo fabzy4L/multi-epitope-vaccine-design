@@ -1,5 +1,0 @@
->S1_MHC1_1305
-SNVFQTRAG
-# Position: 627-635
-# Length: 9 amino acids
-# Type: MHC-I

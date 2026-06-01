@@ -1,5 +1,0 @@
->S1_MHC2_1819
-LYRLFRKSNLKPFERDISTE
-# Position: 439-458
-# Length: 20 amino acids
-# Type: MHC-II

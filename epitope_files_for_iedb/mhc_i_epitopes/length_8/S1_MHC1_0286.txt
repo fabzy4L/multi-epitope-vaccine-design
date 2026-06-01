@@ -1,5 +1,0 @@
->S1_MHC1_0286
-TKCTLKSF
-# Position: 286-293
-# Length: 8 amino acids
-# Type: MHC-I

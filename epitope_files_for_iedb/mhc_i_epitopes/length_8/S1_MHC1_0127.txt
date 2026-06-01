@@ -1,5 +1,0 @@
->S1_MHC1_0127
-FLGVYYHK
-# Position: 127-134
-# Length: 8 amino acids
-# Type: MHC-I

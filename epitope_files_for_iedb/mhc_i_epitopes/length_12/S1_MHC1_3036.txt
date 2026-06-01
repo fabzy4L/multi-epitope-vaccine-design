@@ -1,5 +1,0 @@
->S1_MHC1_3036
-NATRFASVYAWN
-# Position: 330-341
-# Length: 12 amino acids
-# Type: MHC-I

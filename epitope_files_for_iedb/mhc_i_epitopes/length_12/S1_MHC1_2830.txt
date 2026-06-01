@@ -1,5 +1,0 @@
->S1_MHC1_2830
-NDPFLGVYYHKN
-# Position: 124-135
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0230
-ALHRSYLT
-# Position: 230-237
-# Length: 8 amino acids
-# Type: MHC-I

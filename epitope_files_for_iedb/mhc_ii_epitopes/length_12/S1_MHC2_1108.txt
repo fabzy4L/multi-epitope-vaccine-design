@@ -1,5 +1,0 @@
->S1_MHC2_1108
-LCPFGEVFNATR
-# Position: 322-333
-# Length: 12 amino acids
-# Type: MHC-II

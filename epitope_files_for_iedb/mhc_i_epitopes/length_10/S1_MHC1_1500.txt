@@ -1,5 +1,0 @@
->S1_MHC1_1500
-RVYSSANNCT
-# Position: 145-154
-# Length: 10 amino acids
-# Type: MHC-I

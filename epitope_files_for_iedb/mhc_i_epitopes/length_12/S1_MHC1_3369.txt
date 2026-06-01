@@ -1,5 +1,0 @@
->S1_MHC1_3369
-TQTNSPGSASSV
-# Position: 663-674
-# Length: 12 amino acids
-# Type: MHC-I

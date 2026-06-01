@@ -1,5 +1,0 @@
->S1_MHC1_2454
-WNSNNLDSKVG
-# Position: 423-433
-# Length: 11 amino acids
-# Type: MHC-I

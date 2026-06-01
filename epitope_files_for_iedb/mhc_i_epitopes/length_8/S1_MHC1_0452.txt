@@ -1,5 +1,0 @@
->S1_MHC1_0452
-ERDISTEI
-# Position: 452-459
-# Length: 8 amino acids
-# Type: MHC-I

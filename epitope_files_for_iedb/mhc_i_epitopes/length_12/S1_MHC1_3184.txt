@@ -1,5 +1,0 @@
->S1_MHC1_3184
-PLQSYGFQPTNG
-# Position: 478-489
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1438
-LIGAEHVNNSYECDI
-# Position: 637-651
-# Length: 15 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_3008
-TSNFRVQPTESI
-# Position: 302-313
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_2785
-FASTEKSNIIRG
-# Position: 79-90
-# Length: 12 amino acids
-# Type: MHC-I

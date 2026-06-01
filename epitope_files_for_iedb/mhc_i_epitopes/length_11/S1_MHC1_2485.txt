@@ -1,5 +1,0 @@
->S1_MHC1_2485
-DISTEIYQAGS
-# Position: 454-464
-# Length: 11 amino acids
-# Type: MHC-I

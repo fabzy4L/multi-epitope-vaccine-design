@@ -1,5 +1,0 @@
->S1_MHC2_1125
-KLNDLCFTNVYA
-# Position: 373-384
-# Length: 12 amino acids
-# Type: MHC-II

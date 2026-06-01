@@ -1,5 +1,0 @@
->S1_MHC1_1005
-EVFNATRFA
-# Position: 327-335
-# Length: 9 amino acids
-# Type: MHC-I

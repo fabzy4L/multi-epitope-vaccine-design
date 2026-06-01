@@ -1,5 +1,0 @@
->S1_MHC1_1871
-KSTNLVKNKC
-# Position: 516-525
-# Length: 10 amino acids
-# Type: MHC-I

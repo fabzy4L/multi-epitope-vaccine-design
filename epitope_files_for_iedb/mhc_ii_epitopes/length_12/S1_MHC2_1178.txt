@@ -1,5 +1,0 @@
->S1_MHC2_1178
-GLTGTGVLTESN
-# Position: 532-543
-# Length: 12 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_0958
-LDPLSETKC
-# Position: 280-288
-# Length: 9 amino acids
-# Type: MHC-I

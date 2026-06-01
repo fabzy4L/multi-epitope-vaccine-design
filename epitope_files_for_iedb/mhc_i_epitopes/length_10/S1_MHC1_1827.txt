@@ -1,5 +1,0 @@
->S1_MHC1_1827
-GFNCYFPLQS
-# Position: 472-481
-# Length: 10 amino acids
-# Type: MHC-I

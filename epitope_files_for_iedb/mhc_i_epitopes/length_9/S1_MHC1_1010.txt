@@ -1,5 +1,0 @@
->S1_MHC1_1010
-TRFASVYAW
-# Position: 332-340
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0323
-CPFGEVFN
-# Position: 323-330
-# Length: 8 amino acids
-# Type: MHC-I

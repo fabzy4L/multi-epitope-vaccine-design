@@ -1,5 +1,0 @@
->S1_MHC1_0612
-HADQLTPT
-# Position: 612-619
-# Length: 8 amino acids
-# Type: MHC-I

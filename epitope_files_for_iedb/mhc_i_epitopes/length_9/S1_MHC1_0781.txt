@@ -1,5 +1,0 @@
->S1_MHC1_0781
-SLLIVNNAT
-# Position: 103-111
-# Length: 9 amino acids
-# Type: MHC-I

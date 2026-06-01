@@ -1,5 +1,0 @@
->S1_MHC1_0167
-EGKQGNFK
-# Position: 167-174
-# Length: 8 amino acids
-# Type: MHC-I

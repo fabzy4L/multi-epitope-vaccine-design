@@ -1,5 +1,0 @@
->S1_MHC1_2112
-STEKSNIIRGW
-# Position: 81-91
-# Length: 11 amino acids
-# Type: MHC-I

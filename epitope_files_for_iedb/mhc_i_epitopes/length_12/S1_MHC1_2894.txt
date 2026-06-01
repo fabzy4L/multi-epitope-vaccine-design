@@ -1,5 +1,0 @@
->S1_MHC1_2894
-FKIYSKHTPINL
-# Position: 188-199
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0481
-SYGFQPTN
-# Position: 481-488
-# Length: 8 amino acids
-# Type: MHC-I

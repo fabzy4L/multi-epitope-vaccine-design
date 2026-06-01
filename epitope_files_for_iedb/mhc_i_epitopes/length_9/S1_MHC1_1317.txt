@@ -1,5 +1,0 @@
->S1_MHC1_1317
-GAEHVNNSY
-# Position: 639-647
-# Length: 9 amino acids
-# Type: MHC-I

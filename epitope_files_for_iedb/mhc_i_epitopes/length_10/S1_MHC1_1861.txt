@@ -1,5 +1,0 @@
->S1_MHC1_1861
-HAPATVCGPK
-# Position: 506-515
-# Length: 10 amino acids
-# Type: MHC-I

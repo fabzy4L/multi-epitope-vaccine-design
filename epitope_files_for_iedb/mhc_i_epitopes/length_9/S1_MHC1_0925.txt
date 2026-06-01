@@ -1,5 +1,0 @@
->S1_MHC1_0925
-AGAAAYYVG
-# Position: 247-255
-# Length: 9 amino acids
-# Type: MHC-I

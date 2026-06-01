@@ -1,5 +1,0 @@
->S1_MHC1_1563
-SALEPLVDLP
-# Position: 208-217
-# Length: 10 amino acids
-# Type: MHC-I

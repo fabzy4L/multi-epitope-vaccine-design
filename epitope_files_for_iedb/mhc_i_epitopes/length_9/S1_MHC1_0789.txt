@@ -1,5 +1,0 @@
->S1_MHC1_0789
-TNVVIKVCE
-# Position: 111-119
-# Length: 9 amino acids
-# Type: MHC-I

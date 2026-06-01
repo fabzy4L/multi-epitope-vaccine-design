@@ -1,5 +1,0 @@
->S1_MHC1_1995
-AEHVNNSYEC
-# Position: 640-649
-# Length: 10 amino acids
-# Type: MHC-I

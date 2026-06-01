@@ -1,5 +1,0 @@
->S1_MHC1_1493
-SWMESEFRVY
-# Position: 138-147
-# Length: 10 amino acids
-# Type: MHC-I

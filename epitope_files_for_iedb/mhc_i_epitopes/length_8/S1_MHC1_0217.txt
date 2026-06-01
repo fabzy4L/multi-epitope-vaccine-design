@@ -1,5 +1,0 @@
->S1_MHC1_0217
-PIGINITR
-# Position: 217-224
-# Length: 8 amino acids
-# Type: MHC-I

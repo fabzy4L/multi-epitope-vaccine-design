@@ -1,5 +1,0 @@
->S1_MHC1_1699
-RISNCVADYS
-# Position: 344-353
-# Length: 10 amino acids
-# Type: MHC-I

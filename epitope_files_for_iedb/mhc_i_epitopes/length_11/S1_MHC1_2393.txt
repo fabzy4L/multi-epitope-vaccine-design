@@ -1,5 +1,0 @@
->S1_MHC1_2393
-STFKCYGVSPT
-# Position: 362-372
-# Length: 11 amino acids
-# Type: MHC-I

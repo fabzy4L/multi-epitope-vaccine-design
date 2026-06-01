@@ -1,5 +1,0 @@
->S1_MHC1_1178
-LSFELLHAP
-# Position: 500-508
-# Length: 9 amino acids
-# Type: MHC-I

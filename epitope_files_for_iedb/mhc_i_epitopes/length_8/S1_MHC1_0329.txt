@@ -1,5 +1,0 @@
->S1_MHC1_0329
-FNATRFAS
-# Position: 329-336
-# Length: 8 amino acids
-# Type: MHC-I

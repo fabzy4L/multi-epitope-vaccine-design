@@ -1,5 +1,0 @@
->S1_MHC1_1417
-GTKRFDNPVL
-# Position: 62-71
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1213
-LIGAEHVNNSYE
-# Position: 637-648
-# Length: 12 amino acids
-# Type: MHC-II

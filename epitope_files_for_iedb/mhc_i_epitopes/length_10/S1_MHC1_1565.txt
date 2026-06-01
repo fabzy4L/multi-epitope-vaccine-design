@@ -1,5 +1,0 @@
->S1_MHC1_1565
-LEPLVDLPIG
-# Position: 210-219
-# Length: 10 amino acids
-# Type: MHC-I

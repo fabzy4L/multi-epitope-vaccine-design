@@ -1,5 +1,0 @@
->S1_MHC1_0766
-IRGWIFGTT
-# Position: 88-96
-# Length: 9 amino acids
-# Type: MHC-I

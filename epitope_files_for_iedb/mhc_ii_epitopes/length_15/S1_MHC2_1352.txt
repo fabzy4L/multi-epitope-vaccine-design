@@ -1,5 +1,0 @@
->S1_MHC2_1352
-FTNVYADSFVIRGDE
-# Position: 379-393
-# Length: 15 amino acids
-# Type: MHC-II

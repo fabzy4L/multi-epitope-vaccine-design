@@ -1,5 +1,0 @@
->S1_MHC1_1375
-TRGVYYPDKV
-# Position: 20-29
-# Length: 10 amino acids
-# Type: MHC-I

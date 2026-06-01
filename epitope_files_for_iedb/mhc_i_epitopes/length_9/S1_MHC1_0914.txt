@@ -1,5 +1,0 @@
->S1_MHC1_0914
-LTPGDSSSG
-# Position: 236-244
-# Length: 9 amino acids
-# Type: MHC-I

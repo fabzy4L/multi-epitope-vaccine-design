@@ -1,5 +1,0 @@
->S1_MHC2_1209
-TGSNVFQTRAGC
-# Position: 625-636
-# Length: 12 amino acids
-# Type: MHC-II

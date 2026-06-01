@@ -1,5 +1,0 @@
->S1_MHC1_2580
-FQQFGRDIADT
-# Position: 549-559
-# Length: 11 amino acids
-# Type: MHC-I

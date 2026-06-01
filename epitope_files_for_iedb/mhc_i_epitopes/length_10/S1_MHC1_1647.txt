@@ -1,5 +1,0 @@
->S1_MHC1_1647
-SFTVEKGIYQ
-# Position: 292-301
-# Length: 10 amino acids
-# Type: MHC-I

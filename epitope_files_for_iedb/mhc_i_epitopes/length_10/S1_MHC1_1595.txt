@@ -1,5 +1,0 @@
->S1_MHC1_1595
-DSSSGWTAGA
-# Position: 240-249
-# Length: 10 amino acids
-# Type: MHC-I

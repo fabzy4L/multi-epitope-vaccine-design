@@ -1,5 +1,0 @@
->S1_MHC1_1056
-CFTNVYADS
-# Position: 378-386
-# Length: 9 amino acids
-# Type: MHC-I

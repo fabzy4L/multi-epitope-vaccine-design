@@ -1,5 +1,0 @@
->S1_MHC2_1219
-AGICASYQTQTN
-# Position: 655-666
-# Length: 12 amino acids
-# Type: MHC-II

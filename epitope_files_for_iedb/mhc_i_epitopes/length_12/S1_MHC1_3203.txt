@@ -1,5 +1,0 @@
->S1_MHC1_3203
-VVVLSFELLHAP
-# Position: 497-508
-# Length: 12 amino acids
-# Type: MHC-I

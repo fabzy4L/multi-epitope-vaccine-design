@@ -1,5 +1,0 @@
->S1_MHC1_0617
-TPTWRVYS
-# Position: 617-624
-# Length: 8 amino acids
-# Type: MHC-I

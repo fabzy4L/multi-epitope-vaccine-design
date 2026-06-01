@@ -1,5 +1,0 @@
->S1_MHC1_0087
-IIRGWIFG
-# Position: 87-94
-# Length: 8 amino acids
-# Type: MHC-I

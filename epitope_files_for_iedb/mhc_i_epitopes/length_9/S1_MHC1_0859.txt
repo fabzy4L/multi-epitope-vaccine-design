@@ -1,5 +1,0 @@
->S1_MHC1_0859
-FKNIDGYFK
-# Position: 181-189
-# Length: 9 amino acids
-# Type: MHC-I

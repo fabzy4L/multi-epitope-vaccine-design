@@ -1,5 +1,0 @@
->S1_MHC1_0980
-TSNFRVQPT
-# Position: 302-310
-# Length: 9 amino acids
-# Type: MHC-I

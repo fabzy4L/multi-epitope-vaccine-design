@@ -1,5 +1,0 @@
->S1_MHC2_1423
-SNQVAVLYQDVNCTE
-# Position: 592-606
-# Length: 15 amino acids
-# Type: MHC-II

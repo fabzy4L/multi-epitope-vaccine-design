@@ -1,5 +1,0 @@
->S1_MHC1_0419
-CVIAWNSN
-# Position: 419-426
-# Length: 8 amino acids
-# Type: MHC-I

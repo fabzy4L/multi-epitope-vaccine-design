@@ -1,5 +1,0 @@
->S1_MHC2_1139
-DFTGCVIAWNSN
-# Position: 415-426
-# Length: 12 amino acids
-# Type: MHC-II

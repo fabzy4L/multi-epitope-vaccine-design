@@ -1,5 +1,0 @@
->S1_MHC1_0084
-KSNIIRGW
-# Position: 84-91
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0552
-FGRDIADT
-# Position: 552-559
-# Length: 8 amino acids
-# Type: MHC-I

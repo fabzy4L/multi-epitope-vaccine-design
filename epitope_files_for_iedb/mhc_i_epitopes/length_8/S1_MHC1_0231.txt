@@ -1,5 +1,0 @@
->S1_MHC1_0231
-LHRSYLTP
-# Position: 231-238
-# Length: 8 amino acids
-# Type: MHC-I

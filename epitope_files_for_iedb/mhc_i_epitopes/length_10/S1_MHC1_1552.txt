@@ -1,5 +1,0 @@
->S1_MHC1_1552
-INLVRDLPQG
-# Position: 197-206
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0316
-FPNITNLC
-# Position: 316-323
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1556
-RDLPQGFSAL
-# Position: 201-210
-# Length: 10 amino acids
-# Type: MHC-I

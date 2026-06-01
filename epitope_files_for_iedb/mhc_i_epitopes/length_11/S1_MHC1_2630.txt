@@ -1,5 +1,0 @@
->S1_MHC1_2630
-YQDVNCTEVPV
-# Position: 599-609
-# Length: 11 amino acids
-# Type: MHC-I

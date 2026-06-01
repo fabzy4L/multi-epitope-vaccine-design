@@ -1,5 +1,0 @@
->S1_MHC1_0884
-GFSALEPLV
-# Position: 206-214
-# Length: 9 amino acids
-# Type: MHC-I

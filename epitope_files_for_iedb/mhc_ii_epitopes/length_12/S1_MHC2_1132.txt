@@ -1,5 +1,0 @@
->S1_MHC2_1132
-VRQIAPGQTGKI
-# Position: 394-405
-# Length: 12 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC2_1761
-KYNENGTITDAVDCALDPLS
-# Position: 265-284
-# Length: 20 amino acids
-# Type: MHC-II

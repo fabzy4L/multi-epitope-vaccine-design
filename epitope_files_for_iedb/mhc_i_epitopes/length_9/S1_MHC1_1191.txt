@@ -1,5 +1,0 @@
->S1_MHC1_1191
-GPKKSTNLV
-# Position: 513-521
-# Length: 9 amino acids
-# Type: MHC-I

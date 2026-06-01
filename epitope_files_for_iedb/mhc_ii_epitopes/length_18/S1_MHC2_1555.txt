@@ -1,5 +1,0 @@
->S1_MHC2_1555
-FPNITNLCPFGEVFNATR
-# Position: 316-333
-# Length: 18 amino acids
-# Type: MHC-II

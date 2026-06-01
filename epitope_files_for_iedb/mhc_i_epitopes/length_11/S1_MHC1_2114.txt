@@ -1,5 +1,0 @@
->S1_MHC1_2114
-EKSNIIRGWIF
-# Position: 83-93
-# Length: 11 amino acids
-# Type: MHC-I

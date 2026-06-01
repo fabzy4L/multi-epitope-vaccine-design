@@ -1,5 +1,0 @@
->S1_MHC1_1581
-QTLLALHRSY
-# Position: 226-235
-# Length: 10 amino acids
-# Type: MHC-I

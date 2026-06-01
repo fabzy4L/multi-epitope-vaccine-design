@@ -1,5 +1,0 @@
->S1_MHC1_1057
-FTNVYADSF
-# Position: 379-387
-# Length: 9 amino acids
-# Type: MHC-I

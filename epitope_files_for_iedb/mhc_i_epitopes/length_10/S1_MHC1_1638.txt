@@ -1,5 +1,0 @@
->S1_MHC1_1638
-LSETKCTLKS
-# Position: 283-292
-# Length: 10 amino acids
-# Type: MHC-I

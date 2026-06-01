@@ -1,5 +1,0 @@
->S1_MHC1_1738
-YADSFVIRGD
-# Position: 383-392
-# Length: 10 amino acids
-# Type: MHC-I

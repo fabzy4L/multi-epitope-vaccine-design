@@ -1,5 +1,0 @@
->S1_MHC1_2717
-LPPAYTNSFTRG
-# Position: 11-22
-# Length: 12 amino acids
-# Type: MHC-I

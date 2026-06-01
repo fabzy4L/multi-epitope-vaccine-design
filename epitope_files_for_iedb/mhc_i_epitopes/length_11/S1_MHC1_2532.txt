@@ -1,5 +1,0 @@
->S1_MHC1_2532
-SFELLHAPATV
-# Position: 501-511
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3379
-SVASQSIIAYTM
-# Position: 673-684
-# Length: 12 amino acids
-# Type: MHC-I

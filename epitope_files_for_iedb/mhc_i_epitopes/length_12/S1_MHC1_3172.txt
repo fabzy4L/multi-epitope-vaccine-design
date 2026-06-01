@@ -1,5 +1,0 @@
->S1_MHC1_3172
-PCNGVEGFNCYF
-# Position: 466-477
-# Length: 12 amino acids
-# Type: MHC-I

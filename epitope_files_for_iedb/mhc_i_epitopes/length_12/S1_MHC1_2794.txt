@@ -1,5 +1,0 @@
->S1_MHC1_2794
-IRGWIFGTTLDS
-# Position: 88-99
-# Length: 12 amino acids
-# Type: MHC-I

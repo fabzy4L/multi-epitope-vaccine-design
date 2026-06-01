@@ -1,5 +1,0 @@
->S1_MHC1_0753
-DGVYFASTE
-# Position: 75-83
-# Length: 9 amino acids
-# Type: MHC-I

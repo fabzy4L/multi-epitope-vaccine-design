@@ -1,5 +1,0 @@
->S1_MHC1_0943
-KYNENGTIT
-# Position: 265-273
-# Length: 9 amino acids
-# Type: MHC-I

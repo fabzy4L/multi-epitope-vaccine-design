@@ -1,5 +1,0 @@
->S1_MHC1_0347
-NCVADYSV
-# Position: 347-354
-# Length: 8 amino acids
-# Type: MHC-I

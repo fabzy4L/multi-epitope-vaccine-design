@@ -1,5 +1,0 @@
->S1_MHC2_1014
-DLFLPFFSNVTW
-# Position: 40-51
-# Length: 12 amino acids
-# Type: MHC-II

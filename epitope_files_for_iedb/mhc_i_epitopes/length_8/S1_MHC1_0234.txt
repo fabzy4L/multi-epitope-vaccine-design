@@ -1,5 +1,0 @@
->S1_MHC1_0234
-SYLTPGDS
-# Position: 234-241
-# Length: 8 amino acids
-# Type: MHC-I

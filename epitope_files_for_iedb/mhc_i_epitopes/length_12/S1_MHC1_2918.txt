@@ -1,5 +1,0 @@
->S1_MHC1_2918
-PLVDLPIGINIT
-# Position: 212-223
-# Length: 12 amino acids
-# Type: MHC-I

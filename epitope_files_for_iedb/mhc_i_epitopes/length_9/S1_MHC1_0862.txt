@@ -1,5 +1,0 @@
->S1_MHC1_0862
-IDGYFKIYS
-# Position: 184-192
-# Length: 9 amino acids
-# Type: MHC-I

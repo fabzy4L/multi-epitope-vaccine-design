@@ -1,5 +1,0 @@
->S1_MHC1_0465
-TPCNGVEG
-# Position: 465-472
-# Length: 8 amino acids
-# Type: MHC-I

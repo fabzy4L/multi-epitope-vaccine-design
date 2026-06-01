@@ -1,5 +1,0 @@
->S1_MHC1_3149
-FRKSNLKPFERD
-# Position: 443-454
-# Length: 12 amino acids
-# Type: MHC-I

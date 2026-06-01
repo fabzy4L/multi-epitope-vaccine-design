@@ -1,5 +1,0 @@
->S1_MHC1_1470
-IKVCEFQFCN
-# Position: 115-124
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1355
-QSIIAYTMS
-# Position: 677-685
-# Length: 9 amino acids
-# Type: MHC-I

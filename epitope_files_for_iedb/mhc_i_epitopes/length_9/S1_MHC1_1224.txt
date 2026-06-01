@@ -1,5 +1,0 @@
->S1_MHC1_1224
-FLPFQQFGR
-# Position: 546-554
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1372
-LYRLFRKSNLKPFER
-# Position: 439-453
-# Length: 15 amino acids
-# Type: MHC-II

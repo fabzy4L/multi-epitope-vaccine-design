@@ -1,5 +1,0 @@
->S1_MHC1_0461
-QAGSTPCN
-# Position: 461-468
-# Length: 8 amino acids
-# Type: MHC-I

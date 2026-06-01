@@ -1,5 +1,0 @@
->S1_MHC1_1418
-TKRFDNPVLP
-# Position: 63-72
-# Length: 10 amino acids
-# Type: MHC-I

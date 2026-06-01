@@ -1,5 +1,0 @@
->S1_MHC2_1123
-YGVSPTKLNDLC
-# Position: 367-378
-# Length: 12 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_0643
-VNNSYECD
-# Position: 643-650
-# Length: 8 amino acids
-# Type: MHC-I

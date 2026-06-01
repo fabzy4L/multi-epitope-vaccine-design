@@ -1,5 +1,0 @@
->S1_MHC1_2245
-VDLPIGINITR
-# Position: 214-224
-# Length: 11 amino acids
-# Type: MHC-I

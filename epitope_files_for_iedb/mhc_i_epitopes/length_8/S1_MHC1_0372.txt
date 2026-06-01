@@ -1,5 +1,0 @@
->S1_MHC1_0372
-TKLNDLCF
-# Position: 372-379
-# Length: 8 amino acids
-# Type: MHC-I

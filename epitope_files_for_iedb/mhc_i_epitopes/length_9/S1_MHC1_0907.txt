@@ -1,5 +1,0 @@
->S1_MHC1_0907
-LALHRSYLT
-# Position: 229-237
-# Length: 9 amino acids
-# Type: MHC-I

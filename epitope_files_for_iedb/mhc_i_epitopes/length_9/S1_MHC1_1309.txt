@@ -1,5 +1,0 @@
->S1_MHC1_1309
-QTRAGCLIG
-# Position: 631-639
-# Length: 9 amino acids
-# Type: MHC-I

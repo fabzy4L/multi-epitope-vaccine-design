@@ -1,5 +1,0 @@
->S1_MHC1_2540
-ATVCGPKKSTN
-# Position: 509-519
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3163
-TEIYQAGSTPCN
-# Position: 457-468
-# Length: 12 amino acids
-# Type: MHC-I

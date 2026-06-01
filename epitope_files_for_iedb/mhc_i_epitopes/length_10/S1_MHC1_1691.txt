@@ -1,5 +1,0 @@
->S1_MHC1_1691
-SVYAWNRKRI
-# Position: 336-345
-# Length: 10 amino acids
-# Type: MHC-I

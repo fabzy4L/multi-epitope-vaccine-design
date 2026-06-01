@@ -1,5 +1,0 @@
->S1_MHC1_3092
-SFVIRGDEVRQI
-# Position: 386-397
-# Length: 12 amino acids
-# Type: MHC-I

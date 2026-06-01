@@ -1,5 +1,0 @@
->S1_MHC2_1417
-ITPCSFGGVSVITPG
-# Position: 574-588
-# Length: 15 amino acids
-# Type: MHC-II

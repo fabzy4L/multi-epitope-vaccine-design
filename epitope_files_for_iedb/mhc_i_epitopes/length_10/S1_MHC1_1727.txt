@@ -1,5 +1,0 @@
->S1_MHC1_1727
-TKLNDLCFTN
-# Position: 372-381
-# Length: 10 amino acids
-# Type: MHC-I

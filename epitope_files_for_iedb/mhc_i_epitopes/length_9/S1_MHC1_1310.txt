@@ -1,5 +1,0 @@
->S1_MHC1_1310
-TRAGCLIGA
-# Position: 632-640
-# Length: 9 amino acids
-# Type: MHC-I

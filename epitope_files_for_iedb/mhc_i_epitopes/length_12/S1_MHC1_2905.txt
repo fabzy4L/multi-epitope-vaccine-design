@@ -1,5 +1,0 @@
->S1_MHC1_2905
-LVRDLPQGFSAL
-# Position: 199-210
-# Length: 12 amino acids
-# Type: MHC-I

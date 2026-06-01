@@ -1,5 +1,0 @@
->S1_MHC1_1534
-FVFKNIDGYF
-# Position: 179-188
-# Length: 10 amino acids
-# Type: MHC-I

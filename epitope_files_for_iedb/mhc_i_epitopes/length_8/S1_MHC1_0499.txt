@@ -1,5 +1,0 @@
->S1_MHC1_0499
-VLSFELLH
-# Position: 499-506
-# Length: 8 amino acids
-# Type: MHC-I

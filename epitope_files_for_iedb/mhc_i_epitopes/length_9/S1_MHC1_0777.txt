@@ -1,5 +1,0 @@
->S1_MHC1_0777
-SKTQSLLIV
-# Position: 99-107
-# Length: 9 amino acids
-# Type: MHC-I

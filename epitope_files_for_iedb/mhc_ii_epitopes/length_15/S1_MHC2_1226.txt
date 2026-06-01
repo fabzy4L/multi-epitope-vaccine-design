@@ -1,5 +1,0 @@
->S1_MHC2_1226
-QCVNLTTRTQLPPAY
-# Position: 1-15
-# Length: 15 amino acids
-# Type: MHC-II

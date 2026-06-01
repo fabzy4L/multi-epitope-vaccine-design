@@ -1,5 +1,0 @@
->S1_MHC1_2021
-NSPGSASSVA
-# Position: 666-675
-# Length: 10 amino acids
-# Type: MHC-I

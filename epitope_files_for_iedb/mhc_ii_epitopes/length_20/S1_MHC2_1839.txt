@@ -1,5 +1,0 @@
->S1_MHC2_1839
-VLSFELLHAPATVCGPKKST
-# Position: 499-518
-# Length: 20 amino acids
-# Type: MHC-II

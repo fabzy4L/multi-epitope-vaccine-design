@@ -1,5 +1,0 @@
->S1_MHC1_1913
-DTTDAVRDPQ
-# Position: 558-567
-# Length: 10 amino acids
-# Type: MHC-I

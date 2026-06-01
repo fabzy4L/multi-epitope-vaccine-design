@@ -1,5 +1,0 @@
->S1_MHC1_2230
-LVRDLPQGFSA
-# Position: 199-209
-# Length: 11 amino acids
-# Type: MHC-I

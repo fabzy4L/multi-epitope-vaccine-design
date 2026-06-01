@@ -1,5 +1,0 @@
->S1_MHC1_2925
-GINITRFQTLLA
-# Position: 219-230
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1297
-TWRVYSTGS
-# Position: 619-627
-# Length: 9 amino acids
-# Type: MHC-I

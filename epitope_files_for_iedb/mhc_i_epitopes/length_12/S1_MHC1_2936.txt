@@ -1,5 +1,0 @@
->S1_MHC1_2936
-ALHRSYLTPGDS
-# Position: 230-241
-# Length: 12 amino acids
-# Type: MHC-I

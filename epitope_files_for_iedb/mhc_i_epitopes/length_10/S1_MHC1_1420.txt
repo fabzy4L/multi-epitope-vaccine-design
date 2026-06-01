@@ -1,5 +1,0 @@
->S1_MHC1_1420
-RFDNPVLPFN
-# Position: 65-74
-# Length: 10 amino acids
-# Type: MHC-I

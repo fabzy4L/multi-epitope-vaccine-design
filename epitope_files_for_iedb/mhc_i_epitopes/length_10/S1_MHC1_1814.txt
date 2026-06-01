@@ -1,5 +1,0 @@
->S1_MHC1_1814
-IYQAGSTPCN
-# Position: 459-468
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1204
-VNFNFNGLT
-# Position: 526-534
-# Length: 9 amino acids
-# Type: MHC-I

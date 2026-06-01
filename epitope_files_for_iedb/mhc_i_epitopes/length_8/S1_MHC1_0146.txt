@@ -1,5 +1,0 @@
->S1_MHC1_0146
-VYSSANNC
-# Position: 146-153
-# Length: 8 amino acids
-# Type: MHC-I

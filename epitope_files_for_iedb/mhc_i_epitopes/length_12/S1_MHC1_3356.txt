@@ -1,5 +1,0 @@
->S1_MHC1_3356
-DIPIGAGICASY
-# Position: 650-661
-# Length: 12 amino acids
-# Type: MHC-I

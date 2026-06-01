@@ -1,5 +1,0 @@
->S1_MHC1_1968
-ADQLTPTWRV
-# Position: 613-622
-# Length: 10 amino acids
-# Type: MHC-I

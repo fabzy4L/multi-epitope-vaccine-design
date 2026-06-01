@@ -1,5 +1,0 @@
->S1_MHC1_2861
-FEYVSQPFLMDL
-# Position: 155-166
-# Length: 12 amino acids
-# Type: MHC-I

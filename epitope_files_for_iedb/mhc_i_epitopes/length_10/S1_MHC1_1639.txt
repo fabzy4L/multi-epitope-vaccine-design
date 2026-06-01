@@ -1,5 +1,0 @@
->S1_MHC1_1639
-SETKCTLKSF
-# Position: 284-293
-# Length: 10 amino acids
-# Type: MHC-I

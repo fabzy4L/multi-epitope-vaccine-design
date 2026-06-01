@@ -1,5 +1,0 @@
->S1_MHC2_1130
-VIRGDEVRQIAP
-# Position: 388-399
-# Length: 12 amino acids
-# Type: MHC-II

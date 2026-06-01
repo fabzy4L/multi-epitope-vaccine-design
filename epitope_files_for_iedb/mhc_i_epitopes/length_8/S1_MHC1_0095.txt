@@ -1,5 +1,0 @@
->S1_MHC1_0095
-TTLDSKTQ
-# Position: 95-102
-# Length: 8 amino acids
-# Type: MHC-I

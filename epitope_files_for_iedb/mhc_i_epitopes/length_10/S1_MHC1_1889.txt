@@ -1,5 +1,0 @@
->S1_MHC1_1889
-TGTGVLTESN
-# Position: 534-543
-# Length: 10 amino acids
-# Type: MHC-I

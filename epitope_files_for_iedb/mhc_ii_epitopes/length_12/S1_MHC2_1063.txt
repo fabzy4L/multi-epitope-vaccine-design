@@ -1,5 +1,0 @@
->S1_MHC2_1063
-YFKIYSKHTPIN
-# Position: 187-198
-# Length: 12 amino acids
-# Type: MHC-II

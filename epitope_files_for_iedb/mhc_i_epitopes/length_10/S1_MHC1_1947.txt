@@ -1,5 +1,0 @@
->S1_MHC1_1947
-SNQVAVLYQD
-# Position: 592-601
-# Length: 10 amino acids
-# Type: MHC-I

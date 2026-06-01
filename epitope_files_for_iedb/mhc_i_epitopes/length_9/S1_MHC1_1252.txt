@@ -1,5 +1,0 @@
->S1_MHC1_1252
-ITPCSFGGV
-# Position: 574-582
-# Length: 9 amino acids
-# Type: MHC-I

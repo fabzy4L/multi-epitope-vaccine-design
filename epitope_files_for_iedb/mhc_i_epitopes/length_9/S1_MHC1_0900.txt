@@ -1,5 +1,0 @@
->S1_MHC1_0900
-ITRFQTLLA
-# Position: 222-230
-# Length: 9 amino acids
-# Type: MHC-I

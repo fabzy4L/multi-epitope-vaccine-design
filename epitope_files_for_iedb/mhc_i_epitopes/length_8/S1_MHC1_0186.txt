@@ -1,5 +1,0 @@
->S1_MHC1_0186
-GYFKIYSK
-# Position: 186-193
-# Length: 8 amino acids
-# Type: MHC-I

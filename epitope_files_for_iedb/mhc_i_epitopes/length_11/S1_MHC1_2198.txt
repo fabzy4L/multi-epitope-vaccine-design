@@ -1,5 +1,0 @@
->S1_MHC1_2198
-EGKQGNFKNLR
-# Position: 167-177
-# Length: 11 amino acids
-# Type: MHC-I

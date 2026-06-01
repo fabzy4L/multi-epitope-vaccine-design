@@ -1,5 +1,0 @@
->S1_MHC1_3314
-PVAIHADQLTPT
-# Position: 608-619
-# Length: 12 amino acids
-# Type: MHC-I

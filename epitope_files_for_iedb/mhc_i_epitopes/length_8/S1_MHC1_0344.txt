@@ -1,5 +1,0 @@
->S1_MHC1_0344
-RISNCVAD
-# Position: 344-351
-# Length: 8 amino acids
-# Type: MHC-I

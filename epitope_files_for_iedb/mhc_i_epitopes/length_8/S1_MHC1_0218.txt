@@ -1,5 +1,0 @@
->S1_MHC1_0218
-IGINITRF
-# Position: 218-225
-# Length: 8 amino acids
-# Type: MHC-I

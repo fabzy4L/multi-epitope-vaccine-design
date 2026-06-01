@@ -1,5 +1,0 @@
->S1_MHC1_3373
-SPGSASSVASQS
-# Position: 667-678
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1337
-ASYQTQTNS
-# Position: 659-667
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1934
-FGGVSVITPG
-# Position: 579-588
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0622
-VYSTGSNV
-# Position: 622-629
-# Length: 8 amino acids
-# Type: MHC-I

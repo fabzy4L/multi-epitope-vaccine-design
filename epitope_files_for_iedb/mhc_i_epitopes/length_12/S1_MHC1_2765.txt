@@ -1,5 +1,0 @@
->S1_MHC1_2765
-GTNGTKRFDNPV
-# Position: 59-70
-# Length: 12 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0613
-ADQLTPTW
-# Position: 613-620
-# Length: 8 amino acids
-# Type: MHC-I

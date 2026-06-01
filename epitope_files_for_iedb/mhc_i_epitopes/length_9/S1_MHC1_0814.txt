@@ -1,5 +1,0 @@
->S1_MHC1_0814
-NKSWMESEF
-# Position: 136-144
-# Length: 9 amino acids
-# Type: MHC-I

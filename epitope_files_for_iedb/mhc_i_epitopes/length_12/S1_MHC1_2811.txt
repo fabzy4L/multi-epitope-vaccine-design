@@ -1,5 +1,0 @@
->S1_MHC1_2811
-LIVNNATNVVIK
-# Position: 105-116
-# Length: 12 amino acids
-# Type: MHC-I

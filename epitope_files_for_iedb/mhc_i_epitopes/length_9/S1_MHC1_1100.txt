@@ -1,5 +1,0 @@
->S1_MHC1_1100
-AWNSNNLDS
-# Position: 422-430
-# Length: 9 amino acids
-# Type: MHC-I

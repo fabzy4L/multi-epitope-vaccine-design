@@ -1,5 +1,0 @@
->S1_MHC1_0522
-KNKCVNFN
-# Position: 522-529
-# Length: 8 amino acids
-# Type: MHC-I

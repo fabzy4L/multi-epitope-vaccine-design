@@ -1,5 +1,0 @@
->S1_MHC1_1964
-VAIHADQLTP
-# Position: 609-618
-# Length: 10 amino acids
-# Type: MHC-I

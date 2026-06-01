@@ -1,5 +1,0 @@
->S1_MHC1_0757
-FASTEKSNI
-# Position: 79-87
-# Length: 9 amino acids
-# Type: MHC-I

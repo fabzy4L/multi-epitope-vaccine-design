@@ -1,5 +1,0 @@
->S1_MHC1_1931
-PCSFGGVSVI
-# Position: 576-585
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1365
-QLPPAYTNSF
-# Position: 10-19
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0602
-VNCTEVPV
-# Position: 602-609
-# Length: 8 amino acids
-# Type: MHC-I

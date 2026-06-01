@@ -1,5 +1,0 @@
->S1_MHC1_1817
-AGSTPCNGVE
-# Position: 462-471
-# Length: 10 amino acids
-# Type: MHC-I

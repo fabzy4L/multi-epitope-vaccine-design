@@ -1,5 +1,0 @@
->S1_MHC1_0734
-HVSGTNGTK
-# Position: 56-64
-# Length: 9 amino acids
-# Type: MHC-I

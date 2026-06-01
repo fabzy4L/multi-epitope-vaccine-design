@@ -1,5 +1,0 @@
->S1_MHC1_0261
-TFLLKYNE
-# Position: 261-268
-# Length: 8 amino acids
-# Type: MHC-I

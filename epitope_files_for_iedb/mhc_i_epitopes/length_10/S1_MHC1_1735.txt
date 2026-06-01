@@ -1,5 +1,0 @@
->S1_MHC1_1735
-TNVYADSFVI
-# Position: 380-389
-# Length: 10 amino acids
-# Type: MHC-I

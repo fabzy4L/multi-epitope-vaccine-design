@@ -1,5 +1,0 @@
->S1_MHC1_0148
-SSANNCTF
-# Position: 148-155
-# Length: 8 amino acids
-# Type: MHC-I

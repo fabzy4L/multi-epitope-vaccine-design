@@ -1,5 +1,0 @@
->S1_MHC1_2081
-TWFHAIHVSGT
-# Position: 50-60
-# Length: 11 amino acids
-# Type: MHC-I

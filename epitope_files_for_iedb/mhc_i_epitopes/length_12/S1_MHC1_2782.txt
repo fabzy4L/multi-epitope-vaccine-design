@@ -1,5 +1,0 @@
->S1_MHC1_2782
-GVYFASTEKSNI
-# Position: 76-87
-# Length: 12 amino acids
-# Type: MHC-I

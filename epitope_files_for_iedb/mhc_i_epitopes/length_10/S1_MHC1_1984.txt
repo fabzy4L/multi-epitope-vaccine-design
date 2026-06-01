@@ -1,5 +1,0 @@
->S1_MHC1_1984
-VFQTRAGCLI
-# Position: 629-638
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0053
-HAIHVSGT
-# Position: 53-60
-# Length: 8 amino acids
-# Type: MHC-I

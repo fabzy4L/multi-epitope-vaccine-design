@@ -1,5 +1,0 @@
->S1_MHC1_2321
-LKSFTVEKGIY
-# Position: 290-300
-# Length: 11 amino acids
-# Type: MHC-I

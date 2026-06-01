@@ -1,5 +1,0 @@
->S1_MHC1_3348
-HVNNSYECDIPI
-# Position: 642-653
-# Length: 12 amino acids
-# Type: MHC-I

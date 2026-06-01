@@ -1,5 +1,0 @@
->S1_MHC1_0630
-FQTRAGCL
-# Position: 630-637
-# Length: 8 amino acids
-# Type: MHC-I

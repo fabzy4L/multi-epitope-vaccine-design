@@ -1,5 +1,0 @@
->S1_MHC1_1801
-SNLKPFERDI
-# Position: 446-455
-# Length: 10 amino acids
-# Type: MHC-I

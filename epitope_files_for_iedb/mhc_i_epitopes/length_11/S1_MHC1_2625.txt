@@ -1,5 +1,0 @@
->S1_MHC1_2625
-QVAVLYQDVNC
-# Position: 594-604
-# Length: 11 amino acids
-# Type: MHC-I

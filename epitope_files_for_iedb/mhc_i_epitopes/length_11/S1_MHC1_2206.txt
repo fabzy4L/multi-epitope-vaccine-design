@@ -1,5 +1,0 @@
->S1_MHC1_2206
-NLREFVFKNID
-# Position: 175-185
-# Length: 11 amino acids
-# Type: MHC-I

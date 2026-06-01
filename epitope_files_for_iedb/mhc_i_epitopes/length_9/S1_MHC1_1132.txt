@@ -1,5 +1,0 @@
->S1_MHC1_1132
-DISTEIYQA
-# Position: 454-462
-# Length: 9 amino acids
-# Type: MHC-I

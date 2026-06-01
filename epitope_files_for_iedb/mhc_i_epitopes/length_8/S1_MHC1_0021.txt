@@ -1,5 +1,0 @@
->S1_MHC1_0021
-RGVYYPDK
-# Position: 21-28
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0463
-GSTPCNGV
-# Position: 463-470
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3088
-VYADSFVIRGDE
-# Position: 382-393
-# Length: 12 amino acids
-# Type: MHC-I

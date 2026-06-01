@@ -1,5 +1,0 @@
->S1_MHC1_1600
-WTAGAAAYYV
-# Position: 245-254
-# Length: 10 amino acids
-# Type: MHC-I

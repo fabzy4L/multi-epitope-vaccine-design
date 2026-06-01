@@ -1,5 +1,0 @@
->S1_MHC1_2144
-VVIKVCEFQFC
-# Position: 113-123
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1586
-LHRSYLTPGD
-# Position: 231-240
-# Length: 10 amino acids
-# Type: MHC-I

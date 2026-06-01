@@ -1,5 +1,0 @@
->S1_MHC2_1373
-LFRKSNLKPFERDIS
-# Position: 442-456
-# Length: 15 amino acids
-# Type: MHC-II

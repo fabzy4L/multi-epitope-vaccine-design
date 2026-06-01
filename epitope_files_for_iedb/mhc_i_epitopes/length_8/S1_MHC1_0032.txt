@@ -1,5 +1,0 @@
->S1_MHC1_0032
-SSVLHSTQ
-# Position: 32-39
-# Length: 8 amino acids
-# Type: MHC-I

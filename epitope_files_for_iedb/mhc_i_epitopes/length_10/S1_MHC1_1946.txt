@@ -1,5 +1,0 @@
->S1_MHC1_1946
-TSNQVAVLYQ
-# Position: 591-600
-# Length: 10 amino acids
-# Type: MHC-I

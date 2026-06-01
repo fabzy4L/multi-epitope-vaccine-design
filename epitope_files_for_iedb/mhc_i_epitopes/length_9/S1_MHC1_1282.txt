@@ -1,5 +1,0 @@
->S1_MHC1_1282
-CTEVPVAIH
-# Position: 604-612
-# Length: 9 amino acids
-# Type: MHC-I

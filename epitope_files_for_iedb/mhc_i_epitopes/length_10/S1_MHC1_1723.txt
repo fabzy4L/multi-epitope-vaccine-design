@@ -1,5 +1,0 @@
->S1_MHC1_1723
-GVSPTKLNDL
-# Position: 368-377
-# Length: 10 amino acids
-# Type: MHC-I

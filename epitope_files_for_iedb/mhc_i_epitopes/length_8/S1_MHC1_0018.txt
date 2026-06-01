@@ -1,5 +1,0 @@
->S1_MHC1_0018
-SFTRGVYY
-# Position: 18-25
-# Length: 8 amino acids
-# Type: MHC-I

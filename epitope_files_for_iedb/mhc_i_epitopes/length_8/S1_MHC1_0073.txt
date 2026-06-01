@@ -1,5 +1,0 @@
->S1_MHC1_0073
-FNDGVYFA
-# Position: 73-80
-# Length: 8 amino acids
-# Type: MHC-I

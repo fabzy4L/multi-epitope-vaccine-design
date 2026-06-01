@@ -1,5 +1,0 @@
->S1_MHC1_1450
-TTLDSKTQSL
-# Position: 95-104
-# Length: 10 amino acids
-# Type: MHC-I

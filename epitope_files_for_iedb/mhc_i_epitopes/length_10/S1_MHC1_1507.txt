@@ -1,5 +1,0 @@
->S1_MHC1_1507
-NCTFEYVSQP
-# Position: 152-161
-# Length: 10 amino acids
-# Type: MHC-I

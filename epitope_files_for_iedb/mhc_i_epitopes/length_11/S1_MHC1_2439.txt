@@ -1,5 +1,0 @@
->S1_MHC1_2439
-YNYKLPDDFTG
-# Position: 408-418
-# Length: 11 amino acids
-# Type: MHC-I

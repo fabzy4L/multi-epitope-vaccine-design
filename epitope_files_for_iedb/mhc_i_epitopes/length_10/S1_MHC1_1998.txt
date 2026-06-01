@@ -1,5 +1,0 @@
->S1_MHC1_1998
-VNNSYECDIP
-# Position: 643-652
-# Length: 10 amino acids
-# Type: MHC-I

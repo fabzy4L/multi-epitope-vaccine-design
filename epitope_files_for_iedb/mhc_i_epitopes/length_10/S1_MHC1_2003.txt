@@ -1,5 +1,0 @@
->S1_MHC1_2003
-ECDIPIGAGI
-# Position: 648-657
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_2158
-FLGVYYHKNNK
-# Position: 127-137
-# Length: 11 amino acids
-# Type: MHC-I

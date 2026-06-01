@@ -1,5 +1,0 @@
->S1_MHC1_1268
-NTSNQVAVL
-# Position: 590-598
-# Length: 9 amino acids
-# Type: MHC-I

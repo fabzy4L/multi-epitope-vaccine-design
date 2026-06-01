@@ -1,5 +1,0 @@
->S1_MHC1_0795
-VCEFQFCND
-# Position: 117-125
-# Length: 9 amino acids
-# Type: MHC-I

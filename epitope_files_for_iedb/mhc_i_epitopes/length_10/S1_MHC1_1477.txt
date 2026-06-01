@@ -1,5 +1,0 @@
->S1_MHC1_1477
-FCNDPFLGVY
-# Position: 122-131
-# Length: 10 amino acids
-# Type: MHC-I

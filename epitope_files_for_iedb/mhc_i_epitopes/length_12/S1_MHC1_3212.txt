@@ -1,5 +1,0 @@
->S1_MHC1_3212
-HAPATVCGPKKS
-# Position: 506-517
-# Length: 12 amino acids
-# Type: MHC-I

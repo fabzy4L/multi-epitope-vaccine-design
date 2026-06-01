@@ -1,5 +1,0 @@
->S1_MHC1_1621
-YNENGTITDA
-# Position: 266-275
-# Length: 10 amino acids
-# Type: MHC-I

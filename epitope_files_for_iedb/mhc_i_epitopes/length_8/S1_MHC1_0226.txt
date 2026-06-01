@@ -1,5 +1,0 @@
->S1_MHC1_0226
-QTLLALHR
-# Position: 226-233
-# Length: 8 amino acids
-# Type: MHC-I

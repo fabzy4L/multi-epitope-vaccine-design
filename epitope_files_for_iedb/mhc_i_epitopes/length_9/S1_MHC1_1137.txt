@@ -1,5 +1,0 @@
->S1_MHC1_1137
-IYQAGSTPC
-# Position: 459-467
-# Length: 9 amino acids
-# Type: MHC-I

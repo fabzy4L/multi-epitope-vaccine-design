@@ -1,5 +1,0 @@
->S1_MHC1_1993
-IGAEHVNNSY
-# Position: 638-647
-# Length: 10 amino acids
-# Type: MHC-I

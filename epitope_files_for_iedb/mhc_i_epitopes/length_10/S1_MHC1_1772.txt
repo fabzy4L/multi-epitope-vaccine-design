@@ -1,5 +1,0 @@
->S1_MHC1_1772
-TGCVIAWNSN
-# Position: 417-426
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0739
-NGTKRFDNP
-# Position: 61-69
-# Length: 9 amino acids
-# Type: MHC-I

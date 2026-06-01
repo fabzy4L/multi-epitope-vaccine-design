@@ -1,5 +1,0 @@
->S1_MHC1_3004
-GIYQTSNFRVQP
-# Position: 298-309
-# Length: 12 amino acids
-# Type: MHC-I

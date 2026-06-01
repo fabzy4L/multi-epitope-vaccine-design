@@ -1,5 +1,0 @@
->S1_MHC1_0111
-TNVVIKVC
-# Position: 111-118
-# Length: 8 amino acids
-# Type: MHC-I

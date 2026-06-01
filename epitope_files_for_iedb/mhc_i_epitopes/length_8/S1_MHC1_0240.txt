@@ -1,5 +1,0 @@
->S1_MHC1_0240
-DSSSGWTA
-# Position: 240-247
-# Length: 8 amino acids
-# Type: MHC-I

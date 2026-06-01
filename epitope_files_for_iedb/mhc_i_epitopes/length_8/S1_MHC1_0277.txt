@@ -1,5 +1,0 @@
->S1_MHC1_0277
-DCALDPLS
-# Position: 277-284
-# Length: 8 amino acids
-# Type: MHC-I

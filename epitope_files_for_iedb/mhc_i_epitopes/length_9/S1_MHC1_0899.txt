@@ -1,5 +1,0 @@
->S1_MHC1_0899
-NITRFQTLL
-# Position: 221-229
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1652
-KGIYQTSNFR
-# Position: 297-306
-# Length: 10 amino acids
-# Type: MHC-I

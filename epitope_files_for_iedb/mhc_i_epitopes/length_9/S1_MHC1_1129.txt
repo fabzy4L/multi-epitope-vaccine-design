@@ -1,5 +1,0 @@
->S1_MHC1_1129
-FERDISTEI
-# Position: 451-459
-# Length: 9 amino acids
-# Type: MHC-I

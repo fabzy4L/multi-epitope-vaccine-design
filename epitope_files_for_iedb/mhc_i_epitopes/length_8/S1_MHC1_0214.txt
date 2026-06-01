@@ -1,5 +1,0 @@
->S1_MHC1_0214
-VDLPIGIN
-# Position: 214-221
-# Length: 8 amino acids
-# Type: MHC-I

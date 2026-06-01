@@ -1,5 +1,0 @@
->S1_MHC1_1941
-TPGTNTSNQV
-# Position: 586-595
-# Length: 10 amino acids
-# Type: MHC-I

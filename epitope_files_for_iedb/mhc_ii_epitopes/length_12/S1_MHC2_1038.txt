@@ -1,5 +1,0 @@
->S1_MHC2_1038
-NVVIKVCEFQFC
-# Position: 112-123
-# Length: 12 amino acids
-# Type: MHC-II

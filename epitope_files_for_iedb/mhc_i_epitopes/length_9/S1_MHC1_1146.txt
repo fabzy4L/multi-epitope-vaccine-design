@@ -1,5 +1,0 @@
->S1_MHC1_1146
-NGVEGFNCY
-# Position: 468-476
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_2435
-KIADYNYKLPD
-# Position: 404-414
-# Length: 11 amino acids
-# Type: MHC-I

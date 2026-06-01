@@ -1,5 +1,0 @@
->S1_MHC1_0453
-RDISTEIY
-# Position: 453-460
-# Length: 8 amino acids
-# Type: MHC-I

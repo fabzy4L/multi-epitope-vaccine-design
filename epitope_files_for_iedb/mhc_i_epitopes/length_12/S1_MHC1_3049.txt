@@ -1,5 +1,0 @@
->S1_MHC1_3049
-KRISNCVADYSV
-# Position: 343-354
-# Length: 12 amino acids
-# Type: MHC-I

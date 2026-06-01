@@ -1,5 +1,0 @@
->S1_MHC1_3052
-SNCVADYSVLYN
-# Position: 346-357
-# Length: 12 amino acids
-# Type: MHC-I

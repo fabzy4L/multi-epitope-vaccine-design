@@ -1,5 +1,0 @@
->S1_MHC2_1127
-FTNVYADSFVIR
-# Position: 379-390
-# Length: 12 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_0990
-SIVRFPNIT
-# Position: 312-320
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1567
-PLVDLPIGIN
-# Position: 212-221
-# Length: 10 amino acids
-# Type: MHC-I

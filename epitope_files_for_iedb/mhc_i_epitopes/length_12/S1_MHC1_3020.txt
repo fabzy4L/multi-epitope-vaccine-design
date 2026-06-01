@@ -1,5 +1,0 @@
->S1_MHC1_3020
-VRFPNITNLCPF
-# Position: 314-325
-# Length: 12 amino acids
-# Type: MHC-I

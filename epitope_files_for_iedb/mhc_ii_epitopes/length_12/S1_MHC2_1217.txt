@@ -1,5 +1,0 @@
->S1_MHC2_1217
-CDIPIGAGICAS
-# Position: 649-660
-# Length: 12 amino acids
-# Type: MHC-II

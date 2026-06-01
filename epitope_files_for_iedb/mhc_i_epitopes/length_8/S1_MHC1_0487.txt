@@ -1,5 +1,0 @@
->S1_MHC1_0487
-TNGVGYQP
-# Position: 487-494
-# Length: 8 amino acids
-# Type: MHC-I

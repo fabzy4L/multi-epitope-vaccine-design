@@ -1,5 +1,0 @@
->S1_MHC2_1192
-ITPCSFGGVSVI
-# Position: 574-585
-# Length: 12 amino acids
-# Type: MHC-II

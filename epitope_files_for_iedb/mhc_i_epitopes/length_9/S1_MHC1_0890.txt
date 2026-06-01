@@ -1,5 +1,0 @@
->S1_MHC1_0890
-PLVDLPIGI
-# Position: 212-220
-# Length: 9 amino acids
-# Type: MHC-I

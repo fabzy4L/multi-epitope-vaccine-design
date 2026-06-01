@@ -1,5 +1,0 @@
->S1_MHC1_1820
-TPCNGVEGFN
-# Position: 465-474
-# Length: 10 amino acids
-# Type: MHC-I

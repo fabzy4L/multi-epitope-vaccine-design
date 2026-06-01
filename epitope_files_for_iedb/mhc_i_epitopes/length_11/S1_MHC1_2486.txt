@@ -1,5 +1,0 @@
->S1_MHC1_2486
-ISTEIYQAGST
-# Position: 455-465
-# Length: 11 amino acids
-# Type: MHC-I

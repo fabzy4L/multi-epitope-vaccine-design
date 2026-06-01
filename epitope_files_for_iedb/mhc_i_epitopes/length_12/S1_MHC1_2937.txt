@@ -1,5 +1,0 @@
->S1_MHC1_2937
-LHRSYLTPGDSS
-# Position: 231-242
-# Length: 12 amino acids
-# Type: MHC-I

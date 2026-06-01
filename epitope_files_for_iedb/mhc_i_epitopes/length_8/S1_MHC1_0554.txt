@@ -1,5 +1,0 @@
->S1_MHC1_0554
-RDIADTTD
-# Position: 554-561
-# Length: 8 amino acids
-# Type: MHC-I

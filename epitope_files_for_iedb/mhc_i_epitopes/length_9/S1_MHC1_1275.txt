@@ -1,5 +1,0 @@
->S1_MHC1_1275
-VLYQDVNCT
-# Position: 597-605
-# Length: 9 amino acids
-# Type: MHC-I

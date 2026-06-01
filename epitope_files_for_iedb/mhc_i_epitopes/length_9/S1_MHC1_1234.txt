@@ -1,5 +1,0 @@
->S1_MHC1_1234
-IADTTDAVR
-# Position: 556-564
-# Length: 9 amino acids
-# Type: MHC-I

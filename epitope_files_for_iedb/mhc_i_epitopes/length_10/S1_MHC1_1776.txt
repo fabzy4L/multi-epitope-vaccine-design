@@ -1,5 +1,0 @@
->S1_MHC1_1776
-IAWNSNNLDS
-# Position: 421-430
-# Length: 10 amino acids
-# Type: MHC-I

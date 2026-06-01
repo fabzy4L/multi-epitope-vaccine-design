@@ -1,5 +1,0 @@
->S1_MHC2_1156
-PCNGVEGFNCYF
-# Position: 466-477
-# Length: 12 amino acids
-# Type: MHC-II

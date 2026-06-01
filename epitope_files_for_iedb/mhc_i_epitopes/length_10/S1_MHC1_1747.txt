@@ -1,5 +1,0 @@
->S1_MHC1_1747
-DEVRQIAPGQ
-# Position: 392-401
-# Length: 10 amino acids
-# Type: MHC-I

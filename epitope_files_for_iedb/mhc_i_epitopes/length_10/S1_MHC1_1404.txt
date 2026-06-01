@@ -1,5 +1,0 @@
->S1_MHC1_1404
-VTWFHAIHVS
-# Position: 49-58
-# Length: 10 amino acids
-# Type: MHC-I

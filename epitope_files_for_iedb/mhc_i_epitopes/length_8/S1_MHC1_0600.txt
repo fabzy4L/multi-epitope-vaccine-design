@@ -1,5 +1,0 @@
->S1_MHC1_0600
-QDVNCTEV
-# Position: 600-607
-# Length: 8 amino acids
-# Type: MHC-I

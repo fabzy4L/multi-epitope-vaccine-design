@@ -1,5 +1,0 @@
->S1_MHC1_0662
-QTQTNSPG
-# Position: 662-669
-# Length: 8 amino acids
-# Type: MHC-I

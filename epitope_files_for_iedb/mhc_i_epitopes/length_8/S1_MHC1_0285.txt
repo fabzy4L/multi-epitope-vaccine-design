@@ -1,5 +1,0 @@
->S1_MHC1_0285
-ETKCTLKS
-# Position: 285-292
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0503
-ELLHAPAT
-# Position: 503-510
-# Length: 8 amino acids
-# Type: MHC-I

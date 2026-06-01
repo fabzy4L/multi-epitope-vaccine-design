@@ -1,5 +1,0 @@
->S1_MHC1_0495
-YRVVVLSF
-# Position: 495-502
-# Length: 8 amino acids
-# Type: MHC-I

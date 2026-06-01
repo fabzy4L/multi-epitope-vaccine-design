@@ -1,5 +1,0 @@
->S1_MHC1_1953
-LYQDVNCTEV
-# Position: 598-607
-# Length: 10 amino acids
-# Type: MHC-I

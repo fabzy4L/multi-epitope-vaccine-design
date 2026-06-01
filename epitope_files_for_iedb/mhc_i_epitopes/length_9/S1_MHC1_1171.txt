@@ -1,5 +1,0 @@
->S1_MHC1_1171
-QPYRVVVLS
-# Position: 493-501
-# Length: 9 amino acids
-# Type: MHC-I

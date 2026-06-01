@@ -1,5 +1,0 @@
->S1_MHC1_2402
-PTKLNDLCFTN
-# Position: 371-381
-# Length: 11 amino acids
-# Type: MHC-I

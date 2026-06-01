@@ -1,5 +1,0 @@
->S1_MHC1_0838
-QPFLMDLEG
-# Position: 160-168
-# Length: 9 amino acids
-# Type: MHC-I

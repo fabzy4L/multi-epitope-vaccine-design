@@ -1,5 +1,0 @@
->S1_MHC1_3154
-LKPFERDISTEI
-# Position: 448-459
-# Length: 12 amino acids
-# Type: MHC-I

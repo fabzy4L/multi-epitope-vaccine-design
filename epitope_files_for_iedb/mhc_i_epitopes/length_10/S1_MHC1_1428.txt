@@ -1,5 +1,0 @@
->S1_MHC1_1428
-FNDGVYFAST
-# Position: 73-82
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0029
-VFRSSVLH
-# Position: 29-36
-# Length: 8 amino acids
-# Type: MHC-I

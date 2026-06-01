@@ -1,5 +1,0 @@
->S1_MHC1_0198
-NLVRDLPQ
-# Position: 198-205
-# Length: 8 amino acids
-# Type: MHC-I

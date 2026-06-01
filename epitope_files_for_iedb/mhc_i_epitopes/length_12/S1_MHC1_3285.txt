@@ -1,5 +1,0 @@
->S1_MHC1_3285
-FGGVSVITPGTN
-# Position: 579-590
-# Length: 12 amino acids
-# Type: MHC-I

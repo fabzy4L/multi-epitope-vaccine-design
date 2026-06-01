@@ -1,5 +1,0 @@
->S1_MHC1_0049
-VTWFHAIH
-# Position: 49-56
-# Length: 8 amino acids
-# Type: MHC-I

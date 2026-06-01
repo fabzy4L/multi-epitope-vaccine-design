@@ -1,5 +1,0 @@
->S1_MHC1_0893
-DLPIGINIT
-# Position: 215-223
-# Length: 9 amino acids
-# Type: MHC-I

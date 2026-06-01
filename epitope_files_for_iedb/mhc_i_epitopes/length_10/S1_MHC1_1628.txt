@@ -1,5 +1,0 @@
->S1_MHC1_1628
-TDAVDCALDP
-# Position: 273-282
-# Length: 10 amino acids
-# Type: MHC-I

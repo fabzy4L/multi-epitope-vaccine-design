@@ -1,5 +1,0 @@
->S1_MHC2_1449
-SASSVASQSIIAYTM
-# Position: 670-684
-# Length: 15 amino acids
-# Type: MHC-II

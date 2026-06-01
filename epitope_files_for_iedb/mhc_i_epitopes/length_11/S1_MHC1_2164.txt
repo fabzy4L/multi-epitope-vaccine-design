@@ -1,5 +1,0 @@
->S1_MHC1_2164
-HKNNKSWMESE
-# Position: 133-143
-# Length: 11 amino acids
-# Type: MHC-I

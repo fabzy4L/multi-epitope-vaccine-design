@@ -1,5 +1,0 @@
->S1_MHC1_0431
-KVGGNYNY
-# Position: 431-438
-# Length: 8 amino acids
-# Type: MHC-I

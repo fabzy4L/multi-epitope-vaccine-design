@@ -1,5 +1,0 @@
->S1_MHC1_3065
-ASFSTFKCYGVS
-# Position: 359-370
-# Length: 12 amino acids
-# Type: MHC-I

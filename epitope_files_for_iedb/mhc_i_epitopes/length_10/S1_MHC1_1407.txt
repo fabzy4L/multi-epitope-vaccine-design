@@ -1,5 +1,0 @@
->S1_MHC1_1407
-FHAIHVSGTN
-# Position: 52-61
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_1880
-CVNFNFNGLT
-# Position: 525-534
-# Length: 10 amino acids
-# Type: MHC-I

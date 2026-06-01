@@ -1,5 +1,0 @@
->S1_MHC1_0132
-YHKNNKSW
-# Position: 132-139
-# Length: 8 amino acids
-# Type: MHC-I

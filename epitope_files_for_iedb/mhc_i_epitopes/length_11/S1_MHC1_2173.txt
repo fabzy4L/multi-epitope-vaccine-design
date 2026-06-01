@@ -1,5 +1,0 @@
->S1_MHC1_2173
-SEFRVYSSANN
-# Position: 142-152
-# Length: 11 amino acids
-# Type: MHC-I

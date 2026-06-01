@@ -1,5 +1,0 @@
->S1_MHC1_0142
-SEFRVYSS
-# Position: 142-149
-# Length: 8 amino acids
-# Type: MHC-I

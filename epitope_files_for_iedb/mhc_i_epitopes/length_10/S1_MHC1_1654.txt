@@ -1,5 +1,0 @@
->S1_MHC1_1654
-IYQTSNFRVQ
-# Position: 299-308
-# Length: 10 amino acids
-# Type: MHC-I

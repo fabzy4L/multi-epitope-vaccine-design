@@ -1,5 +1,0 @@
->S1_MHC1_0361
-FSTFKCYG
-# Position: 361-368
-# Length: 8 amino acids
-# Type: MHC-I

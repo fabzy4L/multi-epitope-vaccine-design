@@ -1,5 +1,0 @@
->S1_MHC1_3225
-NLVKNKCVNFNF
-# Position: 519-530
-# Length: 12 amino acids
-# Type: MHC-I

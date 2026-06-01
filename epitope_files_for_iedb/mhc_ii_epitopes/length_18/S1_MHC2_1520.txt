@@ -1,5 +1,0 @@
->S1_MHC2_1520
-EPLVDLPIGINITRFQTL
-# Position: 211-228
-# Length: 18 amino acids
-# Type: MHC-II

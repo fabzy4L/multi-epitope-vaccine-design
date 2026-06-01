@@ -1,5 +1,0 @@
->S1_MHC1_2667
-CLIGAEHVNNS
-# Position: 636-646
-# Length: 11 amino acids
-# Type: MHC-I

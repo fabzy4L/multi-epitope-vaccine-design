@@ -1,5 +1,0 @@
->S1_MHC1_2821
-IKVCEFQFCNDP
-# Position: 115-126
-# Length: 12 amino acids
-# Type: MHC-I

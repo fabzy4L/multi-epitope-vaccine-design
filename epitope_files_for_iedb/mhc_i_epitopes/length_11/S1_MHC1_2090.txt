@@ -1,5 +1,0 @@
->S1_MHC1_2090
-GTNGTKRFDNP
-# Position: 59-69
-# Length: 11 amino acids
-# Type: MHC-I

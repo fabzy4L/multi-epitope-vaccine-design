@@ -1,5 +1,0 @@
->S1_MHC1_1681
-GEVFNATRFA
-# Position: 326-335
-# Length: 10 amino acids
-# Type: MHC-I

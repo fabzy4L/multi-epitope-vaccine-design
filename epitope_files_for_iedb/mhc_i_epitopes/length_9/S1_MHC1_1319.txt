@@ -1,5 +1,0 @@
->S1_MHC1_1319
-EHVNNSYEC
-# Position: 641-649
-# Length: 9 amino acids
-# Type: MHC-I

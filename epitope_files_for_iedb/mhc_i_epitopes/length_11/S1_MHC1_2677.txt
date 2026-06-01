@@ -1,5 +1,0 @@
->S1_MHC1_2677
-SYECDIPIGAG
-# Position: 646-656
-# Length: 11 amino acids
-# Type: MHC-I

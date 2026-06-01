@@ -1,5 +1,0 @@
->S1_MHC1_3200
-PYRVVVLSFELL
-# Position: 494-505
-# Length: 12 amino acids
-# Type: MHC-I

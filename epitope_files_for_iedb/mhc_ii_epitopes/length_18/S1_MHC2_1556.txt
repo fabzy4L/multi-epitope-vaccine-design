@@ -1,5 +1,0 @@
->S1_MHC2_1556
-ITNLCPFGEVFNATRFAS
-# Position: 319-336
-# Length: 18 amino acids
-# Type: MHC-II

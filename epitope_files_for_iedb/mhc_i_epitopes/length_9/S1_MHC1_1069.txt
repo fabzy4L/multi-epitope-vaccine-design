@@ -1,5 +1,0 @@
->S1_MHC1_1069
-GDEVRQIAP
-# Position: 391-399
-# Length: 9 amino acids
-# Type: MHC-I

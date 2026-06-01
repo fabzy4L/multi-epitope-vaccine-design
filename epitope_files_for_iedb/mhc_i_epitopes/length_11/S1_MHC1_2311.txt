@@ -1,5 +1,0 @@
->S1_MHC1_2311
-LDPLSETKCTL
-# Position: 280-290
-# Length: 11 amino acids
-# Type: MHC-I

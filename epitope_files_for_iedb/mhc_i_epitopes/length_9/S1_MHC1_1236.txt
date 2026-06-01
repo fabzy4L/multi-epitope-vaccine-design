@@ -1,5 +1,0 @@
->S1_MHC1_1236
-DTTDAVRDP
-# Position: 558-566
-# Length: 9 amino acids
-# Type: MHC-I

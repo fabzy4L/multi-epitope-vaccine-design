@@ -1,5 +1,0 @@
->S1_MHC1_0272
-ITDAVDCA
-# Position: 272-279
-# Length: 8 amino acids
-# Type: MHC-I

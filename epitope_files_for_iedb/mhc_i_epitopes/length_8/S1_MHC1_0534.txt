@@ -1,5 +1,0 @@
->S1_MHC1_0534
-TGTGVLTE
-# Position: 534-541
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1250
-FNDGVYFASTEKSNI
-# Position: 73-87
-# Length: 15 amino acids
-# Type: MHC-II

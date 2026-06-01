@@ -1,5 +1,0 @@
->S1_MHC1_0227
-TLLALHRS
-# Position: 227-234
-# Length: 8 amino acids
-# Type: MHC-I

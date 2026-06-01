@@ -1,5 +1,0 @@
->S1_MHC1_1774
-CVIAWNSNNL
-# Position: 419-428
-# Length: 10 amino acids
-# Type: MHC-I

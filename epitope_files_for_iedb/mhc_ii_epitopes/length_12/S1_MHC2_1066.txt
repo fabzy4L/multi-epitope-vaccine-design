@@ -1,5 +1,0 @@
->S1_MHC2_1066
-PINLVRDLPQGF
-# Position: 196-207
-# Length: 12 amino acids
-# Type: MHC-II

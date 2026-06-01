@@ -1,5 +1,0 @@
->S1_MHC1_0579
-FGGVSVIT
-# Position: 579-586
-# Length: 8 amino acids
-# Type: MHC-I

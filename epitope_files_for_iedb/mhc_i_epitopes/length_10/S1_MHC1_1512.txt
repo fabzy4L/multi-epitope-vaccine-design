@@ -1,5 +1,0 @@
->S1_MHC1_1512
-YVSQPFLMDL
-# Position: 157-166
-# Length: 10 amino acids
-# Type: MHC-I

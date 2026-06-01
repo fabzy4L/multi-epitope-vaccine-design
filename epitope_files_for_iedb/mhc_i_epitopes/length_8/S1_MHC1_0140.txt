@@ -1,5 +1,0 @@
->S1_MHC1_0140
-MESEFRVY
-# Position: 140-147
-# Length: 8 amino acids
-# Type: MHC-I

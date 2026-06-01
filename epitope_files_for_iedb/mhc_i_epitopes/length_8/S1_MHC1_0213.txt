@@ -1,5 +1,0 @@
->S1_MHC1_0213
-LVDLPIGI
-# Position: 213-220
-# Length: 8 amino acids
-# Type: MHC-I

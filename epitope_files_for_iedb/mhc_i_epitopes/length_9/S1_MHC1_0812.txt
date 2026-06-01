@@ -1,5 +1,0 @@
->S1_MHC1_0812
-KNNKSWMES
-# Position: 134-142
-# Length: 9 amino acids
-# Type: MHC-I

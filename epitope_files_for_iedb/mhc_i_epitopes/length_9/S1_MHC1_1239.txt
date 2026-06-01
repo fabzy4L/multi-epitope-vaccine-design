@@ -1,5 +1,0 @@
->S1_MHC1_1239
-DAVRDPQTL
-# Position: 561-569
-# Length: 9 amino acids
-# Type: MHC-I

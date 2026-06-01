@@ -1,5 +1,0 @@
->S1_MHC1_1979
-STGSNVFQTR
-# Position: 624-633
-# Length: 10 amino acids
-# Type: MHC-I

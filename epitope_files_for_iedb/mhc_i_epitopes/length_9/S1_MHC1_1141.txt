@@ -1,5 +1,0 @@
->S1_MHC1_1141
-GSTPCNGVE
-# Position: 463-471
-# Length: 9 amino acids
-# Type: MHC-I

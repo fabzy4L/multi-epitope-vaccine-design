@@ -1,5 +1,0 @@
->S1_MHC1_2988
-PLSETKCTLKSF
-# Position: 282-293
-# Length: 12 amino acids
-# Type: MHC-I

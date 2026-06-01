@@ -1,5 +1,0 @@
->S1_MHC1_1333
-AGICASYQT
-# Position: 655-663
-# Length: 9 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_2010
-AGICASYQTQ
-# Position: 655-664
-# Length: 10 amino acids
-# Type: MHC-I

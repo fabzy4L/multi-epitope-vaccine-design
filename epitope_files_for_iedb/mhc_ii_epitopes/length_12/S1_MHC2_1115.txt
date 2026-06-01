@@ -1,5 +1,0 @@
->S1_MHC2_1115
-KRISNCVADYSV
-# Position: 343-354
-# Length: 12 amino acids
-# Type: MHC-II

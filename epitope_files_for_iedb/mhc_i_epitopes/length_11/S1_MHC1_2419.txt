@@ -1,5 +1,0 @@
->S1_MHC1_2419
-VIRGDEVRQIA
-# Position: 388-398
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0307
-VQPTESIV
-# Position: 307-314
-# Length: 8 amino acids
-# Type: MHC-I

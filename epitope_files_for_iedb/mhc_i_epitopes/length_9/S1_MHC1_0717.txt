@@ -1,5 +1,0 @@
->S1_MHC1_0717
-QDLFLPFFS
-# Position: 39-47
-# Length: 9 amino acids
-# Type: MHC-I

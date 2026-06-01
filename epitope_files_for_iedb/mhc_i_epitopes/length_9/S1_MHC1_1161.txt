@@ -1,5 +1,0 @@
->S1_MHC1_1161
-GFQPTNGVG
-# Position: 483-491
-# Length: 9 amino acids
-# Type: MHC-I

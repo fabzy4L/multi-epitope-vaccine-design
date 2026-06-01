@@ -1,5 +1,0 @@
->S1_MHC1_1630
-AVDCALDPLS
-# Position: 275-284
-# Length: 10 amino acids
-# Type: MHC-I

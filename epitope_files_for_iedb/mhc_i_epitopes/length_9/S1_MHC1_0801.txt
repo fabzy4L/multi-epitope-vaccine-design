@@ -1,5 +1,0 @@
->S1_MHC1_0801
-CNDPFLGVY
-# Position: 123-131
-# Length: 9 amino acids
-# Type: MHC-I

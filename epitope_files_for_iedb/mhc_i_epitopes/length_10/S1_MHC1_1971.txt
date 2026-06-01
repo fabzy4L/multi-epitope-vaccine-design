@@ -1,5 +1,0 @@
->S1_MHC1_1971
-LTPTWRVYST
-# Position: 616-625
-# Length: 10 amino acids
-# Type: MHC-I

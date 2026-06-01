@@ -1,5 +1,0 @@
->S1_MHC1_1366
-LPPAYTNSFT
-# Position: 11-20
-# Length: 10 amino acids
-# Type: MHC-I

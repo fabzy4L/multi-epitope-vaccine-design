@@ -1,5 +1,0 @@
->S1_MHC1_2420
-IRGDEVRQIAP
-# Position: 389-399
-# Length: 11 amino acids
-# Type: MHC-I

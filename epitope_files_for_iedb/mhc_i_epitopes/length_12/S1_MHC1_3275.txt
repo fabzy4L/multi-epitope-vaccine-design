@@ -1,5 +1,0 @@
->S1_MHC1_3275
-LEILDITPCSFG
-# Position: 569-580
-# Length: 12 amino acids
-# Type: MHC-I

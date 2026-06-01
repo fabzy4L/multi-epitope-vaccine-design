@@ -1,5 +1,0 @@
->S1_MHC1_2368
-VYAWNRKRISN
-# Position: 337-347
-# Length: 11 amino acids
-# Type: MHC-I

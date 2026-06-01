@@ -1,5 +1,0 @@
->S1_MHC1_0317
-PNITNLCP
-# Position: 317-324
-# Length: 8 amino acids
-# Type: MHC-I

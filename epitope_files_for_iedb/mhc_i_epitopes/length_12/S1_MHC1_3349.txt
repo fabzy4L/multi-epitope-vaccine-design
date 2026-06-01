@@ -1,5 +1,0 @@
->S1_MHC1_3349
-VNNSYECDIPIG
-# Position: 643-654
-# Length: 12 amino acids
-# Type: MHC-I

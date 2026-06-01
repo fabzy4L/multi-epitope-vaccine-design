@@ -1,5 +1,0 @@
->S1_MHC1_0561
-DAVRDPQT
-# Position: 561-568
-# Length: 8 amino acids
-# Type: MHC-I

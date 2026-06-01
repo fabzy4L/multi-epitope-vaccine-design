@@ -1,5 +1,0 @@
->S1_MHC1_1014
-SVYAWNRKR
-# Position: 336-344
-# Length: 9 amino acids
-# Type: MHC-I

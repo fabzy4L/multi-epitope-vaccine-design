@@ -1,5 +1,0 @@
->S1_MHC1_1026
-CVADYSVLY
-# Position: 348-356
-# Length: 9 amino acids
-# Type: MHC-I

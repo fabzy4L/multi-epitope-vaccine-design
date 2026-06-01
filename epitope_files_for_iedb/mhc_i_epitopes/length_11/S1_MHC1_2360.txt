@@ -1,5 +1,0 @@
->S1_MHC1_2360
-FNATRFASVYA
-# Position: 329-339
-# Length: 11 amino acids
-# Type: MHC-I

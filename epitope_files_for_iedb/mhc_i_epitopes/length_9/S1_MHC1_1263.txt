@@ -1,5 +1,0 @@
->S1_MHC1_1263
-ITPGTNTSN
-# Position: 585-593
-# Length: 9 amino acids
-# Type: MHC-I

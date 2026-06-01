@@ -1,5 +1,0 @@
->S1_MHC1_2347
-FPNITNLCPFG
-# Position: 316-326
-# Length: 11 amino acids
-# Type: MHC-I

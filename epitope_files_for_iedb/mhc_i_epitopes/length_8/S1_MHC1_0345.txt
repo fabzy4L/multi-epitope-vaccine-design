@@ -1,5 +1,0 @@
->S1_MHC1_0345
-ISNCVADY
-# Position: 345-352
-# Length: 8 amino acids
-# Type: MHC-I

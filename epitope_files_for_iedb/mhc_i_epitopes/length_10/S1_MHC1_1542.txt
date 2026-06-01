@@ -1,5 +1,0 @@
->S1_MHC1_1542
-YFKIYSKHTP
-# Position: 187-196
-# Length: 10 amino acids
-# Type: MHC-I

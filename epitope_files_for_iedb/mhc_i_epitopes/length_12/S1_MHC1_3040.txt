@@ -1,5 +1,0 @@
->S1_MHC1_3040
-FASVYAWNRKRI
-# Position: 334-345
-# Length: 12 amino acids
-# Type: MHC-I

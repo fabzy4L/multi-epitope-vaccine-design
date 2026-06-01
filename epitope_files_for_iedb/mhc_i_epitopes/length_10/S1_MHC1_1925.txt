@@ -1,5 +1,0 @@
->S1_MHC1_1925
-EILDITPCSF
-# Position: 570-579
-# Length: 10 amino acids
-# Type: MHC-I

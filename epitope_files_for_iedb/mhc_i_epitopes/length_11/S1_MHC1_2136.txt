@@ -1,5 +1,0 @@
->S1_MHC1_2136
-LIVNNATNVVI
-# Position: 105-115
-# Length: 11 amino acids
-# Type: MHC-I

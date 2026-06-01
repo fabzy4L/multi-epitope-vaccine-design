@@ -1,5 +1,0 @@
->S1_MHC1_3253
-LPFQQFGRDIAD
-# Position: 547-558
-# Length: 12 amino acids
-# Type: MHC-I

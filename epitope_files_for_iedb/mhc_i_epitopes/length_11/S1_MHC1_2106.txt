@@ -1,5 +1,0 @@
->S1_MHC1_2106
-DGVYFASTEKS
-# Position: 75-85
-# Length: 11 amino acids
-# Type: MHC-I

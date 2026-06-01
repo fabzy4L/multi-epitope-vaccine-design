@@ -1,5 +1,0 @@
->S1_MHC2_1615
-RVVVLSFELLHAPATVCG
-# Position: 496-513
-# Length: 18 amino acids
-# Type: MHC-II

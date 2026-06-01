@@ -1,5 +1,0 @@
->S1_MHC2_1517
-DLPQGFSALEPLVDLPIG
-# Position: 202-219
-# Length: 18 amino acids
-# Type: MHC-II

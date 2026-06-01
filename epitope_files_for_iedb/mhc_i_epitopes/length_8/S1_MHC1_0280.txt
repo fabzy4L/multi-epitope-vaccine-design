@@ -1,5 +1,0 @@
->S1_MHC1_0280
-LDPLSETK
-# Position: 280-287
-# Length: 8 amino acids
-# Type: MHC-I

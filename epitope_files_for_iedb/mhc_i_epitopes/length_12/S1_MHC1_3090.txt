@@ -1,5 +1,0 @@
->S1_MHC1_3090
-ADSFVIRGDEVR
-# Position: 384-395
-# Length: 12 amino acids
-# Type: MHC-I

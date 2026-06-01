@@ -1,5 +1,0 @@
->S1_MHC1_2423
-DEVRQIAPGQT
-# Position: 392-402
-# Length: 11 amino acids
-# Type: MHC-I

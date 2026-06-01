@@ -1,5 +1,0 @@
->S1_MHC2_1329
-TESIVRFPNITNLCP
-# Position: 310-324
-# Length: 15 amino acids
-# Type: MHC-II

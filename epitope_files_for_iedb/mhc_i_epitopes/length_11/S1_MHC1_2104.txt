@@ -1,5 +1,0 @@
->S1_MHC1_2104
-FNDGVYFASTE
-# Position: 73-83
-# Length: 11 amino acids
-# Type: MHC-I

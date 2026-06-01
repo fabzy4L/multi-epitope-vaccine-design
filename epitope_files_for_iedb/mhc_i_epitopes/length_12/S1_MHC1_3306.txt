@@ -1,5 +1,0 @@
->S1_MHC1_3306
-QDVNCTEVPVAI
-# Position: 600-611
-# Length: 12 amino acids
-# Type: MHC-I

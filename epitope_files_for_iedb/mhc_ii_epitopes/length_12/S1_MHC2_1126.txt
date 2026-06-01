@@ -1,5 +1,0 @@
->S1_MHC2_1126
-DLCFTNVYADSF
-# Position: 376-387
-# Length: 12 amino acids
-# Type: MHC-II

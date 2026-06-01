@@ -1,5 +1,0 @@
->S1_MHC1_1664
-PTESIVRFPN
-# Position: 309-318
-# Length: 10 amino acids
-# Type: MHC-I

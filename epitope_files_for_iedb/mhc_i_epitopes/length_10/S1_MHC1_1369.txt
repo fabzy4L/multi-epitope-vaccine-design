@@ -1,5 +1,0 @@
->S1_MHC1_1369
-AYTNSFTRGV
-# Position: 14-23
-# Length: 10 amino acids
-# Type: MHC-I

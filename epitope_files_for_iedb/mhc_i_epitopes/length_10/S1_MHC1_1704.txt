@@ -1,5 +1,0 @@
->S1_MHC1_1704
-VADYSVLYNS
-# Position: 349-358
-# Length: 10 amino acids
-# Type: MHC-I

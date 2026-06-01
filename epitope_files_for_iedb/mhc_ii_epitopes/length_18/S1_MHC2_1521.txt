@@ -1,5 +1,0 @@
->S1_MHC2_1521
-VDLPIGINITRFQTLLAL
-# Position: 214-231
-# Length: 18 amino acids
-# Type: MHC-II

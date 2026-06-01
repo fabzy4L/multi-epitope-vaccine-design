@@ -1,5 +1,0 @@
->S1_MHC1_0354
-VLYNSASF
-# Position: 354-361
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_2476
-KSNLKPFERDI
-# Position: 445-455
-# Length: 11 amino acids
-# Type: MHC-I

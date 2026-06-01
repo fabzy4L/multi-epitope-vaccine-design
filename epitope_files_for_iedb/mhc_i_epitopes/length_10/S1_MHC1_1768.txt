@@ -1,5 +1,0 @@
->S1_MHC1_1768
-PDDFTGCVIA
-# Position: 413-422
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3070
-FKCYGVSPTKLN
-# Position: 364-375
-# Length: 12 amino acids
-# Type: MHC-I

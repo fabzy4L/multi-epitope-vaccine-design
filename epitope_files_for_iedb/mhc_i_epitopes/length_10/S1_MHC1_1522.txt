@@ -1,5 +1,0 @@
->S1_MHC1_1522
-EGKQGNFKNL
-# Position: 167-176
-# Length: 10 amino acids
-# Type: MHC-I

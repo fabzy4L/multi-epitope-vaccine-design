@@ -1,5 +1,0 @@
->S1_MHC2_1136
-ADYNYKLPDDFT
-# Position: 406-417
-# Length: 12 amino acids
-# Type: MHC-II

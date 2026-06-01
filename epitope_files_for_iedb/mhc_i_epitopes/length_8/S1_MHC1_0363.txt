@@ -1,5 +1,0 @@
->S1_MHC1_0363
-TFKCYGVS
-# Position: 363-370
-# Length: 8 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_0056
-HVSGTNGT
-# Position: 56-63
-# Length: 8 amino acids
-# Type: MHC-I

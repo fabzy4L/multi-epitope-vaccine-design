@@ -1,5 +1,0 @@
->S1_MHC1_0525
-CVNFNFNG
-# Position: 525-532
-# Length: 8 amino acids
-# Type: MHC-I

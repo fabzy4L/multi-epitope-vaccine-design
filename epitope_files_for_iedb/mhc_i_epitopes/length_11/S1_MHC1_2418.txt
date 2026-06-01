@@ -1,5 +1,0 @@
->S1_MHC1_2418
-FVIRGDEVRQI
-# Position: 387-397
-# Length: 11 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC2_1017
-VTWFHAIHVSGT
-# Position: 49-60
-# Length: 12 amino acids
-# Type: MHC-II

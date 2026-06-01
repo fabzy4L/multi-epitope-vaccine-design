@@ -1,5 +1,0 @@
->S1_MHC2_1535
-YLQPRTFLLKYNENGTIT
-# Position: 256-273
-# Length: 18 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_2929
-TRFQTLLALHRS
-# Position: 223-234
-# Length: 12 amino acids
-# Type: MHC-I

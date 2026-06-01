@@ -1,5 +1,0 @@
->S1_MHC1_1789
-GNYNYLYRLF
-# Position: 434-443
-# Length: 10 amino acids
-# Type: MHC-I

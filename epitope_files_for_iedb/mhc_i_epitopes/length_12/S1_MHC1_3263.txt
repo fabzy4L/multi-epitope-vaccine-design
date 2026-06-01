@@ -1,5 +1,0 @@
->S1_MHC1_3263
-ADTTDAVRDPQT
-# Position: 557-568
-# Length: 12 amino acids
-# Type: MHC-I

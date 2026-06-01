@@ -1,5 +1,0 @@
->S1_MHC1_2264
-RSYLTPGDSSS
-# Position: 233-243
-# Length: 11 amino acids
-# Type: MHC-I

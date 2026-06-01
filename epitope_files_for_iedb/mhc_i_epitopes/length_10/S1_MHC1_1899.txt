@@ -1,5 +1,0 @@
->S1_MHC1_1899
-KKFLPFQQFG
-# Position: 544-553
-# Length: 10 amino acids
-# Type: MHC-I

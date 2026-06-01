@@ -1,5 +1,0 @@
->S1_MHC2_1104
-TESIVRFPNITN
-# Position: 310-321
-# Length: 12 amino acids
-# Type: MHC-II

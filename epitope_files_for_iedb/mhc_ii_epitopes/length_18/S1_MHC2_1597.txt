@@ -1,5 +1,0 @@
->S1_MHC2_1597
-LFRKSNLKPFERDISTEI
-# Position: 442-459
-# Length: 18 amino acids
-# Type: MHC-II

@@ -1,5 +1,0 @@
->S1_MHC1_2322
-KSFTVEKGIYQ
-# Position: 291-301
-# Length: 11 amino acids
-# Type: MHC-I

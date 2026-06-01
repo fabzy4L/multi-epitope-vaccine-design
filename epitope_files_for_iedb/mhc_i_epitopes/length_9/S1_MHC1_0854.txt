@@ -1,5 +1,0 @@
->S1_MHC1_0854
-LREFVFKNI
-# Position: 176-184
-# Length: 9 amino acids
-# Type: MHC-I

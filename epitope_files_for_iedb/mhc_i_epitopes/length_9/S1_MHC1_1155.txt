@@ -1,5 +1,0 @@
->S1_MHC1_1155
-FPLQSYGFQ
-# Position: 477-485
-# Length: 9 amino acids
-# Type: MHC-I

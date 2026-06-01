@@ -1,5 +1,0 @@
->S1_MHC1_1454
-SKTQSLLIVN
-# Position: 99-108
-# Length: 10 amino acids
-# Type: MHC-I

@@ -1,5 +1,0 @@
->S1_MHC1_3233
-NFNFNGLTGTGV
-# Position: 527-538
-# Length: 12 amino acids
-# Type: MHC-I
