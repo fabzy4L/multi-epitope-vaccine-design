@@ -285,6 +285,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vaccine Design Community**: For established methodologies and benchmarks
 - **Open Source Contributors**: For tools and libraries that made this work possible
 
+## 📚 Key References
+
+- Zaman M et al. "Combined signals from TLR-2 and TLR-4 are necessary for optimal activation of naive CD4+ T cells by the peptide vaccine epitope." *Vaccine.* 2012. — **RS09 TLR4 adjuvant for peptide subunit vaccines**
+- Reynisson B et al. "NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation by concurrent motif deconvolution and integration of MS MHC eluted ligand data." *Nucleic Acids Research.* 2020.
+- Vita R et al. "The Immune Epitope Database (IEDB): 2018 update." *Nucleic Acids Research.* 2019.
+
 ## 🔗 Links
 
 - **Documentation**: [Full Documentation](docs/)

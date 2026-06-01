@@ -8,13 +8,13 @@
 
 ## Abstract
 
-The rapid emergence of infectious diseases demands innovative approaches to vaccine development that can accelerate the identification of immunogenic targets while maintaining scientific rigor. This article presents a comprehensive computational pipeline for multi-epitope vaccine design, demonstrated through the development of SARS-CoV-2 vaccine constructs. Our methodology processed 44,359 MHC binding predictions from the IEDB Analysis Resource, identifying 74 strong binders with remarkable selectivity (0.17%). The pipeline successfully generated three optimized multi-epitope vaccine constructs, with the lead candidate featuring sub-5nM binding affinities and comprehensive validation across physicochemical, immunological, and structural parameters. This work demonstrates the potential of AI-assisted bioinformatics to revolutionize vaccine development while establishing a reproducible framework for rapid response to emerging pathogens.
+The rapid emergence of infectious diseases demands innovative approaches to vaccine development that can accelerate the identification of immunogenic targets while maintaining scientific rigor. This article presents a comprehensive computational pipeline for multi-epitope vaccine design, demonstrated through the development of SARS-CoV-2 vaccine constructs. Our methodology processed 44,359 MHC binding predictions from the IEDB Analysis Resource, identifying 74 strong binders with remarkable selectivity (0.17%). The pipeline successfully generated three computationally designed multi-epitope vaccine constructs pending experimental validation, with the lead candidate featuring sub-5nM binding affinities and comprehensive physicochemical and immunological characterization. This work demonstrates the potential of AI-assisted bioinformatics to revolutionize vaccine development while establishing a reproducible framework for rapid response to emerging pathogens.
 
 **Key Results:**
 - 74 high-affinity epitopes identified from 4,274 candidates (0.17% selectivity)
 - Best MHC-I epitope: RLFRKSNLK (4.82nM binding affinity)
 - Best MHC-II epitope: VLSFELLHAPATVCG (4.06nM binding affinity)  
-- 3 validated multi-epitope constructs (12.7-18.8 kDa molecular weight)
+- 3 computationally designed multi-epitope constructs pending experimental validation (12.7-18.8 kDa molecular weight)
 
 ---
 

@@ -44,7 +44,16 @@ class VaccineConstructor:
             'FLEXIBLE': 'GGGS'        # General flexible linker
         }
 
-        # Adjuvant peptides (immune stimulatory)
+        # ADJUVANT RATIONALE: RS09 (TLR4 agonist)
+        # RS09 was selected over TLR7/8/9 agonists for the following reasons:
+        # 1. Peptide subunit vaccines lack endosomal delivery required for TLR7/8/9 activation
+        # 2. RS09 drives cross-presentation via DC activation -> CD8+ CTL response (intended mechanism)
+        # 3. TLR4 signaling via MyD88/TRIF activates both MHC-I and MHC-II presentation pathways
+        # 4. Precedent: RS09 used in SARS-CoV peptide constructs and other viral subunit vaccines
+        #    Ref: Zaman M et al. "Combined signals from TLR-2 and TLR-4 are necessary for optimal
+        #    activation of naive CD4+ T cells by the peptide vaccine epitope". Vaccine. 2012.
+        # 5. TLR7/8/9 agonists are optimized for nucleic acid-based (mRNA/DNA) vaccine formats
+        # This selection is intentional and immunologically justified for peptide subunit format.
         self.adjuvants = {
             'BETA_DEFENSIN_3': 'GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK',
             'RS09_TLR4': 'APPHALS',

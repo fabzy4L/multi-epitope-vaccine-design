@@ -1,0 +1,40 @@
+[
+  {
+    "construct_id": "v1_standard",
+    "gravy_score": 0.009,
+    "theoretical_pi": 9.9,
+    "instability_index": 46.23,
+    "max_hydrophobic_stretch": 4,
+    "risk_flags": [
+      "NET_HYDROPHOBIC",
+      "HIGH_PI_EXPRESSION_RISK"
+    ],
+    "proceed_to_alphafold": false,
+    "recommendation": "Manual review required before AlphaFold submission"
+  },
+  {
+    "construct_id": "v2_alternating",
+    "gravy_score": 0.072,
+    "theoretical_pi": 9.7,
+    "instability_index": 41.04,
+    "max_hydrophobic_stretch": 4,
+    "risk_flags": [
+      "NET_HYDROPHOBIC",
+      "HIGH_PI_EXPRESSION_RISK"
+    ],
+    "proceed_to_alphafold": false,
+    "recommendation": "Manual review required before AlphaFold submission"
+  },
+  {
+    "construct_id": "v3_optimized",
+    "gravy_score": -0.199,
+    "theoretical_pi": 10.22,
+    "instability_index": 41.01,
+    "max_hydrophobic_stretch": 4,
+    "risk_flags": [
+      "HIGH_PI_EXPRESSION_RISK"
+    ],
+    "proceed_to_alphafold": false,
+    "recommendation": "Manual review required before AlphaFold submission"
+  }
+]
