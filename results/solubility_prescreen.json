@@ -36,5 +36,17 @@
     ],
     "proceed_to_alphafold": false,
     "recommendation": "Manual review required before AlphaFold submission"
+  },
+  {
+    "construct_id": "v3_1_single_kk",
+    "gravy_score": -0.147,
+    "theoretical_pi": 10.13,
+    "instability_index": 42.64,
+    "max_hydrophobic_stretch": 4,
+    "risk_flags": [
+      "HIGH_PI_EXPRESSION_RISK"
+    ],
+    "proceed_to_alphafold": false,
+    "recommendation": "Manual review required before AlphaFold submission"
   }
 ]

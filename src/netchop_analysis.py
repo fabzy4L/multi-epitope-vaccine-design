@@ -19,6 +19,7 @@ v3 sequence to submit:
 MKKLLFAIPLVVPFYSHSGGGSAPPHALSGPGPGQTLLALHRSYLTPGDGPGPGINITRFQTLLALHRSKKGPGPGKKLPFNDGVYFAAYRLFRKSNLKAAYFPNITNLCPFAAYVLYNSASFSTFKGGGSPAPAPGSHHHHHH
 """
 
+import csv
 import json
 import numpy as np
 import matplotlib
@@ -26,17 +27,31 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-# ============================================================
-# PASTE NETCHOP OUTPUT HERE
+# If non-empty, these manual scores take precedence over CSV auto-load.
 # Format: list of (residue_number, amino_acid, cleavage_score)
-# Example row from NetChop table: (1, 'M', 0.042)
-# ============================================================
-NETCHOP_SCORES = [
-    # (1, 'M', 0.042),
-    # (2, 'K', 0.071),
-    # ... paste all 144 rows here
+NETCHOP_SCORES = []
+
+# CSV downloaded from NetChop server (auto-loaded when NETCHOP_SCORES is empty)
+_CSV_PATHS = [
+    Path(__file__).parent / "netchop_predictions_6A1D33D0002BF97E62F521C8.csv",
+    Path(__file__).parent.parent / "results" / "netchop" /
+        "netchop_predictions_6A1D33D0002BF97E62F521C8.csv",
 ]
-# ============================================================
+
+
+def _load_csv() -> list:
+    for p in _CSV_PATHS:
+        if p.exists():
+            rows = []
+            with open(p, newline="") as fh:
+                reader = csv.DictReader(fh)
+                for row in reader:
+                    rows.append((int(row["pos"]), row["AA"], float(row["score"])))
+            print(f"NetChop scores loaded from {p} ({len(rows)} residues)")
+            return rows
+    raise FileNotFoundError(
+        "No NetChop CSV found. Submit v3 to NetChop 3.1 and place the CSV in src/."
+    )
 
 CONSTRUCT = (
     "MKKLLFAIPLVVPFYSHSGGGSAPPHALSGPGPG"
@@ -146,14 +161,8 @@ def plot_netchop_full(cleavage_scores: np.ndarray, output_path: str):
 
 
 def run_netchop_analysis():
-    if not NETCHOP_SCORES:
-        raise ValueError(
-            "NETCHOP_SCORES is empty.\n"
-            "Submit v3 sequence to NetChop 3.1 (C-term 3.0, threshold 0.5),\n"
-            "then paste per-residue output into NETCHOP_SCORES in this file."
-        )
-
-    cleavage_scores = parse_netchop_output(NETCHOP_SCORES)
+    scores = NETCHOP_SCORES if NETCHOP_SCORES else _load_csv()
+    cleavage_scores = parse_netchop_output(scores)
     junction_result = analyze_junction(cleavage_scores)
 
     print("=== NetChop Junction Analysis ===")
