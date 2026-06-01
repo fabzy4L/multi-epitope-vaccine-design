@@ -84,6 +84,11 @@ debug_output/
 *.cif
 *.mmtf
 structures/large/
+# Allow AlphaFold structural results (small per-run PDB files in results/)
+!results/**/*.pdb
+
+# Large computational run outputs — store externally or in LFS
+results/RFDiffusion/*.result/
 
 # PyMOL session files
 *.pse
