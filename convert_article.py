@@ -32,7 +32,7 @@ def markdown_to_html(md_file, html_file):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Revolutionizing Vaccine Design: Multi-Epitope SARS-CoV-2 Vaccine Development</title>
+        <title>Advancing Vaccine Design: Multi-Epitope SARS-CoV-2 Vaccine Development</title>
         <style>
             body {{
                 font-family: 'Georgia', 'Times New Roman', serif;

@@ -1,4 +1,4 @@
-# Revolutionizing Vaccine Design: An AI-Powered Approach to Multi-Epitope SARS-CoV-2 Vaccine Development
+# Advancing Vaccine Design: An AI-Powered Approach to Multi-Epitope SARS-CoV-2 Vaccine Development
 
 **A comprehensive computational pipeline that processed 44,359 binding predictions to identify 74 high-affinity epitopes for next-generation vaccine design**
 
