@@ -1,0 +1,46 @@
+{
+  "run1_TLR4": {
+    "status": "BINDING_PREDICTED",
+    "best_score": -287.59,
+    "best_dg_approx": -9.59,
+    "best_confidence": 1.0,
+    "mean_top5_dg": -9.39,
+    "target_dg": -8.0,
+    "n_models": 4392,
+    "label": "TLR4/MD-2",
+    "epitope": "RS09 adjuvant"
+  },
+  "run2_MHC_I": {
+    "status": "BINDING_PREDICTED",
+    "best_score": -283.83,
+    "best_dg_approx": -9.46,
+    "best_confidence": 1.0,
+    "mean_top5_dg": -9.23,
+    "target_dg": -8.0,
+    "n_models": 4392,
+    "label": "HLA-A*02:01",
+    "epitope": "RLFRKSNLK / LPFNDGVYF"
+  },
+  "run3_MHC_II": {
+    "status": "BINDING_PREDICTED",
+    "best_score": -327.22,
+    "best_dg_approx": -10.91,
+    "best_confidence": 1.0,
+    "mean_top5_dg": -10.18,
+    "target_dg": -8.0,
+    "n_models": 4392,
+    "label": "HLA-DR1",
+    "epitope": "QTLLALHRSYLTPGD"
+  },
+  "run4_IgG": {
+    "status": "BINDING_PREDICTED",
+    "best_score": -331.36,
+    "best_dg_approx": -11.05,
+    "best_confidence": 1.0,
+    "mean_top5_dg": -10.15,
+    "target_dg": -7.0,
+    "n_models": 4392,
+    "label": "IgG2a Fab",
+    "epitope": "Surface epitopes"
+  }
+}

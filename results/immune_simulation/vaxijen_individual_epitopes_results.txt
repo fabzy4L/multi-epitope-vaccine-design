@@ -1,0 +1,77 @@
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+RLFRKSNLK
+
+
+Overall Prediction for the Protective Antigen = -0.2829 ( Probable NON-ANTIGEN ).
+
+---------
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+LPFNDGVYF
+
+
+Overall Prediction for the Protective Antigen = 0.5593 ( Probable ANTIGEN ). 
+
+---------
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+FPNITNLCPF
+
+
+Overall Prediction for the Protective Antigen = 1.3964 ( Probable ANTIGEN ).
+
+---------
+ 	
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+VLYNSASFSTFK
+
+
+Overall Prediction for the Protective Antigen = 0.0249 ( Probable NON-ANTIGEN ).
+
+---------
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+QTLLALHRSYLTPGD
+
+
+Overall Prediction for the Protective Antigen = 0.6708 ( Probable ANTIGEN ). 
+
+---------	
+Model selected: virus
+Threshold for this model: 0.4
+
+
+
+Your Sequence:
+
+INITRFQTLLALHRS
+
+
+Overall Prediction for the Protective Antigen = 0.4118 ( Probable ANTIGEN ). 

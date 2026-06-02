@@ -1,7 +1,10 @@
 # C-ImmSim Submission Guide — v3.1 Vaccine
 
-**Primary server (CRS4, Italy):** http://150.146.2.1/C-IMMSIM/submit.php
-**Mirror (IIMCB):** https://iimcb.genesilico.pl/cimsim/ ← currently 404, use primary above
+**Server status (as of June 2026):** Both known C-ImmSim servers are currently unreachable.
+- https://iimcb.genesilico.pl/cimsim/ — HTTP 404
+- http://150.146.60.148/C-IMMSIM/ — ECONNREFUSED
+
+ODE-based Celada-Seiden simulation used as interim substitute (see manuscript methods and `src/ode_immune_simulation.py`). Resubmit when server availability is restored.
 
 ---
 

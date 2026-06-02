@@ -32,11 +32,12 @@ RUNS = {
     "run4_IgG":   {"label": "IgG2a Fab",     "target_dg": -7.0, "epitope": "Surface epitopes"},
 }
 
-# HDOCK hdock.out format:
-# Model   Score    Confidence   Ligand-RMSD
-# 1       -300.45  0.9132       0.000
-HDOCK_PATTERN = re.compile(
-    r"^\s*(\d+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)", re.MULTILINE
+# HDOCKlite standalone output format (9 float columns per line):
+# alpha  beta  gamma  tx  ty  tz  score  rmsd  confidence
+# e.g.:  2.87182  1.17712  0.31091  31.018  10.622  21.873  -287.59  57.51  1.00
+HDOCK_LINE = re.compile(
+    r"^\s*([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s+([-\d.]+)\s*$",
+    re.MULTILINE,
 )
 
 # HDOCK score → approximate ΔG conversion (empirical linear fit from HDOCK benchmarks)
@@ -48,15 +49,18 @@ def hdock_score_to_dg(score: float) -> float:
 def parse_hdock_out(path: Path) -> list[dict]:
     text = path.read_text(encoding="utf-8", errors="ignore")
     models = []
-    for m in HDOCK_PATTERN.finditer(text):
-        rank, score, confidence, rmsd = m.groups()
-        dg = hdock_score_to_dg(float(score))
+    for rank, m in enumerate(HDOCK_LINE.finditer(text), start=1):
+        cols = m.groups()
+        score = float(cols[6])
+        confidence = float(cols[8])
+        rmsd = float(cols[7])
+        dg = hdock_score_to_dg(score)
         models.append({
-            "rank":       int(rank),
-            "score":      float(score),
+            "rank":       rank,
+            "score":      score,
             "dg_approx":  dg,
-            "confidence": float(confidence),
-            "ligand_rmsd":float(rmsd),
+            "confidence": confidence,
+            "ligand_rmsd":rmsd,
         })
     return models
 

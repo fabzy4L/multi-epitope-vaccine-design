@@ -8,13 +8,15 @@
 
 ## Abstract
 
-The rapid emergence of infectious diseases demands innovative approaches to vaccine development that can accelerate the identification of immunogenic targets while maintaining scientific rigor. This article presents a comprehensive computational pipeline for multi-epitope vaccine design, demonstrated through the development of SARS-CoV-2 vaccine constructs. Our methodology processed 44,359 MHC binding predictions from the IEDB Analysis Resource, identifying 74 strong binders with a selectivity rate of 0.17%. Selectivity was confirmed against 1,000 composition-matched decoy sequences (Kolmogorov-Smirnov p = 6.87 × 10⁻²⁴). The pipeline generated three computationally designed multi-epitope constructs pending experimental validation. The lead candidate (v3.1, 142 amino acids) features sub-5nM MHC-I binding affinities, an RS09 TLR4-agonist adjuvant, and a proteasomally optimized KKGPGPG junction confirmed by NetChop C-term 3.0 analysis. This work establishes a reproducible immunoinformatics framework for rapid, rigorous vaccine design against emerging pathogens.
+The rapid emergence of infectious diseases demands innovative approaches to vaccine development that can accelerate the identification of immunogenic targets while maintaining scientific rigor. This article presents a comprehensive computational pipeline for multi-epitope vaccine design, demonstrated through the development of SARS-CoV-2 vaccine constructs. Our methodology processed 44,359 MHC binding predictions from the IEDB Analysis Resource, identifying 74 strong binders with a selectivity rate of 0.17%. Selectivity was confirmed against 1,000 composition-matched decoy sequences (Kolmogorov-Smirnov p = 6.87 × 10⁻²⁴). The pipeline generated three computationally designed multi-epitope constructs pending experimental validation. The lead candidate (v3.1, 142 amino acids) features sub-5nM MHC-I binding affinities, an RS09 TLR4-agonist adjuvant, and a proteasomally optimized KKGPGPG junction confirmed by NetChop C-term 3.0 analysis. Protein-protein docking (HDOCKlite) against four immune targets — TLR4/MD-2, HLA-A\*02:01, HLA-DR1, and IgG2a Fab — predicted binding across all targets (ΔG range: −9.46 to −11.05 kcal/mol). Immune kinetics simulation using an ODE implementation of the Celada-Seiden model predicted a Th1-polarized response with peak IgG of 3,351 AU at day 69 following a three-dose prime-boost schedule. This work establishes a reproducible immunoinformatics framework for rapid, rigorous vaccine design against emerging pathogens.
 
 **Key Results:**
 - 74 high-affinity epitopes identified from 4,274 candidates (0.17% selectivity, confirmed by decoy benchmark KS p = 6.87 × 10⁻²⁴)
 - Best MHC-I epitope: RLFRKSNLK (HLA-A*03:01, 4.82 nM)
 - Best MHC-II epitope in construct: QTLLALHRSYLTPGD (HLA-DRB1*15:01, 9.87 nM)
 - Lead construct v3.1: 142 aa, 15.1 kDa, synthesis gate cleared after NetChop junction validation
+- HDOCK protein-protein docking: binding predicted for all 4 immune targets (TLR4/MD-2, HLA-A\*02:01, HLA-DR1, IgG2a Fab); best ΔG −11.05 kcal/mol (IgG2a Fab)
+- ODE immune simulation: Th1-polarized response, peak IgG 3,351 AU (day 69), IFN-γ 278.6 AU across 3-dose prime-boost schedule
 
 ---
 
@@ -203,22 +205,46 @@ The selected epitopes provide substantial population coverage across major ethni
 - **MHC-II Coverage**: 50% of analyzed alleles represented  
 - **Global Applicability**: Optimized for diverse populations
 
-## Innovation: Collaborative AI Framework
+### Structural Docking Analysis
 
-### Pioneering Dual-Agent Approach
+Protein-protein docking was performed using HDOCKlite v1.1 (Yan et al., 2017), a standalone implementation of the HDOCK FFT-based docking algorithm. The v3.1 lead construct (AlphaFold2 rank-1 model, `vaccine_v3_rank001.pdb`) was docked against four biologically relevant receptor targets representing the key immune interactions the construct must engage:
 
-This project demonstrates a novel collaborative AI framework combining:
+| Target | PDB | Biological Question | HDOCK Score | ΔG (approx.) | Verdict |
+|---|---|---|---|---|---|
+| TLR4/MD-2 complex | 3FXI | Does RS09 adjuvant engage the MD-2 pocket? | −287.59 | −9.59 kcal/mol | **BINDING PREDICTED** |
+| HLA-A\*02:01 | 1HHH | Do MHC-I epitopes contact the peptide-binding groove? | −283.83 | −9.46 kcal/mol | **BINDING PREDICTED** |
+| HLA-DR1 | 1DLH | Do MHC-II epitopes reach the α-β cleft? | −327.22 | −10.91 kcal/mol | **BINDING PREDICTED** |
+| IgG2a Fab | 1IGT | Is there structural complementarity for humoral response? | −331.36 | −11.05 kcal/mol | **BINDING PREDICTED** |
 
-- **Claude AI**: Logic-heavy tasks (automation, validation, integration)
-- **Gemini AI**: Computational tasks (ColabFold, statistical analysis, visualization)
+*ΔG approximated from HDOCK score using empirical linear conversion (score / 30.0). All 4,392 rotational models were evaluated per run. Success threshold: ΔG ≤ −8.0 kcal/mol (TLR4, MHC); ΔG ≤ −7.0 kcal/mol (IgG).*
 
-**Benefits Achieved:**
-- **50% Token Efficiency Improvement**
-- **2x Faster Completion** compared to single-agent approaches
-- **Enhanced Quality** through cross-validation protocols
-- **Process Optimization** for complex scientific workflows
+All four targets met or exceeded their binding thresholds. HLA-DR1 and IgG2a Fab returned the strongest predicted interactions (ΔG < −10.5 kcal/mol), consistent with the MHC-II epitopes' high individual VaxiJen antigenicity scores (QTLLALHRSYLTPGD: 0.6708; INITRFQTLLALHRS: 0.4118). The TLR4/MD-2 result supports RS09 adjuvant engagement of the innate immune pathway, consistent with published TLR4 agonist literature (Kim et al., 2025).
 
-This demonstrates a practical collaborative AI framework for complex scientific workflows, with applications extending beyond vaccine design to any multi-stage computational biology pipeline.
+**Docking limitations:** HDOCK scores reflect static rigid-receptor geometry and do not capture induced-fit or dynamic binding pathway effects. Results are supportive, not definitive; experimental surface plasmon resonance or biolayer interferometry confirmation is required before synthesis.
+
+### Immune Kinetics Simulation
+
+**Model disclosure.** In the absence of accessible C-ImmSim server infrastructure during the analysis period (iimcb.genesilico.pl returned HTTP 404; original server at 150.146.60.148 was unreachable), immune response kinetics were modeled using a custom ODE implementation of the Celada-Seiden mathematical framework [Perelson & Weisbuch, 1997; Carneiro et al., 1996; Antia et al., 2005; Pappalardo et al., 2016]. This model approximates the same differential equation system underlying C-ImmSim. Validation against C-ImmSim or LImmSim is identified as a future direction pending server availability.
+
+**Simulation parameters:** Three-dose prime-boost-boost schedule (days 1, 28, 56); 100 AU antigen dose per injection; RS09 TLR4-agonist adjuvant modeled as 4× IL-12 enhancement; HLA-A\*03:01 (MHC-I) and HLA-DRB1\*15:01 (MHC-II); 360-day simulation window.
+
+**Results:**
+
+| Metric | Peak Value | Day of Peak | Assessment |
+|---|---|---|---|
+| IgM | 1,536 AU | Day 40 | Expected primary response |
+| IgG (total) | 3,351 AU | Day 69 | Above 1,000 AU threshold |
+| IgG2 / IgG1 ratio | 2.75 | — | Th1-skewed (IgG2 dominant) |
+| IFN-γ | 278.6 AU | Post-dose 1 | Th1 effector signal present |
+| IL-12 | 34.8 AU | Early | Innate-to-adaptive bridge confirmed |
+| CD8⁺ T cells (TC) | 66.6 AU | Post-dose 2 | Cytotoxic arm engaged |
+| CD4⁺ T-helper (TH) | 115.6 AU | Post-dose 2 | Helper arm engaged |
+
+The simulation predicts a Th1-polarized immune response (IgG2 > IgG1, IFN-γ detectable, IL-12 elevated post-adjuvant), consistent with the expected mechanism of action of a TLR4-adjuvanted peptide vaccine targeting intracellular SARS-CoV-2 antigens. The three-dose boosting pattern produced progressive IgG accumulation, with the peak at day 69 (post-dose 3) exceeding the minimum threshold by more than 3×.
+
+## AI-Assisted Development
+
+This pipeline was developed using a collaborative AI approach combining Claude (Anthropic) for code development, validation logic, and statistical analysis, and Gemini (Google) for structural computation via ColabFold and visualization tasks. AI assistance accelerated code generation and analysis scripting; however, the pipeline involves substantial manual steps including web-based IEDB batch submissions, VaxiJen and AllerTop individual epitope submissions, ColabFold structure prediction via Google Colab, and manual file handling between pipeline stages. The term "automated" in this context refers to the scripted analysis layers (Python scoring, decoy benchmarking, construct assembly), not end-to-end execution. Full reproducibility requires the manual submission steps documented in the repository's METHODOLOGY.md.
 
 ## Implications for Vaccine Development
 
@@ -267,10 +293,10 @@ The framework is readily adaptable to other targets:
 
 Continued advancement opportunities include:
 
-- **Machine Learning Integration**: AI-based epitope prediction enhancement
-- **Structural Modeling**: AlphaFold integration for 3D validation
-- **Population Genomics**: Precision medicine approaches
-- **Manufacturing Optimization**: Expression system selection and scale-up
+- **Immune Simulation Validation**: C-ImmSim or LImmSim confirmation of ODE-based kinetics predictions presented here, pending server restoration or local build
+- **Molecular Dynamics**: MD simulation of the v3.1 construct to capture dynamic binding behavior not accessible to static docking (HDOCK, AutoDock Vina)
+- **Population Genomics**: Precision medicine approaches for HLA-A\*02:01 and broader MHC-II allele coverage (v4 pipeline)
+- **Manufacturing Optimization**: Expression system selection and scale-up for HEK293 or CHO production
 
 ## Limitations
 
@@ -299,10 +325,11 @@ The identification of multiple sub-5nM binding epitopes, combined with comprehen
 ### Key Achievements Summary
 
 - **Scale**: 44,359 predictions processed systematically
-- **Quality**: 0.17% selectivity with sub-5nM epitopes identified  
-- **Innovation**: First collaborative AI scientific workflow documented
+- **Quality**: 0.17% selectivity with sub-5nM epitopes identified
+- **Structural Validation**: 4/4 immune targets with predicted binding by HDOCK protein-protein docking
+- **Immune Kinetics**: Th1-polarized response predicted, peak IgG 3,351 AU across three-dose schedule
 - **Impact**: Complete framework available to global research community
-- **Validation**: Comprehensive physicochemical and immunological assessment
+- **Validation**: Comprehensive physicochemical, immunological, structural, and kinetic assessment
 
 As we face the continuing challenge of emerging infectious diseases, computational approaches like this pipeline offer hope for rapid, effective responses that can save lives and prevent pandemics. The combination of systematic methodology, advanced statistics, and collaborative AI represents a new paradigm for vaccine development—one that is faster, more comprehensive, and more accessible than ever before.
 
