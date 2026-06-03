@@ -269,6 +269,9 @@ The methodology establishes several important precedents:
 - Statistical rigor ensures publication-quality selectivity
 - Open-source implementation enables global research collaboration
 
+**Manufacturing Infrastructure Alignment:**
+The regenerative medicine sector — specifically Cell and Gene Therapies (CGT) — faces a manufacturing bottleneck that is distinct from its scientific challenges. Cost-of-goods for CAR-T therapies range from $120,000–$300,000 per patient, driven in part by the absence of standardized, deterministic target identification protocols upstream of the manufacturing process. This pipeline directly addresses that gap. The version-controlled, fixed-threshold, reproducible architecture described here — where every scoring decision is traceable to a specific algorithm parameter and every output is hash-verifiable — is not incidental; it is the design intent required for Software as a Medical Device (SaMD) compliance and GMP-adjacent computational workflows. Before a CAR-T cell can be manufactured at scale, the target antigen must be identified through a process that is auditable, reproducible, and defensible to regulators. This pipeline establishes that layer.
+
 ## Future Directions
 
 ### Experimental Validation
@@ -286,7 +289,7 @@ The framework is readily adaptable to other targets:
 
 - **Influenza**: Seasonal and pandemic strain coverage
 - **HIV**: Conserved region targeting for broadly neutralizing responses
-- **Cancer**: Neoantigen-based personalized immunotherapy
+- **Regenerative Medicine and Advanced Cell Therapies**: The pipeline has two direct applications in CGT manufacturing. First, for autologous CAR-T and TCR-T therapy, the NetMHCpan engine and HLA allele panel used here are the same tools that power neoantigen discovery pipelines (e.g., pVACseq); the only required change is substituting the tumor's mutant proteome for the S1 input. The multi-target selection logic — sequence diversity < 60%, multi-allele coverage — directly addresses antigen escape resistance in dual/tandem CAR constructs. Second, for allogeneic cell therapy and tissue-engineered constructs where immune rejection is the primary failure mode, the scoring objective inverts: penalize immunodominant epitopes, favor regulatory T-cell induction. The same sliding window, MHC prediction, and IC50 filtering infrastructure serves both applications without architectural change.
 - **Emerging Pathogens**: Rapid response capability for novel threats
 
 ### Technology Development

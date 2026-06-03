@@ -1,0 +1,166 @@
+{
+  "manifest_version": "1.0",
+  "pipeline": "multi-epitope-vaccine-design",
+  "pipeline_version": "git:5368cf6",
+  "export_timestamp": "2026-06-03T02:21:36.889722+00:00",
+  "construct": {
+    "version_id": "v3.1",
+    "sequence": "MKKLLFAIPLVVPFYSHSGGGSAPPHALSGPGPGQTLLALHRSYLTPGDGPGPGINITRFQTLLALHRSKKGPGPGLPFNDGVYFAAYRLFRKSNLKAAYFPNITNLCPFAAYVLYNSASFSTFKGGGSPAPAPGSHHHHHH",
+    "length_aa": 142,
+    "molecular_weight_kda": 15.1,
+    "theoretical_pi": 10.13,
+    "gravy_score": -0.147,
+    "instability_index": 42.6,
+    "expression_system": "HEK293",
+    "expression_risk": "HIGH_PI_EXPRESSION_RISK",
+    "allergenicity": "NON-ALLERGEN",
+    "allergenicity_tool": "AllerTop_v2.1",
+    "allergenicity_match": "BCL9L_HUMAN",
+    "antigenicity_overall": 0.2592,
+    "antigenicity_tool": "VaxiJen_v2.0",
+    "validation_tier": "computationally_verified",
+    "synthesis_gate": "CLEARED"
+  },
+  "epitopes": [
+    {
+      "peptide": "QTLLALHRSYLTPGD",
+      "mhc_class": "MHC_II",
+      "hla_allele": "HLA-DRB1*15:01",
+      "ic50_nm": 9.87,
+      "percentile_rank": 0.15,
+      "position_in_construct": 1,
+      "vaxijen_score": 0.6708,
+      "vaxijen_prediction": "ANTIGEN"
+    },
+    {
+      "peptide": "INITRFQTLLALHRS",
+      "mhc_class": "MHC_II",
+      "hla_allele": "HLA-DRB1*15:01",
+      "ic50_nm": 11.23,
+      "percentile_rank": 0.2,
+      "position_in_construct": 2,
+      "vaxijen_score": 0.4118,
+      "vaxijen_prediction": "ANTIGEN"
+    },
+    {
+      "peptide": "LPFNDGVYF",
+      "mhc_class": "MHC_I",
+      "hla_allele": "HLA-B*35:01",
+      "ic50_nm": 4.12,
+      "percentile_rank": 0.02,
+      "position_in_construct": 3,
+      "vaxijen_score": 0.5593,
+      "vaxijen_prediction": "ANTIGEN"
+    },
+    {
+      "peptide": "RLFRKSNLK",
+      "mhc_class": "MHC_I",
+      "hla_allele": "HLA-A*03:01",
+      "ic50_nm": 4.82,
+      "percentile_rank": 0.01,
+      "position_in_construct": 4,
+      "vaxijen_score": -0.2829,
+      "vaxijen_prediction": "NON-ANTIGEN"
+    },
+    {
+      "peptide": "FPNITNLCPF",
+      "mhc_class": "MHC_I",
+      "hla_allele": "HLA-B*35:01",
+      "ic50_nm": 5.4,
+      "percentile_rank": 0.02,
+      "position_in_construct": 5,
+      "vaxijen_score": 1.3964,
+      "vaxijen_prediction": "ANTIGEN"
+    },
+    {
+      "peptide": "VLYNSASFSTFK",
+      "mhc_class": "MHC_I",
+      "hla_allele": "HLA-A*03:01",
+      "ic50_nm": 7.53,
+      "percentile_rank": 0.02,
+      "position_in_construct": 6,
+      "vaxijen_score": 0.0249,
+      "vaxijen_prediction": "NON-ANTIGEN"
+    }
+  ],
+  "docking_results": [
+    {
+      "run_id": "run1_TLR4",
+      "target": "TLR4/MD-2",
+      "epitope": "RS09 adjuvant",
+      "hdock_score": -287.59,
+      "delta_g_kcal_mol": -9.59,
+      "mean_top5_dg": -9.39,
+      "threshold_kcal_mol": -8.0,
+      "n_models": 4392,
+      "verdict": "BINDING_PREDICTED"
+    },
+    {
+      "run_id": "run2_MHC_I",
+      "target": "HLA-A*02:01",
+      "epitope": "RLFRKSNLK / LPFNDGVYF",
+      "hdock_score": -283.83,
+      "delta_g_kcal_mol": -9.46,
+      "mean_top5_dg": -9.23,
+      "threshold_kcal_mol": -8.0,
+      "n_models": 4392,
+      "verdict": "BINDING_PREDICTED"
+    },
+    {
+      "run_id": "run3_MHC_II",
+      "target": "HLA-DR1",
+      "epitope": "QTLLALHRSYLTPGD",
+      "hdock_score": -327.22,
+      "delta_g_kcal_mol": -10.91,
+      "mean_top5_dg": -10.18,
+      "threshold_kcal_mol": -8.0,
+      "n_models": 4392,
+      "verdict": "BINDING_PREDICTED"
+    },
+    {
+      "run_id": "run4_IgG",
+      "target": "IgG2a Fab",
+      "epitope": "Surface epitopes",
+      "hdock_score": -331.36,
+      "delta_g_kcal_mol": -11.05,
+      "mean_top5_dg": -10.15,
+      "threshold_kcal_mol": -7.0,
+      "n_models": 4392,
+      "verdict": "BINDING_PREDICTED"
+    }
+  ],
+  "immune_simulation": {
+    "model": "ODE-Celada-Seiden (local)",
+    "model_references": [
+      "Perelson & Weisbuch (1997) Rev Mod Phys 69:1219",
+      "Carneiro et al. (1996) J Biol Syst 4:53",
+      "Antia et al. (2005) Nature 437:108-111",
+      "Pappalardo et al. (2016) Pharmacol Res 110:13-22"
+    ],
+    "injection_days": [
+      1,
+      28,
+      56
+    ],
+    "dose_au": 100.0,
+    "adjuvant": "RS09 (TLR4 agonist, 4x IL-12 enhancement)",
+    "hla_i": "A*03:01",
+    "hla_ii": "DRB1*15:01",
+    "total_duration": 360.0,
+    "results": {
+      "IgM_peak_au": 1536.2442717307845,
+      "IgM_peak_day": 40.0,
+      "IgG1_peak_au": 1218.4929918247467,
+      "IgG2_peak_au": 3351.5944257966266,
+      "IgG_peak_au": 3351.5944257966266,
+      "IgG_peak_day": 69.0,
+      "IgG2_IgG1_ratio": 2.7506062392508857,
+      "IFNg_peak_au": 278.58504512853597,
+      "IL12_peak_au": 34.77282065224198,
+      "CD8_TC_peak_au": 66.5948122044442,
+      "CD4_TH_peak_au": 115.63837604410254,
+      "Th1_polarized": true,
+      "IgG_threshold_pass": true
+    }
+  }
+}
