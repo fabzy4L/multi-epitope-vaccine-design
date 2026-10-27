@@ -20,11 +20,24 @@ End-to-end computational pipeline for designing, scoring, and structurally valid
 
 ## Key Results
 
+> **Correction (2026-10-27) — decoy benchmark retracted.** Earlier versions of this README and
+> of the manuscript reported a decoy benchmark of KS p = 6.87 × 10⁻²⁴. That result is withdrawn.
+> The script assigned decoy IC50 and percentile-rank values from `np.random.uniform` over a
+> non-binder range while real epitopes kept their NetMHCpan values. Since the score is a
+> deterministic function of IC50 and rank, the separation was fixed before the test ran, and the
+> shuffled sequences never affected the score. `src/decoy_benchmark.py` has been rewritten to
+> require real IEDB predictions for the decoys and will not run on synthetic values. The
+> benchmark is pending that submission. The withdrawn outputs are kept under
+> `results/` and documented in [`results/RETRACTED_decoy_benchmark.md`](results/RETRACTED_decoy_benchmark.md). All other reported counts were recomputed from the raw
+> IEDB exports by `src/verify_selectivity.py` and are unchanged apart from 44,359 → 44,332
+> (the exports contain 44,332 parseable rows).
+
+
 | Metric | Value |
 |---|---|
-| MHC binding predictions processed | 44,359 |
-| Strong binders identified | 74 (0.17% selectivity) |
-| Decoy benchmark | KS p = 6.87 × 10⁻²⁴ |
+| MHC binding predictions processed | 44,332 |
+| Strong binders identified | 74 of 44,332 predictions (0.167%), 72 unique peptides |
+| Decoy benchmark | Not yet run — see note below |
 | Best MHC-I epitope | RLFRKSNLK — HLA-A\*03:01, 4.82 nM |
 | Best MHC-II epitope (in construct) | QTLLALHRSYLTPGD — HLA-DRB1\*15:01, 9.87 nM |
 | AlphaFold mean pLDDT | 36.4 (inconclusive — expected for chimeric construct) |
@@ -57,9 +70,9 @@ SARS-CoV-2 S1 protein (685 aa)
     ↓
 Sliding-window epitope generation (4,274 candidates)
     ↓
-IEDB MHC prediction — NetMHCpan-4.1, NetMHCIIpan-4.0 (44,359 predictions)
+IEDB MHC prediction — NetMHCpan-4.1, NetMHCIIpan-4.0 (44,332 predictions)
     ↓
-Statistical scoring + decoy benchmark (KS p = 6.87 × 10⁻²⁴)
+Statistical scoring (thresholds: IC50 < 50 nM, rank < 0.5%/1.0%)
     ↓
 Construct design — RS09 adjuvant, GPGPG/AAY/KK linkers
     ↓

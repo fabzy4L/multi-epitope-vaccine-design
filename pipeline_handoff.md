@@ -20,7 +20,7 @@ LImmSim immune simulation (WSL2 installing), and final manuscript pass.
 |-------|------|-----------|
 | 1 | Scoring hardened | src/scoring.py — log IC50, cysteine + allele diversity penalties |
 | 2 | Validation tier | src/validation_tier.py — ConstructMetadata, DesignFlag |
-| 3 | Decoy benchmark | KS p=6.87e-24 — selectivity confirmed |
+| 3 | Decoy benchmark | RETRACTED 2026-10-27 — decoys used synthetic IC50/rank; rewritten to require real IEDB predictions, pending submission |
 | 4 | Solubility prescreen | v3.1: HIGH_PI_EXPRESSION_RISK, GRAVY=-0.147 |
 | 5 | RS09 adjuvant | Justified — Kim et al. 2025, Negahdaripour et al. 2017 |
 | 6 | AlphaFold | Mean pLDDT 36.4 — INCONCLUSIVE (MSA n=3, expected) |

@@ -34,7 +34,7 @@ SARS-CoV-2 S1 Protein (685 aa)
    Epitope Generation (4,274 candidates)
          |
          v
-   IEDB MHC Prediction (44,359 predictions)
+   IEDB MHC Prediction (44,332 predictions)
          |
          v
    Statistical Analysis (74 strong binders)
@@ -118,7 +118,7 @@ s1_end = 685   # S1/S2 cleavage site
 ```python
 def process_iedb_results():
     """
-    Process 44,359 binding predictions from 9 IEDB CSV files
+    Process 44,332 binding predictions from 9 IEDB CSV files
     Apply filtering criteria and statistical analysis
     """
     # Strong binder thresholds
@@ -132,7 +132,7 @@ def process_iedb_results():
 - **MHC-II:** IC50 < 50nM AND Percentile rank < 1.0%
 
 **Results:**
-- Total predictions processed: 44,359
+- Total predictions processed: 44,332
 - Strong binders identified: 74 (0.17% selectivity)
 - MHC-I strong binders: 44
 - MHC-II strong binders: 30
@@ -296,6 +296,50 @@ MKKLLFAIPLVVPFYSHSGGGSAPPHALS...HHHHHH
 - Hydrogen bond formation
 - Geometric complementarity
 
+### 2.9 Count Verification
+
+All prediction counts, strong-binder counts and the selectivity rate are recomputed from the raw
+IEDB exports in `results/sars_cov2/iedb_predictions/`:
+
+```bash
+python src/verify_selectivity.py
+```
+
+This reads only real NetMHCpan and NetMHCIIpan output and writes
+`results/sars_cov2/iedb_predictions/processed_results/verified_strong_binders.csv`. No binding
+value is generated or imputed. Current output: 44,332 predictions over 4,049 unique peptides,
+19 alleles, 74 strong binders (44 MHC-I, 30 MHC-II; 72 unique peptides), 0.167%.
+
+### 2.10 Decoy Benchmark — PENDING
+
+**Status: specified, not yet run.** A previous implementation was withdrawn on 2026-10-27
+because it assigned decoy IC50 and percentile-rank values from `np.random.uniform` rather than
+obtaining them from IEDB. Because the combined score is a deterministic function of IC50 and
+rank, that construction fixed the outcome before the test ran and the shuffled sequences never
+reached the score. Any KS statistic produced that way, including the previously reported
+p = 6.87 × 10⁻²⁴, is not evidence of selectivity.
+
+The corrected procedure has two stages:
+
+```bash
+# Stage 1 — composition-matched decoys (shuffles preserving amino acid composition)
+python src/decoy_benchmark.py --generate
+#   writes results/decoy_candidates.fasta (+ .csv metadata)
+```
+
+Stage 2 requires an IEDB submission. Submit `results/decoy_candidates.fasta` to the IEDB
+Analysis Resource using **the same alleles, prediction method and peptide lengths as the real
+candidate run** (Section 2.2), and save the export as
+`results/decoy_iedb_predictions.csv` with columns for peptide, IC50 and percentile rank.
+
+```bash
+# Stage 2 — score both sets from real predictions and run the KS test
+python src/decoy_benchmark.py --analyze
+```
+
+The script exits with instructions if the predictions file is absent. It will not run on
+synthetic binding values.
+
 ---
 
 ## 3. Statistical Methods
@@ -321,12 +365,12 @@ MKKLLFAIPLVVPFYSHSGGGSAPPHALS...HHHHHH
 
 ### 4.1 Pipeline Performance
 - **Total Processing Time:** ~8 hours (automated)
-- **Data Volume:** 44,359 predictions processed
+- **Data Volume:** 44,332 predictions processed
 - **Success Rate:** 100% completion across all stages
 - **Quality Metrics:** All constructs pass validation criteria
 
 ### 4.2 Validation Summary
-**Strong Binder Identification:** 0.17% selectivity (74/44,359)  
+**Strong Binder Identification:** 0.167% selectivity (74/44,332), verifiable with `python src/verify_selectivity.py`  
 **Construct Validation:** 3/3 constructs meet physicochemical criteria  
 **Population Coverage:** 36.4% with selected allele panel  
 **Structural Prediction:** Framework ready for execution
