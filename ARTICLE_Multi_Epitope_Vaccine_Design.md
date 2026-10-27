@@ -3,7 +3,7 @@
 Fabian Alvarez-Primo, PhD
 
 BLK PHX LABS, Savannah, GA, USA
-ORCID: <!-- TODO: insert ORCID iD -->
+ORCID: https://orcid.org/0000-0002-6917-723X
 Correspondence: fabian@blkphxlabs.com
 
 ---

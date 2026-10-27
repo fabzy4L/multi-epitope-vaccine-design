@@ -12,7 +12,7 @@
 
 ## Overview
 
-End-to-end computational pipeline for designing, scoring, and structurally validating multi-epitope peptide vaccine constructs against SARS-CoV-2. The pipeline processes 44,359 MHC binding predictions, applies a statistical scoring framework validated against 1,000 composition-matched decoys (KS p = 6.87 × 10⁻²⁴), and produces constructs with full proteasomal cleavage validation.
+Computational pipeline for designing, scoring and structurally checking multi-epitope peptide vaccine constructs against SARS-CoV-2. It processes 44,332 MHC binding predictions returned by the IEDB Analysis Resource, applies a fixed-threshold scoring framework, and assembles constructs whose junctions are checked with NetChop C-term 3.0.
 
 **Lead construct: v3.1** — 142 amino acids, RS09 TLR4-agonist adjuvant, single KKGPGPG junction confirmed by NetChop C-term 3.0, synthesis gate cleared.
 
@@ -20,17 +20,17 @@ End-to-end computational pipeline for designing, scoring, and structurally valid
 
 ## Key Results
 
-> **Correction (2026-10-27) — decoy benchmark retracted.** Earlier versions of this README and
-> of the manuscript reported a decoy benchmark of KS p = 6.87 × 10⁻²⁴. That result is withdrawn.
-> The script assigned decoy IC50 and percentile-rank values from `np.random.uniform` over a
-> non-binder range while real epitopes kept their NetMHCpan values. Since the score is a
-> deterministic function of IC50 and rank, the separation was fixed before the test ran, and the
-> shuffled sequences never affected the score. `src/decoy_benchmark.py` has been rewritten to
-> require real IEDB predictions for the decoys and will not run on synthetic values. The
-> benchmark is pending that submission. The withdrawn outputs are kept under
-> `results/` and documented in [`results/RETRACTED_decoy_benchmark.md`](results/RETRACTED_decoy_benchmark.md). All other reported counts were recomputed from the raw
-> IEDB exports by `src/verify_selectivity.py` and are unchanged apart from 44,359 → 44,332
-> (the exports contain 44,332 parseable rows).
+> **Correction (2026-10-27).** Earlier versions of this README and of the manuscript reported a
+> decoy benchmark with KS p = 6.87 × 10⁻²⁴. That result is withdrawn. The script drew decoy IC50
+> and percentile-rank values from `np.random.uniform` over a non-binder range while the real
+> epitopes kept their NetMHCpan values, and the score is a deterministic function of those two
+> inputs, so the distributions differed by construction and the shuffled sequences did not enter
+> the score. `src/decoy_benchmark.py` now requires real IEDB predictions for the decoys and exits
+> if they are absent; that submission is pending, so no decoy result is reported here. The earlier
+> outputs stay in `results/` with a note at
+> [`results/RETRACTED_decoy_benchmark.md`](results/RETRACTED_decoy_benchmark.md). The other counts
+> were recomputed from the raw IEDB exports by `src/verify_selectivity.py` and are unchanged apart
+> from 44,359 → 44,332, the number of parseable rows in the exports.
 
 
 | Metric | Value |

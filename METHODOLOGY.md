@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This document describes a comprehensive computational pipeline for multi-epitope vaccine design targeting SARS-CoV-2. The methodology integrates immunoinformatics tools, statistical analysis, and structural validation to identify optimal epitope candidates and design immunogenic vaccine constructs. The pipeline processes 44,359 MHC binding predictions to identify 74 strong binders (IC50 < 50nM), ultimately generating three validated multi-epitope vaccine constructs with comprehensive physicochemical and structural characterization.
+This document describes the computational pipeline used for multi-epitope vaccine design against SARS-CoV-2, step by step and with the parameters as run. It combines immunoinformatics prediction, scripted scoring and structural checks. The pipeline processes 44,332 MHC binding predictions and identifies 74 strong binders (IC50 < 50 nM, percentile rank below threshold), from which three multi-epitope constructs were assembled and characterised physicochemically and structurally. All results are predicted, not measured.
 
 **Keywords:** Vaccine design, epitope prediction, immunoinformatics, SARS-CoV-2, multi-epitope construct, reverse vaccinology
 
@@ -409,14 +409,18 @@ synthetic binding values.
 
 ## 6. Conclusions
 
-This methodology establishes a comprehensive computational framework for multi-epitope vaccine design. The pipeline successfully identified 74 high-affinity epitopes from 44,359 predictions and generated three validated vaccine constructs. The approach demonstrates:
+This document records the procedure as run. From 44,332 predictions, 74 met the strong-binder
+criteria (0.167%, 72 unique peptides), and three constructs were assembled from them. What the
+pipeline covers:
 
-- **High Selectivity:** 0.17% success rate ensures only strongest binders selected
-- **Systematic Design:** Literature-validated linkers and adjuvants  
-- **Comprehensive Validation:** Physicochemical, immunological, and structural analyses
-- **Reproducibility:** Complete automation and documentation
+- Fixed thresholds applied to the IEDB exports, with the counts recomputed from the raw files
+- Linkers and adjuvant taken from published sequences, with junctions checked by NetChop C-term 3.0
+- Physicochemical, allergenicity, antigenicity and structural checks on each construct
+- Scripted analysis stages; the IEDB, VaxiJen, AllerTop and ColabFold steps are manual
 
-The methodology provides a template for rapid vaccine development against emerging pathogens and represents a significant advancement in computational vaccinology.
+Every result is in silico. No binding, immunogenicity or efficacy has been measured, and the
+decoy benchmark that would test the scoring function against negative sequences is pending
+(2.10).
 
 ---
 

@@ -1,8 +1,8 @@
-# RETRACTED: decoy benchmark outputs (2026-10-27)
+# Withdrawn: decoy benchmark outputs (2026-10-27)
 
-These two files in this directory are the output of a decoy benchmark that has been withdrawn.
-They are kept so the record of what was previously published remains visible. **Do not cite
-them, and do not use them as a selectivity result.**
+These two files are the output of a decoy benchmark that has been withdrawn. They are kept so
+the earlier published record stays visible. They are not a selectivity result and are not cited
+in the manuscript, the README or METHODOLOGY.md.
 
 | File | What it is |
 |---|---|
@@ -27,9 +27,6 @@ describes how the inputs were assigned, not how the scoring function performs. T
 sequences never influenced the score at all: sequence enters only through the cysteine and
 human-homology checks, and the homology check was disabled in that script
 (`human_proteome_seqs = []`).
-
-A benchmark of this kind has to obtain the decoys' binding values the same way the real
-epitopes' values were obtained.
 
 ## What replaced it
 
